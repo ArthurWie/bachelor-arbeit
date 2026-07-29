@@ -1,0 +1,8 @@
+{
+ "method": "DEA",
+ "ai_measure": "patent activity",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "sustainability efficiency",
+ "key_finding": "AI-driven innovation, measured by patent activity, enhances the sustainability efficiency of semiconductor firms, while profitability is more strongly associated with firm size and leverage."
+}

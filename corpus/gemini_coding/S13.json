@@ -1,0 +1,8 @@
+{
+ "method": "event study",
+ "ai_measure": "announcements",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "announcement detail; firm type (IT vs. non-IT); negative language",
+ "key_finding": "Public announcements of AI implementation are associated with positive short-term stock market returns, with stronger effects for detailed announcements and for non-IT companies."
+}

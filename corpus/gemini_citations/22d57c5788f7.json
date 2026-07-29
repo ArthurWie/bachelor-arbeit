@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1446",
+ "sentence": "Their own evidence relocates the advantage rather than denying it: what resists imitation is the combination a firm builds, not either side of it",
+ "passage": "[Krakowski et al. (2023), p. 1446] \"Our findings show that humans remain sources of sustainable advantage by combining and integrating their capabilities with machine capabilities into uniquely complementary bundles (Argyres & Zenger, 2012).\" / \"the locus of sustainable advantage is neither human nor machine capabilities, but what humans do with these capabilities.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that sustainable advantage lies in the combination of human and machine capabilities, not in either alone, which directly supports the sentence's claim."
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "method": "fsQCA",
+ "ai_measure": "survey construct based on document analysis",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "synergistic combinations of AI-enabled functions (esp. customer service and cybersecurity); emergent capabilities (adaptive learning, predictive analytics, uncertainty mitigation)",
+ "key_finding": "Superior firm performance results from synergistic configurations of AI applications across business functions, particularly those combining customer service and cybersecurity, rather than from isolated AI use."
+}

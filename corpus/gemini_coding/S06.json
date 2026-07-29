@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "investment in complementary technologies (database, cloud); internal R&D strategy",
+ "key_finding": "AI adoption boosts firm revenue growth only at high intensity levels, an effect amplified by investments in complementary technologies like cloud computing and a focus on internal R&D."
+}

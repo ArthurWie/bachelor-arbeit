@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "mixed",
+ "conditions": "",
+ "key_finding": "A firm's textual focus on AI in 10-K reports is associated with lower gross operating efficiency (sales per employee) but higher net operating efficiency and profitability."
+}

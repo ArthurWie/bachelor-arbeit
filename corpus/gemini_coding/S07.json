@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "Knowledge management processes (KMPs)",
+ "key_finding": "AI adoption positively impacts manufacturing firm performance by enhancing knowledge management processes, which act as a crucial mediator."
+}

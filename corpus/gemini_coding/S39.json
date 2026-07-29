@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "marketing agility (mediator); technology turbulence (moderator)",
+ "key_finding": "AI-based stakeholder engagement enhances firm performance by increasing marketing agility, an effect that is amplified by technological turbulence."
+}

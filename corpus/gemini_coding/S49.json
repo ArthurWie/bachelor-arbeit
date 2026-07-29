@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "adoption dummy",
+ "outcome_construct": "performance",
+ "effect_direction": "mixed",
+ "conditions": "lower information transparency; tighter resource constraints; non-high-tech firms",
+ "key_finding": "Using a quasi-natural experiment in China, the study finds that a policy promoting AI adoption increases firm value but also elevates stock price crash risk, an effect driven by reduced transparency and managerial optimism, and is more pronounced in firms with weaker technological capabilities."
+}

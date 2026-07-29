@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "country-level AI investment data",
+ "outcome_construct": "performance",
+ "effect_direction": "mixed",
+ "conditions": "R&D innovation strategy; firm size",
+ "key_finding": "AI investment has a U-shaped effect on firm revenue growth, and this relationship is positively moderated by the firm's R&D and innovation strategy."
+}

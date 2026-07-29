@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1445",
+ "sentence": "In the fragrance industry the machine took over part of the perfumers' problem solving and could not touch the part that depends on smelling a scent and judging how people will react to it",
+ "passage": "[Krakowski et al. (2023), p. 1445] \"While machines substitute perfumers regarding certain problem solving activities, they are unable to match the perfumers' unique ability to smell fragrances and predict the human emotions they trigger. This example illustrates that AI is likely to substitute some, but not all of complex business tasks' activities.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the sentence's claim that machines can handle some problem-solving but cannot replicate the sensory and emotional judgment of human perfumers."
+ }
+}

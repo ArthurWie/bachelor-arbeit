@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 215",
+ "sentence": "Chatterjee et al. ask about rivals directly: one of their competitive-advantage items states that implementing AI-based customer relationship management \"will help an organization to win over its competitor which has not yet implemented AI-CRM\"",
+ "passage": "[Chatterjee et al. (2021), p. 215] \"I think that successful implementation of AI-CRM will help an organization to win over its competitor which has not yet implemented AI-CRM for B2B relationship management.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "By omitting 'I think that' and misquoting the item to remove the 'for B2B relationship management' context, the sentence presents the claim as more declarative and broader than the original."
+ }
+}

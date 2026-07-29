@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "survey construct (adoption dummy, intensity index)",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "",
+ "key_finding": "Using a representative survey of German firms, the study finds a positive and significant association between AI adoption and firm-level productivity."
+}

@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "czarnitzki2023artificial"
+ ],
+ "page": "p. 188",
+ "sentence": "A GPT earns the label because it makes \"new and complementary production methods\" available, which raise output only over time",
+ "passage": "[Czarnitzki et al. (2023), p. 188] \"The main feature of general-purpose technology is to enable new and complementary production methods that may increase productivity over time (Bresnahan and Trajtenberg 1995; Bresnahan et al., 2002; Brynjolfsson and Hitt 2003; Cardona et al., 2013).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "raise output only",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that new methods \"may increase productivity,\" whereas the sentence presents this as a certainty and adds the restrictive word \"only.\""
+ }
+}

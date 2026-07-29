@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "environmental hostility; environmental dynamism",
+ "key_finding": "AI capabilities improve firm performance and innovation by enhancing adaptive response to market changes, and this effect is moderated by environmental hostility and dynamism."
+}

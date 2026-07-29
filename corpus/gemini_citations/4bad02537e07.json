@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "brynjolfsson2021productivity"
+ ],
+ "page": "pp. 333--334",
+ "sentence": "Before output moves, a firm has to redesign how work is organised, retrain staff, rework its software and accumulate managerial experience, and because none of that accumulation is booked as an asset, measured productivity dips before it climbs",
+ "passage": "[Brynjolfsson et al. (2021), pp. 333--334] \"realizing their potential also requires large intangible investments and a fundamental rethinking of the organization of production itself. Firms must create new business processes, develop managerial experience, train workers, patch software, and build other intangibles. This raises productivity measurement issues because intangible investments are not readily tallied on a balance sheet or in the national accounts.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "measured productivity dips before it climbs",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that intangible investments create measurement issues but does not explicitly claim that this causes measured productivity to dip before it climbs."
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "method": "event study",
+ "ai_measure": "announcements",
+ "outcome_construct": "performance",
+ "effect_direction": "negative",
+ "conditions": "firm size; event year; failure type (accuracy, safety, privacy, fairness)",
+ "key_finding": "AI service failure events negatively impact firm value, with smaller firms and more recent events showing a stronger negative effect."
+}

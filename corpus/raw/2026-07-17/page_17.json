@@ -1,0 +1,845 @@
+{
+ "search-results": {
+  "opensearch:totalResults": "432",
+  "opensearch:startIndex": "425",
+  "opensearch:itemsPerPage": "25",
+  "opensearch:Query": {
+   "@role": "request",
+   "@searchTerms": "TITLE((\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"AI\")) AND TITLE-ABS-KEY((\"invest\" OR \"invests\" OR \"invested\" OR \"investing\" OR \"investment\" OR \"investments\" OR \"investor\" OR \"investors\" OR adopt* OR implement*) AND (\"competitive advantage\" OR \"firm performance\" OR \"financial performance\" OR \"firm productivity\" OR \"firm value\" OR \"market value\" OR \"firm growth\")) AND SUBJAREA(BUSI OR ECON OR DECI) AND PUBYEAR > 2014 AND PUBYEAR < 2027 AND DOCTYPE(ar) AND LANGUAGE(english) AND SRCTYPE(j)",
+   "@startPage": "425"
+  },
+  "link": [
+   {
+    "@_fa": "true",
+    "@ref": "self",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=425&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "first",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "prev",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=400&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "last",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=407&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   }
+  ],
+  "entry": [
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090142461"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090142461?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090142461&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090142461&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090142461",
+    "dc:identifier": "SCOPUS_ID:85090142461",
+    "eid": "2-s2.0-85090142461",
+    "dc:title": "Five maturity levels of managing AI: From isolated ignorance to integrated intelligence",
+    "dc:creator": "Lichtenthaler U.",
+    "prism:publicationName": "Journal of Innovation Management",
+    "prism:eIssn": "21830606",
+    "prism:volume": "8",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": "39-50",
+    "prism:coverDate": "2020-04-30",
+    "prism:coverDisplayDate": "30 April 2020",
+    "prism:doi": "10.24840/2183-0606_008.001_0005",
+    "dc:description": "To guide future discussions about managing artificial intelligence (AI), this article suggests an AI management framework with five maturity levels, which are comparable to the five levels of the autonomous driving framework from no automation to complete automation. If companies move beyond Isolated Ignorance (Level 0), they are characterized by an Initial Intent (Level 1), which typically evolves towards an Independent Initiative (Level 2). A more advanced management leads to Interactive Implementation (Level 3) and Interdependent Innovation (Level 4). On this basis, a close combination of AI and human knowledge enables a sustainable competitive advantage with Integrated Intelligence (Level 5). This framework draws on the intelligence-based approach to company performance, and it provides the basis for an AI maturity assessment in organizations. It further helps to identify many firms\u2019 managerial challenges as well as major organizational limitations even in those firms that are often considered as AI leaders.",
+    "citedby-count": "40",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60267653",
+      "afid": "60267653",
+      "affilname": "International School of Management (ISM)",
+      "affiliation-city": "Dortmund",
+      "affiliation-country": "Germany"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "1"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/23393211300",
+      "authid": "23393211300",
+      "authname": "Lichtenthaler U.",
+      "surname": "Lichtenthaler",
+      "given-name": "Ulrich",
+      "initials": "U.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60267653"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial Intelligence | Conceptual Framework | Digital Transformation | Digitalization | Integrated Intelligence | Intelligence-based View",
+    "source-id": "21101053537",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084199642"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084199642?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084199642&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084199642&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084199642",
+    "dc:identifier": "SCOPUS_ID:85084199642",
+    "eid": "2-s2.0-85084199642",
+    "dc:title": "Artificial-Intelligence-Driven Management",
+    "dc:creator": "Schrettenbrunnner M.B.",
+    "prism:publicationName": "IEEE Engineering Management Review",
+    "prism:issn": "03608581",
+    "prism:eIssn": "19374178",
+    "prism:volume": "48",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": "15-19",
+    "prism:coverDate": "2020-04-01",
+    "prism:coverDisplayDate": "Second Quarter 2020",
+    "prism:doi": "10.1109/EMR.2020.2990933",
+    "dc:description": "Germany is experiencing a long overdue paradigm shift in technology and management. Here, artificial intelligence (AI) is not just an application but a basic technology encompassing a company's many functions and activities. Business models, stakeholders, processes, and management are all influenced. The competitiveness of companies also depends on the extent to which interdependent industries mutually accelerate the implementation of AI. In this article, we introduce 'AI-driven management.' Immediate and disruptive use of AI in management can help organizations gain competitive advantage. AI-driven management can substitute for domain-fixed - functional - expertise.",
+    "citedby-count": "60",
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "1"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58401859600",
+      "authid": "58401859600",
+      "authname": "Schrettenbrunnner M.B.",
+      "surname": "Schrettenbrunnner",
+      "given-name": "Manfred B.",
+      "initials": "M.B."
+     }
+    ],
+    "authkeywords": "agile | AI-driven management | Artificial intelligence (AI) | automatization pyramid | business process maturity models | competitive | deming | differentiable programming | disruptive | domain | Enterprise Resource Planning (ERP) | forecast | industry | investors | ISO 9001 | leadership | Manufacturing Execution System (MES) | maturity level | open unified architecture | paradigm | Plan-Do-Check-Act (PDCA) | processes | Programmable Logic Controller (PLC) | reengineering | restructuring | scada | service-oriented architecture (SOA) | technology | time sensitive network",
+    "article-number": "9079641",
+    "source-id": "29780",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063620746"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063620746?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063620746&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063620746&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0268401218313057"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063620746",
+    "dc:identifier": "SCOPUS_ID:85063620746",
+    "eid": "2-s2.0-85063620746",
+    "dc:title": "Put your money where your mouth is: Using deep learning to identify consumer tribes from word usage",
+    "dc:creator": "Gloor P.",
+    "prism:publicationName": "International Journal of Information Management",
+    "prism:issn": "02684012",
+    "prism:volume": "51",
+    "prism:pageRange": null,
+    "prism:coverDate": "2020-04-01",
+    "prism:coverDisplayDate": "April 2020",
+    "prism:doi": "10.1016/j.ijinfomgt.2019.03.011",
+    "pii": "S0268401218313057",
+    "dc:description": "Internet and social media offer firms novel ways of managing their marketing strategy and gain competitive advantage. The groups of users expressing themselves on the Internet about a particular topic, product, or brand are frequently called a virtual tribe or E-tribe. However, there are no automatic tools for identifying and studying the characteristics of these virtual tribes. Towards this aim, this paper presents Tribefinder, a system to reveal Twitter users\u2019 tribal affiliations, by analyzing their tweets and language use. To show the potential of this instrument, we provide an example considering three specific tribal macro-categories: alternative realities, lifestyle, and recreation. In addition, we discuss the different characteristics of each identified tribe, in terms of use of language and social interaction metrics. Tribefinder illustrates the importance of adopting a new lens for studying virtual tribes, which is crucial for firms to properly design their marketing strategy, and for scholars to extend prior marketing research.",
+    "citedby-count": "32",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+      "afid": "60022195",
+      "affilname": "Massachusetts Institute of Technology",
+      "affiliation-city": "Cambridge",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60003003",
+      "afid": "60003003",
+      "affilname": "Universit\u00e0 degli Studi di Perugia",
+      "affiliation-city": "Perugia",
+      "affiliation-country": "Italy"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60009914",
+      "afid": "60009914",
+      "affilname": "Free University of Bozen-Bolzano",
+      "affiliation-city": "Bolzano",
+      "affiliation-country": "Italy"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/118255333",
+      "afid": "118255333",
+      "affilname": "Galaxyadvisors AG",
+      "affiliation-city": "Aarau",
+      "affiliation-country": "Switzerland"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/7004661333",
+      "authid": "7004661333",
+      "authname": "Gloor P.",
+      "surname": "Gloor",
+      "given-name": "Peter",
+      "initials": "P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60022195"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55876528100",
+      "authid": "55876528100",
+      "orcid": "0000-0002-5348-9722",
+      "authname": "Fronzetti Colladon A.",
+      "surname": "Fronzetti Colladon",
+      "given-name": "Andrea",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60003003"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56597469700",
+      "authid": "56597469700",
+      "authname": "de Oliveira J.M.",
+      "surname": "de Oliveira",
+      "given-name": "Joao Marcos",
+      "initials": "J.M.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "118255333"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57202499419",
+      "authid": "57202499419",
+      "orcid": "0000-0002-1860-8693",
+      "authname": "Rovelli P.",
+      "surname": "Rovelli",
+      "given-name": "Paola",
+      "initials": "P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60009914"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Marketing | Social network analysis | Text mining | Twitter | Virtual tribes",
+    "article-number": "101924",
+    "source-id": "15631",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfree2read"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Bronze"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101915110"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101915110?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101915110&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101915110&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101915110",
+    "dc:identifier": "SCOPUS_ID:85101915110",
+    "eid": "2-s2.0-85101915110",
+    "dc:title": "Financial and economic consequences of distribution of artificial intelligence as a general-purpose technology",
+    "dc:creator": "Rasskazov V.E.",
+    "prism:publicationName": "Finance Theory and Practice",
+    "prism:issn": "25875671",
+    "prism:eIssn": "25877089",
+    "prism:volume": "24",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": "120-132",
+    "prism:coverDate": "2020-01-01",
+    "prism:coverDisplayDate": "2020",
+    "prism:doi": "10.26794/2587-5671-2020-24-2-120-132",
+    "dc:description": "The relevance of the article is due to increasing attention of the state and corporations to artificial intelligence technologies, developing strategies and increasing investments in technology. The aim of this article is to study artificial intelligence as a general-purpose technology, its distribution features and approaches to assessing and modelling the impact on production, organization finances and the economy. The study employed the methods of an AI qualitative analysis according to the classification of general-purpose technologies and a regression analysis of company production factors. The author analysed the data of 21 public Russian companies in the industry of hydrocarbon production, mining and metal production for 2014-2018. He proposed a model to assess the impact of AI technology on production, organization finances and the economy. The correlation analysis proved that capital expenditures and the market value of companies have a close relationship. The study revealed low productivity of assets of Russian companies. The investor expects to receive 28 kopecks for each rouble invested in the company's assets, whereas foreign markets show a one to one ratio. The study highlighted the cyclicality of the performance of the company factors. The research did not expose general-purpose technology signals in the given time interval. The author concluded that under a quality classification, artificial intelligence is a general-purpose technology; however, at this stage, it is impossible to empirically observe the economic effect of the technology distribution. The proposed model may be of further use to study the effect of artificial intelligence on the finances of a company and the economy. The potential consequences of market monopolization due to the distribution of AI technologies allow for an argument for the state regulation of the technology adaptation process by business.",
+    "citedby-count": "19",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/122252539",
+      "afid": "122252539",
+      "affilname": "PJSC Rostelecom",
+      "affiliation-city": "Moscow",
+      "affiliation-country": "Russian Federation"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "1"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57222224215",
+      "authid": "57222224215",
+      "orcid": "0000-0001-5593-2591",
+      "authname": "Rasskazov V.E.",
+      "surname": "Rasskazov",
+      "given-name": "Vladislav E.",
+      "initials": "V.E.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "122252539"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Analysis of production factors | Artificial Intelligence | Economic analysis | Financial | General-purpose technology | J-curve | Solow's paradox",
+    "source-id": "21101038741",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097233644"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097233644?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097233644&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097233644&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097233644",
+    "dc:identifier": "SCOPUS_ID:85097233644",
+    "eid": "2-s2.0-85097233644",
+    "dc:title": "A paradigm shift in the board room: Incorporating sustainability into corporate governance and strategic decision-making using big data and artificial intelligence",
+    "dc:creator": "Antoncic M.",
+    "prism:publicationName": "Journal of Risk Management in Financial Institutions",
+    "prism:issn": "17528887",
+    "prism:eIssn": "17528895",
+    "prism:volume": "13",
+    "prism:issueIdentifier": "4",
+    "prism:pageRange": "290-294",
+    "prism:coverDate": "2020-01-01",
+    "prism:coverDisplayDate": "2020",
+    "dc:description": "In this paper, the author discusses the need to elevate sustainability to the scrutiny of the Board. Coronavirus disease-2019 and the lessons learned must nudge corporations to think and act more holistically about sustainability and incorporate sustainability into the fabric of the organisation. Each Board Committee must do its part in ensuring the company adopts a robust framework around sustainability. Equally important to reporting on sustainability issues and measuring and managing sustainability risk, is measuring and analysing a company\u2019s sustainability \u2018reputational footprint\u2019. Key Board Committees all need to understand the impact global macro systemic risks can have on the company and the impact the company can have on externalities which can affect its sustainability \u2018reputational footprint\u2019. Boards need to ensure that every strategic decision is made through a sustainability lens. Not only will this enhance its societal impact but can be a key driver of performance. A strategic focus on sustainability at the Board level can be a source of competitive advantage. Boards need to measure and understand their sustainability \u2018reputational footprint\u2019 and benchmark themselves against their peers. Using big data and artificial intelligence, a corporate Board could integrate sustainability data into its business model and strategic decisions to give it a competitive advantage vs its peers. Boards need to have sufficient fluency in the latest sustainability technology to apply advanced statistical, data-driven information to optimise their sustainability \u2018reputational footprint,\u2019 which lowers their cost of capital and improves other financial metrics.",
+    "citedby-count": "18",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/124357617",
+      "afid": "124357617",
+      "affilname": "Global AI Corporation",
+      "affiliation-city": "New York",
+      "affiliation-country": "United States"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "1"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57205235428",
+      "authid": "57205235428",
+      "authname": "Antoncic M.",
+      "surname": "Antoncic",
+      "given-name": "Madelyn",
+      "initials": "M.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "124357617"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Big data | Board committees | Corporate boards | Governance | Strategic decisions | Sustainability risks",
+    "source-id": "21100893243",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069803699"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069803699?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069803699&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069803699&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167923619301265"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069803699",
+    "dc:identifier": "SCOPUS_ID:85069803699",
+    "eid": "2-s2.0-85069803699",
+    "dc:title": "Deep learning for decision making and the optimization of socially responsible investments and portfolio",
+    "dc:creator": "Vo N.N.Y.",
+    "prism:publicationName": "Decision Support Systems",
+    "prism:issn": "01679236",
+    "prism:volume": "124",
+    "prism:pageRange": null,
+    "prism:coverDate": "2019-09-01",
+    "prism:coverDisplayDate": "September 2019",
+    "prism:doi": "10.1016/j.dss.2019.113097",
+    "pii": "S0167923619301265",
+    "dc:description": "A socially responsible investment portfolio takes into consideration the environmental, social and governance aspects of companies. It has become an emerging topic for both financial investors and researchers recently. Traditional investment and portfolio theories, which are used for the optimization of financial investment portfolios, are inadequate for decision-making and the construction of an optimized socially responsible investment portfolio. In response to this problem, we introduced a Deep Responsible Investment Portfolio (DRIP) model that contains a Multivariate Bidirectional Long Short-Term Memory neural network, to predict stock returns for the construction of a socially responsible investment portfolio. The deep reinforcement learning technique was adapted to retrain neural networks and rebalance the portfolio periodically. Our empirical data revealed that the DRIP framework could achieve competitive financial performance and better social impact compared to traditional portfolio models, sustainable indexes and funds.",
+    "citedby-count": "153",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60023932",
+      "afid": "60023932",
+      "affilname": "University of Technology Sydney",
+      "affiliation-city": "Sydney",
+      "affiliation-country": "Australia"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57202648571",
+      "authid": "57202648571",
+      "authname": "Vo N.N.Y.",
+      "surname": "Vo",
+      "given-name": "Nhi N.Y.",
+      "initials": "N.N.Y.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60023932"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/7404407906",
+      "authid": "7404407906",
+      "authname": "He X.",
+      "surname": "He",
+      "given-name": "Xuezhong",
+      "initials": "X.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60023932"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55207545300",
+      "authid": "55207545300",
+      "authname": "Liu S.",
+      "surname": "Liu",
+      "given-name": "Shaowu",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60023932"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/8987733300",
+      "authid": "8987733300",
+      "authname": "Xu G.",
+      "surname": "Xu",
+      "given-name": "Guandong",
+      "initials": "G.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60023932"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Decision support systems | Deep reinforcement learning | Multivariate analytics | Portfolio optimization | Socially responsible investment",
+    "article-number": "113097",
+    "source-id": "21933",
+    "fund-acr": "ARC",
+    "fund-no": "LP170100891",
+    "fund-sponsor": "Australian Research Council",
+    "openaccess": "2",
+    "openaccessFlag": false,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/84975795391"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/84975795391?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84975795391&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84975795391&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84975795391",
+    "dc:identifier": "SCOPUS_ID:84975795391",
+    "eid": "2-s2.0-84975795391",
+    "dc:title": "Integrated Forecasting Using the Discrete Wavelet Theory and Artificial Intelligence Techniques to Reduce the Bullwhip Effect in a Supply Chain",
+    "dc:creator": "Singh L.P.",
+    "prism:publicationName": "Global Journal of Flexible Systems Management",
+    "prism:issn": "09722696",
+    "prism:eIssn": "09740198",
+    "prism:volume": "17",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": "157-169",
+    "prism:coverDate": "2016-06-01",
+    "prism:coverDisplayDate": "1 June 2016",
+    "prism:doi": "10.1007/s40171-015-0115-z",
+    "dc:description": "To enhance the commercial competitive advantage of a firm in a constantly changing business environment, it is very important to enhance the supply chain performance by making it more flexible to adopt any type of changes in dynamic business environment. To improve the supply chain performance and make it more flexible it is essential to control the order amplification or bullwhip effect (BWE) through various stages of supply chain and control the inventory costs by controlling net stock amplification (NSA). These tasks should be done by using accurate demand forecasting. The current study demonstrates a forecasting methodology about nonlinear customer demand in a multilevel supply chain (SC) structure through; integrated techniques of discrete wavelet theory and artificial intelligence techniques including artificial neural networks and adaptive network-based fuzzy inference system. The effectiveness of forecasting models to deal with nonlinear data and how they improved the flexibility of SC is demonstrated by calculating BWE and NSA for real world data.",
+    "citedby-count": "30",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60007102",
+      "afid": "60007102",
+      "affilname": "Dr. B.R. Ambedkar National Institute of Technology",
+      "affiliation-city": "Jalandhar",
+      "affiliation-country": "India"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58085865400",
+      "authid": "58085865400",
+      "authname": "Singh L.P.",
+      "surname": "Singh",
+      "given-name": "Lakhwinder Pal",
+      "initials": "L.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60007102"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57189903564",
+      "authid": "57189903564",
+      "authname": "Challa R.T.",
+      "surname": "Challa",
+      "given-name": "Ravi Teja",
+      "initials": "R.T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60007102"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial neural network | Bullwhip effect | Discrete wavelet theory | Fuzzy inference system | Net stock amplification | Supplies chain flexibility",
+    "source-id": "8300153135",
+    "openaccess": "0",
+    "openaccessFlag": false
+   }
+  ]
+ }
+}

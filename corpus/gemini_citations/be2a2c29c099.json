@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "czarnitzki2023artificial"
+ ],
+ "page": "p. 201",
+ "sentence": "On German innovation-survey panel data, Czarnitzki et al. measure a clear productivity gain from AI use, for the yes/no measure and for the intensity measure alike",
+ "passage": "[Czarnitzki et al. (2023), p. 201] \"We found that employing AI technologies has a positive and significant impact on firm productivity. In particular, we showed that both the use of AI and the intensity with which firms exploit the potential of AI significantly increase both sales and value-added.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "On German innovation-survey panel data",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the core finding but does not mention the specific dataset used."
+ }
+}

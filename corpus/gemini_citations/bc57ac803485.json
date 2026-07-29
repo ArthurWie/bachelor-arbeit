@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "hossain2022marketing"
+ ],
+ "page": "p. 247",
+ "sentence": "Hossain et al. measure sustained competitive advantage with items carried over from earlier work",
+ "passage": "[Hossain et al. (2022), p. 247] \"sustained competitive advantage items were taken from Cao et al. (2019).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly states that the items were taken from an earlier work, fully supporting the sentence."
+ }
+}

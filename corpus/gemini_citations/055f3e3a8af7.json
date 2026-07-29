@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "alwakid2025harnessing"
+ ],
+ "page": "p. 14",
+ "sentence": "The studies in this corpus carry the four conditions as the VRIN acronym",
+ "passage": "[Alwakid & Dahri (2025), p. 14] \"Traditionally, RBV posits that firms achieve sustained competitive advantage by strategically deploying valuable, rare, inimitable, and non-substitutable (VRIN) resources (Barney, 1991; Wang & Zhang, 2025).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "no",
+  "overclaim": "The studies in this corpus carry",
+  "passage_is_hypothesis": true,
+  "note": "The passage defines the VRIN acronym but makes no statement about the studies in the author's corpus."
+ }
+}

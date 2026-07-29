@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "announcements",
+ "outcome_construct": "both",
+ "effect_direction": "positive",
+ "conditions": "first-mover status; industry",
+ "key_finding": "AI adoption in non-IT firms is associated with improved financial performance and market value, but the benefits for first-movers and firms in certain industries are not uniformly positive across all performance metrics."
+}

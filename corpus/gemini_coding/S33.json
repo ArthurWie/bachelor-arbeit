@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "procurement-based index from tender data",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "knowledge creation/reuse; data assetization; firm size; lifecycle stage; executive IT background; supply chain diversification",
+ "key_finding": "Using a procurement-based index, the study finds that AI adoption increases both the output and efficiency of firm innovation, an effect amplified in large, growth-stage firms and those with IT-savvy executives."
+}

@@ -1,0 +1,17 @@
+{
+ "keys": [
+  "fontanelli2025predictive"
+ ],
+ "page": "pp. 1--2",
+ "sentence": "Fontanelli et al. ask a different question of French firms and find that AI use raises the volatility of productivity growth; the effect sits with firms that buy AI from outside providers, and it weakens where more of the payroll is made up of ICT engineers and technicians",
+ "passage": "[Fontanelli et al. (2025), pp. 1--2] \"Our results show that heightened volatility is concentrated among AI buyers, whereas firms that develop AI internally experience no such association. Finally, we find that the AI-volatility link among `AI buyers' is mitigated in firms with a higher share of ICT engineers and technicians, suggesting that AI's successful integration requires complementary human capital.\"",
+ "echo_runs": [
+  "of ict engineers and technicians"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "French firms; of productivity growth",
+  "passage_is_hypothesis": false,
+  "note": "The sentence correctly reports the core findings but adds details about the location of the firms and the specific type of volatility, which are not mentioned in the provided passage."
+ }
+}

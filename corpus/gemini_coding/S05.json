@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "competitive_advantage",
+ "effect_direction": "conditional",
+ "conditions": "marketing analytics capability; market sensing; market seizing; market reconfiguration",
+ "key_finding": "AI adoption enhances a firm's marketing analytics platform, which improves its dynamic capabilities of market sensing, seizing, and reconfiguration to ultimately achieve a sustained competitive advantage."
+}

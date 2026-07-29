@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "p. 102",
+ "sentence": "It asks whether the advantage is still there after rivals have given up trying to copy it",
+ "passage": "[Barney (1991), p. 102] \"Rather, whether or not a competitive advantage is sustained depends upon the possibility of competitive duplication. Following Lippman and Rumelt (1982) and Rumelt (1984), a competitive advantage is sustained only if it continues to exist after efforts to duplicate that advantage have ceased.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately rephrases the definition of a sustained competitive advantage provided in the passage."
+ }
+}

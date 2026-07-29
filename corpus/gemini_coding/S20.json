@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "adoption dummy",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "market share",
+ "key_finding": "Using a large panel dataset of US hospitals, the study finds that hospitals with a larger market share are more likely to adopt AI, which in turn is associated with better financial and operational performance."
+}

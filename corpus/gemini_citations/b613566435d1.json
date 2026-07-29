@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "raisch2021artificial"
+ ],
+ "page": "p. 195",
+ "sentence": "For any single task at any single moment the firm picks one approach, and that choice makes the two contradictory; widen the frame to several tasks over several years and each turns out to produce the other, which makes them interdependent",
+ "passage": "[Raisch & Krakowski (2021), p. 195] \"Automation and augmentation are contradictory, because organizations choose either one or the other approach to address a given task at a specific point in time.\" / \"If we increase our analysis's temporal scale (from one point in time to its evolution over time) and spatial scale (from one to multiple tasks), we comprehend that, in the management domain, the two AI applications are not only contradictory but also interdependent.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "each turns out to produce the other",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that the two approaches are interdependent, but does not specify that this interdependence takes the form of each producing the other."
+ }
+}

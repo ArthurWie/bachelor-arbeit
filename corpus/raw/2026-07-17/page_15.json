@@ -1,0 +1,3892 @@
+{
+ "search-results": {
+  "opensearch:totalResults": "432",
+  "opensearch:startIndex": "375",
+  "opensearch:itemsPerPage": "25",
+  "opensearch:Query": {
+   "@role": "request",
+   "@searchTerms": "TITLE((\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"AI\")) AND TITLE-ABS-KEY((\"invest\" OR \"invests\" OR \"invested\" OR \"investing\" OR \"investment\" OR \"investments\" OR \"investor\" OR \"investors\" OR adopt* OR implement*) AND (\"competitive advantage\" OR \"firm performance\" OR \"financial performance\" OR \"firm productivity\" OR \"firm value\" OR \"market value\" OR \"firm growth\")) AND SUBJAREA(BUSI OR ECON OR DECI) AND PUBYEAR > 2014 AND PUBYEAR < 2027 AND DOCTYPE(ar) AND LANGUAGE(english) AND SRCTYPE(j)",
+   "@startPage": "375"
+  },
+  "link": [
+   {
+    "@_fa": "true",
+    "@ref": "self",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=375&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "first",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "prev",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=350&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "next",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=400&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   },
+   {
+    "@_fa": "true",
+    "@ref": "last",
+    "@href": "https://api.elsevier.com/content/search/scopus?start=407&count=25&query=TITLE%28%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22AI%22%29%29+AND+TITLE-ABS-KEY%28%28%22invest%22+OR+%22invests%22+OR+%22invested%22+OR+%22investing%22+OR+%22investment%22+OR+%22investments%22+OR+%22investor%22+OR+%22investors%22+OR+adopt*+OR+implement*%29+AND+%28%22competitive+advantage%22+OR+%22firm+performance%22+OR+%22financial+performance%22+OR+%22firm+productivity%22+OR+%22firm+value%22+OR+%22market+value%22+OR+%22firm+growth%22%29%29+AND+SUBJAREA%28BUSI+OR+ECON+OR+DECI%29+AND+PUBYEAR+%3E+2014+AND+PUBYEAR+%3C+2027+AND+DOCTYPE%28ar%29+AND+LANGUAGE%28english%29+AND+SRCTYPE%28j%29&view=COMPLETE",
+    "@type": "application/json"
+   }
+  ],
+  "entry": [
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85158859616"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85158859616?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85158859616&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85158859616&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85158859616",
+    "dc:identifier": "SCOPUS_ID:85158859616",
+    "eid": "2-s2.0-85158859616",
+    "dc:title": "Critical exploration of AI-driven HRM to build up organizational capabilities",
+    "dc:creator": "B\u00f6hmer N.",
+    "prism:publicationName": "Employee Relations",
+    "prism:issn": "01425455",
+    "prism:volume": "45",
+    "prism:issueIdentifier": "5",
+    "prism:pageRange": "1057-1082",
+    "prism:coverDate": "2023-07-24",
+    "prism:coverDisplayDate": "24 July 2023",
+    "prism:doi": "10.1108/ER-04-2022-0202",
+    "dc:description": "Purpose: Human resource management (HRM) processes are increasingly artificial intelligence (AI)-driven, and HRM supports the general digital transformation of companies' viable competitiveness. This paper points out possible positive and negative effects on HRM, workplaces and workers\u2019 organizations along the HR processes and its potential for competitive advantage in regard to managerial decisions on AI implementation regarding augmentation and automation of work. Design/methodology/approach: A systematic literature review that includes 62 international journals across different disciplines and contains top-tier academic and German practitioner journals was conducted. The literature analysis applies the resource-based view (RBV) as a lens through which to explore AI-driven HRM as a potential source of organizational capabilities. Findings: The analysis shows four ambiguities for AI-driven HRM that might support sustainable company development or might prevent AI application: job design, transparency, performance and data ambiguity. A\u00a0limited scholarly discussion with very few empirical studies can be stated. To date, research has mainly focused on HRM in general, recruiting and HR analytics in particular. Research limitations/implications: The four ambiguities' context-specific potential for capability building in firms is indicated, and research avenues are developed. Originality/value: This paper critically explores AI-driven HRM and structures context-specific potential for capability building along four ambiguities that must be addressed by HRM to strategically contribute to an organization's competitive advantage.",
+    "citedby-count": "107",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60019752",
+      "afid": "60019752",
+      "affilname": "Fachhochschule Osnabr\u00fcck",
+      "affiliation-city": "Osnabruck",
+      "affiliation-country": "Germany"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57009157400",
+      "authid": "57009157400",
+      "orcid": "0000-0003-1282-2047",
+      "authname": "B\u00f6hmer N.",
+      "surname": "B\u00f6hmer",
+      "given-name": "Nicole",
+      "initials": "N.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60019752"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/8325459600",
+      "authid": "8325459600",
+      "orcid": "0000-0002-3270-2248",
+      "authname": "Schinnenburg H.",
+      "surname": "Schinnenburg",
+      "given-name": "Heike",
+      "initials": "H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60019752"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Ambiguity | Artificial intelligence | Human resource management | Literature review | organizational Capabilities | Resource-based view",
+    "source-id": "144738",
+    "openaccess": "2",
+    "openaccessFlag": false,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85159147270"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85159147270?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85159147270&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85159147270&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167268123001531"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85159147270",
+    "dc:identifier": "SCOPUS_ID:85159147270",
+    "eid": "2-s2.0-85159147270",
+    "dc:title": "Artificial intelligence and firm-level productivity",
+    "dc:creator": "Czarnitzki D.",
+    "prism:publicationName": "Journal of Economic Behavior and Organization",
+    "prism:issn": "01672681",
+    "prism:volume": "211",
+    "prism:pageRange": "188-205",
+    "prism:coverDate": "2023-07-01",
+    "prism:coverDisplayDate": "July 2023",
+    "prism:doi": "10.1016/j.jebo.2023.05.008",
+    "pii": "S0167268123001531",
+    "dc:description": "Artificial Intelligence (AI) is often regarded as the next general-purpose technology with a rapid, penetrating, and far-reaching use over a broad number of industrial sectors. The main feature of new general-purpose technology is to enable new ways of production that may increase productivity. However, to date, only a few studies have investigated the likely productivity effects of AI at the firm-level, presumably due to limited data availability. We exploit unique survey data on firms\u2019 adoption of AI technology and estimate its productivity effects with a sample of German firms. We employ both a cross-sectional dataset and a panel database. To address the potential endogeneity of AI adoption, we also implement IV estimators. We find positive and significant associations between the use of AI and firm productivity. This finding holds for different measures of AI usage, i.e., an indicator variable of AI adoption, and the intensity with which firms use AI methods in their business processes.",
+    "citedby-count": "258",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+      "afid": "60025063",
+      "affilname": "KU Leuven",
+      "affiliation-city": "Leuven",
+      "affiliation-country": "Belgium"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60076709",
+      "afid": "60076709",
+      "affilname": "Zentrum f\u00fcr Europ\u00e4ische Wirtschaftsforschung GmbH",
+      "affiliation-city": "Mannheim",
+      "affiliation-country": "Germany"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/13606338800",
+      "authid": "13606338800",
+      "orcid": "0000-0001-5118-7272",
+      "authname": "Czarnitzki D.",
+      "surname": "Czarnitzki",
+      "given-name": "Dirk",
+      "initials": "D.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60025063"
+       },
+       {
+        "@_fa": "true",
+        "$": "60025063"
+       },
+       {
+        "@_fa": "true",
+        "$": "60076709"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57225953486",
+      "authid": "57225953486",
+      "orcid": "0000-0002-9605-389X",
+      "authname": "Fern\u00e1ndez G.P.",
+      "surname": "Fern\u00e1ndez",
+      "given-name": "Gast\u00f3n P.",
+      "initials": "G.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60025063"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/6603215914",
+      "authid": "6603215914",
+      "authname": "Rammer C.",
+      "surname": "Rammer",
+      "given-name": "Christian",
+      "initials": "C.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60076709"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial Intelligence | CIS data | Innovation | Productivity",
+    "source-id": "23865",
+    "fund-acr": "FWO",
+    "fund-no": "G0C5921N",
+    "fund-sponsor": "Fonds Wetenschappelijk Onderzoek",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherhybridgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Hybrid Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166432473"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166432473?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166432473&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85166432473&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85166432473",
+    "dc:identifier": "SCOPUS_ID:85166432473",
+    "eid": "2-s2.0-85166432473",
+    "dc:title": "Knowledge Sharing Key Issue for Digital Technology and Artificial Intelligence Adoption",
+    "dc:creator": "Binsaeed R.H.",
+    "prism:publicationName": "Systems",
+    "prism:eIssn": "20798954",
+    "prism:volume": "11",
+    "prism:issueIdentifier": "7",
+    "prism:pageRange": null,
+    "prism:coverDate": "2023-07-01",
+    "prism:coverDisplayDate": "July 2023",
+    "prism:doi": "10.3390/systems11070316",
+    "dc:description": "In the current digital era, digital technologies develop and emerge rapidly, businesses, especially the electronic sector more connected to information technology, facing challenges in the terms of its technology infrastructure and tactical directions. That\u2019s why most of them adopt the latest digital technology (DT) and design novel business strategies and models. The growing significance of AI in the transformation of manufacturing operations and the demand for a thorough knowledge of the variables affecting its adoption serve as the driving forces behind the study. Several researchers have presented that digital technology can lead toward AI adoption. Though, previous studies lack an efficient transformation pathway. Therefore, this study establishes an inventive approach and aims to investigate the direct link between digital technology and AI adoption, the mediating function of knowledge sharing (KS) between them, and explore the moderating impact of privacy and security that assist in the acceleration of AI adoption in electronics manufacturing enterprises through the antecedent of digital technology. This study is quantitative in nature, random sampling method and questionnaire is used as a survey tool. Depending on 298 questionnaire data from electronic firms of Saudi Arabia, this study performs multi-level correlation and regression analysis to evaluate study hypotheses. Findings confirm that digital technology has a positive influence on AI adoption. In addition, outcomes corroborate that knowledge sharing mediates in the linkage between digital technology and AI adoption. The results also proved that privacy and security have a positive moderation impact on the association between digital technology and AI adoption. This study enlighten that the adoption of this framework enables electronic manufacturing companies to strategically integrate digital-technologies to promote effective AI adoption, increase its operational efficiency, and sustain a competitive advantage in the constantly evolving manufacturing landscape. The outcomes as well supplement the previous study on the linkage between digital technology and AI adoption, expand application space and theoretical boundary from the perspective of knowledge sharing, privacy and security at the managerial level, and give reference for AI adoption in, as electronics manufacturing firms.",
+    "citedby-count": "29",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60291053",
+      "afid": "60291053",
+      "affilname": "Academia Oamenilor de \u0218tiin\u021b\u0103 din Rom\u00e2nia",
+      "affiliation-city": "Bucharest",
+      "affiliation-country": "Romania"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60212275",
+      "afid": "60212275",
+      "affilname": "College of Business Administration",
+      "affiliation-city": "Riyadh",
+      "affiliation-country": "Saudi Arabia"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60113175",
+      "afid": "60113175",
+      "affilname": "\u0218coala Na\u0163ional\u0103 de Studii Politice \u0219i Administrative",
+      "affiliation-city": "Bucharest",
+      "affiliation-country": "Romania"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/126338337",
+      "afid": "126338337",
+      "affilname": "Government College of Management Sciences",
+      "affiliation-city": "Mansehra",
+      "affiliation-country": "Pakistan"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "6"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57223363719",
+      "authid": "57223363719",
+      "authname": "Binsaeed R.H.",
+      "surname": "Binsaeed",
+      "given-name": "Rima H.",
+      "initials": "R.H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60212275"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57194948169",
+      "authid": "57194948169",
+      "orcid": "0000-0002-7903-9420",
+      "authname": "Yousaf Z.",
+      "surname": "Yousaf",
+      "given-name": "Zahid",
+      "initials": "Z.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "126338337"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/14827031900",
+      "authid": "14827031900",
+      "orcid": "0000-0003-4212-6974",
+      "authname": "Grigorescu A.",
+      "surname": "Grigorescu",
+      "given-name": "Adriana",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60113175"
+       },
+       {
+        "@_fa": "true",
+        "$": "60291053"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58309400600",
+      "authid": "58309400600",
+      "authname": "Samoila A.",
+      "surname": "Samoila",
+      "given-name": "Alina",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60113175"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57208821357",
+      "authid": "57208821357",
+      "authname": "Chitescu R.I.",
+      "surname": "Chitescu",
+      "given-name": "Razvan Ion",
+      "initials": "R.I.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60113175"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "6",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57192275707",
+      "authid": "57192275707",
+      "orcid": "0000-0001-9658-8299",
+      "authname": "Nassani A.A.",
+      "surname": "Nassani",
+      "given-name": "Abdelmohsen A.",
+      "initials": "A.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60212275"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "AI adoption | digital technology | knowledge sharing | privacy and security",
+    "article-number": "316",
+    "source-id": "21101020135",
+    "fund-acr": "KSU",
+    "fund-sponsor": "King Saud University",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85124616860"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85124616860?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85124616860&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85124616860&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85124616860",
+    "dc:identifier": "SCOPUS_ID:85124616860",
+    "eid": "2-s2.0-85124616860",
+    "dc:title": "Artificial intelligence and the changing sources of competitive advantage",
+    "dc:creator": "Krakowski S.",
+    "prism:publicationName": "Strategic Management Journal",
+    "prism:issn": "01432095",
+    "prism:eIssn": "10970266",
+    "prism:volume": "44",
+    "prism:issueIdentifier": "6",
+    "prism:pageRange": "1425-1452",
+    "prism:coverDate": "2023-06-01",
+    "prism:coverDisplayDate": "June 2023",
+    "prism:doi": "10.1002/smj.3387",
+    "dc:description": "Research Summary: We apply a resource-based view to investigate how the adoption of Artificial Intelligence (AI) affects competitive capabilities and performance. Following prior work on using chess as a controlled setting for studying competitive interactions, we compare the same players\u2019 capabilities and performance across conventional, centaur, and engine chess tournaments. Our analysis shows that AI adoption triggers interrelated substitution and complementation dynamics, which make humans\u2019 traditional competitive capabilities obsolete, while creating new sources of persistent heterogeneity when humans interact with chess engines. These novel human-machine capabilities are unrelated, or even negatively related, to traditional capabilities. We contribute an integrated view of substitution and complementation, which identifies AI as the driver of these dynamics and explains how they jointly shift the sources of competitive advantage. Managerial Summary: AI-based technologies increasingly substitute and complement humans in managerial tasks such as decision making. We investigate how such change affects the sources of competitive advantage. AI-based engines\u2019 adoption in chess allows us to investigate competitive capabilities and performance in human, AI, and hybrid settings. We find that neither humans nor AI in isolation explain performance differences in the AI and hybrid settings. Instead, a new decision-making resource emerges at the human-AI intersection, which drives performance but is unrelated or even negatively related to humans\u2019 original capability. Our results document how AI adoption changes the sources of competitive advantage and, in turn, requires managers to develop new capabilities to stay relevant in an AI-based competitive landscape.",
+    "citedby-count": "447",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60020188",
+      "afid": "60020188",
+      "affilname": "Copenhagen Business School",
+      "affiliation-city": "Frederiksberg",
+      "affiliation-country": "Denmark"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60021562",
+      "afid": "60021562",
+      "affilname": "Handelsh\u00f6gskolan i Stockholm",
+      "affiliation-city": "Stockholm",
+      "affiliation-country": "Sweden"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60210162",
+      "afid": "60210162",
+      "affilname": "Geneva School of Economics and Management",
+      "affiliation-city": "Geneva",
+      "affiliation-country": "Switzerland"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57216426808",
+      "authid": "57216426808",
+      "orcid": "0000-0001-5441-2463",
+      "authname": "Krakowski S.",
+      "surname": "Krakowski",
+      "given-name": "Sebastian",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60021562"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55949281300",
+      "authid": "55949281300",
+      "orcid": "0000-0001-5877-5448",
+      "authname": "Luger J.",
+      "surname": "Luger",
+      "given-name": "Johannes",
+      "initials": "J.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60020188"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/8211569500",
+      "authid": "8211569500",
+      "orcid": "0000-0001-9980-214X",
+      "authname": "Raisch S.",
+      "surname": "Raisch",
+      "given-name": "Sebastian",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60210162"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "artificial intelligence | competitive behavior | decision making | firm capabilities | resource-based view",
+    "source-id": "23157",
+    "fund-acr": "SNF",
+    "fund-no": "W20\u20100036",
+    "fund-sponsor": "Jan Wallanders och Tom Hedelius Stiftelse samt Tore Browaldhs Stiftelse",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherhybridgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Hybrid Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85152017181"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85152017181?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85152017181&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85152017181&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0959055223000153"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85152017181",
+    "dc:identifier": "SCOPUS_ID:85152017181",
+    "eid": "2-s2.0-85152017181",
+    "dc:title": "Evaluation and adoption of\u00a0artificial intelligence in\u00a0the\u00a0retail industry",
+    "dc:creator": "Fu H.P.",
+    "prism:publicationName": "International Journal of Retail and Distribution Management",
+    "prism:issn": "09590552",
+    "prism:volume": "51",
+    "prism:issueIdentifier": "6",
+    "prism:pageRange": "773-790",
+    "prism:coverDate": "2023-05-23",
+    "prism:coverDisplayDate": "23 May 2023",
+    "prism:doi": "10.1108/IJRDM-12-2021-0610",
+    "dc:description": "Purpose: The introduction of artificial intelligence (AI) technology has had a substantial influence on the retail industry. However, AI adoption entails considerable responsibilities and risks for senior managers. In this study, the authors developed an evaluation and selection mechanism for successful AI technology adoption in the retail industry. The multifaceted measurement and identification of critical factors (CFs) can enable retailers to adopt AI technology effectively and maintain a sustainable competitive advantage. Design/methodology/approach: The evaluation and adoption of organisational AI technology involve multifaceted decision-making for management. Therefore, the authors used the analytic network process to develop an AI evaluation framework for calculating the weight and importance of each consideration. An\u00a0expert questionnaire survey was distributed to senior retail managers and 17 valid responses were obtained. Finally, the Vlse Kriterijumska Optimizacija Kompromisno Resenje (VIKOR) method was used to identify CFs for AI adoption. Findings: The results revealed five CFs for AI adoption in the retail industry. The findings indicated that after AI adoption, top retail management is most concerned with factors pertaining to business performance and minor concerned about the internal system's functional efficiency. Retailers pay more attention to technology and organisation context, which are matters under the retailers' control, than to external uncontrollable environmental factors. Originality/value: The authors developed an evaluation framework and identified CFs for AI technology adoption in the retail industry. In terms of practical application, the results of this study can help AI service providers understand the CFs of retailers when adopting AI. Moreover, retailers can use the proposed multifaceted evaluation framework to guide their adoption of AI technology.",
+    "citedby-count": "63",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60116768",
+      "afid": "60116768",
+      "affilname": "National Kaohsiung University of Science and Technology",
+      "affiliation-city": "Kaohsiung",
+      "affiliation-country": "Taiwan"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60012369",
+      "afid": "60012369",
+      "affilname": "Chinese Culture University Taiwan",
+      "affiliation-city": "Taipei",
+      "affiliation-country": "Taiwan"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/7402948206",
+      "authid": "7402948206",
+      "orcid": "0000-0002-7185-6557",
+      "authname": "Fu H.P.",
+      "surname": "Fu",
+      "given-name": "Hsin Pin",
+      "initials": "H.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116768"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57202559693",
+      "authid": "57202559693",
+      "orcid": "0000-0002-8160-0846",
+      "authname": "Chang T.H.",
+      "surname": "Chang",
+      "given-name": "Tien Hsiang",
+      "initials": "T.H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116768"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/59889855600",
+      "authid": "59889855600",
+      "orcid": "0000-0003-0159-611X",
+      "authname": "Lin S.W.",
+      "surname": "Lin",
+      "given-name": "Sheng Wei",
+      "initials": "S.W.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60012369"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57438830200",
+      "authid": "57438830200",
+      "authname": "Teng Y.H.",
+      "surname": "Teng",
+      "given-name": "Ying Hua",
+      "initials": "Y.H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116768"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58176035200",
+      "authid": "58176035200",
+      "authname": "Huang Y.Z.",
+      "surname": "Huang",
+      "given-name": "Ying Zi",
+      "initials": "Y.Z.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116768"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Analytic network process (ANP) | Artificial intelligence (AI) | Critical factors (CFs) | Retail industry | Technology\u2013organisation\u2013environment (TOE) framework | Vlse Kriterijumska Optimizacija Kompromisno Resenje (VIKOR) method",
+    "source-id": "144921",
+    "fund-acr": "MOST",
+    "fund-no": "MOST 111-2410-H-992-007",
+    "fund-sponsor": "Ministry of Science and Technology, Taiwan",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160028554"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85160028554?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85160028554&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85160028554&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85160028554",
+    "dc:identifier": "SCOPUS_ID:85160028554",
+    "eid": "2-s2.0-85160028554",
+    "dc:title": "Assessing the Determinants of Corporate Risk-Taking Using Machine Learning Algorithms",
+    "dc:creator": "Liu C.",
+    "prism:publicationName": "Systems",
+    "prism:eIssn": "20798954",
+    "prism:volume": "11",
+    "prism:issueIdentifier": "5",
+    "prism:pageRange": null,
+    "prism:coverDate": "2023-05-01",
+    "prism:coverDisplayDate": "May 2023",
+    "prism:doi": "10.3390/systems11050263",
+    "dc:description": "Given that risk-taking is an essential channel for companies to obtain high returns and realize value enhancement, the goal of this study is to holistically explore the determinants of corporate risk-taking using various machine learning algorithms. Based on the data from Chinese listed companies between 2010 and 2019, we document that the adaptive boosting (AdaBoost) model makes better predictions of corporate risk-taking. We further visualize the importance and influence of the firm basic characteristics, firm performance, and chief executive officer (CEO) characteristics and discover that in the AdaBoost model, the firm basic characteristics, and performance factors, such as the firm\u2019s fixed asset investments, size, and return on equity, are important in predicting corporate risk-taking, while CEO characteristics are less important. Finally, the role of variables in corporate risk-taking varies among large and small enterprises. Overall, our findings deepen the comprehension of what drives corporate risk-taking and provide a potential way for real-world firms seeking to adjust their risk-taking level.",
+    "citedby-count": "15",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60108071",
+      "afid": "60108071",
+      "affilname": "Shandong University, Weihai",
+      "affiliation-city": "Weihai",
+      "affiliation-country": "China"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57223426673",
+      "authid": "57223426673",
+      "authname": "Liu C.",
+      "surname": "Liu",
+      "given-name": "Caixia",
+      "initials": "C.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60108071"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58429876800",
+      "authid": "58429876800",
+      "authname": "Chen Y.",
+      "surname": "Chen",
+      "given-name": "Yu",
+      "initials": "Y.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60108071"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58287159200",
+      "authid": "58287159200",
+      "authname": "Huang S.",
+      "surname": "Huang",
+      "given-name": "Sifan",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60108071"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57247210600",
+      "authid": "57247210600",
+      "authname": "Chen X.",
+      "surname": "Chen",
+      "given-name": "Xuesheng",
+      "initials": "X.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60108071"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57209855190",
+      "authid": "57209855190",
+      "orcid": "0000-0001-9367-049X",
+      "authname": "Liu F.",
+      "surname": "Liu",
+      "given-name": "Feng",
+      "initials": "F.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60108071"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "CEO characteristics | corporate risk-taking | firm basic characteristics | firm performance | machine learning",
+    "article-number": "263",
+    "source-id": "21101020135",
+    "fund-acr": "MOE",
+    "fund-no": "21YJC630076",
+    "fund-sponsor": "Ministry of Education of the People's Republic of China",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85159269194"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85159269194?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85159269194&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85159269194&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85159269194",
+    "dc:identifier": "SCOPUS_ID:85159269194",
+    "eid": "2-s2.0-85159269194",
+    "dc:title": "Market Valuation of Artificial Intelligence Implementation Announcements",
+    "dc:creator": "Huang C.K.T.",
+    "prism:publicationName": "Data Base for Advances in Information Systems",
+    "prism:issn": "00950033",
+    "prism:volume": "54",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": "9-28",
+    "prism:coverDate": "2023-05-01",
+    "prism:coverDisplayDate": "1 May 2023",
+    "prism:doi": "10.1145/3595863.3595866",
+    "dc:description": "With the advent of artificial intelligence (AI), more and more enterprises have begun developing AI to promote their own competitive advantage and increase their business value. In order to reveal the value-added results of AI implementation, this study adopts an event study methodology to capture the abnormal returns resulting from the announcement of AI implementation. Based on the empirical results of this study, in response to the announcement of AI implementation, we find significant positive abnormal returns on the event day. With respect to the grouping analysis, the results show significant differences in average cumulative abnormal returns between announcements with detailed information and those without detailed information. In addition, our findings present significant differences in average cumulative abnormal returns between IT-companies and non-IT companies on the event day. Ultimately, according to the content analysis, only one characteristic, the frequency of negative words, is modestly and negatively correlated with average cumulative abnormal returns.",
+    "citedby-count": "5",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+      "afid": "60007954",
+      "affilname": "National Chung Cheng University",
+      "affiliation-city": "Min-Hsiung",
+      "affiliation-country": "Taiwan"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/7404962426",
+      "authid": "7404962426",
+      "orcid": "0000-0001-8994-3598",
+      "authname": "Huang C.K.T.",
+      "surname": "Huang",
+      "given-name": "Cheng Kui Tony",
+      "initials": "C.K.T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60007954"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58248577100",
+      "authid": "58248577100",
+      "orcid": "0009-0009-1477-8546",
+      "authname": "Lee Y.T.",
+      "surname": "Lee",
+      "given-name": "Yu Tsung",
+      "initials": "Y.T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60007954"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "abnormal return | artificial intelligence | business value of it | content analysis | event study methodology",
+    "source-id": "4900152206",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85149433439"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85149433439?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85149433439&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85149433439&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0959652623007631"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85149433439",
+    "dc:identifier": "SCOPUS_ID:85149433439",
+    "eid": "2-s2.0-85149433439",
+    "dc:title": "Creation of sustainable growth with explainable artificial intelligence: An empirical insight from consumer packaged goods retailers",
+    "dc:creator": "Behera R.K.",
+    "prism:publicationName": "Journal of Cleaner Production",
+    "prism:issn": "09596526",
+    "prism:volume": "399",
+    "prism:pageRange": null,
+    "prism:coverDate": "2023-05-01",
+    "prism:coverDisplayDate": "1 May 2023",
+    "prism:doi": "10.1016/j.jclepro.2023.136605",
+    "pii": "S0959652623007631",
+    "dc:description": "Consumer packaged goods retailers can pivot quickly to find new areas of sustainable growth and enable their businesses to compete effectively. Traditionally, they are losing ground to more agile and technologically focused competitors who quickly adapt their operations to shifting market conditions. As a result, such retailers must alter their core technologies. Explainable artificial intelligence is a set of procedures and strategies that allow machine learning algorithms and artificial intelligence models\u2019 results and output to understand and trust. In the era of sustainable digitalisation, there is lack of research on the creation of sustainable growth with explainable artificial intelligence. Therefore, this study is undertaken to uncover how consumer packaged goods retailers can create sustainable growth with explainable artificial intelligence by proposing a unique conceptual model. The source data were collected from 310 individuals from consumer packaged goods retailers and the analysis was performed with quantitative research methodology. The findings suggest that explainable artificial intelligence has the potential to be a formidable weapon in the fight for sustainable growth. With the employment of automated machines, the best decisions for sustainable competitive advantage can be made. In addition, explainable artificial intelligence-powered automated wealth management services and algorithmic trading help to make better financial decisions. The theoretical implications argue the explainability of artificial intelligence systems to offer insights for making impactful decisions. The managerial implications highlight the benefits of the adoption of explainable artificial intelligence for sustainable growth, such as increase in trust, complying with legal regulations and providing data-driven actionable analytical insights. Sustainable growth set more responsibility towards customers for profitable future.",
+    "citedby-count": "70",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60079452",
+      "afid": "60079452",
+      "affilname": "Kalinga Institute of Industrial Technology, Bhubaneswar",
+      "affiliation-city": "Bhubaneswar",
+      "affiliation-country": "India"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60196726",
+      "afid": "60196726",
+      "affilname": "College of Business and Economics, Qatar University",
+      "affiliation-city": "Doha",
+      "affiliation-country": "Qatar"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60107373",
+      "afid": "60107373",
+      "affilname": "Indian Institute of Management Ranchi",
+      "affiliation-city": "Ranchi",
+      "affiliation-country": "India"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57200944520",
+      "authid": "57200944520",
+      "orcid": "0000-0001-6634-5579",
+      "authname": "Behera R.K.",
+      "surname": "Behera",
+      "given-name": "Rajat Kumar",
+      "initials": "R.K.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60079452"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/26639138400",
+      "authid": "26639138400",
+      "orcid": "0000-0002-9028-4902",
+      "authname": "Bala P.K.",
+      "surname": "Bala",
+      "given-name": "Pradip Kumar",
+      "initials": "P.K.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60107373"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/50262828700",
+      "authid": "50262828700",
+      "orcid": "0000-0003-1105-8729",
+      "authname": "Rana N.P.",
+      "surname": "Rana",
+      "given-name": "Nripendra P.",
+      "initials": "N.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60196726"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Competitive strategy | Explainable artificial intelligence | Information systems business value | Sustainable competitive advantage | Sustainable growth",
+    "article-number": "136605",
+    "source-id": "19167",
+    "openaccess": "2",
+    "openaccessFlag": false,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85125058521"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85125058521?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85125058521&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85125058521&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85125058521",
+    "dc:identifier": "SCOPUS_ID:85125058521",
+    "eid": "2-s2.0-85125058521",
+    "dc:title": "Artificial intelligence: a strategy to harness its power through organizational learning",
+    "dc:creator": "Jarrahi M.H.",
+    "prism:publicationName": "Journal of Business Strategy",
+    "prism:issn": "02756668",
+    "prism:volume": "44",
+    "prism:issueIdentifier": "3",
+    "prism:pageRange": "126-135",
+    "prism:coverDate": "2023-04-14",
+    "prism:coverDisplayDate": "14 April 2023",
+    "prism:doi": "10.1108/JBS-11-2021-0182",
+    "dc:description": "Purpose: The purpose of this paper is to present a framework that captures the strategic value of artificial intelligence (AI) systems. Although AI has become a crucial component of digital transformation efforts tied to organizational strategy, many firms struggle to derive strategic value from emerging AI systems. Design/methodology/approach: The analytical framework in this paper is based on a learning-centered approach. Specifically, by building on the knowledge-based perspective, this paper elaborates on how AI can contribute to organizational learning to create a competitive advantage in knowledge-intensive contexts. Findings: This paper argues that the power of AI as a strategic resource lies in its self-learning capacities. Such learning capacities are only realized in partnership with humans through mutual learning. This paper formulates the concept of artificial capital and the ways artificial and human capital can together drive routinization and strategic learning processes that connect internal and external environments of the organization. Originality/value: This is a timely contribution as many organizations are considering adopting AI technologies for strategic purposes. This paper translates the proposed framework into several practical implications for managing and developing AI to meet strategic business goals.",
+    "citedby-count": "85",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60025111",
+      "afid": "60025111",
+      "affilname": "The University of North Carolina at Chapel Hill",
+      "affiliation-city": "Chapel Hill",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60122501",
+      "afid": "60122501",
+      "affilname": "UNC Kenan-Flagler Business School",
+      "affiliation-city": "Chapel Hill",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60032903",
+      "afid": "60032903",
+      "affilname": "United States Securities and Exchange Commission",
+      "affiliation-city": "Washington, D.C.",
+      "affiliation-country": "United States"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/36018165100",
+      "authid": "36018165100",
+      "authname": "Jarrahi M.H.",
+      "surname": "Jarrahi",
+      "given-name": "Mohammad Hossein",
+      "initials": "M.H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60025111"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57225215961",
+      "authid": "57225215961",
+      "authname": "Kenyon S.",
+      "surname": "Kenyon",
+      "given-name": "Sarah",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60032903"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57462984200",
+      "authid": "57462984200",
+      "authname": "Brown A.",
+      "surname": "Brown",
+      "given-name": "Ashley",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60122501"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57462498000",
+      "authid": "57462498000",
+      "authname": "Donahue C.",
+      "surname": "Donahue",
+      "given-name": "Chelsea",
+      "initials": "C.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60122501"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57463142500",
+      "authid": "57463142500",
+      "authname": "Wicher C.",
+      "surname": "Wicher",
+      "given-name": "Chris",
+      "initials": "C.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60122501"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial capital | Artificial intelligence | Human capital | Mutual learning | Organizational learning | Strategy",
+    "source-id": "144826",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123850212"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123850212?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123850212&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85123850212&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85123850212",
+    "dc:identifier": "SCOPUS_ID:85123850212",
+    "eid": "2-s2.0-85123850212",
+    "dc:title": "Investor\u2019s perceptions on artificial intelligence (AI) technology adoption in investment services in India",
+    "dc:creator": "Manrai R.",
+    "prism:publicationName": "Journal of Financial Services Marketing",
+    "prism:issn": "13630539",
+    "prism:eIssn": "14791846",
+    "prism:volume": "28",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": "1-14",
+    "prism:coverDate": "2023-03-01",
+    "prism:coverDisplayDate": "March 2023",
+    "prism:doi": "10.1057/s41264-021-00134-9",
+    "dc:description": "The purpose of this paper is to investigate the investor perception toward artificial intelligence (AI)/Robo advisory services and factors influencing behavioral intention to adopt the same. The study assimilated factors from TAM theory and extended them by adding two vital factors, subjective norms, trust in service as well as service provider. The respondents of the study were investors in the stock market having a basic understanding of investment. Convenience sampling was used to collect data of 252 responses from Delhi NCR during January and February 2020. The results of the study emphasized the role of trust on service as well as subjective norms to be significant variables affecting AI-based investment. Other variables such as perceived usefulness, perceived ease of use, and attitudes were also found statistically significant. This study is an important contribution to the existing body of knowledge in the area of technology adoption because the study significantly explains (R<sup>2</sup> value = 82.9%) the factors affecting robo advisory adoption in investment service. The study also suggests important clues for service-providing companies to frame their business strategy in such a way that they can attract maximum clients and achieve a competitive advantage.",
+    "citedby-count": "46",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60105382",
+      "afid": "60105382",
+      "affilname": "AUH-Gurugram",
+      "affiliation-city": "Gurugram",
+      "affiliation-country": "India"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60117319",
+      "afid": "60117319",
+      "affilname": "Symbiosis Centre for Management Studies, Noida",
+      "affiliation-city": "Noida",
+      "affiliation-country": "India"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57192079049",
+      "authid": "57192079049",
+      "authname": "Manrai R.",
+      "surname": "Manrai",
+      "given-name": "Rishi",
+      "initials": "R.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60105382"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57188822745",
+      "authid": "57188822745",
+      "authname": "Gupta K.P.",
+      "surname": "Gupta",
+      "given-name": "Kriti Priya",
+      "initials": "K.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60117319"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Robo advisory | TAM | Technology adoption | Wealth management",
+    "source-id": "17700156753",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139424995"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139424995?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139424995&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139424995&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139424995",
+    "dc:identifier": "SCOPUS_ID:85139424995",
+    "eid": "2-s2.0-85139424995",
+    "dc:title": "Role of artificial intelligence in marketing strategies and performance",
+    "dc:creator": "Wu C.W.",
+    "prism:publicationName": "Psychology and Marketing",
+    "prism:issn": "07426046",
+    "prism:eIssn": "15206793",
+    "prism:volume": "40",
+    "prism:issueIdentifier": "3",
+    "prism:pageRange": "484-496",
+    "prism:coverDate": "2023-03-01",
+    "prism:coverDisplayDate": "March 2023",
+    "prism:doi": "10.1002/mar.21737",
+    "dc:description": "This study examines the role of artificial intelligence (AI) as a marketing strategy and explains its contribution to firms and the factors influencing their development. The study tests an empirical model based on the research variables and constructs identified using structural equation modeling and the fuzzy set qualitative comparative analysis (FsQCA) approach. Data were collected from 278 food firms. The findings indicate that the implementation of an AI marketing strategy affects performance. Additionally, this study shows that marketing capabilities, customer value co-creation, and market orientation are positively related to performance. Finally, the results highlight that marketing capabilities, customer value co-creation, and market orientation affect the development of AI marketing strategies. The research results of FsQCA find that causal conditions of marketing capabilities, customer value co-creation, market orientation, and AI marketing strategy are necessary and sufficient recipes for higher firm performance.",
+    "citedby-count": "88",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60017511",
+      "afid": "60017511",
+      "affilname": "National Chung Hsing University",
+      "affiliation-city": "Taichung",
+      "affiliation-country": "Taiwan"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60110200",
+      "afid": "60110200",
+      "affilname": "ESIC Business & Marketing School",
+      "affiliation-city": "Madrid",
+      "affiliation-country": "Spain"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56132677400",
+      "authid": "56132677400",
+      "orcid": "0000-0001-7672-5102",
+      "authname": "Wu C.W.",
+      "surname": "Wu",
+      "given-name": "Chih Wen",
+      "initials": "C.W.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60017511"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56707112800",
+      "authid": "56707112800",
+      "orcid": "0000-0002-3713-7102",
+      "authname": "Monfort A.",
+      "surname": "Monfort",
+      "given-name": "Abel",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60110200"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "AI marketing strategy | artificial intelligence (AI) | FsQCA | market orientation | performance",
+    "source-id": "14014",
+    "fund-acr": "MOST",
+    "fund-no": "108\u20102410\u2010H\u2010005\u2010054",
+    "fund-sponsor": "Ministry of Science and Technology, Taiwan",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146180026"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146180026?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85146180026&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85146180026&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85146180026",
+    "dc:identifier": "SCOPUS_ID:85146180026",
+    "eid": "2-s2.0-85146180026",
+    "dc:title": "Performance of Artificial Intelligence Technologies in Banking Institutions",
+    "dc:creator": "Al-Ababneh H.A.",
+    "prism:publicationName": "Wseas Transactions on Business and Economics",
+    "prism:issn": "11099526",
+    "prism:eIssn": "22242899",
+    "prism:volume": "20",
+    "prism:pageRange": "307-317",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.37394/23207.2023.20.29",
+    "dc:description": "The development and implementation of innovations in various areas of business is stimulated by the competitive market environment. The use of artificial intelligence technologies for business process transformation is one of the most promising areas. Artificial intelligence is conductive to not only increasing the business process efficiency, but also to reducing the companies\u2019 costs required for business process implementation. Artificial intelligence also contributes to reducing the need for human resources to perform routine operations. The aim of the study was to make a list of indicators that describe the performance of artificial intelligence technology in the activities of large companies and calculate them based on the example of the banking branch. Credit Agricole \u2014 a bank with foreign investment, one of the leaders of the banking sector of Ukraine \u2014 was chosen for the study. The methods of statistical and economic analysis were the main research methods used to contrast performance indicators with the use of artificial intelligence and without it. Quantitative indicators such as the duration of the client\u2019s application; the cost of client service; the number of requests processed by the bank\u2019s operators and managers; saving money spent on client service business processes were the main indicators for evaluating the performance of artificial intelligence. The results of the study demonstrated practical advantages of using artificial intelligence, which entail savings of working time and financial resources. These results confirm that the labor productivity of the bank branch employees has increased due to the automation of processes implemented through the artificial intelligence systems and technologies. The study opens up new areas of further research, in particular the impact of the use of artificial intelligence on financial performance and market capitalization of companies.",
+    "citedby-count": "79",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60068513",
+      "afid": "60068513",
+      "affilname": "Yuriy Fedkovych Chernivtsi National University",
+      "affiliation-city": "Chernivtsi",
+      "affiliation-country": "Ukraine"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60104424",
+      "afid": "60104424",
+      "affilname": "Sumy National Agrarian University",
+      "affiliation-city": "Sumy",
+      "affiliation-country": "Ukraine"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60103721",
+      "afid": "60103721",
+      "affilname": "Kyiv National Economic University named after Vadym Hetman",
+      "affiliation-city": "Kyiv",
+      "affiliation-country": "Ukraine"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60070289",
+      "afid": "60070289",
+      "affilname": "Irbid National University",
+      "affiliation-city": "Irbid",
+      "affiliation-country": "Jordan"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60110445",
+      "afid": "60110445",
+      "affilname": "State University of Information and Communication Technologies",
+      "affiliation-city": "Kyiv",
+      "affiliation-country": "Ukraine"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57210107560",
+      "authid": "57210107560",
+      "authname": "Al-Ababneh H.A.",
+      "surname": "Al-Ababneh",
+      "given-name": "Hassan Ali",
+      "initials": "H.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60070289"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57220743144",
+      "authid": "57220743144",
+      "authname": "Borisova V.",
+      "surname": "Borisova",
+      "given-name": "Victoria",
+      "initials": "V.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60104424"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57992256100",
+      "authid": "57992256100",
+      "authname": "Zakharzhevska A.",
+      "surname": "Zakharzhevska",
+      "given-name": "Alina",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60110445"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58062254200",
+      "authid": "58062254200",
+      "authname": "Tkachenko P.",
+      "surname": "Tkachenko",
+      "given-name": "Polina",
+      "initials": "P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60103721"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57216341797",
+      "authid": "57216341797",
+      "authname": "Andrusiak N.",
+      "surname": "Andrusiak",
+      "given-name": "Natalia",
+      "initials": "N.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60068513"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "artificial intelligence | business processes | chatbot | machine learning | voice bot",
+    "source-id": "17700156006",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85182839515"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85182839515?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85182839515&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85182839515&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85182839515",
+    "dc:identifier": "SCOPUS_ID:85182839515",
+    "eid": "2-s2.0-85182839515",
+    "dc:title": "Artificial Intelligence Technology, Task Attribute and Occupational Substitutable Risk: Empirical Evidence from the Micro-level",
+    "dc:creator": "Wang L.H.",
+    "prism:publicationName": "Journal of Management World",
+    "prism:eIssn": "29943191",
+    "prism:volume": "2023",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": "60-70",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "dc:description": "Artificial intelligence (AI) technology has emerged as a new general-purpose technology (GPT) in recent years. However, the impact of AI technology on firm productivity, employment, and workforce composition is not well understood. This study uses a micro-level panel dataset of Taiwanese electronics firms, which are listed on the Taiwan Stock Exchange (TSE) or the Over-the-Counter (OTC) market for the period 2002-2018. We employ the keyword-matching method to identify AI-related patent classifications, used patents capturing AI innovations, and match-listed electronics firms to AI patents to construct a panel dataset. Empirical estimations illustrated that AI technology is significantly and positively associated with firm produc-tivity. We also adopt various techniques of the generalized method of moments (GMM) for the dynamic panel data model to deal with endogeneity and obtain similar results. Our analyses may yield useful implications for R&D and labor policies. We also describe how our measures can be useful to researchers and policy\u2010makers interested in identifying the effect of AI on markets.",
+    "citedby-count": "22",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60032330",
+      "afid": "60032330",
+      "affilname": "Pohang University of Science and Technology",
+      "affiliation-city": "Pohang",
+      "affiliation-country": "South Korea"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028103",
+      "afid": "60028103",
+      "affilname": "National University of Kaohsiung",
+      "affiliation-city": "Kaohsiung",
+      "affiliation-country": "Taiwan"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58827066200",
+      "authid": "58827066200",
+      "authname": "Wang L.H.",
+      "surname": "Wang",
+      "given-name": "Li Hung",
+      "initials": "L.H.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60028103"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58826047400",
+      "authid": "58826047400",
+      "authname": "Hu T.S.M.",
+      "surname": "Hu",
+      "given-name": "Taiwan Shi Ming",
+      "initials": "T.S.M.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60028103"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58826557200",
+      "authid": "58826557200",
+      "authname": "Dong Z.Q.",
+      "surname": "Dong",
+      "given-name": "Zi Quan",
+      "initials": "Z.Q.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60032330"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial Intelligence | Firm Performance | Labor Market | Productivity Growth | Technological Unemployment",
+    "source-id": "21101196737",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166410907"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85166410907?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166410907&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85166410907&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0953481423001483"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85166410907",
+    "dc:identifier": "SCOPUS_ID:85166410907",
+    "eid": "2-s2.0-85166410907",
+    "dc:title": "How artificial intelligence impacts the competitive position of\u00a0healthcare organizations",
+    "dc:creator": "Ali Mohamad T.",
+    "prism:publicationName": "Journal of Organizational Change Management",
+    "prism:issn": "09534814",
+    "prism:volume": "36",
+    "prism:issueIdentifier": "8",
+    "prism:pageRange": "49-70",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.1108/JOCM-03-2023-0057",
+    "dc:description": "Purpose: Digital transformation affected modern society influencing how businesses cooperate and produce value. In this context, Artificial Intelligence plays a critical role. This study aims to explore the role of Artificial Intelligence in organisational positioning within the market, influencing firms' competitiveness. In this vein, this research seeks to respond to the following research question: How does AI impact the competitive advantage of healthcare organizations?. Design/methodology/approach: To tackle the research question, an explorative analysis using the case study method to investigate an international healthcare center in Dubai was conducted. Nine semi-structured interviews were conducted with the head and the members of the robotic surgery team in CMC Dubai to thoroughly understand what the components of the robotic approach are and how the arrangement before the introduction of this innovative technique while shedding light on the added value and the advantages of adopting such technique on both patient safety and patient satisfaction. Additionally, archival data and online documentation (e.g. industry reports, newspaper articles and internal documents) were analyzed to obtain data triangulation. Findings: The results highlight three primary outcomes influenced by implementing AI in organizational processes: clinical, financial and technological outcomes. The study will offer interesting non-studied insights about the implementation of Artificial Intelligence tools in the healthcare sector and specifically robotic surgeries, and to which extent this will contribute and represent a competitive advantage. Results will hopefully insert a brick in the wall of the impact of AI tools on the quality and the results of surgical operations while emphasizing the benefits of integrating AI in surgical practice. Originality/value: This study offers interesting theoretical and practical implications. It opens a new perspective to understand and manage AI tools in service. This research is not without limits providing valuable insights for future research.",
+    "citedby-count": "53",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60025235",
+      "afid": "60025235",
+      "affilname": "Parthenope University of Naples",
+      "affiliation-city": "Naples",
+      "affiliation-country": "Italy"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60109562",
+      "afid": "60109562",
+      "affilname": "EDHEC Business School",
+      "affiliation-city": "Roubaix",
+      "affiliation-country": "France"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60158043",
+      "afid": "60158043",
+      "affilname": "PSB Paris School of Business",
+      "affiliation-city": "Paris",
+      "affiliation-country": "France"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57703263400",
+      "authid": "57703263400",
+      "orcid": "0000-0002-7635-7319",
+      "authname": "Ali Mohamad T.",
+      "surname": "Ali Mohamad",
+      "given-name": "Talal",
+      "initials": "T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60158043"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57987447500",
+      "authid": "57987447500",
+      "orcid": "0000-0001-6332-2099",
+      "authname": "Bastone A.",
+      "surname": "Bastone",
+      "given-name": "Anna",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60025235"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/37120030800",
+      "authid": "37120030800",
+      "orcid": "0000-0003-4888-6077",
+      "authname": "Bernhard F.",
+      "surname": "Bernhard",
+      "given-name": "Fabian",
+      "initials": "F.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60109562"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55359997500",
+      "authid": "55359997500",
+      "authname": "Schiavone F.",
+      "surname": "Schiavone",
+      "given-name": "Francesco",
+      "initials": "F.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60025235"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence: Competitive advantage | Healthcare organization | Innovation",
+    "source-id": "20670",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfree2read"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Bronze"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130026962"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130026962?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85130026962&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85130026962&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85130026962",
+    "dc:identifier": "SCOPUS_ID:85130026962",
+    "eid": "2-s2.0-85130026962",
+    "dc:title": "Embedding transparency in artificial intelligence machine learning models: managerial implications on predicting and explaining employee turnover",
+    "dc:creator": "Chowdhury S.",
+    "prism:publicationName": "International Journal of Human Resource Management",
+    "prism:issn": "09585192",
+    "prism:eIssn": "14664399",
+    "prism:volume": "34",
+    "prism:issueIdentifier": "14",
+    "prism:pageRange": "2732-2764",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.1080/09585192.2022.2066981",
+    "dc:description": "Employee turnover (ET) is a major issue faced by firms in all business sectors. Artificial intelligence (AI) machine learning (ML) prediction models can help to classify the likelihood of employees voluntarily departing from employment using historical employee datasets. However, output responses generated by these AI-based ML models lack transparency and interpretability, making it difficult for HR managers to understand the rationale behind the AI predictions. If managers do not understand how and why responses are generated by AI models based on the input datasets, it is unlikely to augment data-driven decision-making and bring value to the organisations. The main purpose of this article is to demonstrate the capability of Local Interpretable Model-Agnostic Explanations (LIME) technique to intuitively explain the ET predictions generated by AI-based ML models for a given employee dataset to HR managers. From a theoretical perspective, we contribute to the International Human Resource Management literature by presenting a conceptual review of AI algorithmic transparency and then discussing its significance to sustain competitive advantage by using the principles of resource-based view theory. We also offer a transparent AI implementation framework using LIME which will provide a useful guide for HR managers to increase the explainability of the AI-based ML models, and therefore mitigate trust issues in data-driven decision-making.",
+    "citedby-count": "116",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60116225",
+      "afid": "60116225",
+      "affilname": "Aston Business School",
+      "affiliation-city": "Birmingham",
+      "affiliation-country": "United Kingdom"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60110373",
+      "afid": "60110373",
+      "affilname": "TBS Business School",
+      "affiliation-city": "Toulouse",
+      "affiliation-country": "France"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60114191",
+      "afid": "60114191",
+      "affilname": "Northeastern University London",
+      "affiliation-city": "London",
+      "affiliation-country": "United Kingdom"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57201962502",
+      "authid": "57201962502",
+      "orcid": "0000-0002-8074-248X",
+      "authname": "Chowdhury S.",
+      "surname": "Chowdhury",
+      "given-name": "Soumyadeb",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60110373"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57038939800",
+      "authid": "57038939800",
+      "orcid": "0000-0002-6812-8348",
+      "authname": "Joel-Edgar S.",
+      "surname": "Joel-Edgar",
+      "given-name": "Sian",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60114191"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/34568899900",
+      "authid": "34568899900",
+      "orcid": "0000-0002-9984-5374",
+      "authname": "Dey P.K.",
+      "surname": "Dey",
+      "given-name": "Prasanta Kumar",
+      "initials": "P.K.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116225"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57556115500",
+      "authid": "57556115500",
+      "authname": "Bhattacharya S.",
+      "surname": "Bhattacharya",
+      "given-name": "Sudeshna",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116225"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56092546400",
+      "authid": "56092546400",
+      "orcid": "0000-0002-3475-6231",
+      "authname": "Kharlamov A.",
+      "surname": "Kharlamov",
+      "given-name": "Alexander",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116225"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "AI transparency | Artificial intelligence | employee turnover | human intelligence | local interpretation | machine learning | model explainability",
+    "source-id": "24840",
+    "fund-sponsor": "Aston University",
+    "openaccess": "2",
+    "openaccessFlag": false,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130069260"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130069260?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85130069260&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85130069260&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85130069260",
+    "dc:identifier": "SCOPUS_ID:85130069260",
+    "eid": "2-s2.0-85130069260",
+    "dc:title": "Does AI control or support? Power shifts after AI system implementation in customer relationship management",
+    "dc:creator": "Monod E.",
+    "prism:publicationName": "Journal of Decision Systems",
+    "prism:issn": "12460125",
+    "prism:eIssn": "21167052",
+    "prism:volume": "32",
+    "prism:issueIdentifier": "3",
+    "prism:pageRange": "542-565",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.1080/12460125.2022.2066051",
+    "dc:description": "Many companies are currently investing in artificial intelligence (AI) because of its potential to increase customer satisfaction or financial performance. However, the success rates in implementing AI systems are low, partly due to technology-centric approaches that neglect work practices. This study draws on Bourdieu\u2019s theory of practice to highlight the potential power shift related to AI in customer relationship management, based on the concepts field, capital, and habitus. Two longitudinal case studies were conducted to understand the power shift related to AI implementation. These two AI systems were designed with the objective to support employees. However, subsequently, their implementation changed the balance of power with a significant shift towards more management control, resulting in a devaluation of employees\u2019 work practices. The paper discusses implications for theory and practice in terms of the discrepancies and power shifts following the introduction of AI systems to support customer relationship management.",
+    "citedby-count": "57",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000305",
+      "afid": "60000305",
+      "affilname": "Case Western Reserve University",
+      "affiliation-city": "Cleveland",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60021763",
+      "afid": "60021763",
+      "affilname": "Universit\u00e4t Potsdam",
+      "affiliation-city": "Potsdam",
+      "affiliation-country": "Germany"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60008924",
+      "afid": "60008924",
+      "affilname": "Universit\u00e9 Paris-Dauphine",
+      "affiliation-city": "Paris",
+      "affiliation-country": "France"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60023991",
+      "afid": "60023991",
+      "affilname": "Shanghai University of International Business and Economics",
+      "affiliation-city": "Shanghai",
+      "affiliation-country": "China"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60278992",
+      "afid": "60278992",
+      "affilname": "IPAG Business School",
+      "affiliation-city": "Paris",
+      "affiliation-country": "France"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/128112891",
+      "afid": "128112891",
+      "affilname": "UCMT Shanghai",
+      "affiliation-city": "Shanghai",
+      "affiliation-country": "China"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/6603565174",
+      "authid": "6603565174",
+      "authname": "Monod E.",
+      "surname": "Monod",
+      "given-name": "Emmanuel",
+      "initials": "E.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "128112891"
+       },
+       {
+        "@_fa": "true",
+        "$": "60008924"
+       },
+       {
+        "@_fa": "true",
+        "$": "60000305"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57219185766",
+      "authid": "57219185766",
+      "authname": "Lissillour R.",
+      "surname": "Lissillour",
+      "given-name": "Raphael",
+      "initials": "R.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60278992"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57125602200",
+      "authid": "57125602200",
+      "authname": "K\u00f6ster A.",
+      "surname": "K\u00f6ster",
+      "given-name": "Antonia",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60021763"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57686956700",
+      "authid": "57686956700",
+      "authname": "Jiayin Q.",
+      "surname": "Jiayin",
+      "given-name": "Qi",
+      "initials": "Q.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60023991"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Cultural capital | Customer relationship management | Economic capital | Field of power | Habitus | Social capital | Symbolic capital | Theory of practice",
+    "source-id": "19700181431",
+    "fund-acr": "BMBF",
+    "fund-no": "GZ1507",
+    "fund-sponsor": "Bundesministerium f\u00fcr Bildung und Forschung",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfree2read"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Bronze"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85143762700"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85143762700?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85143762700&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85143762700&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0148296322008670"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85143762700",
+    "dc:identifier": "SCOPUS_ID:85143762700",
+    "eid": "2-s2.0-85143762700",
+    "dc:title": "In consilium apparatus: Artificial intelligence, stakeholder reciprocity, and firm performance",
+    "dc:creator": "Bosse D.",
+    "prism:publicationName": "Journal of Business Research",
+    "prism:issn": "01482963",
+    "prism:volume": "155",
+    "prism:pageRange": null,
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "January 2023",
+    "prism:doi": "10.1016/j.jbusres.2022.113402",
+    "pii": "S0148296322008670",
+    "dc:description": "Firms are increasingly using forms of AI to serve stakeholders across various business functions, resulting in both positive and negative outcomes. Stakeholder theory explains how firms create and destroy value via their stakeholder encounters, making it an ideal foundation for understanding AI deployment on firm-level performance. As AI continues to evolve, both when it comes to the activities and roles it takes and the stakeholders it affects, the AI-stakeholder framework developed herein identifies and situates key managerial decisions related to the adoption and deployment of AI that drive the firm's likelihood of creating or destroying value through stakeholder encounters. The AI\u2013stakeholder framework focuses on stakeholder justice and is supported by testable propositions about the conditions most likely to affect the outcomes of incorporating AI into business processes. The framework also supports future research and practical managerial guidance by articulating the challenges and potential of AI for managing stakeholder encounters.",
+    "citedby-count": "35",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60006739",
+      "afid": "60006739",
+      "affilname": "M\u00e4lardalen University",
+      "affiliation-city": "Vasteras",
+      "affiliation-country": "Sweden"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60022793",
+      "afid": "60022793",
+      "affilname": "University of Richmond",
+      "affiliation-city": "Richmond",
+      "affiliation-country": "United States"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/24079798200",
+      "authid": "24079798200",
+      "orcid": "0000-0003-3083-4762",
+      "authname": "Bosse D.",
+      "surname": "Bosse",
+      "given-name": "Douglas",
+      "initials": "D.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60022793"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57203294602",
+      "authid": "57203294602",
+      "orcid": "0000-0002-2915-3663",
+      "authname": "Thompson S.",
+      "surname": "Thompson",
+      "given-name": "Steven",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60022793"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55711829500",
+      "authid": "55711829500",
+      "orcid": "0000-0001-7334-2480",
+      "authname": "Ekman P.",
+      "surname": "Ekman",
+      "given-name": "Peter",
+      "initials": "P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60006739"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Distributional justice | Firm performance | Interactional justice | Procedural justice | Stakeholder theory",
+    "article-number": "113402",
+    "source-id": "20550",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85151303484"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85151303484?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85151303484&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85151303484&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85151303484",
+    "dc:identifier": "SCOPUS_ID:85151303484",
+    "eid": "2-s2.0-85151303484",
+    "dc:title": "Successfully Organizing AI Innovation Through Collaboration with Startups",
+    "dc:creator": "Oehmichen J.",
+    "prism:publicationName": "MIS Quarterly Executive",
+    "prism:issn": "15401960",
+    "prism:eIssn": "15401979",
+    "prism:volume": "22",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": "23-38",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.17705/2msqe.00073",
+    "dc:description": "Artificial intelligence (AI) technologies are increasingly being used by firms for competitive advantage. Collaborating with AI startups can be an effective way to leverage these technologies. Based on the observations of six AI use cases at established firms delivered by two different AI startups, we identify five challenges of collaborating with startups\u2014finding the right AI startup, identifying the right AI use case, agreeing on the right commercial terms and conditions, considering the impact on people and overcoming implementation roadblocks\u2014and provide recommendations for addressing these challenges.<sup>1, 2</sup>",
+    "citedby-count": "8",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60005510",
+      "afid": "60005510",
+      "affilname": "Nanyang Technological University",
+      "affiliation-city": "Singapore City",
+      "affiliation-country": "Singapore"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60010023",
+      "afid": "60010023",
+      "affilname": "Rijksuniversiteit Groningen",
+      "affiliation-city": "Groningen",
+      "affiliation-country": "Netherlands"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60031216",
+      "afid": "60031216",
+      "affilname": "Johannes Gutenberg-Universit\u00e4t Mainz",
+      "affiliation-city": "Mainz",
+      "affiliation-country": "Germany"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/131580107",
+      "afid": "131580107",
+      "affilname": "ONDEWO GmbH",
+      "affiliation-city": null,
+      "affiliation-country": "Austria"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55993089500",
+      "authid": "55993089500",
+      "authname": "Oehmichen J.",
+      "surname": "Oehmichen",
+      "given-name": "Jana",
+      "initials": "J.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60031216"
+       },
+       {
+        "@_fa": "true",
+        "$": "60010023"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/59826487500",
+      "authid": "59826487500",
+      "authname": "Schult A.",
+      "surname": "Schult",
+      "given-name": "Alexander",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "131580107"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57059656500",
+      "authid": "57059656500",
+      "authname": "Dong J.Q.",
+      "surname": "Dong",
+      "given-name": "John Qi",
+      "initials": "J.Q.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60005510"
+       }
+      ]
+     }
+    ],
+    "article-number": "4",
+    "source-id": "19800188032",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85178121258"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85178121258?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85178121258&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85178121258&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85178121258",
+    "dc:identifier": "SCOPUS_ID:85178121258",
+    "eid": "2-s2.0-85178121258",
+    "dc:title": "Artificial Intelligence Adoption in the Banking Industry: Current State and Future Prospects",
+    "dc:creator": "Lazo M.P.",
+    "prism:publicationName": "Journal of Innovation Management",
+    "prism:eIssn": "21830606",
+    "prism:volume": "11",
+    "prism:issueIdentifier": "3",
+    "prism:pageRange": "54-74",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.24840/2183-0606_011.003_0003",
+    "dc:description": "AI adoption in the banking industry is necessary not only to gain a competitive advantage within the industry but, more importantly, to defend the bank against technological disruptors trying to gain ground in service areas that banks previously dominated. Through a systematic review of related literature, this study aims to investigate the drivers and barriers to adopting AI in the banking industry from the perspective of the major stakeholders: the bank, the customers, the service providers, and the regulators. Using the SCOPUS database, thirty-five studies were identified that are relevant to this study. Given that organizational innovation requires a cohesive strategy considering internal and external ecologies, this study contributes to the literature on AI adoption in the banking industry by providing a multi-stakeholder perspective. Existing literature focuses predominantly on the customers' and the banks' perspectives. Studies from the regulators' and service providers' perspectives still need to be more extensive despite the importance of these two actors in adopting AI in the banking industry. From the standpoint of the customer, reasons for adoption include security, trustworthiness, understanding, familiarity, and positive feedback from others. Meanwhile, trust issues, security issues, unreliability, unavailability, and technology downtime deter customers from adopting AI. From the bank's perspective, AI adoption is enabled by the availability of technological resources, human resources, infrastructure, financial resources, and documentation. On the other hand, lack of skills, lack of awareness, high cost, time-to-market, technical complexity, and regulatory-compliance issues deter banks from fully embracing AI. Transparency of algorithms, data privacy, data protection, and fair use of data are the main concerns both of regulators and customers. The results of this study contribute to the practice of AI in banking by pointing to the need for more empirical and theoretical research on the regulatory perspective of AI adoption in the banking industry to foster responsible AI, how to harness the strength of service providers to enable broader and more effective adoption of AI, how institutions can help increase the talent pool for AI-driven technologies, and how to strengthen the synergistic cooperation of the various stakeholders in the adoption of AI in the banking industry.",
+    "citedby-count": "34",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60071464",
+      "afid": "60071464",
+      "affilname": "De La Salle University",
+      "affiliation-city": "Manila",
+      "affiliation-country": "Philippines"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "2"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57245731000",
+      "authid": "57245731000",
+      "orcid": "0009-0007-3657-4486",
+      "authname": "Lazo M.P.",
+      "surname": "Lazo",
+      "given-name": "Macrina P.",
+      "initials": "M.P.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60071464"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57195412401",
+      "authid": "57195412401",
+      "orcid": "0000-0003-4399-8088",
+      "authname": "Ebardo R.A.",
+      "surname": "Ebardo",
+      "given-name": "Ryan A.",
+      "initials": "R.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60071464"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial Intelligence | Bank | Finance | Innovation | Regulators | Service Providers | Technology Adoption",
+    "source-id": "21101053537",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85179730830"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85179730830?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85179730830&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85179730830&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85179730830",
+    "dc:identifier": "SCOPUS_ID:85179730830",
+    "eid": "2-s2.0-85179730830",
+    "dc:title": "IMPROVEMENT OF PRODUCT QUALITY IN THE AI ECONOMY: HUMAN KNOWLEDGE VS. DIGITAL TECHNOLOGIES",
+    "dc:creator": "Sozinova A.A.",
+    "prism:publicationName": "International Journal for Quality Research",
+    "prism:issn": "18006450",
+    "prism:eIssn": "18007473",
+    "prism:volume": "17",
+    "prism:issueIdentifier": "4",
+    "prism:pageRange": "1253-1264",
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.24874/IJQR17.04-19",
+    "dc:description": "This paper is a comparative study of the advantages of the influence of implementing digital tools and the quality of human knowledge on the improvement of product quality. We substantiate the role of the human factor in the formation of competitive knowledge that is necessary for implementing ambitious goals of companies in the achievement of competitive advantages in the sphere of continuous improvement of product quality. We also prove the necessity for supporting the level of human knowledge competitiveness, which will facilitate the increase in product quality and social justice (employment level). To reach the goals of this research, we use the index method, comparative analysis and cause-effect relationships method. The novel aspect of this paper is connected with the determination of the specifics and advantages of using the quality of human knowledge and digital technologies for achieving the goals of the growth of product quality, which allows forming the current directions for the creation of efficient solutions for further industrial growth.",
+    "citedby-count": "10",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60104421",
+      "afid": "60104421",
+      "affilname": "Vyatka State University",
+      "affiliation-city": "Kirov",
+      "affiliation-country": "Russian Federation"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60005163",
+      "afid": "60005163",
+      "affilname": "Kuban State Agrarian University",
+      "affiliation-city": "Krasnodar",
+      "affiliation-country": "Russian Federation"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60016405",
+      "afid": "60016405",
+      "affilname": "Tambovskij Gosudarstvennyj Tehniceskij Universitet",
+      "affiliation-city": "Tambov",
+      "affiliation-country": "Russian Federation"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60096874",
+      "afid": "60096874",
+      "affilname": "Togliatti State University",
+      "affiliation-city": "Tolyatti",
+      "affiliation-country": "Russian Federation"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56177689700",
+      "authid": "56177689700",
+      "orcid": "0000-0001-5876-2823",
+      "authname": "Sozinova A.A.",
+      "surname": "Sozinova",
+      "given-name": "Anastasia A.",
+      "initials": "A.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60104421"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57224910643",
+      "authid": "57224910643",
+      "orcid": "0000-0002-2054-0333",
+      "authname": "Glushko O.A.",
+      "surname": "Glushko",
+      "given-name": "Olga A.",
+      "initials": "O.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60005163"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56422298700",
+      "authid": "56422298700",
+      "orcid": "0000-0002-1943-5675",
+      "authname": "Kurilova A.A.",
+      "surname": "Kurilova",
+      "given-name": "Anastasia A.",
+      "initials": "A.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60096874"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56677832900",
+      "authid": "56677832900",
+      "orcid": "0000-0001-8216-2326",
+      "authname": "Menshchikova V.I.",
+      "surname": "Menshchikova",
+      "given-name": "Vera I.",
+      "initials": "V.I.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60016405"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Digital technologies | Digitalisation | Employment | Human knowledge | Improvement of product quality | Industrial robots",
+    "source-id": "21100301410",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherfullgold"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Gold"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85172081566"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85172081566?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85172081566&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85172081566&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85172081566",
+    "dc:identifier": "SCOPUS_ID:85172081566",
+    "eid": "2-s2.0-85172081566",
+    "dc:title": "Towards a novel cyber physical control system framework: a deep learning driven use case",
+    "dc:creator": "Moufaddal M.",
+    "prism:publicationName": "International Journal of Intelligent Unmanned Systems",
+    "prism:issn": "20496427",
+    "prism:eIssn": "20496435",
+    "prism:pageRange": null,
+    "prism:coverDate": "2023-01-01",
+    "prism:coverDisplayDate": "2023",
+    "prism:doi": "10.1108/IJIUS-03-2022-0031",
+    "dc:description": "Purpose: The health crisis has highlighted the shortcomings of the industry sector which has revealed its vulnerability. To date, there is no guarantee of a return to the \u201cworld before\u201d. The ability of companies to cope with these changes is a key competitive advantage requiring the adoption/mastery of industry 4.0 technologies. Therefore, companies must adapt their business processes to fit into similar situations. Design/methodology/approach: The proposed methodology comprises three steps. First, a comparative analysis of the existing CPSs is elaborated. Second, following this analysis, a deep learning driven CPS framework is proposed highlighting its components and tiers. Third, a real industrial case is presented to demonstrate the application of the envisioned framework. Deep learning network-based methods of object detection are used to train the model and evaluation is assessed accordingly. Findings: The analysis revealed that most of the existing CPS frameworks address manufacturing related subjects. This illustrates the need for a resilient industrial CPS targeting other areas and considering CPSs as loopback systems preserving human\u2013machine interaction, endowed with data tiering approach for easy and fast data access and embedded with deep learning-based computer vision processing methods. Originality/value: This study provides insights about what needs to be addressed in terms of challenges faced due to unforeseen situations or adapting to new ones. In this paper, the CPS framework was used as a monitoring system in compliance with the precautionary measures (social distancing) and for self-protection with wearing the necessary equipments. Nevertheless, the proposed framework can be used and adapted to any industrial or non-industrial environments by adjusting object detection purpose.",
+    "citedby-count": "3",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60015943",
+      "afid": "60015943",
+      "affilname": "Universit\u00e9 Moulay Isma\u00efl",
+      "affiliation-city": "Meknes",
+      "affiliation-country": "Morocco"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/128969137",
+      "afid": "128969137",
+      "affilname": "LMAID Laboratory",
+      "affiliation-city": "Rabat",
+      "affiliation-country": "Morocco"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57207883721",
+      "authid": "57207883721",
+      "orcid": "0000-0002-7537-7721",
+      "authname": "Moufaddal M.",
+      "surname": "Moufaddal",
+      "given-name": "Mariam",
+      "initials": "M.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60015943"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55933106700",
+      "authid": "55933106700",
+      "authname": "Benghabrit A.",
+      "surname": "Benghabrit",
+      "given-name": "Asmaa",
+      "initials": "A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "128969137"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55566927600",
+      "authid": "55566927600",
+      "authname": "Bouhaddou I.",
+      "surname": "Bouhaddou",
+      "given-name": "Imane",
+      "initials": "I.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60015943"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Computer vision | Cyber physical systems | Deep learning | Human machine interface",
+    "source-id": "21100384006",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85145799845"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85145799845?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85145799845&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85145799845&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166497222001377"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85145799845",
+    "dc:identifier": "SCOPUS_ID:85145799845",
+    "eid": "2-s2.0-85145799845",
+    "dc:title": "When does AI pay off? AI -adoption intensity, complementary investments, and R&D strategy",
+    "dc:creator": "Lee Y.S.",
+    "prism:publicationName": "Technovation",
+    "prism:issn": "01664972",
+    "prism:volume": "118",
+    "prism:pageRange": null,
+    "prism:coverDate": "2022-12-01",
+    "prism:coverDisplayDate": "December 2022",
+    "prism:doi": "10.1016/j.technovation.2022.102590",
+    "pii": "S0166497222001377",
+    "dc:description": "This paper examines how high-tech venture performance varies with AI-adoption intensity. We find that firm revenue increases only after sufficient investment in AI, and the benefits of AI adoption are greater at firms that also invest in complementary technologies and pursue internal R&D strategy. Specifically, AI adoption at low levels does not suggest significant revenue growth, but, as the intensity of AI adoption increases revenue growth occurs. We find that such performance gains from adoption is larger among firms that invest in complementary technologies such as cloud computing and database systems. Moreover, the positive relationship between AI adoption intensity and revenue growth is stronger among firms that pursue a more exclusive R&D strategy specific to the venture.",
+    "citedby-count": "115",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60032144",
+      "afid": "60032144",
+      "affilname": "Korea Advanced Institute of Science and Technology",
+      "affiliation-city": "Daejeon",
+      "affiliation-country": "South Korea"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60021508",
+      "afid": "60021508",
+      "affilname": "University of Notre Dame",
+      "affiliation-city": "Notre Dame",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60014228",
+      "afid": "60014228",
+      "affilname": "MIT Sloan School of Management",
+      "affiliation-city": "Cambridge",
+      "affiliation-country": "United States"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "4"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/59858332800",
+      "authid": "59858332800",
+      "orcid": "0000-0002-3930-0292",
+      "authname": "Lee Y.S.",
+      "surname": "Lee",
+      "given-name": "Yong Suk",
+      "initials": "Y.S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60021508"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/58260446100",
+      "authid": "58260446100",
+      "authname": "Kim T.",
+      "surname": "Kim",
+      "given-name": "Taekyun",
+      "initials": "T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60032144"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/59636427800",
+      "authid": "59636427800",
+      "orcid": "0000-0001-6072-229X",
+      "authname": "Choi S.",
+      "surname": "Choi",
+      "given-name": "Sukwoong",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60014228"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/25928377100",
+      "authid": "25928377100",
+      "authname": "Kim W.",
+      "surname": "Kim",
+      "given-name": "Wonjoon",
+      "initials": "W.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60032144"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Complementary investment | Firm performance | High-tech ventures | R&D strategy",
+    "article-number": "102590",
+    "source-id": "14726",
+    "fund-acr": "MOE",
+    "fund-no": "NRF- 2021R1A6A1A14045741",
+    "fund-sponsor": "Ministry of Education",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85131535046"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85131535046?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85131535046&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85131535046&origin=inward"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85131535046",
+    "dc:identifier": "SCOPUS_ID:85131535046",
+    "eid": "2-s2.0-85131535046",
+    "dc:title": "Artificial intelligence focus and firm performance",
+    "dc:creator": "Mishra S.",
+    "prism:publicationName": "Journal of the Academy of Marketing Science",
+    "prism:issn": "00920703",
+    "prism:eIssn": "15527824",
+    "prism:volume": "50",
+    "prism:issueIdentifier": "6",
+    "prism:pageRange": "1176-1197",
+    "prism:coverDate": "2022-11-01",
+    "prism:coverDisplayDate": "November 2022",
+    "prism:doi": "10.1007/s11747-022-00876-5",
+    "dc:description": "Artificial Intelligence is poised to transform all facets of marketing. In this study, we examine the link between firms\u2019 focus on AI in their 10-K reports and their gross and net operating efficiency. 10-K reports are a salient source of insight into an array of issues in accounting and finance research, yet remain relatively overlooked in marketing. Drawing upon economic and marketing theory, we develop a guiding framework to show how firms\u2019 AI focus could be related to gross and net operating efficiency. We then use a system of simultaneous equations to empirically test the relationship between AI focus and operating efficiency. Our findings confirm that US-listed firms are in a state of impending transformation with regards to\u00a0AI. We show how AI focus is associated with improvements in net profitability, net operating efficiency and return on marketing-related investment while reducing adspend and creating jobs.",
+    "citedby-count": "163",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018805",
+      "afid": "60018805",
+      "affilname": "Deakin University",
+      "affiliation-city": "Geelong",
+      "affiliation-country": "Australia"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55430704000",
+      "authid": "55430704000",
+      "authname": "Mishra S.",
+      "surname": "Mishra",
+      "given-name": "Sagarika",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60018805"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/7004399351",
+      "authid": "7004399351",
+      "authname": "Ewing M.T.",
+      "surname": "Ewing",
+      "given-name": "Michael T.",
+      "initials": "M.T.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60018805"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57207932854",
+      "authid": "57207932854",
+      "authname": "Cooper H.B.",
+      "surname": "Cooper",
+      "given-name": "Holly B.",
+      "initials": "H.B.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60018805"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "Artificial intelligence | Firm efficiency | Firm performance | Marketing metrics",
+    "source-id": "24385",
+    "fund-acr": "IFM",
+    "fund-sponsor": "Deakin University",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "publisherhybridgold"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Hybrid Gold"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132736557"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132736557?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132736557&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85132736557&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0148296322005719"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85132736557",
+    "dc:identifier": "SCOPUS_ID:85132736557",
+    "eid": "2-s2.0-85132736557",
+    "dc:title": "AI and digitalization in relationship management: Impact of adopting AI-embedded CRM system",
+    "dc:creator": "Chatterjee S.",
+    "prism:publicationName": "Journal of Business Research",
+    "prism:issn": "01482963",
+    "prism:volume": "150",
+    "prism:pageRange": "437-450",
+    "prism:coverDate": "2022-11-01",
+    "prism:coverDisplayDate": "November 2022",
+    "prism:doi": "10.1016/j.jbusres.2022.06.033",
+    "pii": "S0148296322005719",
+    "dc:description": "The purpose of this study is to determine the impact of adopting a artificial intelligence-embedded customer relationship management (CRM) system for business-to-business relationship management. After reviewing the literature and considering the theory, a conceptual model was developed. The model was validated using the PLS-SEM technique with 312 responses from 14 firms in the B2B context. The study finds that an AI-embedded CRM system has a significant positive impact towards B2B relationship satisfaction and firm performance. Also, the study highlights that there is a negative impact of the moderator \u2018technology turbulence\u2019 on the relations of \u2018automated decision making\u2019 and \u2018operational efficiency\u2019 with \u2018B2B relationship satisfaction\u2019, whereas there is a positive impact of moderator \u2018leadership support\u2019 on \u2018B2B relationship satisfaction\u2019 and \u2018firm performance\u2019. There is presently no study on the impact of AI-CRM in the B2B context. Also, the study contributes to the existing literature by incorporating the moderator impact of \u2018technology turbulence\u2019 and \u2018leadership support\u2019 in the context of AI-embedded CRM systems for B2B relationship management.",
+    "citedby-count": "108",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60004750",
+      "afid": "60004750",
+      "affilname": "Indian Institute of Technology Kharagpur",
+      "affiliation-city": "Kharagpur",
+      "affiliation-country": "India"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60104028",
+      "afid": "60104028",
+      "affilname": "University of Nicosia",
+      "affiliation-city": "Nicosia",
+      "affiliation-country": "Cyprus"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60107373",
+      "afid": "60107373",
+      "affilname": "Indian Institute of Management Ranchi",
+      "affiliation-city": "Ranchi",
+      "affiliation-country": "India"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "3"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56857082100",
+      "authid": "56857082100",
+      "authname": "Chatterjee S.",
+      "surname": "Chatterjee",
+      "given-name": "Sheshadri",
+      "initials": "S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60004750"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/24544416000",
+      "authid": "24544416000",
+      "authname": "Chaudhuri R.",
+      "surname": "Chaudhuri",
+      "given-name": "Ranjan",
+      "initials": "R.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60107373"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57195339008",
+      "authid": "57195339008",
+      "authname": "Vrontis D.",
+      "surname": "Vrontis",
+      "given-name": "Demetris",
+      "initials": "D.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60104028"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "AI | B2B relationship | CRM | Leadership support | Technology turbulence",
+    "source-id": "20550",
+    "openaccess": "0",
+    "openaccessFlag": false
+   },
+   {
+    "@_fa": "true",
+    "link": [
+     {
+      "@_fa": "true",
+      "@ref": "self",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137406820"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "author-affiliation",
+      "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137406820?field=author,affiliation"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus",
+      "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85137406820&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "scopus-citedby",
+      "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85137406820&origin=inward"
+     },
+     {
+      "@_fa": "true",
+      "@ref": "full-text",
+      "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0019850122002012"
+     }
+    ],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85137406820",
+    "dc:identifier": "SCOPUS_ID:85137406820",
+    "eid": "2-s2.0-85137406820",
+    "dc:title": "Marketing analytics capability, artificial intelligence adoption, and firms' competitive advantage: Evidence from the manufacturing industry",
+    "dc:creator": "Hossain M.A.",
+    "prism:publicationName": "Industrial Marketing Management",
+    "prism:issn": "00198501",
+    "prism:volume": "106",
+    "prism:pageRange": "240-255",
+    "prism:coverDate": "2022-10-01",
+    "prism:coverDisplayDate": "October 2022",
+    "prism:doi": "10.1016/j.indmarman.2022.08.017",
+    "pii": "S0019850122002012",
+    "dc:description": "Data-driven analytics and artificial intelligence (AI) have become the most crucial aspects of today's industrial marketing management. Although many firms have embraced analytics and AI strategies, corresponding academic advances have been slow. This research investigates how industrial goods manufacturers sustain their competitive advantage in export markets, convincing buyers in a competitive data-rich business environment. The evidence has been taken from the RMG (readymade garment) industry, one of the largest manufacturing industries significantly attached to the export markets. Utilizing multi-phase research design, the study reveals that firms marketing analytics capability play a vital role in sensing, seizing, and reconfiguring the market, consequently leading to a sustained competitive advantage. The performance of sensing, seizing, and reconfiguring becomes higher for a firm when they adopt AI on the strength of the marketing analytics platform. These findings exhibit the latest avenue of exploration within marketing analytics and AI's academic research paradigm. Further, in practice, managers will be aware of the facts that create resilience in this specific industry context.",
+    "citedby-count": "154",
+    "affiliation": [
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60011664",
+      "afid": "60011664",
+      "affilname": "University of Wollongong",
+      "affiliation-city": "Wollongong",
+      "affiliation-country": "Australia"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60014714",
+      "afid": "60014714",
+      "affilname": "University of Dhaka",
+      "affiliation-city": "Dhaka",
+      "affiliation-country": "Bangladesh"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60026051",
+      "afid": "60026051",
+      "affilname": "Alliance Manchester Business School",
+      "affiliation-city": "Manchester",
+      "affiliation-country": "United Kingdom"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028220",
+      "afid": "60028220",
+      "affilname": "North South University",
+      "affiliation-city": "Dhaka",
+      "affiliation-country": "Bangladesh"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60116591",
+      "afid": "60116591",
+      "affilname": "Debbie and Jerry Ivy College of Business",
+      "affiliation-city": "Ames",
+      "affiliation-country": "United States"
+     },
+     {
+      "@_fa": "true",
+      "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60118509",
+      "afid": "60118509",
+      "affilname": "Department of Management and Marketing",
+      "affiliation-city": "Melbourne",
+      "affiliation-country": "Australia"
+     }
+    ],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "author-count": {
+     "@limit": "100",
+     "$": "5"
+    },
+    "author": [
+     {
+      "@_fa": "true",
+      "@seq": "1",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57201112589",
+      "authid": "57201112589",
+      "authname": "Hossain M.A.",
+      "surname": "Hossain",
+      "given-name": "Md Afnan",
+      "initials": "M.A.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60011664"
+       },
+       {
+        "@_fa": "true",
+        "$": "60028220"
+       },
+       {
+        "@_fa": "true",
+        "$": "60118509"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "2",
+      "author-url": "https://api.elsevier.com/content/author/author_id/56845068700",
+      "authid": "56845068700",
+      "authname": "Agnihotri R.",
+      "surname": "Agnihotri",
+      "given-name": "Raj",
+      "initials": "R.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60116591"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "3",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57216417125",
+      "authid": "57216417125",
+      "authname": "Rushan M.R.I.",
+      "surname": "Rushan",
+      "given-name": "Md Rifayat Islam",
+      "initials": "M.R.I.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60026051"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "4",
+      "author-url": "https://api.elsevier.com/content/author/author_id/55314016800",
+      "authid": "55314016800",
+      "authname": "Rahman M.S.",
+      "surname": "Rahman",
+      "given-name": "Muhammad Sabbir",
+      "initials": "M.S.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60028220"
+       }
+      ]
+     },
+     {
+      "@_fa": "true",
+      "@seq": "5",
+      "author-url": "https://api.elsevier.com/content/author/author_id/57877785800",
+      "authid": "57877785800",
+      "authname": "Sumi S.F.",
+      "surname": "Sumi",
+      "given-name": "Sumaiya Farhana",
+      "initials": "S.F.",
+      "afid": [
+       {
+        "@_fa": "true",
+        "$": "60014714"
+       }
+      ]
+     }
+    ],
+    "authkeywords": "AI adoption | B2B export market | Manufacturing industry | Market reconfiguration | Market seizing | Market sensing | Marketing analytics capability",
+    "source-id": "22792",
+    "openaccess": "2",
+    "openaccessFlag": false,
+    "freetoread": {
+     "value": [
+      {
+       "$": "all"
+      },
+      {
+       "$": "repository"
+      },
+      {
+       "$": "repositoryam"
+      }
+     ]
+    },
+    "freetoreadLabel": {
+     "value": [
+      {
+       "$": "All Open Access"
+      },
+      {
+       "$": "Green"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "AI enablers (technology roadmapping, attitude); AI readiness (infrastructure, awareness)",
+ "key_finding": "In Saudi Arabian SMEs, AI adoption is driven by organizational and technological readiness factors like strategic roadmapping and infrastructure, and in turn positively impacts firm performance."
+}

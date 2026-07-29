@@ -1,0 +1,8 @@
+{
+ "method": "event study",
+ "ai_measure": "AI score of service technology patents",
+ "outcome_construct": "performance",
+ "effect_direction": "negative",
+ "conditions": "idiosyncratic volatility",
+ "key_finding": "The stock market reacts negatively to AI service patents in manufacturing firms, but this negative reaction is mitigated by higher idiosyncratic volatility."
+}

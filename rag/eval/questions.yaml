@@ -1,0 +1,25 @@
+# 30 Testfragen zu den eigenen Papers – die Antworten müssen bekannt sein.
+#
+# Verteilung (Vorgabe): 10 fact, 8 concept, 8 cross, 4 negative.
+#   fact     – enge Faktenfrage (Zahl, Messwert, Stichprobengröße …)
+#   concept  – konzeptuelle Frage (Methode, Definition, Argumentation)
+#   cross    – Frage über mehrere Papers hinweg
+#   negative – Thema, das in der Bibliothek NICHT vorkommt (prüft, ob das
+#              System zugeben kann, dass es nichts findet)
+#
+# gold_chunk_ids: die chunk_ids, in denen die Antwort steht. Nach dem Ingest
+# per search_library / SQL heraussuchen und hier eintragen. Bei negative-
+# Fragen bleibt die Liste leer.
+#
+# Beispiel:
+# - question: "Welche Stichprobengröße hatte Studie X?"
+#   gold_chunk_ids: [142, 143]
+#   kind: fact
+
+# --- fact (10) ---------------------------------------------------------
+
+# --- concept (8) -------------------------------------------------------
+
+# --- cross (8) ---------------------------------------------------------
+
+# --- negative (4) ------------------------------------------------------

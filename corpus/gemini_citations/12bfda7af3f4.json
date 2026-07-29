@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "raisch2021artificial"
+ ],
+ "page": "p. 192",
+ "sentence": "Raisch and Krakowski define automation as machines taking a task over from a human, and augmentation as humans and machines working on a task together",
+ "passage": "[Raisch & Krakowski (2021), p. 192] \"Whereas automation implies that machines take over a human task, augmentation means that humans collaborate closely with machines to perform a task.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence is a very close paraphrase of the definitions provided in the passage."
+ }
+}

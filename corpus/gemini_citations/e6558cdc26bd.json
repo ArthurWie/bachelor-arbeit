@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "zebec2024creating"
+ ],
+ "page": "p. 7",
+ "sentence": "Zebec and Indihar Stemberger treat the two as the use cases through which AI adoption reaches performance, automation paying off in efficiency and augmentation in what people and machines manage jointly",
+ "passage": "[Zebec & Indihar Stemberger (2024), p. 7] \"Automation involves machines taking over tasks from humans, leading to performance gains via resource, cost and information-processing efficiencies. In contrast, augmentation involves humans collaborating with machines, enhancing both human and machine skills and productivity.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence correctly captures the passage's definitions, linking automation to efficiency-driven performance and augmentation to collaborative productivity."
+ }
+}

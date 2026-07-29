@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "green human capital; green structural capital; sustainability culture",
+ "key_finding": "AI-infused knowledge enhances accounting firm performance by improving green human and structural capital, an effect that is strengthened by the firm's sustainability culture."
+}

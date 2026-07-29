@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "hiring/resume-based",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "labour productivity; labour cost; labour share",
+ "key_finding": "AI investment positively impacts firm growth, but this effect is enhanced by higher labor productivity and diminished by higher labor costs and a larger labor share."
+}

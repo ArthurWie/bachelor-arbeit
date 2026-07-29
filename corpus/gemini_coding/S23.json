@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "decision-making performance; business process performance; process automation; organisational learning; process innovation",
+ "key_finding": "AI adoption positively impacts organizational performance through the mediating effects of BPM capabilities like process automation, organizational learning, and innovation."
+}

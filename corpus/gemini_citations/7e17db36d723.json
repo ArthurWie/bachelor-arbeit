@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 215",
+ "sentence": "Their performance items stay inside the firm and ask whether the same system improves \"operational efficiency\" and speeds up decisions",
+ "passage": "[Chatterjee et al. (2021), p. 215] \"I believe that successful implementation of AI-CRM will help the organization to improve its operational efficiency.\" / \"I think AI-CRM helps in quick decision making which helps the organization to improve its operational performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage provides the measurement items that the sentence accurately describes, including direct quotes and close paraphrases of the key concepts."
+ }
+}

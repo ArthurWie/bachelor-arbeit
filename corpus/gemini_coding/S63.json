@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "Type of manufacturing firm (traditional vs. Industry 4.0)",
+ "key_finding": "AI capabilities enhance corporate sustainability performance for Chinese manufacturing firms, an effect that is stronger in Industry 4.0 firms, though prescriptive capabilities specifically were found to be ineffective."
+}

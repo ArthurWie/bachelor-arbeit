@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "both",
+ "effect_direction": "conditional",
+ "conditions": "Technology turbulence; leadership support",
+ "key_finding": "Adopting an AI-embedded CRM system positively impacts B2B relationship satisfaction and firm performance, an effect that is negatively moderated by technology turbulence and positively moderated by leadership support."
+}

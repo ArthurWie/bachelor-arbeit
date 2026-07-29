@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "number of AI-related patents",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "R&D intensity; sustainability performance; political environment (Democratic vs. Republican administrations)",
+ "key_finding": "AI innovation, measured by patents, enhances firm profitability and value, but the effect is stronger for R&D-intensive firms and for sustainable firms, particularly during Democratic political administrations."
+}

@@ -1,0 +1,222 @@
+%% ============================================================
+%% Bachelor's Thesis Proposal — Institute for International Business (IIB), WU Wien
+%% Arthur Wienerroither — Student ID: h12322363
+%% Target: 3–4 pages text + 1 page references (10 top-ranked sources)
+%% [SOURCE: ...] markers = slots for articles from the Scopus search.
+%% ============================================================
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage[a4paper, margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[protrusion=true,expansion=false]{microtype}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+\usepackage{xcolor}
+
+% Visible placeholder for sources to be pulled from Scopus
+\newcommand{\src}[1]{\textcolor{red}{\textbf{[SOURCE: #1]}}}
+
+\begin{document}
+
+%% --- Header (compact — page budget is tight) ---
+\begin{center}
+  {\LARGE\bfseries When Do AI Investments Create Competitive Advantage?\par}
+  \vspace{0.3cm}
+  {\large A Systematic Review of Firm-Level Empirical Evidence (2015--2026)\par}
+  \vspace{0.6cm}
+  {\normalsize Bachelor's Thesis Proposal\par}
+  {\normalsize Institute for International Business, WU Wien\par}
+  {\normalsize Supervisor: PD Dr.\ Viktor Fredrich\par}
+  \vspace{0.3cm}
+  {\normalsize Arthur Wienerroither (h12322363) --- \today\par}
+\end{center}
+\vspace{0.5cm}
+
+\section{Introduction and Relevance}
+
+Artificial intelligence (AI), understood as machines that perform ``cognitive
+functions that are usually associated with human minds, such as learning,
+interacting, and problem solving'' (Raisch \& Krakowski, 2021, p.~192),
+has moved from research laboratories to the core of corporate investment agendas.
+Firms across industries are committing substantial resources to AI. The
+returns on these investments, however, remain uncertain. Nine of ten executives see a major
+business opportunity in AI, yet ``most companies have a hard time
+generating value with AI'' (Ransbotham et al., 2019, p.~1, as cited in Kemp, 2024,
+p.~619).
+Stock markets have on average even reacted negatively to firms' AI investments
+(Lui, Lee, \& Ngai, 2022, as cited in Kemp, 2024, p.~619).
+
+Theory can make sense of this disconnect. AI ``is regarded as a general-purpose technology akin
+to electricity, the steam engine, or the internet'' (Kemp, 2024, p.~620),
+and from the resource-based view a technology that every competitor can buy
+should not, by itself, be a source of sustained competitive advantage (Barney,
+1991, p.~110). The advantage goes to the firm that combines the
+technology with resources others cannot copy, such as its social relations
+and culture (Barney, 1991, p.~110). This thesis asks under what conditions firms
+achieve this combination, a question that matters to strategic management
+theory and to practitioners deciding which AI budgets create value.
+
+\section{Problem Definition and Research Gap}
+
+Empirical research linking firm-level AI investments to performance outcomes
+has grown quickly, but it is scattered across several literatures and points
+in different directions. Babina, Fedyk, He, and
+Hodson (2024, p.~1) find higher growth and more product innovation among
+AI-investing firms, concentrated among firms that were already large (Babina
+et al., 2024, p.~3). Brynjolfsson, Rock, and Syverson (2021, p.~334)
+explain why the payoff often arrives late or not at all: before AI can raise
+productivity, a firm must build assets that no balance sheet records, such as
+retrained staff and reorganized workflows. Lui, Lee, and Ngai (2022, p.~373)
+find share prices dropping by 1.77\% on average when firms announce AI
+investments. The drop is larger where the firm's IT capability is weak (Lui
+et al., 2022, p.~373).
+
+Recent theory explains why the results differ: the payoff depends on
+conditions inside the firm. A firm gains an advantage its rivals cannot copy
+when it \emph{situates} AI in its own experience, structure, and
+relationships (Kemp,
+2024, p.~618). Outcomes also
+depend on how a firm balances automation, where AI replaces human work, and
+augmentation, where AI supports it (Raisch
+\& Krakowski, 2021, p.~192). Early empirical work supports this view:
+machine learning beat an older technology only when its users knew the domain
+well (Choudhury, Starr, \& Agarwal, 2020, p.~1382).
+
+No systematic review has consolidated this evidence. A prominent review
+asks how firms adopt and use AI, not under which conditions AI leads to
+strategic outcomes (Enholm, Papagiannidis, Mikalef, \& Krogstie, 2022,
+p.~1709). The same review concedes that ``it is still not
+clear if and how AI can help organizations achieve financial performance
+gains'' (Enholm et al., 2022, p.~1728). This thesis aims to close that gap. It collects and
+compares the firm-level evidence on the conditions under which AI
+investments turn into competitive advantage. These conditions include
+organizational capabilities, complementary assets, the design of the
+investment itself, and the firm's environment.
+
+\section{Research Question and Objectives}
+
+The thesis will answer the following research question:
+
+\begin{quote}
+\emph{Under what conditions do firm-level AI investments translate into
+competitive advantage and superior firm performance? --- A systematic review of
+empirical evidence (2015--2026).}
+\end{quote}
+
+Three filters narrow the question. First, the study must appear between 2015
+and 2026. Second, it must study whole firms, not individuals or single tasks.
+Third, it must come from a top-ranked peer-reviewed journal (AJG~4* or~4, or
+VHB~A+ or~A). A paper from a lower-ranked journal is included only if it offers
+something the thesis needs, such as a unique data set. Every exception is
+documented with its reason. The thesis then has three goals: to map what the
+evidence says about how AI investment affects firm performance; to record the
+conditions that make this effect positive, negative, or absent; and to compare
+that evidence with current theory to find directions for future research.
+
+\section{Method}
+
+The thesis employs a systematic literature review (SLR) designed for maximal
+transparency and reproducibility (Tranfield, Denyer, \& Smart, 2003,
+p.~209).
+The search will be conducted in Scopus (WU license); pilot searches via the
+Scopus API calibrated the following query:
+
+\begin{quote}\small\raggedright
+\texttt{TITLE(("artificial intelligence" OR "machine learning" OR "deep
+learning" OR "AI")) AND TITLE-ABS-KEY(("invest" OR "invests" OR "invested" OR
+"investing" OR "investment" OR "investments" OR "investor" OR "investors" OR
+adopt* OR implement*) AND ("competitive advantage" OR "firm performance" OR
+"financial performance" OR "firm productivity" OR "firm value" OR "market
+value" OR "firm growth")) AND SUBJAREA(BUSI OR ECON OR DECI) AND PUBYEAR > 2014
+AND PUBYEAR < 2027 AND DOCTYPE(ar) AND LANGUAGE(english) AND SRCTYPE(j)}
+\end{quote}
+
+\noindent As of 6~July~2026, the query returns 425 records, which lies inside
+the required corridor of 50--500 empirical studies. Before the search, three
+empirical studies were set as test cases that any sound query must find:
+Babina et al. (2024), Lui et al. (2022), and Krakowski, Luger, and Raisch
+(2023). The query finds all three, so it does not miss known relevant work. Included are empirical, firm-level, peer-reviewed journal
+articles in English published 2015--2026; excluded are conceptual papers,
+individual- or task-level studies, and non-ranked outlets. The screening
+process will be documented in a PRISMA-style flow diagram, so every decision
+can be reproduced.
+
+Each included study is then coded into a state-of-the-art table: authors and
+year, journal and ranking, theoretical lens, method and sample, AI investment
+measure, performance outcome measure, direction of the effect, and identified
+conditions. This table is the core of the thesis.
+
+\section{Preliminary Structure of the Thesis}
+
+\begin{center}
+\small
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.29\textwidth}>{\raggedright\arraybackslash}p{0.63\textwidth}@{}}
+\toprule
+\textbf{Chapter} & \textbf{Content} \\
+\midrule
+1.~Introduction & Relevance of the topic, the research gap, and the research question. \\
+2.~Theoretical Background & AI as a general-purpose technology, resource-based reasoning, situated AI, and the automation--augmentation paradox. \\
+3.~Method & SLR protocol, search strategy, and coding scheme. \\
+4.~Results & Descriptive overview of the corpus and the state-of-the-art table. \\
+5.~Discussion & A framework of the conditions for AI-driven competitive advantage, compared with current theory. \\
+6.~Limitations & Constraints of the search, the corpus, and the reviewed studies. \\
+7.~Conclusion and Future Outlook & Summary of the findings and directions for future research. \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+%% ============================================================
+\newpage
+\section*{References}
+
+\begingroup\small
+\setlength{\parskip}{0pt}
+\begin{itemize}\setlength{\itemsep}{2pt}
+  \item Babina, T., Fedyk, A., He, A., \& Hodson, J. (2024). Artificial
+  intelligence, firm growth, and product innovation. \emph{Journal of Financial
+  Economics, 151}, 103745. \url{https://doi.org/10.1016/j.jfineco.2023.103745}
+  \hfill [AJG 4*]
+  \item Barney, J. (1991). Firm resources and sustained competitive advantage.
+  \emph{Journal of Management, 17}(1), 99--120.
+  \url{https://doi.org/10.1177/014920639101700108} \hfill [AJG 4*]
+  \item Brynjolfsson, E., Rock, D., \& Syverson, C. (2021). The productivity
+  J-curve: How intangibles complement general purpose technologies.
+  \emph{American Economic Journal: Macroeconomics, 13}(1), 333--372.
+  \url{https://doi.org/10.1257/mac.20180386} \hfill [AJG 4]
+  \item Choudhury, P., Starr, E., \& Agarwal, R. (2020). Machine learning and
+  human capital complementarities: Experimental evidence on bias mitigation.
+  \emph{Strategic Management Journal, 41}(8), 1381--1411.
+  \url{https://doi.org/10.1002/smj.3152} \hfill [AJG 4*]
+  \item Enholm, I. M., Papagiannidis, E., Mikalef, P., \& Krogstie, J. (2022).
+  Artificial intelligence and business value: A literature review.
+  \emph{Information Systems Frontiers, 24}(5), 1709--1734.
+  \url{https://doi.org/10.1007/s10796-021-10186-w} \hfill [AJG 3]
+  \item Kemp, A. (2024). Competitive advantage through artificial intelligence:
+  Toward a theory of situated AI. \emph{Academy of Management Review, 49}(3),
+  618--635. \url{https://doi.org/10.5465/amr.2020.0205} \hfill [AJG 4*]
+  \item Krakowski, S., Luger, J., \& Raisch, S. (2023). Artificial
+  intelligence and the changing sources of competitive advantage.
+  \emph{Strategic Management Journal, 44}(6), 1425--1452.
+  \url{https://doi.org/10.1002/smj.3387} \hfill [AJG 4*]
+  \item Lui, A. K. H., Lee, M. C. M., \& Ngai, E. W. T. (2022). Impact of
+  artificial intelligence investment on firm value. \emph{Annals of Operations
+  Research, 308}(1--2), 373--388. \url{https://doi.org/10.1007/s10479-020-03862-8}
+  \hfill [AJG 3]
+  \item Raisch, S., \& Krakowski, S. (2021). Artificial intelligence and
+  management: The automation--augmentation paradox. \emph{Academy of Management
+  Review, 46}(1), 192--210. \url{https://doi.org/10.5465/amr.2018.0072} \hfill [AJG 4*]
+  \item Tranfield, D., Denyer, D., \& Smart, P. (2003). Towards a methodology
+  for developing evidence-informed management knowledge by means of systematic
+  review. \emph{British Journal of Management, 14}(3), 207--222.
+  \url{https://doi.org/10.1111/1467-8551.00375} \hfill [AJG 4]
+\end{itemize}
+\endgroup
+
+\end{document}

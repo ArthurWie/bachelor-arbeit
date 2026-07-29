@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "adoption dummy based on 5-digit SIC code and IT/software spending",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "firm's own R&D investment; knowledge collaboration with external partners",
+ "key_finding": "AI adoption enhances innovation performance when complemented by internal R&D investment and can substitute for knowledge collaboration with external partners."
+}

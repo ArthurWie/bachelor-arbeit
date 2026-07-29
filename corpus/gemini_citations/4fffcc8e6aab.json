@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "p. 618",
+ "sentence": "His answer is situated AI, which he defines as AI hemmed in by the firm's own experience, structure and relationships",
+ "passage": "[Kemp (2024), p. 618] \"The present paper begins to resolve this puzzle by developing a theory of situated AI---AI whose agency is circumscribed in a firm's experiential, structural, and relational systems.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": true,
+  "note": "The passage states the paper is developing a theory and a definition, which the sentence accurately reflects, but it is not an empirical finding."
+ }
+}

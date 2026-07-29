@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "earnings call mentions",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "more accurate management forecasts; higher financial reporting quality; greater innovation intensity; attenuated by data-privacy regulation exposure",
+ "key_finding": "Firms that signal a greater strategic focus on AI through earnings call discussions tend to have more efficient corporate investment, an effect linked to improved forecasting, reporting quality, and innovation."
+}

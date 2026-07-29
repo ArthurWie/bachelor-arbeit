@@ -1,0 +1,8 @@
+{
+ "method": "mixed",
+ "ai_measure": "case observation",
+ "outcome_construct": "both",
+ "effect_direction": "conditional",
+ "conditions": "Robust governance frameworks; ethical considerations; regulatory compliance (AI Act, GDPR)",
+ "key_finding": "AI adoption in pharmaceutical tendering enhances operational efficiency and provides a competitive advantage, but only when paired with robust governance frameworks that ensure ethical use and compliance with regulations like the AI Act and GDPR."
+}

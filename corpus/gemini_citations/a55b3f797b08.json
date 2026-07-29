@@ -1,0 +1,17 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "p. 620",
+ "sentence": "Being generic puts AI on a level with general human capital, which competitors can acquire and put to work much as the adopter does",
+ "passage": "[Kemp (2024), p. 620] \"The generic, explicit, and myopic nature of AI all endanger its firm-level benefits, but are uniquely difficult to surmount because AI is both a machine and agentic (Smith & Lewis, 2011). For example, AI's generic nature is akin to general human capital. General human capital cannot typically underly interfirm advantages because a firm's competitors can usually acquire and deploy that knowledge in ways that closely mimic corresponding actions of the focal firm.\"",
+ "echo_runs": [
+  "general human capital"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly likens AI's generic nature to general human capital and explains that competitors can acquire and deploy it similarly, which fully supports the sentence."
+ }
+}

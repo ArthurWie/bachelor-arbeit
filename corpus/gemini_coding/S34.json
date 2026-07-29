@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "AI sourcing strategy (make vs. buy); share of ICT specialists",
+ "key_finding": "Predictive AI adoption increases firm productivity growth volatility, but this effect is concentrated among firms that buy external AI solutions and is mitigated by the presence of a skilled ICT workforce."
+}

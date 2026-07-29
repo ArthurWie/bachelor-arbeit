@@ -1,0 +1,8 @@
+{
+ "method": "event study",
+ "ai_measure": "announcements",
+ "outcome_construct": "performance",
+ "effect_direction": "negative",
+ "conditions": "IT capability; credit rating; industry type",
+ "key_finding": "On average, AI investment announcements negatively impact firm value, with this negative effect being more pronounced for non-manufacturing firms and firms with weak IT capabilities or low credit ratings."
+}

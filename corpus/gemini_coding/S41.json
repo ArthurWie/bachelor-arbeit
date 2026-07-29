@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text (Word2vec); patents",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "data assets (mediator); managerial capability (moderator); state-owned enterprise status; non-polluting industry; non-asset-intensive firms",
+ "key_finding": "AI adoption increases firm value, an effect mediated by data assets and enhanced by managerial capability, particularly in state-owned, non-polluting, and non-asset-intensive firms."
+}

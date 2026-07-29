@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "competitive_advantage",
+ "effect_direction": "conditional",
+ "conditions": "distributive justice; procedural justice; supply chain complexity",
+ "key_finding": "Responsible AI fosters competitive advantage by enhancing supply chain partners' perceptions of distributive and procedural justice, an indirect effect that is partially dampened for distributive justice under high supply chain complexity."
+}

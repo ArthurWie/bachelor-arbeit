@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "resume-based",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "managerial ability; market competition; investor horizon; long-term debt",
+ "key_finding": "AI investment only enhances firm efficiency when complemented by high managerial ability, strong market competition, long-term oriented investors, and access to long-term financing."
+}

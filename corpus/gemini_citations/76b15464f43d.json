@@ -1,0 +1,17 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "p. 102",
+ "sentence": "Barney separates the two constructs by what rivals are able to do: a firm holds a competitive advantage while it runs a value-creating strategy no rival, actual or potential, is running at the same time, and that advantage counts as sustained only once those rivals also cannot reproduce what the strategy yields",
+ "passage": "[Barney (1991), p. 102] \"In this article, a firm is said to have a competitive advantage when it is implementing a value creating strategy not simultaneously being implemented by any current or potential competitors. A firm is said to have a sustained competitive advantage when it is implementing a value creating strategy not simultaneously being implemented by any current or potential competitors and when these other firms are unable to duplicate the benefits of this strategy.\"",
+ "echo_runs": [
+  "a value creating strategy"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the two definitions from the passage, correctly identifying the key distinction between a competitive and a sustained competitive advantage."
+ }
+}

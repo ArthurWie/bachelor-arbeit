@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "cash holdings; marketization level; private ownership",
+ "key_finding": "AI adoption increases a firm's M&A activity, an effect that is stronger for firms with high cash holdings and those operating in less developed market environments."
+}

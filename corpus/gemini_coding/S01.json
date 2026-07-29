@@ -1,0 +1,8 @@
+{
+ "method": "case study",
+ "ai_measure": "case observation",
+ "outcome_construct": "both",
+ "effect_direction": "conditional",
+ "conditions": "process reconfiguration",
+ "key_finding": "AI capabilities improve firm performance at both organizational and process levels, but only when firms leverage AI to reconfigure their business processes."
+}

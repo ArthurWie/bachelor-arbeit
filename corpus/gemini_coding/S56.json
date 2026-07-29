@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "competitive_advantage",
+ "effect_direction": "conditional",
+ "conditions": "organizational memory affordance; collaborative affordance; creational affordance; competitive intensity",
+ "key_finding": "A firm's proactive stance on technology adoption leads to competitive advantage through GenAI's capabilities for knowledge management, collaboration, and content creation, with the creative aspect being especially impactful in highly competitive markets."
+}

@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "internal control quality (mediator); non-state ownership; large firm size; manufacturing industry; high-tech intensity",
+ "key_finding": "AI adoption enhances firm total factor productivity, an effect that is partially mediated by improvements in internal control quality."
+}

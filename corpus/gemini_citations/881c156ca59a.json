@@ -1,0 +1,17 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "pp. 105--106",
+ "sentence": "Barney sets four conditions on a resource before it can hold an advantage in place: it has to be valuable, rare among competitors and imperfectly imitable, and no substitute may do the same strategic job",
+ "passage": "[Barney (1991), pp. 105--106] \"To have this potential, a firm resource must have four attributes: (a) it must be valuable, in the sense that it exploit opportunities and/or neutralizes threats in a firm's environment, (b) it must be rare among a firm's current and potential competition, (c) it must be imperfectly imitable, and (d) there cannot be strategically equivalent substitutes for this resource that are valuable but neither rare or imperfectly imitable.\" Typographical errors as in the original.",
+ "echo_runs": [
+  "imperfectly imitable and"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "no substitute may do the same strategic job",
+  "passage_is_hypothesis": false,
+  "note": "The sentence simplifies the fourth condition; the passage specifies that substitutes must not be valuable while also being neither rare nor imperfectly imitable."
+ }
+}

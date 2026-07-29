@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "firm ownership (state-controlled); international orientation; firm innovativeness; information asymmetry; specialized division of labor; green innovation; supply chain digitalization policies",
+ "key_finding": "AI adoption enhances firm productivity in China, especially for state-controlled, international, and innovative firms, primarily by mitigating information asymmetry, though this productivity effect diminishes over time."
+}

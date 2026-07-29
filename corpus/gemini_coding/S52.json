@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text analysis (annual reports)",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "customer engagement needs; inverted U-shape with tariff exposure",
+ "key_finding": "Chinese firms respond to US tariff exposure by increasing AI integration, which improves firm performance, especially for firms with high customer engagement needs, though the benefits diminish at extreme tariff levels."
+}

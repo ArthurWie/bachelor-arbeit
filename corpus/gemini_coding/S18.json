@@ -1,0 +1,8 @@
+{
+ "method": "case study",
+ "ai_measure": "case observation",
+ "outcome_construct": "both",
+ "effect_direction": "conditional",
+ "conditions": "data quality; lack of specific skills; high investment costs; unclear economic benefits; lack of experience in cost analysis",
+ "key_finding": "AI applications in operations and supply chain management can boost competitiveness by improving performance, but successful implementation is conditional on overcoming barriers like poor data quality, skill gaps, and high investment requirements."
+}

@@ -1,0 +1,34 @@
+# --- Secrets — nie committen (Regel aus CLAUDE.md) ---
+.scopus_api_key
+
+# --- Python: venvs sind OS-gebunden (5 GB; Neubau je Maschine, siehe SETUP_MAC.md) ---
+rag/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- Node (rag/frontend) ---
+node_modules/
+
+# --- LaTeX-Hilfsdateien (die PDFs selbst bleiben getrackt: literature/, verschickte Drafts) ---
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# --- OS-Müll ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Maschinen-lokale Claude-Code-Einstellungen ---
+.claude/settings.local.json

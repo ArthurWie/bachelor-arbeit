@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "p. 106",
+ "sentence": "The studies in this corpus carry the four conditions as the VRIN acronym [CITE], a shorthand Barney himself comes close to when he lists \"rareness, inimitability, non-substitutability\" as the characteristics that turn a firm attribute into a resource",
+ "passage": "[Barney (1991), p. 106] \"Firm attributes may have the other characteristics that could qualify them as sources of competitive advantage (e.g., rareness, inimitability, non-substitutability), but these attributes only become resources when they exploit opportunities or neutralize threats in a firm's environment.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "that turn a firm attribute into a resource",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that the listed attributes only become resources when they also exploit opportunities or neutralize threats, a crucial condition the sentence omits."
+ }
+}

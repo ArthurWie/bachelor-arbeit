@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "knowledge intensity; R&D intensity; internal controls; innovation capability; financial health",
+ "key_finding": "AI adoption improves firm investment efficiency, particularly in knowledge-intensive and R&D-intensive firms, by enhancing innovation capabilities and financial health."
+}

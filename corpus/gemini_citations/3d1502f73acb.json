@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "hossain2022marketing"
+ ],
+ "page": "pp. 241--242",
+ "sentence": "Hossain et al. put the same argument in terms of what a firm does with what it owns, and tie the long-run case to holdings rivals cannot match",
+ "passage": "[Hossain et al. (2022), pp. 241--242] \"The resource-based view (RBV) portrays how a firm can optimally use its resources, which are non-substitutable, unique and valuable for achieving sustained competitive advantage (Wernerfelt, 1984).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage defines the resource-based view in terms of using unique and non-substitutable resources to achieve sustained competitive advantage, which the sentence faithfully paraphrases."
+ }
+}

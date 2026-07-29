@@ -1,0 +1,8 @@
+{
+ "method": "survey-SEM",
+ "ai_measure": "survey construct",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "strategic intent for revenue growth",
+ "key_finding": "The joint implementation of RPA and AI is associated with increased firm performance through revenue growth, driven by price premiums, rather than cost reduction, and this effect is amplified by a strategic intent for growth."
+}

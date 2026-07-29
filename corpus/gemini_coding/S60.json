@@ -1,0 +1,8 @@
+{
+ "method": "mixed",
+ "ai_measure": "survey construct (Study 1); intended investment (Study 2)",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "pro-innovation regulatory climate; regulatory clarity; supportive enforcement; productivity gains (mediator)",
+ "key_finding": "The study finds that AI-enabled innovation positively impacts firm growth via productivity gains, but this effect is significantly amplified by a clear and supportive regulatory climate."
+}

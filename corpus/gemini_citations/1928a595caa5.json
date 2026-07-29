@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "Shi et al. close a study of Chinese listed firms by putting the spread in outcomes down to intangible complements, to how AI is governed, and to managerial capability that fits one setting only",
+ "passage": "[Shi et al. (2025), p. 1] \"These mixed outcomes suggest that the value-creating capacity of AI depends on more than technological sophistication alone; it hinges on complementary intangible resources, effective governance structures, and context-specific managerial capabilities---factors that current empirical research has only partially explored.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "of Chinese listed firms",
+  "passage_is_hypothesis": true,
+  "note": "The sentence misrepresents the passage's hypothesis about underexplored factors as a final conclusion and adds the specific context of 'Chinese listed firms' which is not mentioned."
+ }
+}

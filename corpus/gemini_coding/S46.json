@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "resume-based",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "wage inequality (mediation); industry dynamism; industry complexity; sector",
+ "key_finding": "A higher share of AI-skilled employees is associated with increased firm value, an effect partially mediated by reduced wage inequality and amplified by industry dynamism and complexity."
+}

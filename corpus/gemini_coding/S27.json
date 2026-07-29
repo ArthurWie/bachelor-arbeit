@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text",
+ "outcome_construct": "performance",
+ "effect_direction": "conditional",
+ "conditions": "actionable vs. speculative/irrelevant disclosure type; innovation activities (R&D, patents); productivity",
+ "key_finding": "Only credible and actionable disclosures of AI adoption in corporate filings lead to higher firm valuation, as investors distinguish them from opportunistic signaling."
+}

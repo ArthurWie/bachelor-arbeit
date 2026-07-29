@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "resume-based",
+ "outcome_construct": "performance",
+ "effect_direction": "positive",
+ "conditions": "firm size; monetary policy shocks",
+ "key_finding": "Firms adopting AI for pricing, as measured by job postings, exhibit faster growth in sales, employment, assets, and markups, with this effect being stronger for larger firms."
+}

@@ -1,0 +1,102 @@
+%% ============================================================
+%% Standalone interim draft for the supervisor (29 July 2026).
+%% Contents: full TOC skeleton, Theory chapter, Method interim
+%% summary, coding-table excerpt (S01–S34), List of Aids.
+%% Preamble mirrors main.tex. main.tex stays the master file.
+%% ============================================================
+\documentclass[12pt, a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{bib.bib}
+
+\usepackage[a4paper, margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{pdflscape}
+
+\usepackage[hidelinks]{hyperref}
+
+%% ============================================================
+\begin{document}
+
+% The citation-verification footnotes (verbatim source passages, see CLAUDE.md
+% convention) are an internal checking device — suppressed in this draft only;
+% sections/background.tex keeps them. Must come AFTER \begin{document}:
+% hyperref/biblatex re-define \footnote at begin-document and would undo it.
+\renewcommand{\footnote}[2][]{}
+
+\begin{titlepage}
+  \centering
+  \vspace*{2cm}
+  {\LARGE\bfseries Organizational Conditions for AI-Driven Firm Performance\par}
+  \vspace{0.5cm}
+  {\large A Systematic Review of Empirical Evidence, 2015--2026\par}
+  \vspace{2cm}
+  {\large Bachelor's Thesis --- interim draft for supervisor review\par}
+  {\large Supervisor: PD Dr.\ Viktor Fredrich\par}
+  \vspace{1cm}
+  {\large Vienna University of Economics and Business (WU Wien)\par}
+  \vspace{1cm}
+  {\large Arthur Wienerroither\par}
+  {\large Student ID: h12322363\par}
+  \vspace{0.5cm}
+  {\large 29 July 2026\par}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\chapter{Introduction}
+\label{sec:intro}
+\noindent\emph{This chapter follows. Research question and framing as approved in the proposal.}
+
+\input{sections/background}
+
+\input{sections/method_summary}
+
+\chapter{Results}
+\label{sec:results}
+\noindent\emph{In progress. Part one, the descriptive mapping of the corpus, is drafted; part two, the synthesis of conditions, is the next writing step.}
+
+\chapter{Discussion}
+\label{sec:discussion}
+\noindent\emph{This chapter follows.}
+
+\chapter{Conclusion and Future Outlook}
+\label{sec:conclusion}
+\noindent\emph{This chapter follows.}
+
+\newpage
+\printbibliography[heading=bibintoc, title={References}]
+
+\newpage
+\appendix
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendix}
+
+\section*{Coding table (excerpt)}
+\label{app:coding}
+
+\noindent An excerpt of the coding table: the 25 studies published in the highest-ranked journals (AJG 4* and 4, then 3; within a rating ordered by year) plus, at the end, the first three AJG~2 studies as examples of the lowest included rating tier --- 28 of 67 coded studies in total. Split into study characteristics (Table~\ref{tab:coding-a1}) and findings (Table~\ref{tab:coding-a2}); study IDs refer to the full table.
+
+\input{sections/appendix_coding_table_excerpt}
+\clearpage
+
+% List of Aids deliberately NOT included in this draft — Arthur asks Fredrich
+% first how AI usage should be documented (email of 29 July 2026).
+% \input{sections/list_of_aids}
+
+\end{document}

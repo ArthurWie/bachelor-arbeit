@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "10-K text analysis and patents",
+ "outcome_construct": "performance",
+ "effect_direction": "negative",
+ "conditions": "public AI literacy",
+ "key_finding": "Exaggerating AI adoption in corporate disclosures without substantive implementation leads to initial investor enthusiasm but ultimately results in negative market reactions and poorer firm performance."
+}

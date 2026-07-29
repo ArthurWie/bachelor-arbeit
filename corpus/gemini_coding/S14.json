@@ -1,0 +1,8 @@
+{
+ "method": "panel econometrics",
+ "ai_measure": "adoption dummy",
+ "outcome_construct": "both",
+ "effect_direction": "conditional",
+ "conditions": "human-machine interaction capabilities; selecting, tuning, and governing AI",
+ "key_finding": "AI adoption substitutes traditional human capabilities, eroding their value, while simultaneously creating a new source of competitive advantage based on novel, complementary human-machine interaction skills."
+}

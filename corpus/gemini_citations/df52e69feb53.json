@@ -1,0 +1,15 @@
+{
+ "keys": [
+  "mehta2025driven"
+ ],
+ "page": "p. 550",
+ "sentence": "Mehta et al. give competitive advantage a position between adoption and results: they test it as the channel through which AI adoption reaches performance, and predict a positive effect on performance in its own right",
+ "passage": "[Mehta et al. (2025), p. 550] \"H8. Competitive advantage has a significant and positive impact upon firm performance.\" / \"H9. Competitive advantage has a mediating influence on adoption of AI technologies and firm performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the two hypotheses from the passage, correctly identifying competitive advantage as a mediator and as having a direct predicted effect on performance."
+ }
+}
