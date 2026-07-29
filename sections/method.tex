@@ -1,17 +1,55 @@
 \chapter{Method}
 \label{sec:method}
 
-% Research design and approach.
-% Data collection / literature search strategy, databases, inclusion criteria.
-% Analysis procedure.
+\section{Review design}
 
-% TODO beim Ausschreiben dieses Kapitels uebernehmen (Transparenzhinweis zur
-% Zitierweise, Regel eingefroren 28.07.2026, Begruendung in CLAUDE.md):
-%
-% Seven of the 67 studies carry no printed page numbers. Three of them appear in
-% Elsevier journals that number articles instead of pages, and are cited by their
-% article number with the article-internal page \parencite[e.g.][p.~5]{babina2024artificial}.
-% The remaining four are paginated relative to the article by their publisher or had
-% not been assigned to an issue at the time of retrieval, and are cited by section
-% \parencite[e.g.][sec.~5.1]{banna2025value}. No PDF page is reported as a printed
-% journal page anywhere in this thesis.
+This thesis answers its research question with a systematic literature review. The choice follows from the question itself: whether firm-level AI investments pay off, and under what conditions, is an empirical matter on which evidence has accumulated quickly and across scattered outlets. Management scholars pick the method for the transparency and comprehensiveness of its process \parencite[p.~196]{rojon2021utilization}\footnote{[Rojon et al. (2021), p. 196] ``Scholars selected SRm for representing a rigorous, systematic, transparent and comprehensive approach to analysing, evaluating and synthesizing literature.''}. Every step that shapes the final corpus is documented here so that each decision can be retraced.
+
+Scopus, accessed under the WU license, is the single data source. All studies that enter the review come from one documented query. Sources outside this corpus appear only as theory anchors in Chapter~2 and as method literature in this chapter; the review findings rest on the corpus alone. Scopus does not index grey literature or preprints, so the review is limited to peer-reviewed journal articles by design.
+
+\section{Search strategy}
+
+The search was run on 17~July~2026 with the following query:
+
+\begin{quote}\small\raggedright
+\texttt{TITLE(("artificial intelligence" OR "machine learning" OR "deep
+learning" OR "AI")) AND TITLE-ABS-KEY(("invest" OR "invests" OR "invested" OR
+"investing" OR "investment" OR "investments" OR "investor" OR "investors" OR
+adopt* OR implement*) AND ("competitive advantage" OR "firm performance" OR
+"financial performance" OR "firm productivity" OR "firm value" OR "market
+value" OR "firm growth")) AND SUBJAREA(BUSI OR ECON OR DECI) AND PUBYEAR > 2014
+AND PUBYEAR < 2027 AND DOCTYPE(ar) AND LANGUAGE(english) AND SRCTYPE(j)}
+\end{quote}
+
+\noindent The query places the AI vocabulary in the title, which keeps the search on studies where AI is the subject rather than a side topic, and the investment and outcome vocabulary in title, abstract, and keywords. The outcome list names the constructs the corpus actually uses, including firm value and firm growth. Decision sciences is included as a subject area because several operations research journals that publish firm-level AI evidence are indexed there, not under business or economics. The investment terms are written out instead of using a wildcard: \texttt{invest*} also matches \emph{investigate} and its inflections, which inflated an earlier version of the query by 75 records that studied AI without treating it as an investment.
+
+Three studies were fixed in advance as retrieval benchmarks \parencite{babina2024artificial, krakowski2023artificial, lui2022impact}: a sound query must find all of them. The final query does, and it returned 432 unique records.
+
+\section{Selection criteria}
+
+Two layers of criteria decide what stays in the corpus. The first is journal quality: a record remains when its journal is listed in the AJG~2024 with a rating of at least~2. Most records this rule removes appeared in journals not listed in the AJG at all. One fixed edition of the ranking applies to every record regardless of publication year, which keeps the rule uniform and non-selective, at the price of rating older records against a newer list.
+
+The second layer holds four content criteria. A study stays in when it (1)~is empirical, (2)~works at the firm level, (3)~treats firms' AI investment or adoption as its object of study, and (4)~measures a performance or competitive-advantage outcome. Case studies count as empirical. Studies that survey managers stay in when the outcome is measured at the firm level.
+
+Exclusions carry one of five codes, assigned in a fixed order in which the first matching code wins, so that every excluded record has exactly one reason and the counts are unambiguous: \textbf{E1}~not empirical (conceptual work, reviews, simulations without firm data); \textbf{E2}~not at the firm level (individual, team, or country); \textbf{E3}~AI is the study's analysis tool rather than the firms' investment object; \textbf{E4}~no performance or competitive-advantage outcome (for example adoption intention or user satisfaction); \textbf{E5}~wrong publication type. At the title and abstract stage the rule in cases of doubt was to keep the record and let the full text decide.
+
+\section{Screening process}
+
+Figure~\ref{fig:prisma} shows the full chain. The journal-quality filter reduced the 432 records to 174. Title and abstract screening against the four content criteria removed 93 records (E1:~20, E2:~7, E3:~39, E4:~27; E5 was never needed), leaving 81 for full-text assessment. Reading the full texts excluded another fourteen: twelve on content grounds and two whose full texts could not be obtained through the university license or open access. The review proceeds with 67 studies. Every screening decision is recorded with its code and reason in the screening file.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\textwidth]{figures/fig_prisma}
+\caption{PRISMA-style flow of identification, screening, and inclusion. Source: own representation.}
+\label{fig:prisma}
+\end{figure}
+
+\section{Coding}
+
+Each included study occupies one row of the coding table, split into study characteristics and findings (Appendix, Tables~\ref{tab:coding-a1} and~\ref{tab:coding-a2}). Beyond the bibliographic fields, every study is coded on theoretical lens, method, sample, country, industry, the AI investment measure, the outcome construct, separate performance and competitive-advantage measures, the direction of the effect, identified conditions, a one-sentence key finding, and quality notes. The direction takes one of five values: positive, negative, mixed, null, or conditional, where conditional means the sign or size of the effect depends on identified conditions. Two rules govern the cell contents: only what a study explicitly reports is coded, and where a value does not fit the categories it is written out verbatim rather than forced into one.
+
+The outcome side separates superior firm performance from competitive advantage. A study is coded as measuring competitive advantage only when it measures a distinct construct, such as a validated competitive-advantage scale or genuinely competitor-comparative evidence; a performance gain alone is coded as performance. Each construct has its own measurement column, so the table shows not only what the studies find but also how rarely competitive advantage is measured at all.
+
+Every study was coded twice in independent runs, the second run blind to the first; both runs were AI-assisted. Agreement between the runs was 90\% for method, 88\% for the outcome construct, and 73\% for effect direction, the last after a documented pass that harmonized the first run's early direction codes to the codified rule. All 29 disagreements were adjudicated by the author against the full texts, with the decision rules recorded in writing, and a fixed-seed sample of ten agreement rows was re-checked the same way without finding a joint error. For studies never flagged during screening, the coding read doubled as the full-text eligibility check; an eligibility failure at this stage would have been documented back into the screening records.
+
+Seven of the 67 studies carry no printed page numbers. Three appear in Elsevier journals that number articles instead of pages and are cited by article number with the article-internal page. The remaining four are paginated relative to the article by their publisher or had not been assigned to an issue at the time of retrieval, and are cited by section. No PDF page is reported as a printed journal page anywhere in this thesis.
