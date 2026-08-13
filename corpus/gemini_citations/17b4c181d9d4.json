@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "huang2025firm"
+ ],
+ "page": "p. 1856",
+ "sentence": "Being early is no advantage in itself: market value and financial performance rise with implementation, but the edge of first movers and top performers is not uniform across the indicators",
+ "passage": "[Huang & Lin (2025), p. 1856] \"this research reveals that while AI adoption enhances financial performance and market value, the advantages for AI first movers and better performers are not uniformly positive across all indicators.\"",
+ "echo_runs": [
+  "first movers and"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Being early is no advantage in itself",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that advantages for first movers are not uniformly positive, which does not fully support the stronger claim that being early offers no advantage in itself.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

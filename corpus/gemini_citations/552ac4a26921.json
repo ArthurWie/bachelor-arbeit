@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alam2025relationship"
+ ],
+ "page": "p. 1",
+ "sentence": "In hospitality it moderates selectively, touching only the path from dynamic capabilities to value",
+ "passage": "[Alam et al. (2025), p. 1] \"the moderating effects of technological turbulence were selective, significantly influencing only the relationship between dynamic capabilities and value creation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "In hospitality",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms the selective moderation on the specified path, but does not explicitly mention the hospitality context.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

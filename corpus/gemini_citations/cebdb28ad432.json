@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chen2026real"
+ ],
+ "page": "p. 1",
+ "sentence": "Exposure to privacy regulation blunts the gain in investment efficiency",
+ "passage": "[Chen et al. (2026), p. 1] \"Our baseline results indicate that higher AI adoption is associated with greater investment efficiency\" / \"Cross-sectional evidence further indicates that regulatory frictions, such as exposure to data-privacy regulation, attenuate the association between AI adoption and investment efficiency.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that exposure to data-privacy regulation attenuates the positive relationship between AI adoption and investment efficiency, which fully supports the claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

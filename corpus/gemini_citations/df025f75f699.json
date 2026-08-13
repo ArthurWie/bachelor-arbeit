@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "sandeep2025leveraging"
+ ],
+ "page": "p. 404",
+ "sentence": "In recruitment, adoption reaches competitive advantage through dynamic capabilities, built from HR competencies together with open innovation; financial backing and IT infrastructure support these capabilities",
+ "passage": "[Sandeep et al. (2025), p. 404] \"This study examines the influence of organizational resources on AI adoption in recruitment, focusing on their role in achieving competitive advantage through effective implementation.\" / \"The results reveal that HR competencies and open innovation significantly influence dynamic capabilities, which are essential for AI integration, supported by financial support and information technology (IT) infrastructure.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "reaches competitive advantage through dynamic capabilities",
+  "passage_is_hypothesis": true,
+  "note": "The sentence conflates the study's stated aim regarding competitive advantage with its empirical findings, which only link dynamic capabilities to AI integration rather than directly to competitive advantage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

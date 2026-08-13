@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "adams2026rise"
+ ],
+ "page": "p. 1",
+ "sentence": "AI-powered pricing shows the same order: the bigger, more productive players are the likelier adopters, and adopters grow faster in sales and employment as well as markups",
+ "passage": "[Adams et al. (2026), p. 1] \"At the firm level, larger and more productive firms are more likely to adopt AI pricing. Firms that adopted AI pricing experienced faster growth in sales, employment, assets, and markups, and their stock returns are also more responsive to high-frequency monetary policy surprises than non-adopters.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly confirms the sentence's claims regarding firm size and productivity as predictors of adoption, as well as the resulting faster growth in sales, employment, and markups.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

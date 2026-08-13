@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "li2026opportunity"
+ ],
+ "page": "p. 1",
+ "sentence": "Competitive intensity strengthens the creational path from technological opportunism to competitive advantage",
+ "passage": "[Li, Wu et al. (2026), p. 1] \"we ground in affordance theory to explore how firms can leverage GenAI affordances to transform technological opportunism (TO) into sustained competitive advantages, particularly in highly competitive environments.\" / \"competitive intensity amplifies the mediation effect of creational affordance instead of the mediation effects of organizational memory and collaborative affordances.\"",
+ "echo_runs": [
+  "technological opportunism to"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that competitive intensity amplifies the mediation effect of creational affordance in transforming technological opportunism into competitive advantage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

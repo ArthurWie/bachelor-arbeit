@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alam2025relationship"
+ ],
+ "page": "p. 1",
+ "sentence": "It dampens the paths from automated decision making and operational efficiency to relationship satisfaction [CITE], and in hospitality it moderates selectively, touching only the path from dynamic capabilities to value",
+ "passage": "[Alam et al. (2025), p. 1] \"the moderating effects of technological turbulence were selective, significantly influencing only the relationship between dynamic capabilities and value creation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "It dampens the paths from automated decision making and operational efficiency to relationship satisfaction [CITE], and in hospitality",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the second clause regarding selective moderation between dynamic capabilities and value creation, but it does not mention the first clause's claims about automated decision making, operational efficiency, relationship satisfaction, or hospitality.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

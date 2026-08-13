@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "The valuation premium favors state ownership, vanishes in polluting industries unless AI belongs to a green transition that is credible, and appears only where asset structures stay light",
+ "passage": "[Shi et al. (2025), p. 1] \"Three heterogeneity tests reveal boundary conditions: the valuation premium is stronger for state-owned enterprises, disappears in heavily polluting industries unless AI is part of a credible green transition, and is evident only in non-asset-intensive firms where resource reconfiguration is agile.\"",
+ "echo_runs": [
+  "the valuation premium",
+  "polluting industries unless ai"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the three empirical boundary conditions described in the passage without adding unsupported claims.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "li2026opportunity"
+ ],
+ "page": "p. 1",
+ "sentence": "For generative AI, technological opportunism converts into competitive advantage through three affordances",
+ "passage": "[Li et al. (2026), p. 1] \"find that three GenAI affordances--organizational memory, collaborative, and creational affordances--mediate the relationship between TO and competitive advantages.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states the finding that three GenAI affordances mediate the relationship between technological opportunism (TO) and competitive advantages, which fully supports the claim in the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

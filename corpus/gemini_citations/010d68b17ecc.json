@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "lin2026navigating"
+ ],
+ "page": "abstract",
+ "sentence": "Among Chinese listed companies, part of the AI--TFP link runs through improved control quality",
+ "passage": "[Lin, Chang et al. (2026), abstract] \"This research investigates the impact of AI adoption on total factor productivity (TFP) within Chinese A-share listed companies from 2007 to 2022.\" / \"we identify a key transmission mechanism: the positive relationship between AI and TFP is partially channeled through enhanced internal control quality (ICQ).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that enhanced internal control quality is a partial transmission mechanism for the positive relationship between AI and TFP in Chinese listed companies.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

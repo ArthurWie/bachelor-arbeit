@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "arshad2026making"
+ ],
+ "page": "p. 1",
+ "sentence": "Pairing AI with robotic process automation adds revenue rather than cost savings, and the gain follows the strategic intent behind the deployment",
+ "passage": "[Arshad et al. (2026), p. 1] \"We find that joint implementation is positively associated with additional revenue growth (linked primarily to price increases) but is not associated with additional cost reduction beyond the separate effects of RPA and AI.\" / \"among firms implementing both RPA and AI, a stronger revenue growth intent is associated with greater revenue-related outcomes.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that joint implementation increases revenue without additional cost reductions and that stronger revenue growth intent leads to greater revenue outcomes.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

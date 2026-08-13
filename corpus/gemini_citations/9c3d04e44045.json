@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "pham2024determinants"
+ ],
+ "page": "p. 1",
+ "sentence": "Hospitals holding more market share adopt AI more often and gain more from it, a result that survives only once endogeneity is controlled",
+ "passage": "[Pham et al. (2024), p. 1] \"we find that hospitals with a larger market share are great candidates to adopt AI. Furthermore, these hospitals can leverage AI technology to enhance various aspects of performance, including total outpatient revenue, total inpatient revenue, productivity, and occupancy. Importantly, we demonstrate that controlling for endogeneity is essential in assessing the performance outcomes of AI adoption.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "adopt AI more often, gain more, survives only once",
+  "passage_is_hypothesis": false,
+  "note": "The passage states larger market share hospitals are 'great candidates' that can enhance performance and that endogeneity control is 'essential', but it does not empirically claim they adopt AI more often, gain comparatively more, or that the result survives only once controlled.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "tao2025data"
+ ],
+ "page": "abstract",
+ "sentence": "And big-data intelligence raises new product performance by being converted into AI capabilities, with electronic supply-chain collaboration strengthening the indirect path",
+ "passage": "[Tao et al. (2025), abstract] \"BDAI assimilation significantly promotes NPP, and AI capabilities act as an intermediary bridge -- empowering B2B firms to convert BDAI assimilation into enhanced NPP.\" / \"This study further found that this mediation model is strengthened through the contingency impact of ESCC\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that AI capabilities mediate the effect of BDAI on new product performance, and that this mediation is strengthened by electronic supply-chain collaboration.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

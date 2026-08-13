@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "dinh2026leveraging"
+ ],
+ "page": "p. 84",
+ "sentence": "Among manufacturing SMEs in emerging economies, AI knowledge capabilities work directly and through more radical digitally enabled product innovation, with digital sustainability leadership reshaping both paths",
+ "passage": "[Dinh (2026), p. 84] \"Emerging market manufacturing small and medium-sized enterprises (SMEs) struggle to translate artificial intelligence (AI) investments into innovation outcomes.\" / \"AI-enabled knowledge capabilities operate through dual pathways: directly enhancing performance and indirectly through digital product innovation radicalness.\" / \"this study identifies digital sustainability leadership as a critical boundary condition acting as both mediator and moderator, fundamentally reconfiguring how AI generates value.\"",
+ "echo_runs": [
+  "digital sustainability leadership"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly supports all elements of the sentence, including the context of emerging market manufacturing SMEs, the dual pathways of AI knowledge capabilities, and the reconfiguring role of digital sustainability leadership.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

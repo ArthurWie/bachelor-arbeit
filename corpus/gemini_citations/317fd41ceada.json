@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2025companies"
+ ],
+ "page": "p. 504",
+ "sentence": "Market penalties for AI service failures have grown harsher in recent years",
+ "passage": "[Song et al. (2025), p. 504] \"Third, AI service failure events in more recent years have a more intensively negative impact than those in more distant years.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Market penalties",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms a 'more intensively negative impact' in recent years but does not explicitly specify that this refers to 'market penalties'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

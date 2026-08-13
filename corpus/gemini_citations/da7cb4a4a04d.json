@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1425",
+ "sentence": "The benchmark study of this group states it sharpest: in chess, AI adoption makes the players' traditional strengths obsolete and creates capabilities at the human-machine boundary that have no relation, at times a negative one, to the old ones",
+ "passage": "[Krakowski et al. (2023), p. 1425] \"AI adoption triggers interrelated substitution and complementation dynamics, which make humans' traditional competitive capabilities obsolete, while creating new sources of persistent heterogeneity when humans interact with chess engines. These novel human-machine capabilities are unrelated, or even negatively related, to traditional capabilities.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that AI adoption makes traditional capabilities obsolete and creates new human-machine capabilities that are unrelated or negatively related to the old ones.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

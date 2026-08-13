@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "guo2025cross"
+ ],
+ "page": "p. 1250",
+ "sentence": "The pairing of AI adoption with strategic agility upgrades the value-chain position of Chinese cross-border SMEs through international marketing capabilities",
+ "passage": "[Guo et al. (2025), p. 1250] \"A quantitative approach was employed to analyse data from 322 small and medium-sized enterprises in China utilizing cross-border platforms.\" / \"the coupling of AI adoption and strategic agility positively influences IMCs, product innovation and brand upgrading, while IMCs serve as a mediating mechanism.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "upgrades the value-chain position",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms positive effects on product innovation and brand upgrading, but does not explicitly claim an upgrade in value-chain position.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

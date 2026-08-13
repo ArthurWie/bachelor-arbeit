@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "leoni2022mediating"
+ ],
+ "page": "p. 411",
+ "sentence": "Italian manufacturers show the same shape: AI reaches manufacturing firm performance through knowledge management processes",
+ "passage": "[Leoni et al. (2022), p. 411] \"six hypotheses have been developed and tested through an empirical survey administered to 120 senior executives of Italian manufacturing firms.\" / \"the authors show the positive effects of the adoption of AI on KMPs, as well as the influence of KMPs on SCR and MFP. Finally, the authors demonstrate that KMPs act as a mediator through which AI affects SCR and MFP.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that in Italian manufacturing firms, knowledge management processes mediate the effect of AI on manufacturing firm performance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

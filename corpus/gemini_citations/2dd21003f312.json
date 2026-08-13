@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chiu2025multi"
+ ],
+ "page": "abstract",
+ "sentence": "In Taiwanese semiconductors, innovation from AI lifts sustainability efficiency, while profit efficiency tracks size together with leverage",
+ "passage": "[Chiu et al. (2025), abstract] \"applying a three-stage Data Envelopment Analysis (DEA) to evaluate the performance of 33 publicly listed semiconductor firms in Taiwan across profitability, sustainability, and market value\" / \"Tobit regression analysis shows that AI-driven innovation enhances sustainability efficiency, whereas firm size and leverage are more closely linked to profitability.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately and faithfully summarizes the empirical findings reported in the passage regarding sustainability and profitability.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

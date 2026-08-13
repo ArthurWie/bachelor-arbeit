@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "filieri2026engaging"
+ ],
+ "page": "p. 57",
+ "sentence": "And under trade tensions the compensation holds only up to extreme exposure",
+ "passage": "[Filieri et al. (2026), p. 57] \"However, performance benefits follow an inverted U-shape: extreme tariff exposure diminishes AI's compensatory effects.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage's statement that extreme tariff exposure diminishes AI's compensatory effects directly supports the sentence's claim that compensation holds only up to extreme exposure.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

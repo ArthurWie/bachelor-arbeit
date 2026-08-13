@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "In the second, firms investing in AI grow faster in sales and employment, a performance finding that claims no position relative to competitors, and the study is coded as performance",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-investing firms experience higher growth in sales, employment, and market valuations.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the claim that AI-investing firms experience faster growth in sales and employment, while the rest of the sentence describes the author's own coding methodology.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

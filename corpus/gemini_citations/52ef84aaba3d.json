@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "sun2022impact"
+ ],
+ "page": "p. 474",
+ "sentence": "Even value co-creation follows the pattern: its impact on competitive advantage stays insignificant, and the firms' dynamic and innovation capabilities do the transmitting",
+ "passage": "[Sun et al. (2022), p. 474] \"impacts of economic value and relationship value on competitive advantage and innovation intelligibility are not significant; and (3) value co-creation does not have a significant impact on competitive advantage and innovation intelligibility, and dynamic capabilities and innovation capabilities play the mediating role.\"",
+ "echo_runs": [
+  "value co creation",
+  "and innovation capabilities"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that value co-creation does not significantly impact competitive advantage and that dynamic and innovation capabilities play a mediating role, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

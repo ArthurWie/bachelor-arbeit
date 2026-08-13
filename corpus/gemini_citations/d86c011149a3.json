@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "sun2024deconstruct"
+ ],
+ "page": "p. 1",
+ "sentence": "The productivity effect of AI loses pace over the long run",
+ "passage": "[Sun et al. (2024), p. 1] \"the dynamic decomposition effect shows that the productivity-enhancing effect of AI is slowing down in the long run.\"",
+ "echo_runs": [
+  "effect of ai",
+  "the long run"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the passage's finding that the productivity-enhancing effect of AI slows down in the long run.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "singh2026artificial"
+ ],
+ "page": "abstract",
+ "sentence": "And the market's reward for AI innovation splits along firm traits: return on assets improves a little, more for firms heavy on R&D, while firm value rises where sustainability metrics are good, with Democratic administrations amplifying the reward",
+ "passage": "[Singh et al. (2026), abstract] \"The study finds mixed evidence of a small positive impact of AI innovation on firms' return on assets, with the effect stronger for more R&D-intensive firms.\" / \"The findings demonstrate that AI innovation increases firm value for companies that perform well on sustainability-related metrics. This effect is stronger under Democratic administrations than under Republican governments\"",
+ "echo_runs": [
+  "return on assets"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "improves a little",
+  "passage_is_hypothesis": false,
+  "note": "The sentence states the improvement in return on assets as a definitive fact, omitting the passage's caveat that there is only mixed evidence for this effect.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

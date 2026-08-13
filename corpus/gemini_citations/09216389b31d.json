@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "tehrani2025navigating"
+ ],
+ "page": "abstract",
+ "sentence": "Stakeholder engagement built on AI reaches firm performance through marketing agility",
+ "passage": "[Tehrani & Roy (2025), abstract] \"The results indicate that engaging stakeholders through AI technologies positively influences marketing agility, which in turn enhances firm performance. These effects are amplified in conditions of high technology turbulence.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states the causal chain that engaging stakeholders through AI positively influences marketing agility, which in turn enhances firm performance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "patel2026navigating"
+ ],
+ "page": "p. 1",
+ "sentence": "And the market's perception is itself an environment: reactions to AI-heavy service patents in manufacturing are negative, softened by idiosyncratic volatility",
+ "passage": "[Patel (2026), p. 1] \"stock market reactions to service technology patents with high AI scores are negative\" / \"we find that idiosyncratic volatility mitigates this negative reaction, while tangibility shows no such effect.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "in manufacturing",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the claims about negative market reactions and the mitigating role of idiosyncratic volatility, but does not specify that this applies specifically to manufacturing.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

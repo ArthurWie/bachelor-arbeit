@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "feng2025algorithms"
+ ],
+ "page": "p. 1",
+ "sentence": "Innovation gains cluster in big incumbents and firms in their growth stage",
+ "passage": "[Feng et al. (2025), p. 1] \"Heterogeneity analysis reveals that large incumbents and growth-stage firms leverage AI most effectively for innovation outputs and efficiency.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that large incumbents and growth-stage firms see the most effective results in innovation outputs from AI, directly supporting the sentence's claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "filieri2026engaging"
+ ],
+ "page": "p. 57",
+ "sentence": "Trade tensions push suppliers into AI integration, and the integration improves efficiency, sales and the firm's market value until extreme exposure to tariffs overwhelms the compensation",
+ "passage": "[Filieri et al. (2026), p. 57] \"Results indicate that higher tariff exposure increases AI integration, particularly among firms with stronger customer engagement needs. AI integration improves supply chain efficiency, sales performance, and market value. However, performance benefits follow an inverted U-shape: extreme tariff exposure diminishes AI's compensatory effects.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the empirical findings of the passage regarding tariff exposure, AI integration, and firm performance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

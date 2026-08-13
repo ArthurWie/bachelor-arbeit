@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "singh2026artificial"
+ ],
+ "page": "abstract",
+ "sentence": "Even partisan politics enters: the market's reward for sustainability-conscious AI innovation grows under Democratic administrations",
+ "passage": "[Singh et al. (2026), abstract] \"The findings demonstrate that AI innovation increases firm value for companies that perform well on sustainability-related metrics. This effect is stronger under Democratic administrations than under Republican governments\"",
+ "echo_runs": [
+  "under democratic administrations"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that the positive effect of AI innovation on firm value for sustainable companies is stronger under Democratic administrations, directly supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "sullivan2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "AI capabilities bring value by strengthening the firm's ability to adjust to market change, and that adaptive response then lifts firm performance and innovation",
+ "passage": "[Sullivan & Fosso Wamba (2024), p. 1] \"This research examines how AI-powered capabilities can bring value to organizations by enhancing their Adaptive Response to Market Changes (ARMC).\" / \"we find that ARMC positively influences firm performance and innovation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "",
+  "passage_is_hypothesis": true,
+  "note": "The sentence presents the first half of the claim as a finding, but the passage frames it only as a research aim, while empirically confirming only the second half.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

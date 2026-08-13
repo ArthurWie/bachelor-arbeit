@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "[CITE] show the first case: competitive advantage enters their model as its own three-item scale, defined against other organizations in the same market and tested as a separate hypothesis.",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-investing firms experience higher growth in sales, employment, and market valuations.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "no",
+  "overclaim": "competitive advantage enters their model as its own three-item scale, defined against other organizations in the same market and tested as a separate hypothesis",
+  "passage_is_hypothesis": false,
+  "note": "The cited passage discusses firm growth in sales, employment, and valuations, which is entirely unrelated to the sentence's claims about a three-item scale for competitive advantage or its specific hypothesis testing.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "cannas2024artificial"
+ ],
+ "page": "p. 3333",
+ "sentence": "The case studies read the same list from its negative side: data quality, missing skills, high investment needs and unclear economic benefits are the barriers that stand between AI and supply-chain competitiveness",
+ "passage": "[Cannas et al. (2024), p. 3333] \"However, they also identify barriers in the implementation of AI, such as ensuring data quality, lack of specific skills, need for high investments, lack of clarity on economic benefits and lack of experience in cost analysis for AI projects.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "supply-chain competitiveness",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms the listed factors as barriers to AI implementation but does not explicitly state that they stand in the way of supply-chain competitiveness.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

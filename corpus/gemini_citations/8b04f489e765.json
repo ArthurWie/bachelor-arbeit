@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2025companies"
+ ],
+ "page": "p. 504",
+ "sentence": "The negative market impact of AI service failures has grown more intense in recent years",
+ "passage": "[Song et al. (2025), p. 504] \"Third, AI service failure events in more recent years have a more intensively negative impact than those in more distant years.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly confirms the claim that the negative impact of AI service failures has intensified in recent years.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

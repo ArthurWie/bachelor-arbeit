@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "li2026opportunity"
+ ],
+ "page": "p. 1",
+ "sentence": "Generative AI repeats the pattern: technological opportunism converts into competitive advantage through three affordances",
+ "passage": "[Li et al. (2026), p. 1] \"find that three GenAI affordances--organizational memory, collaborative, and creational affordances--mediate the relationship between TO and competitive advantages.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "repeats the pattern",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that three affordances mediate technological opportunism and competitive advantage, but does not state that this repeats an existing pattern.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

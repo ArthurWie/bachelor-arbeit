@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "sandeep2025leveraging"
+ ],
+ "page": "p. 404",
+ "sentence": "In recruitment, adoption reaches competitive advantage through dynamic capabilities, built from HR competencies together with open innovation and backed by financial support as well as IT infrastructure",
+ "passage": "[Sandeep et al. (2025), p. 404] \"The results reveal that HR competencies and open innovation significantly influence dynamic capabilities, which are essential for AI integration, supported by financial support and information technology (IT) infrastructure.\"",
+ "echo_runs": [
+  "by financial support"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "In recruitment, adoption reaches competitive advantage",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the relationships between HR competencies, open innovation, dynamic capabilities, financial support, and IT infrastructure, but does not mention recruitment, adoption, or competitive advantage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

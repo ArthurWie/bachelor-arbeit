@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "guo2025cross"
+ ],
+ "page": "p. 1250",
+ "sentence": "For Chinese SMEs on cross-border platforms, the pairing of AI adoption with strategic agility improves product innovation and the upgrading of brands through international marketing capabilities",
+ "passage": "[Guo et al. (2025), p. 1250] \"A quantitative approach was employed to analyse data from 322 small and medium-sized enterprises in China utilizing cross-border platforms.\" / \"the coupling of AI adoption and strategic agility positively influences IMCs, product innovation and brand upgrading, while IMCs serve as a mediating mechanism.\"",
+ "echo_runs": [
+  "cross border platforms the",
+  "product innovation and"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the empirical finding from the passage that international marketing capabilities (IMCs) mediate the positive effects of AI adoption and strategic agility on product innovation and brand upgrading for the studied Chinese SMEs.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kazakis2026conditional"
+ ],
+ "page": "abstract",
+ "sentence": "Efficiency gains need, next to capable managers, stable institutional ownership and long-horizon financing",
+ "passage": "[Kazakis (2026), abstract] \"The heterogeneity analysis indicates that efficiency gains materialize primarily when firms pair AI with capable managers, face stronger competitive pressure, have more stable institutional investor ownership, and are able to secure long-term debt.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage empirically finds that efficiency gains primarily occur under conditions that include capable managers, stable institutional ownership, and long-term debt, which directly supports the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

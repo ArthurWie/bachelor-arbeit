@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "sullivan2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "One two-stage survey models AI capabilities as inputs to the firm's adaptive response to market change and finds that this response lifts firm performance and innovation",
+ "passage": "[Sullivan & Fosso Wamba (2024), p. 1] \"This research examines how AI-powered capabilities can bring value to organizations by enhancing their Adaptive Response to Market Changes (ARMC).\" / \"we find that ARMC positively influences firm performance and innovation.\"",
+ "echo_runs": [
+  "adaptive response to market"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "two-stage survey",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the claims about AI capabilities, adaptive response, and firm performance, but it does not mention that the research used a two-stage survey methodology.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

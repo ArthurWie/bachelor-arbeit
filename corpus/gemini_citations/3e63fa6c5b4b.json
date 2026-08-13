@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "samadhiya2023artificial"
+ ],
+ "page": "p. 510",
+ "sentence": "The study behind it treats technological readiness and ICT capability as entry conditions for AI-supported partner management, and both significantly improve its performance",
+ "passage": "[Samadhiya et al. (2023), p. 510] \"[ ] including information communication technology capability, firm fit, and technological readiness, as fundamental requirements for the implementation of AI-based partner relationship management.\" / \"The findings of the study show that information communication technology capability and technological readiness play a significant role in improving the performance of AI-based partner relationship management.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects both the fundamental requirements and the empirical findings explicitly stated in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "rojon2021utilization"
+ ],
+ "page": "p. 196",
+ "sentence": "Management scholars pick the method for the transparency and comprehensiveness of its process",
+ "passage": "[Rojon et al. (2021), p. 196] \"Scholars selected SRm for representing a rigorous, systematic, transparent and comprehensive approach to analysing, evaluating and synthesizing literature.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly states that scholars selected the method because it represents a transparent and comprehensive approach, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

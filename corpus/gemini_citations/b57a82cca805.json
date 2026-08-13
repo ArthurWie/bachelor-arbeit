@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "lin2026role"
+ ],
+ "page": "p. 1",
+ "sentence": "Investment efficiency gains from AI are more pronounced where knowledge intensity and R&D spending are high and the internal controls sound",
+ "passage": "[Lin, Li et al. (2026), p. 1] \"The results show that AI can significantly enhance the investment efficiency of enterprises. This effect is more pronounced in high knowledge-intensity firms, high R&D-intensity firms, and firms with sound internal controls.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the empirical findings detailed in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

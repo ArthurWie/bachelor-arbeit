@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "huang2025firm"
+ ],
+ "page": "p. 1856",
+ "sentence": "Market value and financial performance rise with implementation, but the edge of first movers and top performers is not uniform across the indicators",
+ "passage": "[Huang & Lin (2025), p. 1856] \"this research reveals that while AI adoption enhances financial performance and market value, the advantages for AI first movers and better performers are not uniformly positive across all indicators.\"",
+ "echo_runs": [
+  "first movers and"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the empirical findings presented in the passage without adding unsupported claims.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

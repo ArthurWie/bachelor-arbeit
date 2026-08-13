@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "hossain2022marketing"
+ ],
+ "page": "p. 240",
+ "sentence": "Garment exporters hold sustained competitive advantage through sensing the market, seizing it and reconfiguring it, and all three run higher once AI adoption rests on an analytics foundation",
+ "passage": "[Hossain et al. (2022), p. 240] \"This research investigates how industrial goods manufacturers sustain their competitive advantage in export markets, convincing buyers in a competitive data-rich business environment. The evidence has been taken from the RMG (readymade garment) industry\" / \"the study reveals that firms marketing analytics capability play a vital role in sensing, seizing, and reconfiguring the market, consequently leading to a sustained competitive advantage. The performance of sensing, seizing, and reconfiguring becomes higher for a firm when they adopt AI on the strength of the marketing analytics platform.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the study's empirical findings regarding the garment industry, precisely matching the claims about sensing, seizing, and reconfiguring the market for competitive advantage and the enhancing role of AI on an analytics foundation.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

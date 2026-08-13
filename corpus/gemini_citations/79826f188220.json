@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "ullah2026driven"
+ ],
+ "page": "p. 1",
+ "sentence": "Cohesive teams improve how knowledge is shared, and a committed workforce widens the performance gain from adoption",
+ "passage": "[Ullah et al. (2026), p. 1] \"cohesive team dynamics enhance collaboration and knowledge sharing\" / \"a highly committed workforce amplifies the performance benefits of AI adoption by fostering deeper employee engagement, greater adaptability, and enhanced organizational flexibility.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that cohesive teams enhance knowledge sharing and a committed workforce amplifies the performance benefits of AI adoption.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

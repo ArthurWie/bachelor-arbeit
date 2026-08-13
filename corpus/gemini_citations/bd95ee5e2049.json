@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "pesqueira2024exploring"
+ ],
+ "page": "p. 1",
+ "sentence": "The qualitative pole reports the same dependency: AI-adopting pharmaceutical companies manage tendering faster and decide better, yet run into governance and compliance challenges, and the payoff hinges on aligning adoption with the EU's AI Act and the GDPR",
+ "passage": "[Pesqueira et al. (2024), p. 1] \"This research examines the incorporation of artificial intelligence (AI) into the domain of tender management (TM) within the pharmaceutical industry, with a particular emphasis on operational efficiency, governance, and compliance with European regulatory standards.\" / \"The findings indicate that companies integrating AI demonstrate enhanced decision-making capabilities, accelerated processing times, and enhanced stakeholder engagement. However, they also encounter challenges pertaining to ethical governance and regulatory compliance.\" / \"The research highlights the necessity of aligning the adoption of AI with the latest European directives, such as the AI Act and General Data Protection Regulation (GDPR), to ensure both operational efficiency and adherence to ethical standards.\"",
+ "echo_runs": [
+  "governance and compliance",
+  "ai act and"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly supports all the claims in the sentence, including faster processing, improved decision-making, governance challenges, and the necessity of aligning with the EU's AI Act and GDPR.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

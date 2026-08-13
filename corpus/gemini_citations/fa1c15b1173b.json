@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 213",
+ "sentence": "In AI-embedded CRM, leadership support lifts both relationship satisfaction and firm performance [CITE], and the companion study reports the same moderating role under AI-CRM",
+ "passage": "[Chatterjee et al. (2021), p. 213] \"our study has shown that for exhibiting better performance, leadership support has a major moderating effect on the firm performance in the B2B context using an AI-CRM system\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "relationship satisfaction",
+  "passage_is_hypothesis": false,
+  "note": "The cited passage supports the moderating effect on firm performance but makes no mention of relationship satisfaction.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

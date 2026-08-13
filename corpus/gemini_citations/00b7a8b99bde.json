@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 209",
+ "sentence": "In the first case, competitive advantage appears as a construct of its own, defined against other organizations in the same market and tested as a separate hypothesis",
+ "passage": "[Chatterjee et al. (2021), p. 209] \"Competitive advantage is the degree to which the performance of an organization working in the B2B context could achieve greater benefits compared to other organizations functioning in similar conditions.\" / \"H4. Organization performance significantly and positively impacts the organization's competitive advantages.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage defines competitive advantage relatively against other organizations in similar conditions and explicitly frames it within a separate hypothesis (H4).",
+  "model": "gemini-3.1-pro-high"
+ }
+}

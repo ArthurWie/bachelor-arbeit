@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "fontanelli2025predictive"
+ ],
+ "page": "pp. 1--2",
+ "sentence": "Buying AI externally brings a volatility that in-house development avoids",
+ "passage": "[Fontanelli et al. (2025), pp. 1--2] \"Our results show that heightened volatility is concentrated among AI buyers, whereas firms that develop AI internally experience no such association.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "brings",
+  "passage_is_hypothesis": false,
+  "note": "The sentence uses causal language ('brings') that goes beyond the correlational 'association' reported in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

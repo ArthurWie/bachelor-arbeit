@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "bai2026artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "Crash risk after AI investment grows where information transparency is low and resources are tight",
+ "passage": "[Bai et al. (2026), p. 1] \"we find robust evidence that AI investment significantly increases firms' stock price crash risk, mainly due to reduced information transparency and heightened managerial optimism. The effect is more pronounced for firms with lower levels of information transparency and tighter resource constraints.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that the effect of AI investment on crash risk is more pronounced for firms with lower information transparency and tighter resource constraints, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

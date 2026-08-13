@@ -96,6 +96,18 @@ Continuation of the dual-AI principle from the coding phase: checks run only whe
 
 Every run gets logged in `ai-usage-log.md` (+ `main.tex` List of Aids) — this continues the dual-AI verification story from the coding phase.
 
+**GEMINI CLI IST TOT (seit 13. Aug 2026 festgestellt):** Google hat den OAuth-Weg für
+Einzelkonten abgeschaltet — genaues Datum unbekannt: am 28. Juli 2026 lief er noch
+(Theorie-Zitatcheck), am 13. Aug 2026 kam `IneligibleTierError: UNSUPPORTED_CLIENT`
+(auch mit AI-Pro-Abo). Ersatz: **Antigravity CLI** (`%LOCALAPPDATA%\agy\bin\agy.exe`,
+Auth läuft still über den Windows-Keyring mit Arthurs Google-Account). Headless-Aufruf:
+`agy -p "<prompt>" --model gemini-3.1-pro-high` — Prompt als Argument, nicht stdin.
+`gemini_verify_citations.py` ist umgestellt (Modell wird je Verdict-JSON mitprotokolliert;
+agy läuft in leerem Sandbox-Ordner, weil es ein Agent mit Datei-Tools ist — Blindheit).
+`gemini_blind_coding.py` bleibt absichtlich auf dem alten Pfad: Coding-Phase abgeschlossen,
+das Skript ist historisches Protokoll. Künftige Gemini-Zweitmeinungen (Blind Section
+Review) ebenfalls über agy.
+
 ## File Structure
 
 - `main.tex` — master file (documentclass `report`, chapters via `\input{sections/*}`); authoritative source

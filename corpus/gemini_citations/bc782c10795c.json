@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "In the same panel, AI investment alone stays insignificant while its interaction with R&D turns significantly positive",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"the interaction term [ ] exhibits a positive and statistically significant effect, indicating that the combination of AI adoption and R&D activity produces complementary and mutually reinforcing effects on firm performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "AI investment alone stays insignificant",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that the interaction term is positive and statistically significant, but it omits any mention of AI investment alone staying insignificant.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

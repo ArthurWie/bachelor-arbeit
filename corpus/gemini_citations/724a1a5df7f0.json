@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 209",
+ "sentence": "In the first case, competitive advantage enters a study's model as its own three-item scale, defined against other organizations in the same market and tested as a separate hypothesis",
+ "passage": "[Chatterjee et al. (2021), p. 209] \"Competitive advantage is the degree to which the performance of an organization working in the B2B context could achieve greater benefits compared to other organizations functioning in similar conditions.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "enters a study's model as its own three-item scale, [...] and tested as a separate hypothesis",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the comparative definition of competitive advantage, but it does not mention a three-item scale or that it was tested as a separate hypothesis.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

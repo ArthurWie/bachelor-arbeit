@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "sun2024deconstruct"
+ ],
+ "page": "p. 1",
+ "sentence": "Among Chinese listed companies, the key route from AI to productivity is a drop in information asymmetry; more specialized work division and green innovation appear as potential channels",
+ "passage": "[Sun et al. (2024), p. 1] \"Based on panel data of 3235 listed companies in China from 2007 to 2021, we comprehensively discuss the impact and mechanism of AI on firm productivity\" / \"Mitigating information asymmetry is a key channel, while specialized division of labor and independent green innovation are potential ones.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the empirical findings from the passage regarding the key and potential channels of AI's impact on productivity.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

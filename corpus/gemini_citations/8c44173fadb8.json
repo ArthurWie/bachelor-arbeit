@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "agag2026investing"
+ ],
+ "page": "p. 1",
+ "sentence": "Industry-4.0 manufacturers convert AI capabilities into sustainability performance far better than traditional ones [CITE], and the firm-value effect of AI human capital is strongest in travel while the inequality compression concentrates in hospitality",
+ "passage": "[Agag et al. (2026), p. 1] \"Sectoral analyses reveal stronger value associations in travel and stronger inequality compression associations in hospitality.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Industry-4.0 manufacturers convert AI capabilities into sustainability performance far better than traditional ones",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the claims regarding travel and hospitality but contains no mention of Industry-4.0 manufacturers or sustainability performance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

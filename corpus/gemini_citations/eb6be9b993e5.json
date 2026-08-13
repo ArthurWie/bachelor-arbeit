@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "In the corpus's benchmark result, growth from AI investment concentrates among the ex-ante larger firms and pushes industry concentration upward",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-powered growth concentrates among larger firms and is associated with higher industry concentration.\"",
+ "echo_runs": [
+  "larger firms and"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "ex-ante, pushes",
+  "passage_is_hypothesis": false,
+  "note": "The sentence introduces 'ex-ante' and claims causation ('pushes') for industry concentration, whereas the passage only states an association with 'larger firms'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "In the corpus's benchmark result, growth from AI investment concentrates among the larger firms; industry concentration rises with it",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-powered growth concentrates among larger firms and is associated with higher industry concentration.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly supports the claim that AI-driven growth favors larger firms and correlates with higher industry concentration.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

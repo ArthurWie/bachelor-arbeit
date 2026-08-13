@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "Unsubstantiated claims, the practice the SEC labels AI washing, first attract investors and then turn into negative reactions and lasting underperformance",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"In March 2024, SEC Chair Gary Gensler labeled this practice `AI washing. \"' / \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage provides direct evidence for the SEC's labeling of AI washing and confirms the empirical finding that these narratives initially attract investors but lead to negative market reactions and sustained underperformance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "patel2026navigating"
+ ],
+ "page": "p. 1",
+ "sentence": "Market penalties for AI service failures have grown harsher in recent years [CITE], and the negative reaction to AI-heavy service patents shows only in the two most recent decades",
+ "passage": "[Patel (2026), p. 1] \"Decade-wise analysis reveals effects are significant only in the 2010s and 2020s, suggesting evolving market perceptions of AI-driven servitization.\"",
+ "echo_runs": [
+  "only in the"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "negative reaction, patents",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the timing of the effects to the two most recent decades, but it does not specify that these effects were a negative reaction, nor does it mention patents.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

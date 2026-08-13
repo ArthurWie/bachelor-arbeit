@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2025companies"
+ ],
+ "page": "p. 504",
+ "sentence": "The mirror image holds too: when AI services fail, small firms lose more market value than large ones, and accuracy failures cost the most",
+ "passage": "[Song et al. (2025), p. 504] \"First, AI service failure events have a negative impact on the firm value. Second, small firms experience more share price declines due to AI service failure events than large firms.\" / \"there are order effects on firm value across the service failure event types: accuracy $>$ safety $>$ privacy $>$ fairness.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that small firms suffer larger share price declines and that accuracy failures have the greatest impact on firm value.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

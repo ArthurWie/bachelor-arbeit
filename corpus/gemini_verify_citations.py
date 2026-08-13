@@ -40,7 +40,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "gemini_citations"
-GEMINI = r"C:\Users\arthu\AppData\Roaming\npm\gemini.cmd"
+# Seit 13. Aug 2026: Antigravity CLI (agy) statt Gemini CLI — Google hat den
+# OAuth-Weg für Einzelnutzer am 18. Juni 2026 abgeschaltet (IneligibleTierError).
+AGY = rf"{Path.home()}\AppData\Local\agy\bin\agy.exe"
 
 # „et al." usw. beenden keinen Satz. „p.~215" ist ungefährlich, weil auf den Punkt
 # kein Leerzeichen folgt.
@@ -258,9 +260,14 @@ def site_id(site: dict) -> str:
 
 def ask_gemini(site: dict, model: str) -> dict:
     prompt = PROMPT.format(sentence=site["sentence"], passage=site["passage"])
+    # agy ist ein Agent mit Datei-Tools — cwd = leerer Ordner hält den
+    # Blind-Check blind (kein Zugriff auf Repo, Sections, Coding-Tabelle).
+    sandbox = OUT / "_agy_sandbox"
+    sandbox.mkdir(parents=True, exist_ok=True)
     for attempt in range(3):
         try:
-            p = subprocess.run([GEMINI, "-m", model], input=prompt,
+            p = subprocess.run([AGY, "-p", prompt, "--model", model],
+                               cwd=sandbox,
                                capture_output=True, text=True,
                                encoding="utf-8", errors="replace", timeout=300)
             m = re.search(r"\{.*\}", (p.stdout or "").strip(), re.S)
@@ -268,6 +275,7 @@ def ask_gemini(site: dict, model: str) -> dict:
             need = {"supported", "overclaim", "passage_is_hypothesis", "note"}
             if not need.issubset(data):
                 raise ValueError(f"missing keys: {need - set(data)}")
+            data["model"] = model
             return data
         except Exception as e:
             print(f"    Versuch {attempt + 1} gescheitert: {str(e)[:110]}", flush=True)
@@ -280,7 +288,7 @@ def main() -> None:
     ap.add_argument("texfile", type=Path)
     ap.add_argument("--no-llm", action="store_true",
                     help="nur der mechanische Echo-Test, keine Gemini-Aufrufe")
-    ap.add_argument("-m", "--model", default="gemini-2.5-pro")
+    ap.add_argument("-m", "--model", default="gemini-3.1-pro-high")
     ap.add_argument("--limit", type=int, help="nur die ersten N Stellen (Rauchtest)")
     args = ap.parse_args()
 

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alwakid2025harnessing"
+ ],
+ "page": "p. 1",
+ "sentence": "AI capabilities reach sustainable SME performance through green innovation and creativity",
+ "passage": "[Alwakid & Dahri (2025), p. 1] \"The results indicate that AI capabilities significantly impact SME creativity and green innovations. Moreover, green entrepreneurial orientation positively influences SME creativity and green innovations, which in turn facilitate sustainable performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that AI capabilities impact SME creativity and green innovations, which in turn facilitate sustainable performance.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

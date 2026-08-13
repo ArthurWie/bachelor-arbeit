@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "cao2025managing"
+ ],
+ "page": "p. 1",
+ "sentence": "And the retail evidence turns the channel configurational: performance comes from combinations of AI applications rather than single uses, and out of the combinations grow new capabilities, adaptive learning among them",
+ "passage": "[Cao et al. (2025), p. 1] \"we first construct a validated measurement instrument based on grounded analysis of 6,519 AI-related documents from 37 retailers. We then apply fuzzy-set qualitative comparative analysis (fsQCA) to survey data from 140 executives\" / \"superior performance stems not from isolated AI uses but from synergistic combinations--particularly those involving customer service and cybersecurity--interacting with other functions. These configurations appear to give rise to emergent capabilities such as adaptive learning, predictive analytics, and uncertainty mitigation\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the passage's empirical findings that superior performance stems from synergistic AI combinations rather than isolated uses, leading to emergent capabilities like adaptive learning.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

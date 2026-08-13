@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "tingbani2025looking"
+ ],
+ "page": "p. 961",
+ "sentence": "The growth payoff of AI investment, 0.04 percent per ten-percent increase in investment, hangs on the labour market: labour productivity works for it, labour costs and the labour share work against it",
+ "passage": "[Tingbani et al. (2025), p. 961] \"Using the generalized method of moments (GMM) estimation on 1950 unique American firms over 1996--2016, we show that a 10\\% increase in AI investment leads to an increase in firm growth by 0.04\\%. However, this result is highly sensitive to labour market conditions, as labour productivity can positively impact firm growth, but labour cost and labour share negatively influence firm growth.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the empirical findings from the passage, perfectly matching the specific percentages and the directional impacts of the three labour market variables.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

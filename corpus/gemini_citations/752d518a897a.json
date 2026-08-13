@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "mehta2025driven"
+ ],
+ "page": "p. 543",
+ "sentence": "The take-up of AI by key account managers is shaped by their personality traits, and organizational culture moderates the agreeableness path",
+ "passage": "[Mehta et al. (2025), p. 543] \"Our research shows that key account managers' adoption of AI technologies is influenced significantly by personality traits.\" / \"Organisational culture significantly moderates the association between agreeableness and the adoption of AI technologies.\"",
+ "echo_runs": [
+  "key account managers"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms both that personality traits influence AI adoption and that organizational culture moderates the effect of agreeableness, directly supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

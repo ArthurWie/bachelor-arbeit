@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 7",
+ "sentence": "Among Chinese listed firms, data assets carry roughly 45.6 percent of the total value effect of AI adoption",
+ "passage": "[Shi et al. (2025), pp. 1, 7] \"Drawing on a comprehensive dataset of Chinese listed companies spanning 2010--2022, this study investigates how AI adoption influences enterprise value through the mediating role of data assets and the moderating effect of managerial capability.\" (p. 1) / \"The comparable magnitudes of direct (0.0483) and indirect (0.0405) effects suggest that data assets mediate approximately 45.6\\% of AI adoption's total effect on firm value, highlighting the substantial role of data assets in translating AI capabilities into enterprise value.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the passage's finding that data assets mediate 45.6 percent of the effect of AI adoption on firm value for Chinese listed companies.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

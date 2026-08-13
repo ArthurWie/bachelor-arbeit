@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "liu2026enabled"
+ ],
+ "page": "p. 1",
+ "sentence": "Where the regulatory climate is clear and its enforcement supportive, the link from AI-enabled innovation to productivity strengthens, in survey and experimental evidence alike",
+ "passage": "[Liu, Weng & Yu (2026), p. 1] \"Results suggest that AI-enabled innovation is associated with firm growth both directly and indirectly through productivity gains, with the strength of the innovation--productivity link contingent on the regional regulatory climate.\" / \"results indicate that clear and supportive environments are associated with higher levels of intended AI investment, productivity expectations, deployment speed, and growth projections.\"",
+ "echo_runs": [
+  "ai enabled innovation"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "in survey and experimental evidence alike",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the contingency of the innovation-productivity link on the regulatory environment but contains no mention of survey or experimental evidence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

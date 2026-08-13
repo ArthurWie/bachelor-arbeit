@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "The payoff to AI venture funding runs through a U-shape with its turning point near USD 11.3 million",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"the impact on revenue growth turns positive, confirming a U-shaped relationship\" / \"the turning point is observed at a log AI investment value of approximately 2.425 [ ] corresponding to approximately USD 11.3 million in AI-related venture funding.\"",
+ "echo_runs": [
+  "usd 11 3 million"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms a U-shaped relationship and identifies the turning point at approximately USD 11.3 million, matching the sentence's claims.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

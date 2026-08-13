@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "wu2023role"
+ ],
+ "page": "p. 484",
+ "sentence": "For food firms, a marketing strategy built on AI raises performance only inside configurations, combined with customer co-creation, marketing capabilities and market orientation",
+ "passage": "[Wu & Monfort (2023), p. 484] \"Data were collected from 278 food firms.\" / \"The research results of FsQCA find that causal conditions of marketing capabilities, customer value co-creation, market orientation, and AI marketing strategy are necessary and sufficient recipes for higher firm performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that the combination of AI marketing strategy with the other listed factors is a necessary and sufficient recipe for higher performance in food firms, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

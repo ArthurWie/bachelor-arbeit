@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "guo2025cross"
+ ],
+ "page": "p. 1250",
+ "sentence": "What this group adds is the shape of the middle: platform embeddedness helps most there, with medium depth doing the most for product innovation and moderate breadth the most for brand upgrading",
+ "passage": "[Guo et al. (2025), p. 1250] \"platform embedding characteristics exhibit a nonlinear, inverted U-shaped moderating effect: a medium level of embedding depth maximizes the coupling's positive impact on product innovation, whereas a moderate level of embedding breadth optimizes its positive effect on brand upgrading.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly describes an inverted U-shaped effect where medium depth maximizes the impact on product innovation and moderate breadth optimizes the effect on brand upgrading, directly supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

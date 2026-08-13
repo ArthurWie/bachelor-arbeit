@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kazakis2026conditional"
+ ],
+ "page": "abstract",
+ "sentence": "The efficiency gains of the corpus's null-baseline study need, among other conditions, sharper competitive pressure",
+ "passage": "[Kazakis (2026), abstract] \"The heterogeneity analysis indicates that efficiency gains materialize primarily when firms pair AI with capable managers, face stronger competitive pressure, have more stable institutional investor ownership, and are able to secure long-term debt.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "the corpus's null-baseline study need",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that efficiency gains materialize primarily under stronger competitive pressure, but this is less absolute than 'need', and it does not mention a 'null-baseline study'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

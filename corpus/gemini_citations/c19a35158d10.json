@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "pham2024determinants"
+ ],
+ "page": "p. 1",
+ "sentence": "Hospitals holding more market share are the likelier adopters and improve revenue, occupancy and productivity with AI, with the authors stressing that assessing these gains requires endogeneity controls",
+ "passage": "[Pham et al. (2024), p. 1] \"we find that hospitals with a larger market share are great candidates to adopt AI. Furthermore, these hospitals can leverage AI technology to enhance various aspects of performance, including total outpatient revenue, total inpatient revenue, productivity, and occupancy. Importantly, we demonstrate that controlling for endogeneity is essential in assessing the performance outcomes of AI adoption.\"",
+ "echo_runs": [
+  "market share are"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage fully supports the sentence's claims regarding market share and AI adoption candidacy, performance improvements in revenue, productivity, and occupancy, and the essential nature of endogeneity controls.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

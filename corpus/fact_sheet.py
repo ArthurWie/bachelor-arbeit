@@ -7,6 +7,7 @@ Groupings mirror corpus/make_figures.py exactly.
 """
 import csv
 import collections
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -133,5 +134,38 @@ out.append(f"- studies with at least one identified condition: {pct(with_cond)}"
 out.append(f"- studies with unconditional evidence (empty conditions): {N - with_cond}")
 out.append("")
 
+# condition clusters for section 4.2 — source: conditions_clusters.md (frozen by
+# the author 13 Aug 2026), parsed from the per-study detail table and validated
+# against the coding table so outline and detail can never drift apart again.
+CLUSTER_TITLES = {
+    "4.2.1": "Complementary investments and resources",
+    "4.2.2": "Organizational capabilities and human capital as the channel",
+    "4.2.3": "Leadership, governance, and management",
+    "4.2.4": "Firm characteristics and market position",
+    "4.2.5": "Environmental conditions",
+    "4.2.6": "Dose, credibility, and timing",
+}
+clusters: dict[str, list[str]] = {k: [] for k in CLUSTER_TITLES}
+assigned: set[str] = set()
+md = (ROOT / "conditions_clusters.md").read_text(encoding="utf-8")
+detail = md.split("## Zuordnung je Studie", 1)[1]
+for m in re.finditer(r"^\| (S\d\d) \| ([^|]+) \|", detail, re.M):
+    sid, cell = m.group(1), m.group(2)
+    assigned.add(sid)
+    for c in re.findall(r"4\.2\.\d", cell):
+        clusters[c].append(sid)
+
+ids_with_cond = {r["study_id"] for r in ROWS if r["conditions"].strip()}
+assert assigned == ids_with_cond, sorted(assigned ^ ids_with_cond)
+out.append("## Condition clusters (section 4.2 structure, frozen 13 Aug 2026)")
+out.append("(one study can appear in several clusters; source: corpus/conditions_clusters.md)")
+for c, title in CLUSTER_TITLES.items():
+    out.append(f"- {c} {title}: {len(clusters[c])}")
+out.append(f"- assignments total: {sum(len(v) for v in clusters.values())} across {len(assigned)} studies")
+out.append(f"- unconditional contrast group: {', '.join(sorted(ids_with_cond ^ {r['study_id'] for r in ROWS}))}")
+out.append("")
+
 (ROOT / "FACT_SHEET.md").write_text("\n".join(out), encoding="utf-8")
 print("wrote", ROOT / "FACT_SHEET.md")
+for c, title in CLUSTER_TITLES.items():
+    print(c, f"(n={len(clusters[c])}):", " ".join(sorted(clusters[c])))

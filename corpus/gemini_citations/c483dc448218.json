@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "tehrani2025navigating"
+ ],
+ "page": "abstract",
+ "sentence": "On the other side it amplifies: the payoff to AI-based stakeholder engagement grows when technology turbulence is high",
+ "passage": "[Tehrani & Roy (2025), abstract] \"These effects are amplified in conditions of high technology turbulence.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the claim that the effects are amplified under conditions of high technology turbulence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

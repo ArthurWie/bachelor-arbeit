@@ -1,0 +1,20 @@
+{
+ "keys": [
+  "kazakis2026conditional"
+ ],
+ "page": "abstract",
+ "sentence": "One efficiency study pushes the point furthest: the baseline association between AI investment and firm efficiency is zero, and gains materialize primarily where capable managers, stronger competitive pressure, stable institutional ownership and long-horizon financing come together",
+ "passage": "[Kazakis (2026), abstract] \"Using a labor-based measure of AI investment, the baseline results show no direct association between AI investment and firm efficiency. The heterogeneity analysis indicates that efficiency gains materialize primarily when firms pair AI with capable managers, face stronger competitive pressure, have more stable institutional investor ownership, and are able to secure long-term debt.\"",
+ "echo_runs": [
+  "and firm efficiency",
+  "gains materialize primarily",
+  "stronger competitive pressure"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the abstract's baseline finding of no direct association and correctly lists the four specific conditions under which efficiency gains materialize.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

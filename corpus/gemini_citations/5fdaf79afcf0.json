@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kazakis2026conditional"
+ ],
+ "page": "abstract",
+ "sentence": "Competition sharpens the payoff as well: competitive intensity amplifies the creational path from technological opportunism to competitive advantage [CITE], and the efficiency gains of the corpus's null-baseline study need, among other conditions, sharper competitive pressure",
+ "passage": "[Kazakis (2026), abstract] \"The heterogeneity analysis indicates that efficiency gains materialize primarily when firms pair AI with capable managers, face stronger competitive pressure, have more stable institutional investor ownership, and are able to secure long-term debt.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that efficiency gains materialize when firms face stronger competitive pressure, which directly supports the sentence's claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

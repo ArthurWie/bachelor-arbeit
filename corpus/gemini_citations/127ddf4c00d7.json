@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chiu2025multi"
+ ],
+ "page": "abstract",
+ "sentence": "Sector and stage matter even inside an industry: in Taiwanese semiconductors, innovation from AI lifts sustainability efficiency while profit efficiency tracks size together with leverage",
+ "passage": "[Chiu et al. (2025), abstract] \"applying a three-stage Data Envelopment Analysis (DEA) to evaluate the performance of 33 publicly listed semiconductor firms in Taiwan across profitability, sustainability, and market value\" / \"Tobit regression analysis shows that AI-driven innovation enhances sustainability efficiency, whereas firm size and leverage are more closely linked to profitability.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Sector and stage matter even inside an industry",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the findings about AI, sustainability, size, leverage, and profitability, but it does not claim that sector and stage matter, likely confusing the three-stage statistical methodology with firm stages.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

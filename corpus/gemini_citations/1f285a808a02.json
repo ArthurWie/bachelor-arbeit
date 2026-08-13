@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "damico2025enhancing"
+ ],
+ "page": "abstract",
+ "sentence": "Evidence from UK firms points the same way: AI adoption raises innovation performance only where it complements what the firm itself invests in R&D, and it partly substitutes collaboration with external knowledge partners",
+ "passage": "[D'Amico et al. (2025), abstract] \"Our findings suggest that firms adopting AI can enhance their innovation performance if it complements firm's own investment in R&D. AI adoption can substitute knowledge collaboration with certain external partners.\"",
+ "echo_runs": [
+  "in r d"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Evidence from UK firms, only where",
+  "passage_is_hypothesis": false,
+  "note": "The passage does not mention UK firms and states the condition for enhancing performance as 'if' rather than the more restrictive 'only where'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

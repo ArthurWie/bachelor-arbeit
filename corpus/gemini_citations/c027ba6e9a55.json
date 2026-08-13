@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "wang2026artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "Among early-stage ventures, strategic resilience carries the entire link between AI capability and entrepreneurial success, and the authors read the mechanism as organizational, not technological",
+ "passage": "[Wang & Zhang (2026), p. 1] \"The mediating effect of strategic resilience is robust and fully accounts for the AI capability--success relationship, indicating that the mechanism through which AI investments generate performance returns is fundamentally organizational rather than technological in nature.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Among early-stage ventures",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the claims regarding full mediation and the organizational mechanism, but it does not mention that this applies specifically to early-stage ventures.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

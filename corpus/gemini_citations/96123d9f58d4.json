@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "AI washing is the extreme case: unsubstantiated claims first attract investors, then turn into negative reactions and lasting underperformance",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "AI washing is the extreme case:",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that outpaced rhetoric initially attracts investors before causing underperformance, but does not explicitly refer to AI washing or characterize it as the extreme case.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

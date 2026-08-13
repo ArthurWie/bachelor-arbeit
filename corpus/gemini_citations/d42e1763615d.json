@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "sun2024deconstruct"
+ ],
+ "page": "p. 1",
+ "sentence": "The productivity gain is largest in state-controlled firms, in internationally active ones, and in innovators",
+ "passage": "[Sun et al. (2024), p. 1] \"AI significantly improves firm productivity, especially in state-controlled, internationally minded, and innovative firms.\"",
+ "echo_runs": [
+  "in state controlled"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the cited passage, correctly capturing the specific firm types that experience the most significant productivity improvements.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

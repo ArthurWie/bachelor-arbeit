@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "li2026firms"
+ ],
+ "page": "p. 1",
+ "sentence": "Responsible AI reaches competitive advantage through supply-chain justice, and complexity erodes the distributive channel while the procedural one holds",
+ "passage": "[Li, Shi et al. (2026), p. 1] \"Survey data from 218 Chinese firms show that responsible AI fosters both distributive and procedural justice, which in turn facilitates firms' competitive advantages. Further, we identify an asymmetric moderating effect: high supply chain complexity weakens the mediating effect of distributive but not procedural justice.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that responsible AI facilitates competitive advantage via distributive and procedural justice, and that supply chain complexity weakens only the distributive effect.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "patel2026navigating"
+ ],
+ "page": "p. 1",
+ "sentence": "Stock market reactions to AI-heavy service patents in manufacturing are negative, softened by idiosyncratic volatility",
+ "passage": "[Patel (2026), p. 1] \"In a sample of 1306 service technology patents and 758,143 non-service technology patents from 3899 manufacturing firms (1980--2020)\" / \"stock market reactions to service technology patents with high AI scores are negative\" / \"we find that idiosyncratic volatility mitigates this negative reaction, while tangibility shows no such effect.\"",
+ "echo_runs": [
+  "stock market reactions to"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states findings from a sample of manufacturing firms that exactly match the negative reactions and mitigating volatility claimed in the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alnofeli2026powered"
+ ],
+ "page": "p. 1",
+ "sentence": "CRM systems powered by AI pay through marketing ambidexterity; profitability and competitive advantage follow",
+ "passage": "[Alnofeli et al. (2026), p. 1] \"The quantitative analysis confirms that AI-powered CRM capabilities positively shape marketing ambidexterity, which subsequently enhances profitability and competitive advantage.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage's confirmation that AI-powered CRM capabilities positively shape marketing ambidexterity, which subsequently enhances profitability and competitive advantage, directly supports the sentence's claims.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

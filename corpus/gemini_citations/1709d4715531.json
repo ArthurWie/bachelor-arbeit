@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "binnashwan2025infused"
+ ],
+ "page": "p. 1",
+ "sentence": "In accounting firms, AI-infused knowledge pays through green human and structural capital, while the relational channel contributes nothing",
+ "passage": "[Bin-Nashwan & Li (2025), p. 1] \"AIK positively and significantly affected the internal dimensions of GIC, green human capital (GHC) and green structural capital (GSC) within accounting firms, while green rational capital (GRC) had no effect.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that AI-infused knowledge positively affects green human and structural capital while having no effect on GRC, aligning with the claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

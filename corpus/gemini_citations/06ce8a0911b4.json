@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "feng2025algorithms"
+ ],
+ "page": "p. 1",
+ "sentence": "On the archival side, innovation gains from AI are amplified where executives hold IT backgrounds",
+ "passage": "[Feng et al. (2025), p. 1] \"Further analysis shows that AI-driven innovation is amplified in firms with executives who have information technology backgrounds, and that highly innovative firms diversify their supply chain to reduce resource risk.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states the finding that AI-driven innovation is amplified in firms where executives have IT backgrounds, which fully supports the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

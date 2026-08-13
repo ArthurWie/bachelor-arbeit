@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "huang2023market"
+ ],
+ "page": "p. 9",
+ "sentence": "Announcements of AI implementation earn a positive reaction on the day itself, and the returns differ with the detail of the announcement",
+ "passage": "[Huang & Lee (2023), p. 9] \"in response to the announcement of AI implementation, we find significant positive abnormal returns on the event day.\" / \"the results show significant differences in average cumulative abnormal returns between announcements with detailed information and those without detailed information.\"",
+ "echo_runs": [
+  "of ai implementation"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states finding positive abnormal returns on the event day and significant differences in returns based on the level of detail, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

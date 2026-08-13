@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "Firms with a stronger management team pull more value out of the investment",
+ "passage": "[Shi et al. (2025), p. 1] \"The findings establish that managerial capability positively moderates this relationship, indicating that firms with stronger management teams extract greater value from AI investments.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the passage's empirical finding that stronger management teams extract greater value from investments.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "baabdullah2021smes"
+ ],
+ "page": "p. 255",
+ "sentence": "Whether Saudi B2B SMEs take up AI practices depends on technology roadmapping, attitude, awareness and infrastructure; professional expertise and technicality stay insignificant",
+ "passage": "[Baabdullah et al. (2021), p. 255] \"The results showed that, of the AI enablers, acceptance of AI practices was significantly influenced by both technology roadmapping and attitude but not professional expertise. Of the AI readiness variables, acceptance of AI practices was significantly influenced by infrastructure and awareness but not technicality.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Saudi B2B SMEs",
+  "passage_is_hypothesis": false,
+  "note": "The passage perfectly matches the claims about which variables are significant or insignificant, but it does not explicitly mention Saudi B2B SMEs.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

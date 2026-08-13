@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kumar2025generative"
+ ],
+ "page": "p. 1",
+ "sentence": "Generative AI adoption lifts firm performance, and ethical leadership moderates that effect",
+ "passage": "[Kumar et al. (2025), p. 1] \"The results also highlight that GenAI adoption boosts firm performance. Finally, ethical leadership was found to moderate the effect of GenAI adoption on firm performance.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects both the positive effect of GenAI adoption on firm performance and the moderating role of ethical leadership exactly as stated in the passage's findings.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "AI washing is the extreme case: unsubstantiated claims first attract investors, then turn into negative reactions and lasting underperformance",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"In March 2024, SEC Chair Gary Gensler labeled this practice `AI washing. \"' / \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "the extreme case",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the findings on investor attraction and subsequent underperformance, but it does not state that AI washing is the 'extreme case'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "One panel study prices the threshold: the payoff to AI venture funding follows a U-shape whose turning point lies near USD 11.3 million, with revenue declining below that level and gains setting in above it",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"the turning point is observed at a log AI investment value of approximately 2.425 [ ] corresponding to approximately USD 11.3 million in AI-related venture funding. This suggests that firms investing below this level may face short term performance declines, while those exceeding this threshold begin to realise the long-term benefits of AI adoption\"",
+ "echo_runs": [
+  "usd 11 3 million"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "revenue declining",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that firms face 'performance' declines, which the sentence overspecifies as 'revenue' declining.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

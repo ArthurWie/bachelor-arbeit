@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "renfei2026exploring"
+ ],
+ "page": "p. 1",
+ "sentence": "Industry-4.0 manufacturers convert AI capabilities into sustainability performance far better than traditional ones",
+ "passage": "[Renfei et al. (2026), p. 1] \"The impact of AIC on CSP is significantly weaker in traditional manufacturing firms than in Industry 4.0 manufacturing firms.\"",
+ "echo_runs": [
+  "industry 4 0"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the sentence, as stating the impact of AIC on CSP is 'significantly weaker in traditional manufacturing firms' is equivalent to saying Industry-4.0 firms do it far better.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

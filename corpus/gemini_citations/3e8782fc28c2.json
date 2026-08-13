@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "lee2022adoption"
+ ],
+ "page": "p. 1",
+ "sentence": "Among high-tech ventures, revenue reacts only once adoption passes a sufficient intensity, and the gains grow where the venture also runs complementary technologies, cloud services and databases among them, and keeps its R&D strategy internal",
+ "passage": "[Lee et al. (2022), p. 1] \"We find that firm revenue increases only after sufficient investment in AI, and the benefits of AI adoption are greater at firms that also invest in complementary technologies and pursue internal R&D strategy.\" / \"We find that such performance gains from adoption is larger among firms that invest in complementary technologies such as cloud computing and database systems.\"",
+ "echo_runs": [
+  "r d strategy"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Among high-tech ventures",
+  "passage_is_hypothesis": false,
+  "note": "The passage discusses firms in general and specifically investment in AI, whereas the sentence unjustifiably restricts the finding to high-tech ventures.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

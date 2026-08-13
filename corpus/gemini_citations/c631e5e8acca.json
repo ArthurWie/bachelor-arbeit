@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "tehrani2025navigating"
+ ],
+ "page": "abstract",
+ "sentence": "On the other side it amplifies: the payoff to AI-based stakeholder engagement grows in turbulent settings",
+ "passage": "[Tehrani & Roy (2025), abstract] \"These effects are amplified in conditions of high technology turbulence.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "turbulent settings",
+  "passage_is_hypothesis": false,
+  "note": "The passage specifies 'high technology turbulence', but the sentence generalizes this to broad 'turbulent settings'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

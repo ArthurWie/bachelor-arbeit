@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "mehta2025driven"
+ ],
+ "page": "p. 543",
+ "sentence": "Whether key account managers take up AI at all depends on their personality traits, and organizational culture moderates the agreeableness path",
+ "passage": "[Mehta et al. (2025), p. 543] \"Our research shows that key account managers' adoption of AI technologies is influenced significantly by personality traits.\" / \"Organisational culture significantly moderates the association between agreeableness and the adoption of AI technologies.\"",
+ "echo_runs": [
+  "key account managers"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "at all depends",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that AI adoption is significantly influenced by personality traits, which is a weaker claim than stating that taking up AI 'at all depends' on them.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

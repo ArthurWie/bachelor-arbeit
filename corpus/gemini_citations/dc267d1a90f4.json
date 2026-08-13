@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chakraborty2025generative"
+ ],
+ "page": "abstract",
+ "sentence": "In hotels and resorts, leader narcissism shapes how the adoption factors translate into competitive positioning",
+ "passage": "[Chakraborty (2025), abstract] \"this study further explains how narcissism moderates the relationship between the factors that assist in adopting GAI and GAI's moderating effect on the overall competitive positioning and organisational outcomes.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "In hotels and resorts, leader",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that narcissism moderates the relationship between adoption factors and competitive positioning, but it does not mention hotels, resorts, or specify that it is leader narcissism.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

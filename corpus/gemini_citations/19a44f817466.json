@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "agag2026investing"
+ ],
+ "page": "p. 1",
+ "sentence": "AI human capital raises firm value partly by compressing wage inequality",
+ "passage": "[Agag et al. (2026), p. 1] \"Mediation analyses suggest that wage inequality partially channels the AIHC and firm value association.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "raises, compressing",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that wage inequality mediates the association between AI human capital and firm value, but it does not specify the directional claims that it 'raises' value or works by 'compressing' inequality.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

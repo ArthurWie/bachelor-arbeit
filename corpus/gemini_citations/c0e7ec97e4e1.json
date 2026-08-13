@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "basnet2025analyzing"
+ ],
+ "page": "p. 1",
+ "sentence": "In corporate filings, actionable disclosures with clear plans bring valuation gains while speculative and irrelevant mentions bring nothing, and silence or vagueness draws penalties",
+ "passage": "[Basnet et al. (2025), p. 1] \"Actionable disclosures outlining clear implementation plans yield significant valuation benefits, particularly upon first introduction, whereas speculative or irrelevant disclosures have no impact.\" / \"early adopters of actionable disclosures gain competitive advantages, while peers that either remain silent or offer only vague AI disclosures face market penalties.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms all claims in the sentence, matching the valuation gains for actionable plans, the lack of impact for speculative mentions, and the market penalties for silence or vagueness.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

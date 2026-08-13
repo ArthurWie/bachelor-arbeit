@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "lui2022impact"
+ ],
+ "page": "p. 373",
+ "sentence": "Investor reactions to AI investment announcements are negative on average, a drop of 1.77 percent on the announcement day, and the penalty concentrates in nonmanufacturing firms with weak IT capability or poor credit ratings",
+ "passage": "[Lui et al. (2022), p. 373] \"The stock prices of the firms decrease by 1.77\\% on the day of the announcement. Nonmanufacturing firms and firms with weak information technology capabilities or low credit ratings suffer a more negative impact compared with other firms.\"",
+ "echo_runs": [
+  "firms with weak"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "concentrates in nonmanufacturing firms with",
+  "passage_is_hypothesis": false,
+  "note": "The sentence incorrectly conflates separate categories into an intersecting group of nonmanufacturing firms that also have weak IT or poor credit, and exaggerates 'a more negative impact' as the penalty being 'concentrated in' them.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

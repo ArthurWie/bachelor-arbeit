@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "patel2026navigating"
+ ],
+ "page": "p. 1",
+ "sentence": "The negative market impact of AI service failures has grown more intense in recent years [CITE], and the negative reaction to AI-heavy service patents shows only in the two most recent decades",
+ "passage": "[Patel (2026), p. 1] \"stock market reactions to service technology patents with high AI scores are negative\" / \"Decade-wise analysis reveals effects are significant only in the 2010s and 2020s, suggesting evolving market perceptions of AI-driven servitization.\"",
+ "echo_runs": [
+  "only in the"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "AI service failures",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the statement regarding negative reactions to AI-heavy service patents in the two most recent decades, but it does not contain any information about AI service failures.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "damico2025enhancing"
+ ],
+ "page": "abstract",
+ "sentence": "Evidence from UK firms points the same way: AI adoption raises innovation performance where it complements the firm's internal R&D spending, and it partly substitutes collaboration with external knowledge partners",
+ "passage": "[D'Amico et al. (2025), abstract] \"Using data from 14,143 firms in the UK between 2004 and 2020, we explore how AI adoption impacts knowledge spillover of innovation.\" / \"Our findings suggest that firms adopting AI can enhance their innovation performance if it complements firm's own investment in R&D. AI adoption can substitute knowledge collaboration with certain external partners.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the empirical findings of the passage regarding the impact of AI on innovation performance and external knowledge collaboration for UK firms.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

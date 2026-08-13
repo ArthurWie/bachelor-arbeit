@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "fontanelli2025predictive"
+ ],
+ "page": "pp. 1--2",
+ "sentence": "French firms that source AI externally face more volatile productivity outcomes than in-house developers, and the volatility fades where ICT specialists make up more of the payroll",
+ "passage": "[Fontanelli et al. (2025), pp. 1--2] \"This paper shifts the focus and investigates the impact of predictive AI on the volatility of firms' productivity growth rates. Using firm-level data from the 2019 French ICT survey, we provide robust evidence that AI use is associated with increased volatility.\" / \"Our results show that heightened volatility is concentrated among AI buyers, whereas firms that develop AI internally experience no such association.\" / \"we find that the AI-volatility link among `AI buyers' is mitigated in firms with a higher share of ICT engineers and technicians, suggesting that AI's successful integration requires complementary human capital.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage provides explicit empirical results that perfectly match all claims made in the sentence, including the distinction between buyers and internal developers and the mitigating role of ICT specialists in French firms.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

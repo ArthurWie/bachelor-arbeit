@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "chatterjee2022digitalization"
+ ],
+ "page": "p. 437",
+ "sentence": "It dampens the paths from automated decision making and operational efficiency to relationship satisfaction",
+ "passage": "[Chatterjee et al. (2022), p. 437] \"the study highlights that there is a negative impact of the moderator `technology turbulence' on the relations of `automated decision making' and `operational efficiency' with `B2B relationship satisfaction', whereas there is a positive impact of moderator `leadership support' on `B2B relationship satisfaction' and `firm performance'.\"",
+ "echo_runs": [
+  "automated decision making and operational efficiency"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms a negative impact on the relations of automated decision making and operational efficiency with B2B relationship satisfaction, fully supporting the sentence's claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

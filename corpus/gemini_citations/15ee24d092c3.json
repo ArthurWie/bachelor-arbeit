@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 209",
+ "sentence": "A study is coded as measuring competitive advantage only when it measures a distinct construct, such as a validated competitive-advantage scale or genuinely competitor-comparative evidence; a performance gain alone is coded as performance.",
+ "passage": "[Chatterjee et al. (2021), p. 209] \"Competitive advantage is the degree to which the performance of an organization working in the B2B context could achieve greater benefits compared to other organizations functioning in similar conditions.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "A study is coded as measuring competitive advantage only when it measures a distinct construct, such as a validated competitive-advantage scale; a performance gain alone is coded as performance",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the requirement for competitor-comparative evidence by defining competitive advantage as relative to other organizations, but it does not mention study coding rules, validated scales, or how to code performance gains alone.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

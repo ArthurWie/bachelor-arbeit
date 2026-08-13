@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "samadhiya2023artificial"
+ ],
+ "page": "p. 510",
+ "sentence": "ICT capability and a firm's technological readiness must be in place before AI-based management of partner relationships improves performance",
+ "passage": "[Samadhiya et al. (2023), p. 510] \"The findings of the study show that information communication technology capability and technological readiness play a significant role in improving the performance of AI-based partner relationship management.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "must be in place before",
+  "passage_is_hypothesis": false,
+  "note": "The passage states that these capabilities play a significant role in improving performance, but the sentence exaggerates this by claiming they are strict prerequisites.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

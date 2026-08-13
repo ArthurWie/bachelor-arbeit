@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "lee2022adoption"
+ ],
+ "page": "p. 1",
+ "sentence": "Revenue reacts only once AI adoption passes a sufficient intensity",
+ "passage": "[Lee et al. (2022), p. 1] \"We find that firm revenue increases only after sufficient investment in AI, and the benefits of AI adoption are greater at firms that also invest in complementary technologies and pursue internal R&D strategy.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that firm revenue increases only after sufficient investment in AI, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

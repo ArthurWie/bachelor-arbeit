@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "wambataguimdje2020influence"
+ ],
+ "page": "p. 1893",
+ "sentence": "The case evidence ties performance to firms reworking their processes around AI",
+ "passage": "[Wamba-Taguimdje et al. (2020), p. 1893] \"The same results also showed that organizations achieve performance through AI capabilities only when they use their features/technologies to reconfigure their processes.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the claim by stating that organizations achieve performance through AI only when they reconfigure their processes.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

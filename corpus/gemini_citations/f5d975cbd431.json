@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "li2026opportunity"
+ ],
+ "page": "p. 1",
+ "sentence": "Competition sharpens the payoff as well: competitive intensity amplifies the creational path from technological opportunism to competitive advantage",
+ "passage": "[Li, Wu et al. (2026), p. 1] \"competitive intensity amplifies the mediation effect of creational affordance instead of the mediation effects of organizational memory and collaborative affordances.\"",
+ "echo_runs": [
+  "competitive intensity amplifies the"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Competition sharpens the payoff as well, from technological opportunism to competitive advantage",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that competitive intensity amplifies the creational effect, but it does not mention payoffs, technological opportunism, or competitive advantage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

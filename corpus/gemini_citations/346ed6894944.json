@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "sullivan2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "Hostile and fast-moving environments condition how much each AI capability feeds the firm's adaptive response",
+ "passage": "[Sullivan & Fosso Wamba (2024), p. 1] \"The results demonstrate significant interaction effects of environmental hostility and dynamism on the relationships between AI-powered capabilities and ARMC.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage's finding of significant interaction effects of environmental hostility and dynamism on the relationship between AI capabilities and ARMC directly supports the sentence's claim that these factors condition the impact of AI on adaptive response.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

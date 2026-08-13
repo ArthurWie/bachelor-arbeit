@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "agag2026investing"
+ ],
+ "page": "p. 1",
+ "sentence": "The value association of AI human capital is stronger in travel, the compression of wage inequality stronger in hospitality",
+ "passage": "[Agag et al. (2026), p. 1] \"Findings indicate that AIHC is positively associated with firm value, negatively associated with wage inequality, and that wage inequality is negatively associated with firm value.\" / \"Sectoral analyses reveal stronger value associations in travel and stronger inequality compression associations in hospitality.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly states that sectoral analyses reveal stronger value associations in travel and stronger inequality compression associations in hospitality, matching the sentence perfectly.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

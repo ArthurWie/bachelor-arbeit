@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "renfei2026exploring"
+ ],
+ "page": "p. 1",
+ "sentence": "In Chinese manufacturing, AI capabilities raise sustainability performance via a tiered mechanism whose prescriptive component fails",
+ "passage": "[Renfei et al. (2026), p. 1] \"This study empirically analyzes data from Chinese manufacturing enterprises through the PLS-SEM method.\" / \"AIC significantly enhances CSP through a tiered enabling mechanism, but prescriptive capabilities fail to achieve their intended effects.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the passage's empirical findings regarding AI capabilities, corporate sustainability performance, the tiered enabling mechanism, and the failure of prescriptive capabilities in Chinese manufacturing.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

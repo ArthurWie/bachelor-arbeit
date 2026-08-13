@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "wambataguimdje2020influence"
+ ],
+ "page": "pp. 1893--1894",
+ "sentence": "The case evidence describes that dependency from inside the organization: performance arrives only where firms rebuild their processes around the technology, and success rests on a bundle of data, talent, domain knowledge, partnerships and infrastructure",
+ "passage": "[Wamba-Taguimdje et al. (2020), pp. 1893--1894] \"The same results also showed that organizations achieve performance through AI capabilities only when they use their features/technologies to reconfigure their processes.\" / \"[ ] must be brought together to ensure the success of AI: data, talent mix, domain knowledge, key decisions, external partnerships and scalable infrastructure.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly supports both the condition for achieving performance (reconfiguring processes) and the required bundle of elements for success.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

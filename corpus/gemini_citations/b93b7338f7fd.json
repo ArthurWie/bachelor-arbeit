@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alam2025relationship"
+ ],
+ "page": "p. 1",
+ "sentence": "In Malaysian hospitality, sustainable competitive advantage transmits adoption into value, while dynamic capabilities first hold value back during the transition and prove themselves only under turbulence",
+ "passage": "[Alam et al. (2025), p. 1] \"This study explores the relationship between technology readiness, AI adoption, dynamic capabilities, sustainable competitive advantage, and technological turbulence, assessing their collective impact on value creation within the Malaysian hospitality industry.\" / \"dynamic capabilities exhibited a complex impact, initially impeding value creation due to transitional challenges, but ultimately proving crucial in navigating technological turbulence. Sustainable competitive advantage emerged as a significant mediator, translating AI adoption and dynamic capabilities into enhanced value creation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately captures the study's findings regarding how dynamic capabilities initially impede but ultimately aid value creation, and how sustainable competitive advantage acts as a mediator.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

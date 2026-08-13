@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "alam2025relationship"
+ ],
+ "page": "p. 1",
+ "sentence": "In hospitality it moderates selectively, touching only the path from dynamic capabilities to value",
+ "passage": "[Alam et al. (2025), p. 1] \"This study explores the relationship between technology readiness, AI adoption, dynamic capabilities, sustainable competitive advantage, and technological turbulence, assessing their collective impact on value creation within the Malaysian hospitality industry.\" / \"the moderating effects of technological turbulence were selective, significantly influencing only the relationship between dynamic capabilities and value creation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states as a finding that in the hospitality industry, the moderating effect was selective and only influenced the relationship between dynamic capabilities and value creation.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

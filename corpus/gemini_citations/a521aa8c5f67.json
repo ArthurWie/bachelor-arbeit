@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "zebec2024creating"
+ ],
+ "page": "p. 1",
+ "sentence": "Adoption lifts organisational performance through the quality of decisions and the performance of business processes, with process innovation, automation and organisational learning as complementary partial mediators",
+ "passage": "[Zebec & Indihar Stemberger (2024), p. 1] \"AI adoption increases organisational performance through decision-making and business process performance. Process automation, organisational learning and process innovation are significant complementary partial mediators\"",
+ "echo_runs": [
+  "organisational performance through",
+  "complementary partial mediators"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence faithfully paraphrases the relationships and variables explicitly stated in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}
