@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "czarnitzki2023artificial"
+ ],
+ "page": "pp. 189, 201",
+ "sentence": "On German panel data, AI use raises productivity for the yes/no measure and the intensity measure alike",
+ "passage": "[Czarnitzki et al. (2023), p. 189] \"We analyze cross-section as well as panel data from the German part of the European Commission's Community Innovation Survey (CIS).\" / [p. 201] \"We found that employing AI technologies has a positive and significant impact on firm productivity. In particular, we showed that both the use of AI and the intensity with which firms exploit the potential of AI significantly increase both sales and value-added.\"",
+ "echo_runs": [
+  "and the intensity"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that both the use of AI and the intensity of its use have a positive and significant impact on firm productivity using German panel data.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "In the United States, growth from AI investments concentrates among the larger firms and raises industry concentration",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-powered growth concentrates among larger firms and is associated with higher industry concentration.\"",
+ "echo_runs": [
+  "larger firms and"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "In the United States, raises",
+  "passage_is_hypothesis": false,
+  "note": "The sentence claims a causal relationship ('raises') and geographical scope ('In the United States') that are not present in the passage, which only states an association.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

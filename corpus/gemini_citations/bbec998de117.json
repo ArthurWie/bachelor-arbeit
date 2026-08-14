@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "lui2022impact"
+ ],
+ "page": "p. 373",
+ "sentence": "Investors, on average, react to AI investment announcements with a drop of 1.77 percent on the announcement day, and firms with weak IT bases or poor credit ratings lose more",
+ "passage": "[Lui et al. (2022), p. 373] \"The stock prices of the firms decrease by 1.77\\% on the day of the announcement. Nonmanufacturing firms and firms with weak information technology capabilities or low credit ratings suffer a more negative impact compared with other firms.\"",
+ "echo_runs": [
+  "and firms with weak"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the empirical findings stated in the passage without adding unsupported claims.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

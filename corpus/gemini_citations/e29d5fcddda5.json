@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "p. 618",
+ "sentence": "Against it stands a growing list of strategic obstacles, from AI's myopia to its resistance to managerial control, and the observation that AI resembles a general-purpose technology built on explicit knowledge",
+ "passage": "[Kemp (2024), p. 618] \"Despite this promise, a growing body of research has highlighted that AI may present substantial strategic obstacles. AI may be myopic (Balasubramanian, Ye, & Xu, 2022), incapable of perceiving interdependencies within a firm (Raisch & Krakowski, 2021), and recalcitrant to managerial control (Murray, Rhymer, & Sirmon, 2021).\" / \"In addition, AI is a form of explicit knowledge (Broussard, 2018; Shrestha, He, Puranam, & von Krogh, 2021), and resembles a general-purpose technology (Teece, 2018).\"",
+ "echo_runs": [
+  "to managerial control"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly corroborates every element of the sentence, including the strategic obstacles of myopia and resistance to control, as well as AI's nature as explicit knowledge and a general-purpose technology.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

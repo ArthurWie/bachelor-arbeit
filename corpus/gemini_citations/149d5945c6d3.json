@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "p. 618",
+ "sentence": "Introduction Whether investing in artificial intelligence (AI) makes a firm more competitive is, in Kemp's words, a theoretical puzzle",
+ "passage": "[Kemp (2024), p. 618] \"The prospect of using artificial intelligence (AI) to establish competitive advantages presents a theoretical puzzle.\"",
+ "echo_runs": [
+  "a theoretical puzzle"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the original passage, maintaining the meaning that the relationship between AI use and competitive advantage is a theoretical puzzle.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

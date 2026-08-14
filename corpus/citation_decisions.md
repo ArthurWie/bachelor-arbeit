@@ -61,3 +61,36 @@ des fertigen Kapitels 4 entschieden.
 Blind Section Review (section_review_background.md), gleiche Batch-Entscheidung:
 CONSISTENCY-Fix (Überleitung nach J-Kurven-Absatz) AKZEPTIERT wie umgesetzt;
 AI-STYLE-Flag VERWORFEN (wörtliches Shi-Zitat in Fussnote, keine eigene Prosa).
+
+## discussion.tex (Kapitel 5) — Batch-Entscheidung Arthur, 14.08.2026
+
+| Datum | Stelle | Flag | Entscheidung |
+|---|---|---|---|
+| 14.08.2026 | wu2023role, p. 484 | Echos „marketing capabilities customer"; „co creation market orientation and"; „ai marketing strategy" | AKZEPTIERT — Konditionsnamen des fsQCA-Rezepts |
+| 14.08.2026 | lee2022adoption, p. 1 | Echos „complementary technologies and"; „internal r d" | AKZEPTIERT — Konstrukt-/Termnamen |
+| 14.08.2026 | banna2025value, sec. 4.1 (Theorieteil) | Echo „usd 11 3 million" | AKZEPTIERT — quantifizierter Schwellenwert (wie Results-Entscheidung 13.08.) |
+| 14.08.2026 | wang2026artificial, p. 1 | Echo „performance returns is" | AKZEPTIERT — Termfolge |
+| 14.08.2026 | lui2022impact, p. 373 | Echo „firms with weak" | AKZEPTIERT — Sample-Deskriptor |
+| 14.08.2026 | zebec2024creating, pp. 16--17 | Echo „no significant direct effect" | AKZEPTIERT — statistischer Fachterminus (wie 14.08., background) |
+| 14.08.2026 | vaillant2025platforms, abstract | Echos „570 spanish manufacturing firms"; „capability building behavior" | AKZEPTIERT — Sample-Deskriptor bzw. Konstruktname |
+| 14.08.2026 | vaillant2025platforms, secs. 6.1, 6.2 | Echos „grounding bounding and recasting"; „one of the first"; „of situated ai" | AKZEPTIERT — Theoriebegriffe Kemps bzw. Selbstbeschreibung der Studie |
+| 14.08.2026 | banna2025value, sec. 4.1 (Praxisteil) | Echos „the turning point"; „usd 11 3 million in ai" | AKZEPTIERT — quantifizierter Schwellenwert |
+| 14.08.2026 | song2026washing, p. 1 | Echo „negative market reactions and" | AKZEPTIERT — Befundbegriff der Studie |
+
+Blind Section Review (section_review_discussion.md), gleiche Batch-Entscheidung:
+6 Stil-Fixes AKZEPTIERT wie umgesetzt; Verwerfung des Zebec-Parallelismus-Flags
+BESTÄTIGT (Wortlaut der Quelle).
+
+## introduction.tex (Kapitel 1) — Batch-Entscheidung Arthur, 14.08.2026
+
+| Datum | Stelle | Flag | Entscheidung |
+|---|---|---|---|
+| 14.08.2026 | kemp2024competitive, p. 618 (Puzzle) | Echo „a theoretical puzzle" | AKZEPTIERT — Begriff des Autors, in der Prosa als Kemps Wort ausgewiesen |
+| 14.08.2026 | kemp2024competitive, p. 618 (Hindernisse) | Echo „strategic obstacles ai" | AKZEPTIERT — Termfolge |
+| 14.08.2026 | czarnitzki2023artificial, pp. 189, 201 | Echo „and the intensity" | AKZEPTIERT — Termfolge |
+| 14.08.2026 | babina2024artificial, p. 1 | Echo „larger firms and" | AKZEPTIERT — Termfolge |
+| 14.08.2026 | lui2022impact, p. 373 | Echo „and firms with weak" | AKZEPTIERT — Sample-Deskriptor |
+| 14.08.2026 | krakowski2023artificial, p. 1425 | Echo „while creating new" | AKZEPTIERT — Termfolge |
+
+Blind Section Review (section_review_introduction.md), gleiche Batch-Entscheidung:
+alle 3 Fixes AKZEPTIERT wie umgesetzt (Suchfenster-Präzisierung, zwei Antithesen).

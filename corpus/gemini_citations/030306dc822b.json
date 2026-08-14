@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1425",
+ "sentence": "And where adoption is observed over time, it destroys old capabilities while creating new ones at the human-machine boundary",
+ "passage": "[Krakowski et al. (2023), p. 1425] \"AI adoption triggers interrelated substitution and complementation dynamics, which make humans' traditional competitive capabilities obsolete, while creating new sources of persistent heterogeneity when humans interact with chess engines.\"",
+ "echo_runs": [
+  "while creating new"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the sentence by confirming that AI adoption makes traditional capabilities obsolete while creating new dynamics during human-machine interaction.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

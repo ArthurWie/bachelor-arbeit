@@ -40,7 +40,8 @@ Reasoning: Wraps up the explanation with a textbook formulaic antithesis ("follo
 
 **Entscheidung Arthur (je Flag):**
 
-PROPOSED (14. Aug 2026, Claude) — 6 Fixes umgesetzt, 1 Verwerfung:
+**ENTSCHIEDEN Arthur 14.08.2026 (Batch): alle 6 Fixes akzeptiert, Verwerfung von
+Flag 4 bestätigt.** Ursprüngliche Vorschläge:
 
 1. Roadmap-Absatz: gekürzt auf „The preceding chapter delivered the material for the
    answer; this chapter interprets it." — FIX umgesetzt.
