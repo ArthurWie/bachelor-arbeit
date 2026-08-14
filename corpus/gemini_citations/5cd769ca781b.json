@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 215",
+ "sentence": "Chatterjee et al. ask about rivals directly: one of their competitive-advantage items has respondents affirm that successful implementation of AI-based customer relationship management \"will help an organization to win over its competitor which has not yet implemented AI-CRM for B2B relationship management\"",
+ "passage": "[Chatterjee et al. (2021), p. 215] \"I think that successful implementation of AI-CRM will help an organization to win over its competitor which has not yet implemented AI-CRM for B2B relationship management.\"",
+ "echo_runs": [
+  "that successful implementation of ai"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately quotes the survey item from the passage and correctly describes it as an item that respondents affirm.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

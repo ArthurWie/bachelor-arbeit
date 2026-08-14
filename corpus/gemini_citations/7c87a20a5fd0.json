@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1426",
+ "sentence": "Krakowski et al. note that AI costs almost nothing to reproduce and that little stands in the way of copying it, so where AI substitutes a human capability, the RBV predicts that the advantage resting on that capability will erode",
+ "passage": "[Krakowski et al. (2023), p. 1426] \"When AI substitutes humans' cognitive capabilities, the RBV expects the advantage that these capabilities provided to erode (Peteraf & Bergen, 2003). This is because, as a technology resource, AI has close to zero marginal reproduction costs and few imitation barriers (Brynjolfsson & McAfee, 2014, p. 31).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence is an accurate paraphrase of the passage, correctly capturing the causal logic and the theoretical prediction made by the RBV.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

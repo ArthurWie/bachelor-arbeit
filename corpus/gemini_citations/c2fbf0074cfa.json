@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "czarnitzki2023artificial"
+ ],
+ "page": "p. 188",
+ "sentence": "A GPT earns the label because it makes \"new and complementary production methods\" available, which can raise output over time",
+ "passage": "[Czarnitzki et al. (2023), p. 188] \"The main feature of general-purpose technology is to enable new and complementary production methods that may increase productivity over time (Bresnahan and Trajtenberg 1995; Bresnahan et al., 2002; Brynjolfsson and Hitt 2003; Cardona et al., 2013).\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the passage, capturing the main feature of a general-purpose technology and reasonably equating increased productivity with raised output.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

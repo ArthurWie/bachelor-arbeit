@@ -44,3 +44,20 @@ Alle siebenundzwanzig: Gemini-Urteil „supported=yes", Paraphrase voll gedeckt;
 sind Konstrukt-, Sample-, Kennzahl-, Fach- oder Eigennamen (bzw. Funktionswort-Folgen),
 deren Wiederholung rewrite_standards §9 ausdrücklich zulässt. Damit sind alle Flags
 des fertigen Kapitels 4 entschieden.
+
+## background.tex (Kapitel 2) — Batch-Entscheidung Arthur, 14.08.2026
+
+| Datum | Stelle | Flag | Entscheidung |
+|---|---|---|---|
+| 14.08.2026 | barney1991firm, p. 102 | Echo „a value creating strategy" | AKZEPTIERT — Definitionsbegriff Barneys |
+| 14.08.2026 | chatterjee2021effect, p. 215 | Echo „that successful implementation of ai" | AKZEPTIERT — Wortlaut des Survey-Items |
+| 14.08.2026 | fontanelli2025predictive, pp. 1--2 | Echos „that ai use"; „the volatility of"; „of ict engineers and technicians" | AKZEPTIERT — Variablen-/Sample-Begriffe |
+| 14.08.2026 | barney1991firm, pp. 105--106 | Echo „imperfectly imitable and"; Gemini partly: Bedingung (d) vereinfacht | AKZEPTIERT — Glosse „no substitute may do the same strategic job" bleibt; Volltext der Bedingung steht in der Fussnote |
+| 14.08.2026 | zebec2024creating, pp. 16--17 | Echo „no significant direct effect" | AKZEPTIERT — statistischer Fachterminus |
+| 14.08.2026 | kemp2024competitive, p. 618 | Hypothese-statt-Befund | AKZEPTIERT — Prosa sagt selbst „he defines"; Theoriebeitrag als solcher ausgewiesen |
+| 14.08.2026 | kemp2024competitive, p. 620 | Echo „general human capital" | AKZEPTIERT — Konstruktname |
+| 14.08.2026 | kemp2024competitive, pp. 618--619 | Echo „a competitor s ai" | AKZEPTIERT — Begriff aus Kemps Bounding-Definition |
+
+Blind Section Review (section_review_background.md), gleiche Batch-Entscheidung:
+CONSISTENCY-Fix (Überleitung nach J-Kurven-Absatz) AKZEPTIERT wie umgesetzt;
+AI-STYLE-Flag VERWORFEN (wörtliches Shi-Zitat in Fussnote, keine eigene Prosa).

@@ -3,6 +3,19 @@
 Nur Wortlaut. Kodierte Werte in coding_table.csv unveraendert; FACT_SHEET bleibt gueltig.
 Aendern/verwerfen: Zeile in corpus/appendix_overrides.tsv editieren oder loeschen, dann Skript neu laufen lassen.
 
+**NACHTRAG (14. Aug 2026, Claude): alle Abkuerzungsaufloesungen gegen die Volltexte
+geprueft** (Definitionsstellen per pdfplumber aus den PDFs gezogen; Sun 2022 spaltenweise).
+Ergebnis: S04, S05, S17, S24–S27, S37–S48, S55–S67 exakt bestaetigt. Vier
+Praezisionskorrekturen in appendix_overrides.tsv, Tabelle regeneriert (Self-Checks gruen):
+
+- **S07 Leoni:** Konstrukt heisst „manufacturing *firm* performance" (MFP) — Wort ergaenzt.
+- **S10 Sun:** EV/RV = „economic value" und „relationship value" (nicht „relational");
+  die Appendix-Fassung hatte deren Null-Pfade zu CA (H5a/b, H6a/b nicht gestuetzt)
+  stillschweigend weggelassen — jetzt: „neither value co-creation directly nor the
+  economic and relationship value it creates significantly affects competitive advantage".
+- **S21 Sullivan:** ARMC = „adaptive response to market change*s*" (Plural) — korrigiert.
+- **S28 Bin-Nashwan:** GIC = „green *intellectual* capital" — Wort ergaenzt.
+
 ## S04 Chatterjee S. (2022) — conditions
 
 **kodiert:** technology turbulence (negative moderator on ADM->BRS -0.23* and OPE->BRS -0.32***); leadership support (positive moderator on BRS->FP 0.29*); main effect ACRM->FP 0.53*** unconditional

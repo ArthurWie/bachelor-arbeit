@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "pp. 618--619",
+ "sentence": "Kemp names three activities: grounding, which picks the experiences a firm's own AI learns from; bounding, which works on the experiences feeding a competitor's AI; and recasting, which keeps reworking the algorithms and the routines around them so the AI stays aligned with the rest of the firm's activities",
+ "passage": "[Kemp (2024), pp. 618--619] \"Grounding involves orchestrating which experiences one's AI will be allowed to learn from across the organization. Bounding involves efforts to shape the experiences anchoring a competitor's AI. Recasting involves orchestrating the continual adaptation of algorithms and their surrounding routines to enhance AI's alignment with interdependent activities in a firm.\"",
+ "echo_runs": [
+  "a competitor s ai"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the definitions of grounding, bounding, and recasting provided in the source passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

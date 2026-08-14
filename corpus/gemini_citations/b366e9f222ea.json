@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "p. 106",
+ "sentence": "That is a shorthand Barney himself comes close to when he lists \"rareness, inimitability, non-substitutability\" among the characteristics that can qualify a firm attribute as a source of advantage, adding that the attribute becomes a resource only once it exploits an opportunity or neutralizes a threat",
+ "passage": "[Barney (1991), p. 106] \"Firm attributes may have the other characteristics that could qualify them as sources of competitive advantage (e.g., rareness, inimitability, non-substitutability), but these attributes only become resources when they exploit opportunities or neutralize threats in a firm's environment.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases and selectively quotes the passage without introducing any new claims or altering its meaning.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

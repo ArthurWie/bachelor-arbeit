@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "Shi et al. take the mixed results of earlier work as a sign that what AI yields depends on intangible complements, on governance, and on managerial capability bound to its context, and they test that claim on Chinese listed firms, with data assets as the channel and managerial capability as the moderator",
+ "passage": "[Shi et al. (2025), p. 1] \"Drawing on a comprehensive dataset of Chinese listed companies spanning 2010--2022, this study investigates how AI adoption influences enterprise value through the mediating role of data assets and the moderating effect of managerial capability.\" / \"These mixed outcomes suggest that the value-creating capacity of AI depends on more than technological sophistication alone; it hinges on complementary intangible resources, effective governance structures, and context-specific managerial capabilities---factors that current empirical research has only partially explored.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms all claims made in the sentence, including the interpretation of mixed outcomes and the specifics of their empirical investigation on Chinese firms.",
+  "model": "gemini-3.1-pro-high"
+ }
+}
