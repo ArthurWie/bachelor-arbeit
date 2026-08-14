@@ -26,7 +26,8 @@ Reasoning: This exhibits the classic, artificially balanced parallel structure (
 
 **Entscheidung Arthur (je Flag):**
 
-PROPOSED (14. Aug 2026, Claude) — alle 4 Flags gefixt (Review lief über Abstract +
+**ENTSCHIEDEN Arthur 14.08.2026: alle 4 Fixes einzeln geprüft und akzeptiert
+(Vorher/Nachher vorgelegt).** Ursprüngliche Vorschläge (Review lief über Abstract +
 Conclusion gemeinsam):
 
 1. NUMBERS (38/63 dem Performance-Konstrukt zugeschrieben): berechtigt — 38 positiv
