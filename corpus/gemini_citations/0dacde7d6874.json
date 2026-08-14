@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "Raisch and Krakowski's argument that the two applications cannot be kept apart in practice reads, after this corpus, like a job description for management: the moderators of Section , from leadership support to managerial capability, describe the people who draw that line, and firms with stronger management teams pull more value out of the same investment",
+ "passage": "[Shi et al. (2025), p. 1] \"The findings establish that managerial capability positively moderates this relationship, indicating that firms with stronger management teams extract greater value from AI investments.\"",
+ "echo_runs": [
+  "firms with stronger management teams"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Raisch and Krakowski's argument that the two applications cannot be kept apart in practice reads, after this corpus, like a job description for management: the moderators of Section , from leadership support to managerial capability, describe the people who draw that line",
+  "passage_is_hypothesis": false,
+  "note": "The passage perfectly supports the claim about managerial capability and firms extracting more value, but does not address Raisch and Krakowski's argument, leadership support, or people drawing the line.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

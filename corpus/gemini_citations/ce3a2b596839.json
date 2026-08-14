@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1446",
+ "sentence": "Krakowski et al. place the imitation barrier in the bundle of human and machine capabilities rather than in either part",
+ "passage": "[Krakowski et al. (2023), p. 1446] \"the locus of sustainable advantage is neither human nor machine capabilities, but what humans do with these capabilities.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "bundle of human and machine capabilities",
+  "passage_is_hypothesis": false,
+  "note": "The sentence correctly captures that the advantage is not in either part alone, but shifts the emphasis from the passage's focus on human action ('what humans do with these capabilities') to the mere 'bundle' of the capabilities themselves.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

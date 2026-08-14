@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "vaillant2025platforms"
+ ],
+ "page": "abstract",
+ "sentence": "On 570 Spanish manufacturing firms, Vaillant et al. find that firms using AI platforms show more cooperative and capability-building behavior when identifying problems and implementing solutions",
+ "passage": "[Vaillant et al. (2025), abstract] \"Data collected from 570 Spanish manufacturing firms in 2023 reveals that firms utilizing AI platforms exhibit greater cooperative and situating capability-building behavior during the problem identification and solution implementation stages.\"",
+ "echo_runs": [
+  "570 spanish manufacturing firms",
+  "capability building behavior"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the empirical findings and sample details reported in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

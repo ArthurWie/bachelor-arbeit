@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "Below the turning point of roughly USD 11.3 million in AI venture funding, performance can decline in the short run",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"firms investing below this level may face short term performance declines, while those exceeding this threshold begin to realise the long-term benefits of AI adoption\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "roughly USD 11.3 million in AI venture funding",
+  "passage_is_hypothesis": false,
+  "note": "The passage refers to firms making investments rather than receiving AI venture funding, and does not explicitly state the USD 11.3 million figure.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

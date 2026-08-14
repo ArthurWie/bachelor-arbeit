@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "krakowski2023artificial"
+ ],
+ "page": "p. 1425",
+ "sentence": "Across the 15, this review reads only the chess evidence of Krakowski et al. as a test of persistence: the capabilities that emerge at the human-machine boundary stay heterogeneous over time",
+ "passage": "[Krakowski et al. (2023), p. 1425] \"AI adoption triggers interrelated substitution and complementation dynamics, which make humans' traditional competitive capabilities obsolete, while creating new sources of persistent heterogeneity when humans interact with chess engines.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the passage's claim that human interaction with chess engines creates new sources of persistent heterogeneity.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

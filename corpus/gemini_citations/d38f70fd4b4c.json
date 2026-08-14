@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "vaillant2025platforms"
+ ],
+ "page": "abstract",
+ "sentence": "Direct tests are beginning just outside the corpus: on 570 Spanish manufacturing firms, Vaillant et al. find that AI platforms raise cooperative and capability-building behavior along the solution delivery process",
+ "passage": "[Vaillant et al. (2025), abstract] \"Data collected from 570 Spanish manufacturing firms in 2023 reveals that firms utilizing AI platforms exhibit greater cooperative and situating capability-building behavior during the problem identification and solution implementation stages.\"",
+ "echo_runs": [
+  "570 spanish manufacturing firms",
+  "capability building behavior"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "raise",
+  "passage_is_hypothesis": false,
+  "note": "The passage reports a correlational finding ('exhibit greater') whereas the sentence makes a causal claim ('raise').",
+  "model": "gemini-3.1-pro-high"
+ }
+}

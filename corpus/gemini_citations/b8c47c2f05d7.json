@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "lui2022impact"
+ ],
+ "page": "p. 373",
+ "sentence": "The firm-characteristics group adds the sorting the RBV expects: growth concentrates among the larger firms [CITE], and the same traits soften the downside, since weak IT bases and poor ratings deepen the announcement penalty",
+ "passage": "[Lui et al. (2022), p. 373] \"Nonmanufacturing firms and firms with weak information technology capabilities or low credit ratings suffer a more negative impact compared with other firms.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "The firm-characteristics group adds the sorting the RBV expects: growth concentrates among the larger firms [CITE], and the same traits soften the downside",
+  "passage_is_hypothesis": false,
+  "note": "The passage supports the claim that weak IT capabilities and poor credit ratings deepen negative impacts, but it contains no mention of the resource-based view (RBV), firm size, or growth concentration.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

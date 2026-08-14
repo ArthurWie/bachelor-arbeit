@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "Below the turning point of roughly USD 11.3 million, venture funding for AI drags revenue rather than adding to it",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"firms investing below this level may face short term performance declines, while those exceeding this threshold begin to realise the long-term benefits of AI adoption\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "drags revenue",
+  "passage_is_hypothesis": false,
+  "note": "The sentence presents a definite effect on revenue, removing the uncertainty ('may') and timeframe ('short term') from the passage's mention of performance declines.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

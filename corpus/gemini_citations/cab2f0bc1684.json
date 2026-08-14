@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "shi2025value"
+ ],
+ "page": "p. 1",
+ "sentence": "The moderators of Section , from leadership support to managerial capability, describe who draws that line: firms under stronger management pull more value out of the same investment",
+ "passage": "[Shi et al. (2025), p. 1] \"The findings establish that managerial capability positively moderates this relationship, indicating that firms with stronger management teams extract greater value from AI investments.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly confirms that managerial capability moderates the relationship and that stronger management teams extract greater value from investments, directly matching the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

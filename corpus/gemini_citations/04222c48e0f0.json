@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "wang2026artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "A purchasable technology meets none of Barney's four conditions, and the corpus behaves accordingly: where studies model a direct path from investment to outcome, that path is often insignificant, and the return sits in the capability the investment builds",
+ "passage": "[Wang & Zhang (2026), p. 1] \"The mediating effect of strategic resilience is robust and fully accounts for the AI capability--success relationship, indicating that the mechanism through which AI investments generate performance returns is fundamentally organizational rather than technological in nature.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "A purchasable technology meets none of Barney's four conditions, and the corpus behaves accordingly",
+  "passage_is_hypothesis": false,
+  "note": "The passage empirically supports that investment returns rely on organizational capabilities rather than direct technological effects, but it does not mention Barney's four conditions or summarize a broader corpus of studies.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

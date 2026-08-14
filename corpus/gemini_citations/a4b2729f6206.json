@@ -1,0 +1,19 @@
+{
+ "keys": [
+  "lee2022adoption"
+ ],
+ "page": "p. 1",
+ "sentence": "Revenue reacts only past an adoption-intensity threshold and grows where complementary technologies and internal R&D stand behind the investment",
+ "passage": "[Lee et al. (2022), p. 1] \"We find that firm revenue increases only after sufficient investment in AI, and the benefits of AI adoption are greater at firms that also invest in complementary technologies and pursue internal R&D strategy.\"",
+ "echo_runs": [
+  "complementary technologies and",
+  "internal r d"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately captures the passage's empirical findings regarding the required investment threshold and the amplifying effects of complementary technologies and internal R&D.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

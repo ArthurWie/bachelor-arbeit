@@ -1,0 +1,20 @@
+{
+ "keys": [
+  "wu2023role"
+ ],
+ "page": "p. 484",
+ "sentence": "The configurational evidence makes the combination itself the unit of analysis: for food firms, performance follows recipes that join marketing capabilities, customer co-creation, market orientation and an AI marketing strategy",
+ "passage": "[Wu & Monfort (2023), p. 484] \"The research results of FsQCA find that causal conditions of marketing capabilities, customer value co-creation, market orientation, and AI marketing strategy are necessary and sufficient recipes for higher firm performance.\"",
+ "echo_runs": [
+  "marketing capabilities customer",
+  "co creation market orientation and",
+  "ai marketing strategy"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "for food firms",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that the specified combination of conditions forms a recipe for higher performance, but does not mention that these results apply specifically to food firms.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

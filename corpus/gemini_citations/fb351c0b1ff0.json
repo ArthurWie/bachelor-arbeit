@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "banna2025value"
+ ],
+ "page": "sec. 4.1",
+ "sentence": "Revenue reacts only past an adoption-intensity threshold and grows where complementary technologies and internal R&D stand behind the investment [CITE]; the funding payoff turns at roughly USD 11.3 million",
+ "passage": "[Banna & Alam (2025), sec. 4.1] \"the turning point is observed at a log AI investment value of approximately 2.425 [ ] corresponding to approximately USD 11.3 million in AI-related venture funding. This suggests that firms investing below this level may face short term performance declines, while those exceeding this threshold begin to realise the long-term benefits of AI adoption\"",
+ "echo_runs": [
+  "usd 11 3 million"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "and grows where complementary technologies and internal R&D stand behind the investment",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms the USD 11.3 million threshold for performance benefits but contains no mention of complementary technologies or internal R&D.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

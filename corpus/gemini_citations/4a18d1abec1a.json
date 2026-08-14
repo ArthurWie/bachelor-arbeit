@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "lui2022impact"
+ ],
+ "page": "p. 373",
+ "sentence": "Weakness sorts the downside the same way: firms with weak IT bases or poor credit ratings take the deeper announcement penalty",
+ "passage": "[Lui et al. (2022), p. 373] \"Nonmanufacturing firms and firms with weak information technology capabilities or low credit ratings suffer a more negative impact compared with other firms.\"",
+ "echo_runs": [
+  "firms with weak"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly confirms that firms with weak information technology capabilities or low credit ratings suffer a more negative impact.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

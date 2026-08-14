@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "pham2024determinants"
+ ],
+ "page": "p. 1",
+ "sentence": "Most designs are associational, and the hospital evidence states the consequence from inside the corpus: assessing AI's payoff requires endogeneity controls",
+ "passage": "[Pham et al. (2024), p. 1] \"Importantly, we demonstrate that controlling for endogeneity is essential in assessing the performance outcomes of AI adoption.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Most designs are associational, and the hospital evidence states the consequence from inside the corpus",
+  "passage_is_hypothesis": false,
+  "note": "The passage perfectly supports the claim that assessing AI performance outcomes requires endogeneity controls, but it does not mention that most designs are associational or refer to hospital evidence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

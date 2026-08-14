@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "zebec2024creating"
+ ],
+ "page": "pp. 16--17",
+ "sentence": "Zebec and Indihar Stemberger find no significant direct effect of process automation on process performance once tasks grow complex, and derive the boundary rule: automate the routine, augment the ambiguous",
+ "passage": "[Zebec & Indihar Stemberger (2024), pp. 16--17] \"The results show that BPA has no significant direct effect on BPP for more complex tasks in terms of efficiency of execution or scalability.\" / \"In summary, automate routine, well-structured tasks and augment complex, ambiguous ones.\"",
+ "echo_runs": [
+  "no significant direct effect"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states both the lack of significant direct effect on process performance for complex tasks and the summary rule to automate routine tasks and augment complex ones, fully supporting the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

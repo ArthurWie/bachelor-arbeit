@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "fontanelli2025predictive"
+ ],
+ "page": "pp. 1--2",
+ "sentence": "Sourcing adds a corollary: externally bought AI carries a volatility that in-house development does not show",
+ "passage": "[Fontanelli et al. (2025), pp. 1--2] \"Our results show that heightened volatility is concentrated among AI buyers, whereas firms that develop AI internally experience no such association.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly states that heightened volatility is concentrated among AI buyers and absent in firms developing AI internally, which fully supports the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

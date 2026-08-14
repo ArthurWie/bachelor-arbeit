@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "basnet2025analyzing"
+ ],
+ "page": "p. 1",
+ "sentence": "Actionable disclosure with clear plans earns valuation gains while speculative mentions earn nothing",
+ "passage": "[Basnet et al. (2025), p. 1] \"Actionable disclosures outlining clear implementation plans yield significant valuation benefits, particularly upon first introduction, whereas speculative or irrelevant disclosures have no impact.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately summarizes the findings presented in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

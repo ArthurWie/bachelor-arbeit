@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2025companies"
+ ],
+ "page": "p. 504",
+ "sentence": "The downside is also not symmetric: when AI services fail, small firms lose more market value than large ones",
+ "passage": "[Song et al. (2025), p. 504] \"Second, small firms experience more share price declines due to AI service failure events than large firms.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly states that small firms experience more share price declines than large firms due to AI service failures, which fully supports the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

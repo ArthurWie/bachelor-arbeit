@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "barney1991firm"
+ ],
+ "page": "p. 102",
+ "sentence": "Barney's test for a sustained advantage, survival after rivals' attempts at duplication have run their course",
+ "passage": "[Barney (1991), p. 102] \"Rather, whether or not a competitive advantage is sustained depends upon the possibility of competitive duplication. Following Lippman and Rumelt (1982) and Rumelt (1984), a competitive advantage is sustained only if it continues to exist after efforts to duplicate that advantage have ceased.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately paraphrases the definition of a sustained advantage provided in the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

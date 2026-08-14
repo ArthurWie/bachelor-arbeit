@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "Actionable disclosure with clear plans earns valuation gains while speculative mentions earn nothing [CITE], and rhetoric that outruns implementation is punished: AI washing first attracts investors, then costs them",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "Actionable disclosure with clear plans earns valuation gains while speculative mentions earn nothing",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms that rhetoric outpacing implementation is punished after initially attracting investors, but it provides no evidence that actionable disclosures earn gains or speculative mentions earn nothing.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

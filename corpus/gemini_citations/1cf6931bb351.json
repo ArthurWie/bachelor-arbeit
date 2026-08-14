@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "pham2024determinants"
+ ],
+ "page": "p. 1",
+ "sentence": "The hospital evidence makes the point from inside the corpus: assessing AI's payoff requires endogeneity controls",
+ "passage": "[Pham et al. (2024), p. 1] \"we find that hospitals with a larger market share are great candidates to adopt AI.\" / \"Importantly, we demonstrate that controlling for endogeneity is essential in assessing the performance outcomes of AI adoption.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that controlling for endogeneity is essential in assessing AI performance outcomes, fully supporting the sentence's claim.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

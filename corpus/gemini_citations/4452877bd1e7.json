@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "Rhetoric that outruns implementation is punished: AI washing draws investors in at first, and what follows are negative market reactions and lasting underperformance",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [
+  "negative market reactions and"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately reflects the findings in the passage, matching the claims about initial investor attraction, subsequent negative market reactions, sustained underperformance, and the punishment of rhetoric outpacing implementation.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

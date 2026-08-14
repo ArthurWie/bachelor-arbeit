@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "The firm-characteristics group adds the sorting the RBV expects: growth concentrates among the larger firms",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-powered growth concentrates among larger firms and is associated with higher industry concentration.\"",
+ "echo_runs": [
+  "growth concentrates among"
+ ],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "The firm-characteristics group adds the sorting the RBV expects",
+  "passage_is_hypothesis": false,
+  "note": "The sentence introduces theoretical context not present in the passage and broadens the specific finding of 'AI-powered growth' to general 'growth'.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

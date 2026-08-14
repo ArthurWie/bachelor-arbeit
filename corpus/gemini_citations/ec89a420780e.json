@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "p. 620",
+ "sentence": "The theory holds that a generic technology yields nothing defensible by itself, because rivals can buy and deploy the same thing",
+ "passage": "[Kemp (2024), p. 620] \"For example, AI's generic nature is akin to general human capital. General human capital cannot typically underly interfirm advantages because a firm's competitors can usually acquire and deploy that knowledge in ways that closely mimic corresponding actions of the focal firm.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately captures the passage's argument that generic assets cannot provide competitive advantage because competitors can easily acquire and deploy them.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

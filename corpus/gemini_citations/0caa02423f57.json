@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "song2026washing"
+ ],
+ "page": "p. 1",
+ "sentence": "Rhetoric that outruns implementation is punished: AI washing first attracts investors, then costs them",
+ "passage": "[Song, Hou et al. (2026), p. 1] \"we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.\" / \"markets ultimately punish rhetoric that outpaces implementation.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states that such narratives initially attract investors but ultimately lead to negative reactions, perfectly matching the sentence.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

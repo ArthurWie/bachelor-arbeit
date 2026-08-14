@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "Growth from AI concentrates among the larger firms",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-powered growth concentrates among larger firms and is associated with higher industry concentration.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage directly supports the sentence with nearly identical phrasing.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

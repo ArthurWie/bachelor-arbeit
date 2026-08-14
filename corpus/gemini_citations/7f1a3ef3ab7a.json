@@ -1,0 +1,18 @@
+{
+ "keys": [
+  "wang2026artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "Wang and Zhang state the resulting reading most directly: the mechanism behind AI's performance returns is organizational, not technological",
+ "passage": "[Wang & Zhang (2026), p. 1] \"The mediating effect of strategic resilience is robust and fully accounts for the AI capability--success relationship, indicating that the mechanism through which AI investments generate performance returns is fundamentally organizational rather than technological in nature.\"",
+ "echo_runs": [
+  "performance returns is"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The sentence accurately captures the passage's explicit conclusion that the mechanism driving performance returns from AI is organizational rather than technological.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

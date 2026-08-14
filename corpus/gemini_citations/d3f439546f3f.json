@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "pp. 618--619",
+ "sentence": "It gives the firm three activities to work against that: grounding, bounding and recasting",
+ "passage": "[Kemp (2024), pp. 618--619] \"Grounding involves orchestrating which experiences one's AI will be allowed to learn from across the organization. Bounding involves efforts to shape the experiences anchoring a competitor's AI. Recasting involves orchestrating the continual adaptation of algorithms and their surrounding routines to enhance AI's alignment with interdependent activities in a firm.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly identifies and defines grounding, bounding, and recasting as three specific activities undertaken by a firm.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

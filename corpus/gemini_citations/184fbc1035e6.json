@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "brynjolfsson2021productivity"
+ ],
+ "page": "pp. 333--334",
+ "sentence": "Behind both stands the intangible logic of the productivity J-curve: complements are built, unbooked, before they pay",
+ "passage": "[Brynjolfsson et al. (2021), pp. 333--334] \"realizing their potential also requires large intangible investments and a fundamental rethinking of the organization of production itself. Firms must create new business processes, develop managerial experience, train workers, patch software, and build other intangibles.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "productivity J-curve: complements are built, unbooked, before they pay",
+  "passage_is_hypothesis": false,
+  "note": "The passage discusses the need to build intangible investments but does not explicitly mention the productivity J-curve, that they are unbooked, or the timing of when they pay off.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

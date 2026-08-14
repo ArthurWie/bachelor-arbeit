@@ -1,0 +1,20 @@
+{
+ "keys": [
+  "wu2023role"
+ ],
+ "page": "p. 484",
+ "sentence": "For food firms, performance follows recipes that join marketing capabilities, customer co-creation, market orientation and an AI marketing strategy",
+ "passage": "[Wu & Monfort (2023), p. 484] \"Data were collected from 278 food firms.\" / \"The research results of FsQCA find that causal conditions of marketing capabilities, customer value co-creation, market orientation, and AI marketing strategy are necessary and sufficient recipes for higher firm performance.\"",
+ "echo_runs": [
+  "marketing capabilities customer",
+  "co creation market orientation and",
+  "ai marketing strategy"
+ ],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage explicitly states the research results found the listed factors to be necessary and sufficient recipes for higher firm performance in food firms.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "kemp2024competitive"
+ ],
+ "page": "pp. 618--619",
+ "sentence": "The theory predicts what the corpus shows: a generic technology yields nothing defensible by itself, because rivals can buy and deploy the same thing [CITE], and returns depend on the situating work of grounding, bounding and recasting",
+ "passage": "[Kemp (2024), pp. 618--619] \"Grounding involves orchestrating which experiences one's AI will be allowed to learn from across the organization. Bounding involves efforts to shape the experiences anchoring a competitor's AI. Recasting involves orchestrating the continual adaptation of algorithms and their surrounding routines to enhance AI's alignment with interdependent activities in a firm.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "a generic technology yields nothing defensible by itself, because rivals can buy and deploy the same thing, and returns depend on",
+  "passage_is_hypothesis": true,
+  "note": "The passage provides definitions for grounding, bounding, and recasting, while the sentence presents them as empirical findings regarding technological defensibility and returns.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

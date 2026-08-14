@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "sun2024deconstruct"
+ ],
+ "page": "p. 1",
+ "sentence": "The third is coverage: samples from the United States and China make up 47.8 percent of the corpus, and two thirds of the studies (65.7 percent) appeared in 2025 and 2026, so long-run outcomes are largely unobservable, and the one study that decomposes the effect over time finds it slowing already",
+ "passage": "[Sun et al. (2024), p. 1] \"the dynamic decomposition effect shows that the productivity-enhancing effect of AI is slowing down in the long run.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "yes",
+  "overclaim": "",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms the study's finding that dynamic decomposition shows the effect of AI slowing down over time.",
+  "model": "gemini-3.1-pro-high"
+ }
+}
