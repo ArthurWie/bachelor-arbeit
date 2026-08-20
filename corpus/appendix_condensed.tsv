@@ -56,7 +56,7 @@ S12	ai_measure	survey (AI adoption yes/no plus intensity of AI use in business p
 S12	notes	representative survey; instrumented estimates; no moderators tested
 S13	sample	109 AI implementation announcements by S&P 500 firms, 2014-2019
 S13	performance_measure	firm market value (stock-price reaction around the announcement)
-S13	conditions	detailed announcements pay more overall but react with delay - vague ones only on the day itself; IT firms gain more, non-IT reactions not significant; negative wording correlates modestly negatively
+S13	conditions	detailed announcements pay more but with delay, vague ones only on the day itself; IT firms gain more
 S13	notes	short-window event study; market reaction, not realized performance
 S14	sample	same chess players across human-only, human-plus-AI and engine-only tournaments (controlled competitive setting)
 S14	ai_measure	adoption of chess engines (AI) in competitive play
@@ -90,7 +90,7 @@ S20	key_finding	Hospitals with larger market share adopt AI and gain in revenue,
 S20	notes	archival matched panel; self-selection addressed
 S21	sample	107 executives (France + UK), two-wave survey
 S21	performance_measure	perceived firm performance, process innovation, product innovation
-S21	conditions	central mediator: adaptive response to market changes; only AI analytics shows direct effects in a supplementary check; hostility weakens the automation path, strengthens the analytics path; only ten of eighteen conditional effects significant
+S21	conditions	central mediator: adaptive response to market changes; only analytics also works directly; hostility weakens the automation path, strengthens the analytics path; ten of eighteen conditional effects significant
 S21	notes	two-wave perceptual survey; environment-selective effects
 S22	sample	3,235 Chinese listed firms, 2007-2021
 S22	ai_measure	annual-report text (frequency of AI-related terms)
@@ -101,7 +101,7 @@ S23	conditions	mediators in sequence: decision-making quality and business-proce
 S23	notes	perceptual survey; cross-sectional
 S24	sample	336 hospitality-industry respondents
 S24	ca_measure	sustainable competitive advantage (modeled as mediator)
-S24	conditions	mediator: sustainable competitive advantage between AI adoption and value creation; dynamic capabilities have a negative direct effect on value creation (transition costs); technological turbulence moderates only the capabilities-to-value path, weakening it further
+S24	conditions	mediator: sustainable competitive advantage; dynamic capabilities hurt value creation directly (transition costs), and turbulence deepens this
 S24	notes	perceptual survey; cross-sectional; competitive advantage modeled as mediator
 S25	conditions	mediators: SME creativity and green innovation; green entrepreneurial orientation as parallel driver
 S25	notes	perceptual survey; cross-sectional
@@ -267,3 +267,10 @@ S67	conditions	full mediation: strategic resilience fully carries the effect of 
 S67	notes	multi-method; perceptual two-wave survey
 S08	conditions	stronger negative reaction for nonmanufacturing firms, weak IT capability and low credit ratings; better IT capability lessens the drop
 S44	conditions	labour productivity amplifies the growth effect; labour cost and labour share weaken it
+S13	key_finding	Markets reward AI implementation announcements - more so when announcements are detailed (delayed but stronger reaction) and come from IT firms.
+S18	conditions	implementation barriers: data quality, AI skills, high investment needs, unclear economic benefits, cost-analysis experience (nine in total)
+S18	performance_measure	case-reported outcomes: costs, lead times, service level, quality, safety, sustainability (partly quantified)
+S15	ai_measure	survey construct (AI-based partner relationship management capabilities)
+S15	performance_measure	perceived firm performance (expectation-worded survey scale)
+S15	ca_measure	perceived sustainable competitiveness (survey scale)
+S20	performance_measure	outpatient revenue, inpatient revenue, ROA, productivity, occupancy

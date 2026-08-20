@@ -581,3 +581,31 @@ S25,key_finding,flag,"Does [2] support ""entry condition"", or only that infrast
 S25,theoretical_lens,ok,,2026-08-20
 S25,industry,ok,,2026-08-20
 S25,quality_notes,ok,,2026-08-20
+S12,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S13,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S13,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S13,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S17,ai_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S17,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S17,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S18,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S18,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S18,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S25,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S44,ai_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S10,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S10,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S11,ai_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S19,ca_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S19,quality_notes,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S22,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S23,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S15,ai_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S15,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S15,ca_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S20,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S20,effect_direction,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S20,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S21,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S24,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S24,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20

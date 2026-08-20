@@ -1,5 +1,14 @@
 # Audit-Flag-Resolutionen (20. Aug 2026, Claude)
 
+**BATCH-REVIEW ABGESCHLOSSEN (20. Aug 2026):** Arthur hat alle 28 geänderten Zellen in
+drei Batches einzeln geprüft und angenommen (ok-Zeilen mit Vermerk „2. Pass" in
+`author_audit.csv`; `audit_second_pass.csv` geleert). Wortlaut-Anpassungen aus dem
+Review: S12 ohne „production function"-Zusatz; S13 conditions/key_finding ohne Zahlen,
+„non-IT n.s." nur kodiert; S18 conditions/performance_measure mit kürzeren Druckwerten;
+S21/S24 conditions + S24 key_finding gekürzt (Koeffizienten raus); neue kurze Druckwerte
+für S15 (×3) und S20 performance_measure. Generalregel ab jetzt: Druckzellen kurz und
+zahlenfrei, Detail nur kodiert.
+
 Aufarbeitung aller 62 offenen Flags aus `author_audit.csv` (Stand 20. Aug, last-wins).
 Jede Resolution: Verdikt + Beleg (Seite). Alle INCORPORATE-Werte sind in
 `coding_table.csv` / `appendix_condensed.tsv` als PROPOSED angewendet — Arthur reviewt

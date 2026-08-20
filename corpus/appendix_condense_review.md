@@ -184,11 +184,14 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
   - before: 109 AI implementation announcements 2014-2019, S&P 500 components (Compustat) + Google Search event collection
   - after: 109 AI implementation announcements by S&P 500 firms, 2014-2019
 - **performance_measure**
-  - before: firm market value (CARs over event windows (0,0) to (-5,+5) around announcement)
+  - before: firm market value (cumulative abnormal returns around the announcement)
   - after: firm market value (stock-price reaction around the announcement)
 - **conditions**
-  - before: announcement detail (detailed > vague,: vague only day-0 0.426%, detailed delayed and stronger, (-2,+2) 0.839%); IT firms > non-IT (non-IT CARs all not significant); frequency of negative words: modest negative correlation with CAR(0,0)
-  - after: detailed announcements pay more overall but react with delay - vague ones only on the day itself; IT firms gain more, non-IT reactions not significant; negative wording correlates modestly negatively
+  - before: announcement detail (detailed > vague, but with delay; vague only on the event day); IT firms > non-IT (non-IT not significant); negative wording: modest negative correlation
+  - after: detailed announcements pay more but with delay, vague ones only on the day itself; IT firms gain more
+- **key_finding**
+  - before: Markets reward AI implementation announcements - more so when announcements are detailed (delayed but stronger reaction) and come from IT firms; non-IT reactions not significant.
+  - after: Markets reward AI implementation announcements - more so when announcements are detailed (delayed but stronger reaction) and come from IT firms.
 - **notes (NOT printed — Notes column removed by the author; tags kept in the layer file)**
   - before: Short-window event study; counterpoint to Lui 2022 (S08) | SAMPLE-CHECK OK: event study/positive confirmed (109 announcements, positive abnormal returns)
   - after: short-window event study; market reaction, not realized performance
@@ -214,6 +217,15 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
 - **sample**
   - before: in-depth interviews with senior B2B managers + PLS-SEM on 142 responses
   - after: interviews with senior B2B managers plus a survey of 142 responses
+- **ai_measure**
+  - before: survey construct (AIPRM capabilities: AI-based partner relationship management)
+  - after: survey construct (AI-based partner relationship management capabilities)
+- **performance_measure**
+  - before: perceived firm performance (survey scale, expectation-worded items)
+  - after: perceived firm performance (expectation-worded survey scale)
+- **ca_measure**
+  - before: perceived sustainable competitiveness (survey scale; only one of five items competitor-referencing, rest mixes AIPRM embedding and environmental commitment)
+  - after: perceived sustainable competitiveness (survey scale)
 - **conditions**
   - before: ICT capability (prerequisite); technological readiness (prerequisite); firm fit
   - after: prerequisites: information and communication technology capability and technological readiness; firm fit
@@ -256,6 +268,12 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
 - **ai_measure**
   - before: case observation (AI applications in SCOR processes)
   - after: case observation (AI applications across supply-chain processes)
+- **performance_measure**
+  - before: case-reported competitiveness outcomes: costs, lead times, service level, quality, safety, sustainability (partly quantified: 30% stock reduction, 4% OEE gain)
+  - after: case-reported outcomes: costs, lead times, service level, quality, safety, sustainability (partly quantified)
+- **conditions**
+  - before: barriers as boundary conditions: data quality, AI skills, high investment needs, unclear economic benefits, lack of AI cost-analysis experience (9 barriers total in Table 6: financial, organisational, strategic, technological)
+  - after: implementation barriers: data quality, AI skills, high investment needs, unclear economic benefits, cost-analysis experience (nine in total)
 - **key_finding**
   - before: AI improves supply-chain competitiveness, with evidence concentrated in make/production processes (13 of 17 applications; none in source or return); realization depends on overcoming data-quality, skill and investment-evaluation barriers.
   - after: AI improves supply-chain competitiveness, mostly evidenced in production processes; the gains depend on overcoming data-quality, skill and investment-evaluation barriers.
@@ -287,6 +305,9 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
 - **ai_measure**
   - before: adoption dummy (hospital AI adoption)
   - after: adoption dummy (hospital has adopted AI or not)
+- **performance_measure**
+  - before: outpatient revenue, inpatient revenue, ROA, productivity, occupancy (ROA not significant in every specification)
+  - after: outpatient revenue, inpatient revenue, ROA, productivity, occupancy
 - **conditions**
   - before: market share predicts adoption (self-selection), no test of differential benefit; endogeneity control essential - naive OLS misleading
   - after: larger-market-share hospitals are the adopters (self-selection, no test of who benefits more); without accounting for it the estimates mislead
@@ -306,7 +327,7 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
   - after: perceived firm performance, process innovation, product innovation
 - **conditions**
   - before: adaptive response to market changes is a full mediator, with no direct AI-to-performance paths modelled; environmental hostility weakens the automation path (negative moderator) and turns the relational path insignificant; environmental dynamism moderates as well; only ten of eighteen conditional indirect effects are significant
-  - after: central mediator: adaptive response to market changes; only AI analytics shows direct effects in a supplementary check; hostility weakens the automation path, strengthens the analytics path; only ten of eighteen conditional effects significant
+  - after: central mediator: adaptive response to market changes; only analytics also works directly; hostility weakens the automation path, strengthens the analytics path; ten of eighteen conditional effects significant
 - **notes (NOT printed — Notes column removed by the author; tags kept in the layer file)**
   - before: Two-wave design (stronger than cross-section); perceptual measures; effect highly environment-selective
   - after: two-wave perceptual survey; environment-selective effects
@@ -345,7 +366,7 @@ Derived by corpus/make_appendix_table.py. 'Before' is what the printed table sho
   - after: sustainable competitive advantage (modeled as mediator)
 - **conditions**
   - before: sustainable competitive advantage mediates between AI adoption and value creation; dynamic capabilities first impede value creation through transition costs and become crucial later under turbulence; technological turbulence moderates only the path from capabilities to value creation
-  - after: mediator: sustainable competitive advantage between AI adoption and value creation; dynamic capabilities have a negative direct effect on value creation (transition costs); technological turbulence moderates only the capabilities-to-value path, weakening it further
+  - after: mediator: sustainable competitive advantage; dynamic capabilities hurt value creation directly (transition costs), and turbulence deepens this
 - **notes (NOT printed — Notes column removed by the author; tags kept in the layer file)**
   - before: Perceptual, cross-section; models CA explicitly (as mediator)
   - after: perceptual survey; cross-sectional; competitive advantage modeled as mediator
