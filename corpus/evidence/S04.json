@@ -1,0 +1,291 @@
+{
+ "study_id": "S04",
+ "document_id": 4,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Thus, RBV theory, DCV, and SQB theory could help to identify the antecedents that could eventually impact the firm performance.",
+   "pdf_page": 3,
+   "supports": "Names all three coded lenses: RBV, dynamic capability view, and status-quo-bias theory.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "439",
+   "ctrl_f": "Thus, RBV theory, DCV, and SQB theory could"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "The model was validated using the PLS-SEM technique with 312 responses from 14 firms in the B2B context.",
+   "pdf_page": 1,
+   "supports": "PLS-SEM survey with 312 responses from 14 firms — backs method = survey-SEM, the coded n, and the 14-firm-cluster quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "437",
+   "ctrl_f": "PLS-SEM technique with 312 responses from 14 firms"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The purpose of this study is to determine the impact of adopting a artificial intelligence-embedded customer relationship management (CRM) system for business-to-business relationship management.",
+   "pdf_page": 1,
+   "supports": "Adoption of an AI-embedded CRM system is the focal survey construct, matching the coded ai_measure ('a artificial' typo is in the original).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "437",
+   "ctrl_f": "The purpose of this study is to determine"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The study finds that an AI-embedded CRM system has a significant positive impact towards B2B relationship satisfaction and firm performance.",
+   "pdf_page": 1,
+   "supports": "Paper's own statement of its central result: significant positive effect on relationship satisfaction and firm performance — backs outcome = performance, direction = positive, and key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "437",
+   "ctrl_f": "CRM system has a significant positive impact towards"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "To target potential respondents from the different Indian firms, a list of the firms was procured from the Bombay Stock Exchange (Mumbai, India).",
+   "pdf_page": 5,
+   "supports": "Indian BSE-listed firms — backs country_region = India and the BSE-listed sample description.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "441",
+   "ctrl_f": "To target potential respondents from the different Indian"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Out of 14 firms, 10 firms were large, whereas four were small and medium firms.",
+   "pdf_page": 5,
+   "supports": "Backs the coded 10 large / 4 SME split.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "441",
+   "ctrl_f": "Out of 14 firms, 10 firms were large,"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "four firms were from the telecommunication sector, three from the IT sector, two from the retail sector, two from the pharmaceutical sector, and three from the automobile sector",
+   "pdf_page": 5,
+   "supports": "Backs the coded industry mix (telecom, IT, retail, pharma, automobile) and industry = cross-industry (B2B).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "441",
+   "ctrl_f": "the telecommunication sector, three from the IT sector,"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Ultimately, by the first week of March 2020, only 326 responses from the managers of several ranks at those 14 firms were obtained, which is a response rate of 47.3%.",
+   "pdf_page": 5,
+   "supports": "Backs the coded response rate of 47.3% (326 raw responses; 312 usable after screening).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "441",
+   "ctrl_f": "Ultimately, by the first week of March 2020,"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "They were provided with the questionnaire along with the instructions, and were asked to respond within two months, that is, January and February 2020.",
+   "pdf_page": 5,
+   "supports": "Backs the coded survey window Jan-Feb 2020.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "441",
+   "ctrl_f": "They were provided with the questionnaire along with"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "Firm performance is measured by the net outcomes, including consideration of both market and financial criteria, return on investments and assets, sales growth, market share, and overall profitability",
+   "pdf_page": 4,
+   "supports": "Backs the coded performance_measure content (market+financial criteria, ROI/ROA, sales growth, market share, profitability).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.64,
+   "verdict": "verified",
+   "printed_pages": "440",
+   "ctrl_f": "Firm performance is measured by the net outcomes,"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "Level of satisfaction in the B2B relationship is also a measure of firm performance",
+   "pdf_page": 4,
+   "supports": "Backs the '+ B2B relationship satisfaction' component of the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "440",
+   "ctrl_f": "relationship is also a measure of firm performance"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The ACRM significantly and positively impacts FP (H3), with the path coefficient being 0.53, having a level of significance of p < 0.001 (***).",
+   "pdf_page": 7,
+   "supports": "The unconditional main effect ACRM->FP 0.53*** recorded in conditions — a clear positive average main effect, backing effect_direction = positive per the frozen rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "443",
+   "ctrl_f": "The ACRM significantly and positively impacts FP (H3),"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the results show that the effects of TT on the linkages covered by H1 and H2 are both negative, since the concerned path coefficients are 0.23, with a level of significance of p < 0.05",
+   "pdf_page": 7,
+   "supports": "Technology turbulence as negative moderator on ADM->BRS (-0.23*); the sentence continues with 0.32 (p < 0.001) on OPE->BRS, matching the coded -0.32***.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "443",
+   "ctrl_f": "show that the effects of TT on the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "However, the effects of the other moderator LS on the linkage H4 are positive and significant, as the concerned path coefficient is 0.29, with a significance level of p < 0.05 (*).",
+   "pdf_page": 7,
+   "supports": "Leadership support as positive moderator on BRS->FP (0.29*), matching the coded condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "443",
+   "ctrl_f": "However, the effects of the other moderator LS"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "Using AI-CRM system for B2B relationship management can help improve competitiveness of the firms.",
+   "pdf_page": 11,
+   "supports": "FP3 item: 'competitiveness' appears only as one item inside the firm-performance scale — the model's five constructs (ADM, OPE, ACRM, BRS, FP) contain no distinct CA construct, confirming the empty ca_measure per adjudication.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "447",
+   "ctrl_f": "Using AI-CRM system for B2B relationship management can"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "I believe that our sales growth has improved post AI-CRM implementation.",
+   "pdf_page": 11,
+   "supports": "FP1 item shows performance is measured by perceptual self-report ('I believe...'), backing the perceptual-survey quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "447",
+   "ctrl_f": "I believe that our sales growth has improved"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "The present study is based on the findings from analyzing cross-sectional data, which creates problems in establishing accurate causality between the constructs.",
+   "pdf_page": 10,
+   "supports": "Authors' own limitation admission supporting the perceptual/cross-sectional quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "446",
+   "ctrl_f": "the findings from analyzing cross-sectional data, which creates"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure emptiness confirmed: RBV competitive-advantage language appears only as theory framing (p. 2) and 'competitiveness' only as FP scale item FP3 — no distinct measured CA construct, consistent with the adjudicated outcome = performance. The quality-note clause 'same author group as S03' is coder commentary, not source-based."
+ },
+ "has_printed_pagination": true
+}

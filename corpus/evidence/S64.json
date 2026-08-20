@@ -1,0 +1,313 @@
+{
+ "study_id": "S64",
+ "document_id": 64,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "quality_notes"
+   ],
+   "quote": "This study analyzes how artificial intelligence (AI) innovation affects firms' financial performance and value among S&P 500 companies in the US market, using a panel data regression model for the period 2000-2024.",
+   "pdf_page": 1,
+   "supports": "Abstract states panel regression, S&P 500 sample, US market, and the long 2000-2024 window ('long panel' in quality_notes).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This study analyzes how artificial intelligence (AI) innovation"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "in the US market, we select firms in the S&P 500 as of December 31, 2024, as our sample.",
+   "pdf_page": 1,
+   "supports": "Confirms the coded sample (S&P 500 companies) and country (USA).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "US market, we select firms in the S&P"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "These are the leading 500 US public companies, collectively accounting for approximately 80% of the US equity market capitalization",
+   "pdf_page": 1,
+   "supports": "Backs industry = cross-industry (large caps): the sample spans the largest listed firms across sectors.",
+   "tension": null,
+   "located_pdf_pages": [
+    1,
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1–2",
+   "ctrl_f": "These are the leading 500 US public"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Following prior literature, we have excluded financial sector firms from our study due to differences in their capital structure, accounting practices, and regulatory requirements compared to other firms",
+   "pdf_page": 4,
+   "supports": "Qualifies the cross-industry coding: financial firms are excluded, a standard restriction.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.82,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "excluded financial sector firms from our study due"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The results remain robust to multiple checks, including system-GMM and PSM.",
+   "pdf_page": 1,
+   "supports": "Backs the coded 'system-GMM + PSM robustness' in the sample/method description.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The results remain robust to multiple checks, including"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Following prior literature, we measure AI innovation by the number of AI-related patents granted to S&P 500 firms",
+   "pdf_page": 5,
+   "supports": "AI is measured as AI patents granted per year, matching the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Following prior literature, we measure AI innovation by"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We utilize the methodology outlined in the PATENTSCOPE Artificial Intelligence Index to identify such patents.",
+   "pdf_page": 5,
+   "supports": "Backs the coded PATENTSCOPE AI Index identification methodology.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.2,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "5",
+   "ctrl_f": "outlined in the PATENTSCOPE Artificial Intelligence"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "The dependent variable selected for the first hypothesis is return on assets (RoA).",
+   "pdf_page": 4,
+   "supports": "Backs the ROA half of the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The dependent variable selected for the first"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "For measuring firm value, we use Tobin's Q as our primary dependent variable.",
+   "pdf_page": 4,
+   "supports": "Backs the firm-value half of the coded performance_measure (Tobin's Q).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.86,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "For measuring firm value, we use Tobin's Q"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "performance_measure"
+   ],
+   "quote": "An increase in AI patents by one standard deviation (115.66 from Table 1) leads to the Tobin's Q value of the firm rising by 0.058, translating to a 3% increase in firm value",
+   "pdf_page": 7,
+   "supports": "Backs the coded effect-size detail: 1 SD = 115.66 patents, Tobin's Q +0.058, ~3% firm value.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "patents by one standard deviation (115.66 from Table"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "We observe that while overall, AI innovation does not significantly impact firm value, there is a small but significant positive impact when sustainable business operations support the innovation.",
+   "pdf_page": 7,
+   "supports": "Null firm-value baseline with a positive effect only under the sustainability condition backs effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.86,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "We observe that while overall, AI innovation does"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The study finds mixed evidence of a small positive impact of AI innovation on firms' return on assets, with the effect stronger for more R&D-intensive firms.",
+   "pdf_page": 1,
+   "supports": "Backs the coded 'small positive ROA effect, stronger for R&D-intensive firms' condition and the 'pays modestly' key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "a small positive impact of AI innovation on"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The findings demonstrate that AI innovation increases firm value for companies that perform well on sustainability-related metrics.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that firm-value gains occur only for firms with good sustainability metrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The findings demonstrate that AI innovation increases firm"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding",
+    "quality_notes"
+   ],
+   "quote": "This effect is stronger under Democratic administrations than under Republican governments, indicating the influence of political environments on the market's perception of firms' actions.",
+   "pdf_page": 1,
+   "supports": "Backs the coded political-environment condition (stronger under Democratic administrations).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This effect is stronger under Democratic administrations than"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "firms focusing on sustainability, particularly environmental sustainability, experience an increase in firm value with AI innovation, while other firms experience no effect on firm value.",
+   "pdf_page": 8,
+   "supports": "Results section confirms the sustainability boundary: value gains ONLY for sustainable firms, others get no effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.24,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "8",
+   "ctrl_f": "sustainability, experience an increase in firm value with"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "firms with higher ESG and EPS scores exhibit an approximate 8% relative increase in firm value for each standard deviation increase in AI patents during Democratic regimes.",
+   "pdf_page": 8,
+   "supports": "Quantifies the political-administration condition (8% relative value increase under Democratic regimes).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "and EPS scores exhibit an approximate 8% relative"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Complementarities research suggests that technological innovation leads to enhanced firm performance when it is combined with aligned organizational capabilities",
+   "pdf_page": 3,
+   "supports": "Backs the 'innovation economics' half of the coded lens: hypotheses build on complementarities research, not one named theory.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.58,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3",
+   "ctrl_f": "leads to enhanced firm performance when it is"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Institutional theory (North 1990) also suggests that the institutional environment (in the form of regulations, laws, and policies) influences firm outcomes and market valuations.",
+   "pdf_page": 4,
+   "supports": "Backs the 'political economy' half of the coded lens: the political-administration hypothesis draws on institutional arguments.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.58,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "4",
+   "ctrl_f": "suggests that the institutional environment (in the form"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "theoretical_lens coded 'none explicit' is defensible: the paper cites complementarities research, TOE, institutional theory, and value-enhancing vs. shareholder theory in passing rather than one framing lens - the two lens quotes document the ingredients. quality_notes 'unusual political-context condition' is coder commentary; the political condition itself is source-backed. ca_measure empty is correct: 'competitive advantage' appears only as motivation/rhetoric (e.g., citing Kemp 2024), no CA construct is measured. Direction note for the author: ROA shows a small positive main effect while firm value is null overall and positive only under sustainability/political conditions; the final coding 'conditional' rests on the firm-value null baseline, consistent with the frozen rules."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,271 @@
+{
+ "study_id": "S41",
+ "document_id": 41,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "By integrating resource-based, dynamic-capability, and stakeholder perspectives, the study clarifies when AI becomes a genuine source of competitive advantage.",
+   "pdf_page": 1,
+   "supports": "Abstract names all three coded lenses: RBV, dynamic capabilities, stakeholder perspective.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.33,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "perspectives, the study clarifies when AI becomes a"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "Our empirical investigation examines Chinese listed companies from 2010 to 2022, comprising 22,938 firm-year observations.",
+   "pdf_page": 3,
+   "supports": "Panel of firm-year observations of Chinese listed firms matches method (panel econometrics), sample size (~22,900) and country (China).",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "Our empirical investigation examines Chinese listed companies from"
+  },
+  {
+   "fields": [
+    "method",
+    "industry"
+   ],
+   "quote": "We include both year and industry fixed effects to control for temporal and sector-specific variations.",
+   "pdf_page": 4,
+   "supports": "Fixed-effects panel specification confirms panel econometrics; industry fixed effects imply a cross-industry sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "We include both year and industry fixed effects"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The Heckman correction method, utilizing the full sample of 22,938 observations, yields stronger statistical evidence of AI adoption's impact on firm value (t = 11.224).",
+   "pdf_page": 6,
+   "supports": "Backs the sample note 'Heckman correction, endogeneity tests' and the observation count.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "The Heckman correction method, utilizing the full sample"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "To ensure data quality, we exclude financial institutions due to their distinct regulatory environment, ST and *ST companies, firms with missing data for key variables",
+   "pdf_page": 3,
+   "supports": "All listed firms except financials are covered, evidencing the cross-industry (listed firms) coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "institutions due to their distinct regulatory environment, ST"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The primary measurement leverages natural language processing techniques, specifically a Word2vec-based dictionary methodology, to quantify AI adoption levels from corporate disclosures.",
+   "pdf_page": 2,
+   "supports": "Primary AI measure is the annual-report Word2vec-based AI dictionary, as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.55,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "2",
+   "ctrl_f": "methodology, to quantify AI adoption levels from corporate"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "To ensure measurement robustness, we complement this with a patent-based approach that tracks firms' AI-related intellectual property development through the Chinese Patent Office database.",
+   "pdf_page": 2,
+   "supports": "The coded 'secondary measure' is this patent-based robustness measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.19,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "2",
+   "ctrl_f": "this with a patent-based approach that tracks firms’"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "The measurement of enterprise value through Tobin's Q represents a critical component of our research design",
+   "pdf_page": 3,
+   "supports": "Dependent variable is enterprise value operationalized as Tobin's Q — a performance construct, matching performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "The measurement of enterprise value through Tobin’s Q"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The direct effect of AI adoption on firm value shows strong statistical significance (Z = 10.26, p < 0.001) with a coefficient of 0.0483.",
+   "pdf_page": 7,
+   "supports": "Significant positive direct effect despite partial mediation — per the main-effect rule the direction is positive (adjudicated).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "The direct effect of AI adoption on firm"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The comparable magnitudes of direct (0.0483) and indirect (0.0405) effects suggest that data assets mediate approximately 45.6 % of AI adoption's total effect on firm value",
+   "pdf_page": 7,
+   "supports": "Backs the coded mediation share of 45.6% via data assets with a remaining direct effect of 0.0483.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "direct (0.0483) and indirect (0.0405) effects suggest that"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "This positive interaction effect provides strong support for our third hypothesis, indicating that managerial capability enhances the relationship between AI adoption and firm value.",
+   "pdf_page": 7,
+   "supports": "Managerial capability as a positive moderator, as coded in conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "for our third hypothesis, indicating that managerial capability"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the valuation premium is stronger for state-owned enterprises, disappears in heavily polluting industries unless AI is part of a credible green transition, and is evident only in non-asset-intensive firms where resource reconfiguration is agile.",
+   "pdf_page": 1,
+   "supports": "Abstract summarizes the three heterogeneity boundary conditions exactly as coded (SOE premium, polluting-industry null, asset-intensity null).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "the valuation premium is stronger for state-owned enterprises,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "for SOEs the AI coefficient is 0.035 (t = 3.160, p < 0.01), almost double the 0.019 recorded for non-SOEs (t = 2.327, p < 0.05)",
+   "pdf_page": 8,
+   "supports": "Exact coefficients behind the coded 'SOE premium 0.035*** vs non-SOE 0.019**'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "for SOEs the AI coefficient is 0.035 (t"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Our analysis reveals that AI adoption significantly enhances enterprise value both directly and indirectly through data assets, demonstrating substantial mediation effects.",
+   "pdf_page": 1,
+   "supports": "The paper's own statement of its central result: AI raises enterprise value directly and via data assets.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Our analysis reveals that AI adoption significantly enhances"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "digital capability yields competitive advantage only when either structural flexibility is high or state backing cushions adjustment costs",
+   "pdf_page": 9,
+   "supports": "Backs the coded key_finding clause that the study explicitly maps when AI becomes a source of advantage.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "only when either structural flexibility is high or"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Through extensive robustness checks and endogeneity tests, we establish the causal nature of these relationships.",
+   "pdf_page": 1,
+   "supports": "Source basis for the quality note 'causal robustness checks' (IV, PSM, Heckman all reported).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "endogeneity tests, we establish the causal nature of"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: 'competitive advantage' appears only as framing in abstract/conclusion, no distinct CA construct is measured (DV is Tobin's Q). The quality_notes clause 'very high RQ fit' is coder commentary, not source-based, so no quote. Spaced apostrophes in the extraction (e.g. 'Tobin ' s') were normalized like split ligatures."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,249 @@
+{
+ "study_id": "S56",
+ "document_id": 56,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "we ground in affordance theory to explore how firms can leverage GenAI affordances to transform technological opportunism (TO) into sustained competitive advantages, particularly in highly competitive environments",
+   "pdf_page": 1,
+   "supports": "Abstract names affordance theory as the framework and sustained competitive advantage as the outcome construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "we ground in affordance theory to explore how"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "We draw on survey data from 223 firms spanning different industries in China",
+   "pdf_page": 1,
+   "supports": "Confirms survey method, n = 223, cross-industry scope, and China as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "We draw on survey data from 223 firms"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding",
+    "ai_measure"
+   ],
+   "quote": "find that three GenAI affordances -organizational memory, collaborative, and creational affordances -mediate the relationship between TO and competitive advantages",
+   "pdf_page": 1,
+   "supports": "Abstract result naming the three coded GenAI affordances as the mediating channel to CA.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "the relationship between TO and competitive advantages."
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Moreover, competitive intensity amplifies the mediation effect of creational affordance instead of the mediation effects of organizational memory and collaborative affordances.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that competitive intensity amplifies ONLY the creational-affordance path.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.29,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "effect of creational affordance instead of the mediation"
+  },
+  {
+   "fields": [
+    "industry",
+    "country_region"
+   ],
+   "quote": "GenAI adoption in China extends beyond the IT sector, with widespread use across industries including manufacturing, e-commerce, finance, and healthcare.",
+   "pdf_page": 5,
+   "supports": "Backs the cross-industry sampling rationale in the Chinese setting (Table 2: 39% manufacturing, 52% IT, 9% others).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "adoption in China extends beyond the IT sector,"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "Following these procedures, 223 valid responses were obtained from 365 distributed surveys, yielding a response rate of approximately 61.10 %.",
+   "pdf_page": 6,
+   "supports": "Documents the survey procedure and the coded n = 223.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "223 valid responses were obtained from 365 distributed"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "GenAI affordances comprise three components: organizational memory affordance, collaborative affordance, and creational affordance. Measurements for the first two components were adapted from Chatterjee et al. (2020)",
+   "pdf_page": 6,
+   "supports": "Shows the AI measure is a survey construct of the three coded GenAI affordances, measured with established scales.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "6",
+   "ctrl_f": "for the first two components were adapted from"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "Competitive advantage was measured using four items reflecting financial and strategic performance, consistent with prior research (Schilke, 2014; Li et al., 2023c).",
+   "pdf_page": 6,
+   "supports": "Own validated CA scale (plus mediation hypotheses H1-H3 on the CA link), satisfying the case-law bar for outcome_construct = competitive_advantage.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "advantage was measured using four items reflecting financial"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "strategic performance -measured by market share -represents firms' long-term market position and ability to sustain their competitive edge over current and potential rivals",
+   "pdf_page": 6,
+   "supports": "Backs the 'sustained' and competitor-comparative character of the coded perceived CA scale.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.83,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "market position and ability to sustain their competitive"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To test our research hypotheses, we utilized the PROCESS macro, a robust tool for mediation and moderation analysis, within the SPSS software",
+   "pdf_page": 6,
+   "supports": "Names the mediation/moderation estimation on the survey data (with CFA-validated latent constructs), backing method = survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "To test our research hypotheses, we utilized the"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Without any mediators, the direct effect of TO on competitive advantages is positive and significant (β = 0.588; p < 0.001).",
+   "pdf_page": 7,
+   "supports": "Significant positive total effect - the main-effect basis for effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "mediators, the direct effect of TO on competitive"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "TO and the three mediators demonstrate significant associations with competitive advantages (TO: β = 0.314, p < 0.001; organizational memory affordance: β = 0.186, p < 0.01; collaborative affordance: β = 0.132, p < 0.05; creational affordance: β = 0.177, p < 0.01).",
+   "pdf_page": 7,
+   "supports": "Direct path stays significant alongside the mediators (partial mediation) - per the frozen rule, mediated-positive WITH significant direct effect = positive; mediators go to conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "0.314, p < 0.001; organizational memory affordance: β = 0.186, p"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Note that only the indices for creational affordance were significant (index = 0.037, SE = 0.019; 95 % CI [0.006, 0.080]).",
+   "pdf_page": 7,
+   "supports": "Moderated-mediation index significant solely for creational affordance, backing the 'ONLY the creational-affordance path' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "indices for creational affordance were significant (index = 0.037,"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "sample"
+   ],
+   "quote": "Through a survey of 223 Chinese firms, we confirm the significant mediating role of organizational memory, collaborative, and creational affordances in the TO-competitive advantage relationship.",
+   "pdf_page": 9,
+   "supports": "Paper's own conclusion stating the central result coded as key_finding: opportunism converts into CA through the GenAI affordances.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "firms, we confirm the significant mediating role of"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Coded effect_direction = positive is supported by the full text (total effect 0.588***, direct path with mediators still 0.314*** - partial mediation, positive per the main-effect rule), BUT the row's own quality_notes cell says 'Gemini re-run: FULL AGREEMENT survey-SEM/competitive_advantage/conditional', which contradicts the final 'positive' on its face - likely a stale process note from before the mediated-positive harmonization; author should reword it. Rest of quality_notes is process commentary (PDF re-download); 'perceptual cross-section' is backed by the 7-point-Likert survey design. performance_measure empty confirmed: the financial indicators (EBIT, ROI, ROS vs. industry averages) are items INSIDE the CA construct, no standalone performance outcome."
+ },
+ "has_printed_pagination": true
+}

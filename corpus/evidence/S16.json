@@ -1,0 +1,259 @@
+{
+ "study_id": "S16",
+ "document_id": 16,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Thus, AI marketing strategy implementation is based on marketing capabilities with scarcity, value, inimitability, and nonsubstitutability to achieve competitive advantage",
+   "pdf_page": 3,
+   "supports": "Shows the marketing-capabilities framing (with RBV language) used to derive the hypotheses, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "486",
+   "ctrl_f": "based on marketing capabilities with scarcity, value, inimitability,"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "it seems appropriate to argue that AI marketing strategies and market orientation is an important antecent for company performance",
+   "pdf_page": 2,
+   "supports": "Market orientation is the second pillar of the coded lens; typo 'antecent' is in the original.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "485",
+   "ctrl_f": "it seems appropriate to argue that AI marketing"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "This study used SEM analysis to test the hypotheses after testing the validity of the measurement model.",
+   "pdf_page": 4,
+   "supports": "SEM is the hypothesis-testing strategy, backing the adjudicated method = survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "This study used SEM analysis to test the"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Ragin (2008) and Woodside (2013) emphasize fsQCA analysis to supplement SEM or regression analysis.",
+   "pdf_page": 4,
+   "supports": "The paper itself positions fsQCA as supplementary to SEM, backing the adjudicated decision that two quantitative methods on the same data do not make the study mixed and the quality note's 'supplementary configurational analysis'.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "emphasize fsQCA analysis to supplement SEM or regression"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "This study uses questionnaire data from a survey of CEO and marketing managers inTaiwan between March and August 2020",
+   "pdf_page": 3,
+   "supports": "Backs respondents (CEO/marketing managers), country Taiwan, and the survey window Mar-Aug 2020; 'inTaiwan' spacing is an extraction artifact.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "from a survey of CEO and marketing managers"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The final sample size was 278 participants, with a response rate of 33.01%.",
+   "pdf_page": 4,
+   "supports": "Backs n = 278 firms and the 33% response rate in the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "The final sample size was 278 participants, with"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "The study uses food franchises and chain stores to obtain information on the selected firms, and AI development is an important criterion to consider.",
+   "pdf_page": 3,
+   "supports": "Backs the food-industry setting; note the sample is food franchises/chain stores (incl. coffee shops, restaurants), not manufacturing plants.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "stores to obtain information on the selected firms,"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Finally, the research measures AI marketing strategy using 11 items adapted from Casillas and Martínez -López (2009) and Davenport (2016).",
+   "pdf_page": 4,
+   "supports": "AI is measured as a multi-item survey construct (implementation of AI marketing strategy), as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "marketing strategy using 11 items adapted from Casillas"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "The research measures performance using four items adapted from Rego et al. (2013) and Stewart (2009).",
+   "pdf_page": 4,
+   "supports": "The outcome is a perceptual multi-item performance scale; no distinct CA construct is hypothesized or measured, backing outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "measures performance using four items adapted from Rego"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "ca_measure"
+   ],
+   "quote": "Please compare your firm's performance to your competitors' performance over the last 5 years",
+   "pdf_page": 6,
+   "supports": "Table 2 shows the performance items (profit, customer satisfaction, sales growth, quality) are competitor-anchored.",
+   "tension": "Performance scale is anchored relative to competitors; under S05 case law relative-vs-competitor scales are CA boundary cases. Construct is named 'Performance' with no CA hypothesis, so performance/ca_measure-empty follows the frozen rule, but the author may want to see this anchor.",
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "489",
+   "ctrl_f": "Please compare your firm's performance to your competitors'"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The structural model fit supports all six proposed research hypotheses",
+   "pdf_page": 5,
+   "supports": "All hypotheses incl. H2 (AI marketing strategy -> performance, 0.62**) are supported — a clear positive main effect, backing effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "488",
+   "ctrl_f": "supports all six proposed research hypotheses:"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "the results show that AI marketing strategy positively impacts organizational performance in terms of increase in profits, quality of service/ products, sales growth, and customer satisfaction",
+   "pdf_page": 8,
+   "supports": "The paper's own statement of a positive AI-strategy effect on the four performance facets.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "491",
+   "ctrl_f": "show that AI marketing strategy positively impacts organizational"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The research results of FsQCA find that causal conditions of marketing capabilities, customer value co -creation, market orientation, and AI marketing strategy are necessary and sufficient recipes for higher firm performance.",
+   "pdf_page": 1,
+   "supports": "Backs the coded fsQCA configurations (capabilities + co-creation + market orientation + AI strategy as necessary/sufficient recipes) and the configurational key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "484",
+   "ctrl_f": "The research results of FsQCA find that causal"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "The results also indicate that marketing capabilities, customer value co -creation, market orientation, and AI marketing strategy are not individually relevant; they must be combined to enhance performance.",
+   "pdf_page": 9,
+   "supports": "The paper's central configurational conclusion: AI strategy raises performance only in combination with the other conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "492",
+   "ctrl_f": "and AI marketing strategy are not individually relevant;"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Measures capture CEO and marketing managers' perceptions of the relationship with their marketing environment, AI marketing strategy, and performance.",
+   "pdf_page": 4,
+   "supports": "Backs the 'perceptual' quality note: all constructs including performance are manager perceptions.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "487",
+   "ctrl_f": "Measures capture CEO and marketing managers' perceptions of"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "(1) industry coded 'food manufacturing', but the sample is food franchises and chain stores (fast food, coffee shops, restaurants, beverages, food sales, Table 1) — food service rather than manufacturing; author should confirm the label. (2) Lens coded '(no grand theory)' although the paper explicitly invokes RBV in hypothesis development (pp. 2-3) and discussion (p. 9); lens content (marketing capabilities / market orientation) itself is well evidenced. (3) Performance scale is competitor-anchored (see tension quote); ca_measure = empty remains consistent with the frozen rules. (4) The 'Fredrich-relevant detail lives in conditions column' part of quality_notes is coder commentary, not source-based — no quote possible."
+ },
+ "has_printed_pagination": true
+}

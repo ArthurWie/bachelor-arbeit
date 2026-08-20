@@ -1,0 +1,295 @@
+{
+ "study_id": "S24",
+ "document_id": 24,
+ "quotes": [
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "This study explores the relationship between technology readiness, AI adoption, dynamic capabilities, sustainable competitive advantage, and technological turbulence, assessing their collective impact on value creation within the Malaysian hospitality industry.",
+   "pdf_page": 1,
+   "supports": "Names Malaysia and the hospitality industry as setting, plus all coded constructs.",
+   "tension": null,
+   "located_pdf_pages": [
+    1,
+    2
+   ],
+   "pdf_seq_score": 0.6,
+   "verdict": "verified",
+   "printed_pages": "1–2",
+   "ctrl_f": "This study explores the relationship between technology readiness,"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Employing the Resource-Based View, Dynamic Capabilities Framework, and Contingency Theory, the research analyzes these strategic elements' roles in enhancing organizational performance.",
+   "pdf_page": 1,
+   "supports": "Confirms the coded triple lens: RBV + dynamic capabilities + contingency theory.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.32,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "and Contingency Theory, the research analyzes these strategic"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "Using stratified purposive sampling, data was collected from 336 respondence. Structural equation modeling was utilized to analyze the relationships among the constructs.",
+   "pdf_page": 1,
+   "supports": "Confirms stratified purposive sampling, n = 336, and SEM as coded ('respondence' is the paper's own typo).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Using stratified purposive sampling, data was collected from"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The results reveal that technology readiness and AI adoption positively influence value creation, with AI adoption playing a direct role in enhancing organizational capabilities and efficiencies.",
+   "pdf_page": 1,
+   "supports": "Abstract states the positive AI-adoption effect on value creation, backing effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "readiness and AI adoption positively influence value creation,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Interestingly, dynamic capabilities exhibited a complex impact, initially impeding value creation due to transitional challenges, but ultimately proving crucial in navigating technological turbulence.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that dynamic capabilities initially impede value creation (transition costs) but matter under turbulence.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "initially impeding value creation due to transitional challenges,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "ca_measure",
+    "outcome_construct",
+    "key_finding"
+   ],
+   "quote": "Sustainable competitive advantage emerged as a significant mediator, translating AI adoption and dynamic capabilities into enhanced value creation.",
+   "pdf_page": 1,
+   "supports": "Backs the coded key finding and conditions (SCA as transmission channel) and the ca_measure note that SCA is modeled as mediator.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Sustainable competitive advantage emerged as a significant mediator,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "However, the moderating effects of technological turbulence were selective, significantly influencing only the relationship between dynamic capabilities and value creation.",
+   "pdf_page": 1,
+   "supports": "Confirms the coded condition that technological turbulence moderates only the DC -> value creation path.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.3,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "turbulence were selective, significantly influencing only the relationship"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "Ultimately, 84 organizations, encompassing both startups and established entities, participated and returned completed questionnaires from four designated respondents each, totalling 336 individual responses.",
+   "pdf_page": 7,
+   "supports": "Confirms the coded n = 336 (84 hospitality organizations x 4 respondents).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.13,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "both startups and established entities, participated and returned"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Artificial Intelligence Adoption, guided by Chatterjee et al. (2023), probes into the extent and efficacy of AI technology utilization within hospitality operations",
+   "pdf_page": 7,
+   "supports": "Confirms AI adoption as a survey construct, part of the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.82,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "Chatterjee et al. (2023), probes into the extent"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Technology Readiness, as outlined by Shehadeh et al. (2022), evaluates an organization's infrastructure, cultural orientation, and strategic inclination towards embracing emerging technologies like AI, analytics, and cloud computing",
+   "pdf_page": 7,
+   "supports": "Confirms technology readiness as the second survey construct in the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "outlined by Shehadeh et al. (2022), evaluates an"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Value creation is framed within the bifurcates into Enterprise Value (organizational benefits from collaborative endeavors) and User Value (the personalized satisfaction and value derived by the users)",
+   "pdf_page": 7,
+   "supports": "Confirms value creation as the survey-scale performance outcome (enterprise + user value); wording quirk is the paper's own.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.22,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "endeavors) and User Value (the personalized satisfaction and"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "Sustainable Competitive Advantage, drawing from Kim et al. (2011), investigates the long-term strategic assets that facilitate superior organizational performance.",
+   "pdf_page": 7,
+   "supports": "Confirms a distinct, own SCA survey scale (SCA1-3, hypotheses H5-H8), grounding outcome_construct = both under the case-law rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.15,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "from Kim et al. (2011), investigates the long-term"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "SmartPLS v 4.0.8.1 software for structural equation modeling (SEM), aligning with Hair et al. (2022) recommendations",
+   "pdf_page": 7,
+   "supports": "Confirms PLS-SEM as the analysis method (survey-SEM coding).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "modeling (SEM), aligning with Hair et al. (2022)"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "AI adoption itself positively influences value creation ( β = 0.110, p = 0.034), though the effect size is modest",
+   "pdf_page": 9,
+   "supports": "Significant positive direct AI -> value creation path grounds the positive direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "AI adoption itself positively influences value creation (β = 0.110,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "ca_measure"
+   ],
+   "quote": "The mediation effect is significant for both AI adoption ( β = 0.063, p = 0.002) and dynamic capability ( β = 0.131, p = 0.001), underscoring SCA's importance in translating these factors into tangible value.",
+   "pdf_page": 9,
+   "supports": "Confirms the coded condition that SCA mediates AI adoption -> value creation, with exact coefficients.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "AI adoption (β = 0.063, p = 0.002) and dynamic capability"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "This suggests that while dynamic capabilities are theoretically beneficial, their implementation might initially be associated with disruptions or inefficiencies that can reduce perceived value.",
+   "pdf_page": 10,
+   "supports": "Authors' interpretation of the negative DC -> value creation path backs the coded 'transition costs' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.29,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "10",
+   "ctrl_f": "beneficial, their implementation might initially be associated with"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "subsequent studies might explore the longitudinal impacts of AI adoption and technology readiness on value creation, particularly examining how these effects evolve as organizations mature",
+   "pdf_page": 12,
+   "supports": "Authors' call for longitudinal follow-up confirms the cross-sectional design noted in quality_notes; perceptual measures follow from the survey scales quoted above.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 0.2,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "12",
+   "ctrl_f": "impacts of AI adoption and technology readiness on"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. outcome_construct 'both' is sound: SCA is measured with its own validated scale (SCA1-3, AVE 0.878) and dedicated hypotheses, per case law. Two caveats for the author: (1) the text extraction drops minus signs in Table 6 - the TR->VC and DC->VC paths are negative per the discussion text ('negatively impacts', 'negative relationship') though the table shows bare 0.275/0.385; (2) the abstract claims technology readiness 'positively influence[s] value creation' while the paper's own H2 result is negative - an internal inconsistency of the paper, not of the coding, since effect_direction is coded on the AI-adoption path (positive, quoted)."
+ },
+ "has_printed_pagination": true
+}

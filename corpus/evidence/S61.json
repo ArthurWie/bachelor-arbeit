@@ -1,0 +1,248 @@
+{
+ "study_id": "S61",
+ "document_id": 61,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "utilising the technology acceptance model (TAM) and the technology-organisational-environmental (TOE) framework to understand how Industry 4.0 pressures drive the integration of emerging technologies",
+   "pdf_page": 1,
+   "supports": "Abstract names the combined TAM + TOE lens coded in theoretical_lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1954",
+   "ctrl_f": "technology acceptance model (TAM) and the technology-organisational-environmental (TOE)"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "industry"
+   ],
+   "quote": "Data were collected via structured questionnaires from 312 valid responses from luxury hotels offering lodging and food services, and the hypotheses were tested using structural equation modelling.",
+   "pdf_page": 1,
+   "supports": "Backs method = survey-SEM and the coded sample wording (312 valid responses, luxury hotels, lodging + food services).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1954",
+   "ctrl_f": "Data were collected via structured questionnaires from 312"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "The targeted population of this research was managerial-level employees who are working in four- and five-star luxury hotels located in metropolitan cities of India.",
+   "pdf_page": 9,
+   "supports": "Backs country_region = India and industry = hospitality (four/five-star luxury hotels).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1962",
+   "ctrl_f": "The targeted population of this research was managerial-level"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "After removing incomplete and extreme responses, 312 valid samples were analysed using SEM in AMOS 25.0 to examine the proposed relationships between the determinants of AI adoption in luxury hotels and SP.",
+   "pdf_page": 9,
+   "supports": "Confirms the 312 analysed responses and covariance-based SEM as the evidence-generating method.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1962",
+   "ctrl_f": "incomplete and extreme responses, 312 valid samples were"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "This study analyses the managers' intentions regarding the use of AI in luxury hotels.",
+   "pdf_page": 8,
+   "supports": "The AI-side construct is a managerial survey construct (intention for the adoption of AI), matching the coded survey construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1961",
+   "ctrl_f": "This study analyses the managers’ intentions regarding the"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Third, it assesses the downstream impact of AI adoption intention on service performance outcomes, namely efficiency, responsiveness, and customer satisfaction.",
+   "pdf_page": 3,
+   "supports": "AI adoption intention as predictor and service performance (efficiency, responsiveness, customer satisfaction) as the coded performance outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1956",
+   "ctrl_f": "downstream impact of AI adoption intention on service"
+  },
+  {
+   "fields": [
+    "conditions",
+    "theoretical_lens",
+    "performance_measure"
+   ],
+   "quote": "The six antecedents hypothesised here are expected to positively affect IAAI, which, in turn, should improve SP, as measured by service quality, responsiveness, operational efficiency, and customer satisfaction.",
+   "pdf_page": 5,
+   "supports": "Model structure: the TAM/TOE factors are antecedents of adoption intention, not moderators or mediators of the AI-to-performance link, so conditions is correctly empty per the adjudicated decision.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1958",
+   "ctrl_f": "antecedents hypothesised here are expected to positively affect"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Hypothesis (H7) tested the relationship between IAAI and SP, and the hypothesis was supported.",
+   "pdf_page": 11,
+   "supports": "H7 (AI adoption intention -> service performance) supported; Table 1 (p.10) reports the positive estimate 0.346*** - a positive main effect, matching direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.93,
+   "verdict": "verified",
+   "printed_pages": "1964",
+   "ctrl_f": "Hypothesis (H7) tested the relationship between IAAI and"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure",
+    "key_finding"
+   ],
+   "quote": "Moreover, the use of AI shows a significant benefit of a positive impact on the service performance, increasing efficiency, responsiveness, and customer satisfaction.",
+   "pdf_page": 15,
+   "supports": "Conclusion's own statement of the positive AI-to-service-performance effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1968",
+   "ctrl_f": "Moreover, the use of AI shows a significant"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "This study demonstrates that perceived ease of use, competitive pressure, robust IT infrastructure and supportive government policies significantly drive AI adoption, thereby enhancing service performance.",
+   "pdf_page": 1,
+   "supports": "The abstract sentence the coded key_finding condenses (ease of use, competitive pressure, infrastructure, policy support as drivers).",
+   "tension": "The coded key_finding lists infrastructure among the positive drivers, following this abstract claim - but the paper's own Table 1 (p.10) reports the ITI -> adoption-intention estimate as negative (-0.142, p = 0.020, still labeled 'Supported'), and the discussion admits 'the undesirable correlation between ITI and adoption intention' (p.13). Paper-internal inconsistency the author should see before citing infrastructure as a positive driver.",
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1954",
+   "ctrl_f": "This study demonstrates that perceived ease of use,"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "These factors also supplement each other: technological innovations enable new functionality, organisational preparation prepares for implementation and exogenous factors accelerate adoption processes, all together building significant momentum for the digital transformation of the hospitality industry.",
+   "pdf_page": 1,
+   "supports": "Backs the 'jointly create momentum' phrasing of the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1954",
+   "ctrl_f": "These factors also supplement each other: technological innovations"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "method"
+   ],
+   "quote": "The research design that was used was quantitative, cross-sectional, to examine the interrelationships between the latent constructs developed in this study in a systematic manner",
+   "pdf_page": 8,
+   "supports": "Backs the 'cross-section' part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1961",
+   "ctrl_f": "The research design that was used was quantitative,"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "SP 1: AI adoption will increase the hotel's service performance SP 2: Customers will be more satisfied with improving service performance",
+   "pdf_page": 17,
+   "supports": "The SP items (Table A1) show service performance is a perceptual, expectation-worded survey scale - backing performance_measure and the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1970",
+   "ctrl_f": "SP 1: AI adoption will increase the hotel’s"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "The survey was done at one point in time, so it doesn't show how the use of AI has changed over time.",
+   "pdf_page": 15,
+   "supports": "Authors' own limitation statement backing the cross-section quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1968",
+   "ctrl_f": "The survey was done at one point in"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Three notes: (1) key_finding tension - the abstract (and conclusion) claim IT infrastructure as a positive adoption driver, but Table 1's ITI estimate is negative (-0.142, p=0.020) and the discussion calls it an 'undesirable correlation' (p.13); PU and TMS paths are not supported either. The coded sentence mirrors the abstract, but the author should know the paper is internally inconsistent on the infrastructure driver. (2) ai_measure nuance: the measured construct is intention for the adoption of AI (IAAI, survey scale after Chatterjee et al. 2021), i.e. adoption intention rather than realized adoption; SP is likewise expectation-worded. (3) Emptiness confirmed: conditions correctly empty (TAM/TOE factors are adoption antecedents per the adjudicated decision, no moderators/mediators on IAAI->SP); ca_measure correctly empty ('competitive advantage' appears only as implications rhetoric, e.g. 'competitive advantage entrenchment' p.1, no CA construct measured). The 'PROPOSED(batch)' half of quality_notes is adjudication commentary, not source-based, and is deliberately not quote-evidenced."
+ },
+ "has_printed_pagination": true
+}

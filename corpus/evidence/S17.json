@@ -1,0 +1,314 @@
+{
+ "study_id": "S17",
+ "document_id": 17,
+ "quotes": [
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We propose a new measure of firm-level AI investments using employee resumes.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Backs the resume-based AI investment measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We propose a new measure of firm-level AI"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct",
+    "performance_measure",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "AI-investing firms experience higher growth in sales, employment, and market valuations. This growth comes primarily through increased product innovation.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Clear positive main effect on the three coded growth outcomes; product innovation named as the channel (coded under conditions).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "experience higher growth in sales, employment, and market"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "Our results are robust to instrumenting AI investments using firms' exposure to universities' supply of AI graduates.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Backs the IV = university AI graduate supply noted in sample and the 'IV strategy, very rigorous' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our results are robust to instrumenting AI investments"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "AI-powered growth concentrates among larger firms and is associated with higher industry concentration. Our results highlight that new technologies like AI can contribute to growth and superstar firms through product innovation.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Backs the coded condition (gains concentrate among larger firms, superstar dynamics) and the key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "associated with higher industry concentration. Our results highlight"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "we further restrict to firms with at least 20 U.S. jobs in both 2010 and 2018 to ensure good coverage of the firm's workforce, which leaves us with 1,993 firms",
+   "pdf_page": 9,
+   "section": "4.4. Firm-level determinants of AI investments",
+   "supports": "Backs the coded n = 1,993 firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "U.S. jobs in both 2010 and 2018 to"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure"
+   ],
+   "quote": "Of the 657 million US-based person-firm-year employment records between 2007 and 2018, 120 million (18%) are matched to U.S. public firms",
+   "pdf_page": 5,
+   "section": "3.1. Employment profiles from Cognism",
+   "supports": "Backs the US setting, the Compustat/public-firm sample frame, and the Cognism resume data base.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "employment records between 2007 and 2018, 120"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure"
+   ],
+   "quote": "Encouragingly, the two measures of AI investments, although based on two independent datasets, are highly correlated and yield consistent results.",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Backs 'robust to job-postings measure' in the coded sample: the resume-based and Burning Glass measures agree.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.0,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "the two measures of AI investments, although based"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "our primary specification is a long-differences regression of changes in firm outcomes from 2010 to 2018 on changes in AI investments proxied by the share of AI workers",
+   "pdf_page": 10,
+   "section": "5.1. Long-differences results",
+   "supports": "The AI-to-outcome evidence comes from firm-level long-differences regressions, backing method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.31,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "in AI investments proxied by the share of"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "We find no pre-trends in firm growth prior to AI investments, confirming that AI-investing firms are not on differential growth trends",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Dynamic lead-lag panel evidence against reverse causality, backing the econometric-rigor quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.52,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "no pre-trends in firm growth prior to AI"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "a one-standard-deviation increase in the resume-based measure of AI investments over the 8-year period corresponds to a 19.5% increase in sales, a 18.1% increase in employment, and a 22.3% increase in market valuation",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Quantified positive main effects on all three coded outcome measures.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "the resume-based measure of AI investments over the"
+  },
+  {
+   "fields": [
+    "industry",
+    "theoretical_lens"
+   ],
+   "quote": "The results are ubiquitous across major industry sectors (e.g., manufacturing, finance, and retail), supporting the idea that AI is a general purpose technology.",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Backs industry = cross-industry and the GPT lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "supporting the idea that AI is a general"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Second, economists have argued that AI is a general purpose technology (GPT) and can be leveraged across different business segments and sectors to solve a wide range of business problems.",
+   "pdf_page": 4,
+   "section": "2.1. Artificial intelligence: a brief overview",
+   "supports": "Backs the coded GPT / economics-of-technology lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    3,
+    4,
+    5
+   ],
+   "pdf_seq_score": 0.6,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "a general purpose technology"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Empirically, we do not find support for this second channel. AI investments are not associated with changes in sales per worker, total factor productivity, or process patents",
+   "pdf_page": 3,
+   "section": "1. Introduction",
+   "supports": "Backs the coded channel contrast: product innovation, not process efficiency/cost reduction.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.93,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "support for this second channel. AI investments are"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the positive relationship between AI investments and firm growth is much stronger among ex-ante larger firms, consistent with the theories where AI can increase inequality by favoring large firms with more data",
+   "pdf_page": 3,
+   "section": "1. Introduction",
+   "supports": "Backs the coded condition that gains concentrate among ex-ante larger firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "the theories where AI can increase inequality by"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "We find a positive feedback loop between AI investments and firm size: AI investments concentrate among the largest firms, and as firms invest in AI, they grow larger, gaining sales, employment, and market share.",
+   "pdf_page": 19,
+   "section": "8. Conclusion",
+   "supports": "The paper's own summary of its central result, matching the coded key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "a positive feedback loop between AI investments and"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "This AI-fueled growth does not appear to stem from cost-cutting; instead, AI-investing firms expand through product innovation and increased product offerings.",
+   "pdf_page": 19,
+   "section": "8. Conclusion",
+   "supports": "Restates the product-innovation (not cost/process) channel that the coded key finding and conditions record.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "This AI-fueled growth does not appear to stem"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "our primary specification is a long-differences regression of changes in firm outcomes from 2010 to 2018 on changes in firm-level AI-skilled human capital, measured by the share of AI workers",
+   "pdf_page": 2,
+   "printed_pages": null,
+   "supports": "Benennt explizit 'share of AI workers' als Mass - schliesst die vom Audit-LLM gefundene Beleg-Luecke.",
+   "ctrl_f": "measured by the share of AI workers",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure = empty confirmed: no firm-level competitive-advantage construct is measured; market-share/concentration results are industry-level outcomes, so outcome_construct = performance is consistent with the frozen rules. The 'JFE 4*' part of quality_notes is coder commentary (AJG rating), not source-based — no quote possible. PDF has no printed pagination (article-numbered Elsevier); pdf_page = article-internal page, sections recorded."
+ },
+ "has_printed_pagination": false
+}

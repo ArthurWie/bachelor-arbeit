@@ -1,0 +1,258 @@
+{
+ "study_id": "S63",
+ "document_id": 63,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "This study is based on dynamic capabilities theory (DCT) and sustainable development theory, and reveals the micro-mechanisms and boundary conditions of AIC driving CSP.",
+   "pdf_page": 1,
+   "supports": "Abstract names both coded lenses: dynamic capabilities theory and sustainable development theory.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "theory (DCT) and sustainable development theory, and reveals"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "this study uses data from a questionnaire survey of 292 individuals from 120 Chinese manufacturing firms to develop a partial least squares structural equation model (PLS-SEM).",
+   "pdf_page": 2,
+   "supports": "One sentence covers survey-SEM (PLS-SEM), the 292/120 sample, China, and manufacturing.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.26,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "2",
+   "ctrl_f": "of 292 individuals from 120 Chinese manufacturing firms"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "In the first stage, 295 questionnaires were distributed to participants, and in the second stage, 295 of them were returned. 292 valid surveys were received after invalid ones were removed.",
+   "pdf_page": 7,
+   "supports": "Backs the coded 292 valid responses with 295 distributed in the two-stage collection.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "were distributed to participants, and in the second"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "In the pre-test survey, 100 questionnaires were distributed in the first stage and 85 were returned",
+   "pdf_page": 7,
+   "supports": "Backs the coded pretest detail (100 distributed / 85 returned).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "In the pre-test survey, 100 questionnaires were distributed"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "this study employs a two-stage approach to data investigation.",
+   "pdf_page": 7,
+   "supports": "Confirms the coded two-stage collection design (AIC in stage 1, CSP in stage 2).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "this study employs a two-stage approach to data"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The study divided AIC into three sub-dimensions treated as reflective latent constructs in the PLS-SEM model: perceptive capabilities, predictive capabilities, and prescriptive capabilities.",
+   "pdf_page": 8,
+   "supports": "AI is a survey construct with the three coded sub-capabilities (perceptive, predictive, prescriptive), adopted from Sjodin et al. (2023).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "sub-dimensions treated as reflective latent constructs in the"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "CSP was measured using three dimensions, namely economic performance, environmental performance, and social performance, mainly referring to the categorization of CSP by Shang et al. (2020).",
+   "pdf_page": 8,
+   "supports": "The outcome is corporate sustainability performance with an explicit economic dimension, matching the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.54,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "8",
+   "ctrl_f": "CSP was measured using three dimensions, namely economic"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "EP02: Reduced costs of inputs for same level of outputs EP03: Sold waste products for revenue EP04: Created spin-off technologies that could be profitably applied to other areas of the business",
+   "pdf_page": 13,
+   "supports": "Appendix A economic-performance items back the coded detail (cost reduction, waste revenue, spin-offs) that justified inclusion.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "EP02: Reduced costs of inputs for same level"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The results in Table 5 show that AIC has a positive effect on CSP ( β = 0.49; p < 0.001).",
+   "pdf_page": 9,
+   "supports": "Significant positive main effect of AIC on CSP backs effect_direction = positive per the main-effect rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "The results in Table 5 show that AIC"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "In hypothesis 1c, the coefficient of the impact of the firm's prescriptive capabilities on CSP is 0.28, with a p-value higher than 0.05, which does not prove the significance of the relationship.",
+   "pdf_page": 9,
+   "supports": "Backs the coded condition that the prescriptive component of the AI-capability bundle is null.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "1c, the coefficient of the impact of the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "In the traditional manufacturing samples, the positive effect of AIC on CSP is significant, but the coefficient is only 0.29*, which is lower than the full sample result",
+   "pdf_page": 9,
+   "supports": "Backs the coded firm-type boundary: traditional manufacturers significantly weaker but not null (basis of the adjudicated positive-per-Shi-rule decision).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.69,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "samples, the positive effect of AIC on CSP"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the positive effect of AIC in the context of Industry 4.0 manufacturing firms is significant and stronger, with a coefficient higher than the full-sample result at 0.58 and significant at p < 0.001.",
+   "pdf_page": 9,
+   "supports": "Backs the coded 0.58*** for Industry-4.0 manufacturers as the strong end of the firm-type boundary condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.44,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "9",
+   "ctrl_f": "effect of AIC in the context of Industry"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The findings reveal that AIC significantly enhances CSP through a tiered enabling mechanism, but prescriptive capabilities fail to achieve their intended effects.",
+   "pdf_page": 1,
+   "supports": "Authors' own central-result statement matching the coded key_finding (enhancement plus prescriptive failure).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "reveal that AIC significantly enhances CSP through a"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Specifically, all items were coded on a Likert scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree).",
+   "pdf_page": 9,
+   "supports": "Backs the 'perceptual' quality note: all constructs are Likert self-reports by senior managers.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "Specifically, all items were coded on a Likert"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "This study is mainly based on cross-sectional data and uses static analysis methods.",
+   "pdf_page": 12,
+   "supports": "Author-admitted limitation supporting the perceptual/cross-sectional caution in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "based on cross-sectional data and uses static analysis"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Adjudicated row (brief: PROPOSED positive per Shi rule, accepted in batch) - full text supports it: main effect 0.49***, traditional subsample weaker (0.29*) but not null. ca_measure empty is correct: 'competitive advantage' appears only in theory framing ('from competitive advantage to sustainability'), no CA construct measured. The PROPOSED(batch) part of quality_notes is adjudication commentary, not source-based. Minor source oddity: Appendix A mislabels the prescriptive-capabilities block (PC3) as 'Predictive capabilities'."
+ },
+ "has_printed_pagination": true
+}

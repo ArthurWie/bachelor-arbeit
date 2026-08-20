@@ -1,0 +1,242 @@
+{
+ "study_id": "S40",
+ "document_id": 40,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "It is grounded in the resource-based view (RBV) and dynamic capability framework (DCF).",
+   "pdf_page": 1,
+   "supports": "Backs the coded lens 'RBV + dynamic capability framework'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "404",
+   "ctrl_f": "It is grounded in the resource-based view (RBV)"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "This research utilizes a cross-sectional quantitative approach, applying partial least squares structural equation modeling (PLS-SEM) to data from 290 human resource (HR) professionals.",
+   "pdf_page": 1,
+   "supports": "Survey with PLS-SEM on 290 HR professionals backs method = survey-SEM and the sample coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "404",
+   "ctrl_f": "This research utilizes a cross-sectional quantitative approach, applying"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "Data collection focused on South India and targeted HR professionals actively engaged in Talent Acquisition. Purposive sampling was employed to recruit HR professionals with direct experience in emerging technologies",
+   "pdf_page": 9,
+   "supports": "Backs South India, talent-acquisition focus, and purposive sampling in the sample and country codes.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "412",
+   "ctrl_f": "India and targeted HR professionals actively engaged in"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "After excluding 64 incomplete or invalid responses, 290 valid questionnaires remained, yielding a final effective response rate of 32% for inclusion in statistical analysis.",
+   "pdf_page": 10,
+   "supports": "Confirms the final n = 290 valid responses.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "413",
+   "ctrl_f": "responses, 290 valid questionnaires remained, yielding a final"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Participants represented a range of industries, enabling a robust quantitative analysis that highlights sector-specific dynamics in AI adoption.",
+   "pdf_page": 9,
+   "supports": "Backs cross-industry coding; Table 2 lists IT-software 43%, manufacturing/FMCG 31%, healthcare 14%, banking 12%.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "412",
+   "ctrl_f": "Participants represented a range of industries, enabling a"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "ca_measure"
+   ],
+   "quote": "The study adopted constructs from established and reliable scales to measure the key variables. The specific measurement items for each construct are detailed in the questionnaire in Appendix 1.",
+   "pdf_page": 10,
+   "supports": "All constructs, including AI adoption and competitive advantage, are established survey scales (the point the adjudication sample-check confirmed).",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "413",
+   "ctrl_f": "The study adopted constructs from established and reliable"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AIA1. AI adoption encourages the integration of automated interviews with other functions AIA2. HR can be involved in strategic-level planning after adopting AI-like automated interviews AIA3. AI improves HR functions in the organization",
+   "pdf_page": 21,
+   "supports": "The AI adoption items show a survey construct on AI adoption in recruitment, as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    21
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "424",
+   "ctrl_f": "AIA1. AI adoption encourages the integration of automated"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "CA2: Our firm improved its market position by absorbing advanced AI Recruitment CA3: Our firm attained cost advantage by creatively assimilating advanced process technology",
+   "pdf_page": 21,
+   "supports": "A distinct three-item competitive-advantage scale (Ferreira et al. 2021) at firm level backs ca_measure and outcome_construct = competitive_advantage.",
+   "tension": null,
+   "located_pdf_pages": [
+    21
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "424",
+   "ctrl_f": "CA2: Our firm improved its market position by"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "effect_direction"
+   ],
+   "quote": "H8. The adoption of AI positively influences an organization's competitive advantage.",
+   "pdf_page": 9,
+   "supports": "Own hypothesis on measured CA satisfies the CA decision rule (own scale + hypothesis).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "412",
+   "ctrl_f": "H8. The adoption of AI positively influences an"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Finally, AI adoption significantly enhanced competitive advantage.",
+   "pdf_page": 12,
+   "supports": "Significant positive main effect (Table 6: AIA to CA, beta 0.466, p 0.000) backs effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "415",
+   "ctrl_f": "Finally, AI adoption significantly enhanced competitive advantage."
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The results reveal that HR competencies and open innovation significantly influence dynamic capabilities, which are essential for AI integration, supported by financial support and information technology (IT) infrastructure.",
+   "pdf_page": 1,
+   "supports": "The paper's own findings statement backs the coded conditions: HR competencies + open innovation feeding dynamic capabilities, with financial/IT support as enabling resources.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "404",
+   "ctrl_f": "The results reveal that HR competencies and open"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "These capabilities enable effective AI adoption, leading to a competitive advantage.",
+   "pdf_page": 1,
+   "supports": "Completes the paper's central result statement: capability-enabled AI adoption yields competitive advantage.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "404",
+   "ctrl_f": "These capabilities enable effective AI adoption, leading to"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The path coefficients confirmed that HR competency and open innovation positively influenced managerial capability. Financial support and IT infrastructure significantly impacted innovation capability.",
+   "pdf_page": 12,
+   "supports": "Structural-model results back the coded resource-to-capability path structure in conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "415",
+   "ctrl_f": "The path coefficients confirmed that HR competency and"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Responses were captured on a 5-point Likert scale, ranging from 1 (Strongly Disagree) to 5 (Strongly Agree).",
+   "pdf_page": 10,
+   "supports": "Self-reported Likert measurement backs the 'Perceptual' quality note; the AIA (recruitment-level) vs CA (firm-level) item wording backs the 'function-level with org-level outcome' note.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "413",
+   "ctrl_f": "Responses were captured on a 5-point Likert scale,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "performance_measure empty is correct: competitive advantage is the sole final outcome; no separate performance measure. Adjudication brief entry (sample check) confirms CA via established scales, Appendix 1. One oddity for the author: the paper's own limitations section claims a focus on 'a developed economy and the creative industries' (p. 14), contradicting its South-India, IT/manufacturing/healthcare/banking sample - likely authors' boilerplate error; does not affect any coded value."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,247 @@
+{
+ "study_id": "S65",
+ "document_id": 65,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "This study draws from signaling theory (Spence, 1978, 2002) and narrative economics (Shiller, 2020) to show how markets react when unverifiable AI claims proliferate.",
+   "pdf_page": 2,
+   "supports": "Names both coded lenses: narrative economics and signaling.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "This study draws from signaling theory (Spence, 1978,"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure",
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Using BERT-based text classification and AI patent data for U.S. firms (2018-2023), we find that such narratives initially attract investors but ultimately yield negative market reactions and sustained underperformance.",
+   "pdf_page": 1,
+   "supports": "Abstract covers the coded sample (US firms 2018-2023), the BERT-vs-patents measurement, the net negative direction, and the coded time-path condition (initial attraction, then punishment).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.78,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "data for U.S. firms (2018–2023), we find that"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "we collect Form 10-K filings of U.S. publicly listed firms from 2018 to 2023 using the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system.",
+   "pdf_page": 2,
+   "supports": "Backs sample = US listed firms 2018-2023 (all sectors, hence cross-industry).",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "we collect Form 10-K filings of U.S. publicly"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Using BERT-based classification and patent evidence, we differentiate speculative 'Will-Do AI' from substantive 'Done AI'. The final model achieves an accuracy of 0.87.",
+   "pdf_page": 2,
+   "supports": "Backs the coded ai_measure: BERT-classified AI disclosures benchmarked against actual implementation evidence.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "we differentiate speculative “Will-Do AI” from substantive “Done"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions"
+   ],
+   "quote": "Firms with above-industry disclosure but below-industry AI patenting are classified as overclaiming.",
+   "pdf_page": 3,
+   "supports": "Defines the treatment as the text-vs-patents substantiation gap, matching ai_measure and the coded condition that the gap is the treatment.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "below-industry AI patenting are classified as overclaiming."
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "To examine market responses, we use BHAR and CAR to capture short-term investor reactions and sales growth to measure the long-term effects of speculative AI disclosures.",
+   "pdf_page": 2,
+   "supports": "Backs performance_measure = market reactions + long-term operational performance (sales growth); outcomes are performance, no CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.18,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "2",
+   "ctrl_f": "we use BHAR and CAR to capture short-term"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We begin with an event study to assess initial investor reactions to AI overclaiming, measured by buy-and-hold abnormal returns (BHAR) around 10-K filing dates.",
+   "pdf_page": 3,
+   "supports": "Documents the descriptive event-study module preceding the panel identification.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "by buy-and-hold abnormal returns (BHAR) around 10-K filing"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To give support to the causal interpretation, we implement a difference-in-differences (DiD) design.",
+   "pdf_page": 3,
+   "supports": "The causal AI-outcome evidence comes from DiD (plus IV) panel regressions with firm and year fixed effects, backing method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "To give support to the causal interpretation, we"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The consistently negative and statistically significant coefficients both on CAR and BHAR across all specifications are consistent with market penalties associated with AI overclaiming.",
+   "pdf_page": 4,
+   "supports": "Main DiD result: negative market reaction to the focal treatment (AI overclaiming), backing effect_direction = negative.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "both on CAR and BHAR across all specifications"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "if a firm engages in AI overclaiming in its 10-K filing, the release of the 10-K is followed by a 1.6 % decline in CAR and a 1.4 % decline in BHAR",
+   "pdf_page": 4,
+   "supports": "Quantifies the negative short-term market reaction.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "if a firm engages in AI overclaiming in"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "overclaiming AI adoption would reduce sales growth in the following year by 14.7 percentage points.",
+   "pdf_page": 5,
+   "supports": "Backs the sustained operational underperformance half of the negative direction (long-term outcome).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "overclaiming AI adoption would reduce sales growth in"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "However, this optimism fades significantly by day + 1, with returns declining to 1.81 % and becoming statistically insignificant ( p > 0.10) beyond day + 2",
+   "pdf_page": 4,
+   "supports": "Backs the coded time-path condition: short-lived positive investor reaction that fades before the penalty phase.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "However, this optimism fades significantly by day +1,"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The study highlights that while narratives can mobilize attention, markets ultimately punish rhetoric that outpaces implementation.",
+   "pdf_page": 1,
+   "supports": "Authors' own summary sentence matching the coded key_finding (markets punish rhetoric outpacing implementation).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "highlights that while narratives can mobilize attention, markets"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "This study shows that when firms exaggerate their adoption of artificial intelligence, markets eventually impose discipline.",
+   "pdf_page": 6,
+   "supports": "Concluding statement of the central result: net punishment of unsubstantiated AI claims.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "This study shows that when firms exaggerate their"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Adjudicated row (brief: PROPOSED negative - net effect of the focal overclaiming treatment; accepted in batch); full text supports it, time path documented in conditions as required. quality_notes ('Complements Basnet (S27); disclosure-integrity condition | PROPOSED(batch)...') is coder/adjudication commentary, not source-based - no quote possible. ca_measure empty is correct: outcomes are CAR/BHAR and sales growth, no competitive-advantage construct. Method note: the paper pairs a descriptive event-study module with DiD and IV-2SLS panel regressions (firm/year FE, two-way clustering); the panel designs carry the causal evidence, consistent with method = panel econometrics."
+ },
+ "has_printed_pagination": true
+}

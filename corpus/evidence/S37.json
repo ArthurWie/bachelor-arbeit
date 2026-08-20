@@ -1,0 +1,263 @@
+{
+ "study_id": "S37",
+ "document_id": 37,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Drawing on behavioral reasoning theory, we consider the moderating role of ethical leadership in the association of B2B managers' GenAI adoption and firm performance",
+   "pdf_page": 2,
+   "supports": "Names behavioral reasoning theory as the study's theoretical framework.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Drawing on behavioral reasoning theory, we consider the"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "A total of 277 responses was collected from respondents in the USA, the UK, Canada, India, Australia, Malaysia, and Japan to test the proposed model using structural equation modeling.",
+   "pdf_page": 1,
+   "supports": "Backs method survey-SEM, the n=277 manager sample, and the seven-country coverage.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "A total of 277 responses was collected from"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Study 1 undertakes a series of in-depth interviews, yielding a set of hypotheses that are tested in Study 2.",
+   "pdf_page": 1,
+   "supports": "Shows the interviews only develop hypotheses; the AI-performance evidence comes from the Study 2 SEM, backing the adjudicated method survey-SEM and the two-study quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "interviews, yielding a set of hypotheses that are"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "we conducted a small number of additional interviews, yielding a final sample of 27 participants (aged 18-51)",
+   "pdf_page": 3,
+   "supports": "Documents the Study 1 in-depth interview sample noted in the sample and quality_notes fields.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.17,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3",
+   "ctrl_f": "a small number of additional interviews, yielding a"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "Data were collected from participants across seven countries, including the USA, the UK, Canada, India, Australia, Malaysia, and Japan.",
+   "pdf_page": 3,
+   "supports": "Backs the coded multi-country (7 countries) value with the exact country list.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "Data were collected from participants across seven countries,"
+  },
+  {
+   "fields": [
+    "industry",
+    "ai_measure"
+   ],
+   "quote": "This study examines key reasons (for and against) that influence business-to-business (B2B) managers' intention to adopt generative artificial intelligence (GenAI).",
+   "pdf_page": 1,
+   "supports": "Backs the B2B setting (cross-industry manager sample) and GenAI adoption as the AI construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This study examines key reasons (for and against)"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Of 301 potential responses, 277 successfully passed the attention and screening questions.",
+   "pdf_page": 5,
+   "supports": "Backs the coded Study 2 sample size of 277 B2B managers.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Of 301 potential responses, 277 successfully"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "I intend to use Generative AI in future",
+   "pdf_page": 8,
+   "supports": "Appendix A item ADP1 shows GenAI adoption is measured as a survey construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "I intend to use Generative AI in future"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Using Generative AI helps the firm to earn better business profit",
+   "pdf_page": 8,
+   "supports": "Appendix A item FP1 shows firm performance is a perceived survey scale, backing outcome_construct performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "Using Generative AI helps the firm to earn"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "Moreover, GenAI adoption (β = 0.769***) is positively associated with firm performance in B2B firms, supporting H6.",
+   "pdf_page": 6,
+   "supports": "Clear positive main effect of GenAI adoption on firm performance, backing effect_direction positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "Moreover, GenAI adoption (β = 0.769***) is positively associated with"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results presented in Tables 4 and 5 illustrate that the impact of GenAI adoption on firm performance in B2B firms is significantly moderated by ethical leadership, supporting H7.",
+   "pdf_page": 6,
+   "supports": "Backs ethical leadership as the coded moderator of the GenAI adoption-performance link.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "The results presented in Tables 4 and 5"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The findings highlight that need for uniqueness, information completeness, convenience, and deceptiveness significantly impact GenAI adoption.",
+   "pdf_page": 1,
+   "supports": "Backs the coded adoption reasons for/against (uniqueness, information completeness, convenience, deceptiveness).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.56,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "The findings highlight that need for uniqueness, information"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "conditions"
+   ],
+   "quote": "Overall, Study 1 identified three main reasons for adopting GenAI (i.e., need for uniqueness, information completeness, and convenience), and two reasons against its adoption (i.e., deceptiveness and information overload), as shown in Fig. 1",
+   "pdf_page": 3,
+   "supports": "Backs the quality note that Study 1's own qualitative findings (Fig. 1) generate the adoption reasons fed into Study 2.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.81,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "Overall, Study 1 identified three main reasons for"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The results in Study 2 further highlight that GenAI adoption boosts firm performance and that ethical leadership acts as a significant moderator in the association of GenAI adoption and firm performance.",
+   "pdf_page": 8,
+   "supports": "The paper's own conclusion of its central result, matching the coded key finding (positive effect, stronger under ethical leadership).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "The results in Study 2 further highlight that"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "performance_measure"
+   ],
+   "quote": "while we explored the effect of GenAI adoption on firm performance, we only considered this from a perceptual and intentional perspective in terms of measurement",
+   "pdf_page": 8,
+   "supports": "Authors' own limitation backs the 'perceptual' quality note and the perceived-performance survey measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "the effect of GenAI adoption on firm performance,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: Appendix item FP2 ('Using Generative AI help the firm to become more competitive') is a single item inside the firm-performance scale, not a distinct validated CA construct with its own hypothesis — per case law this stays performance, no tension. Method was adjudicated to survey-SEM (interviews only develop hypotheses); all coded columns evidenced."
+ },
+ "has_printed_pagination": true
+}

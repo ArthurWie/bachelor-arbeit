@@ -1,0 +1,276 @@
+{
+ "study_id": "S12",
+ "document_id": 12,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Artificial Intelligence (AI) is often regarded as a new general-purpose technology, with a rapid, penetrating, and farreaching use over a broad number of industrial sectors",
+   "pdf_page": 1,
+   "supports": "Opens with the general-purpose-technology framing, matching theoretical_lens = GPT.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": "188",
+   "ctrl_f": "a rapid, penetrating, and far-reaching use over a"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "We find positive and significant associations between the use of AI and firm productivity. This finding holds for different measures of AI usage",
+   "pdf_page": 1,
+   "supports": "Abstract states a clear positive average main effect across AI measures, matching effect_direction = positive and the key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "188",
+   "ctrl_f": "We find positive and significant associations between the"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We employ both a cross-sectional dataset and a panel database. To address the potential endogeneity of AI adoption, we also implement IV estimators.",
+   "pdf_page": 1,
+   "supports": "Names the econometric strategy (cross-section, panel, IV) coded as method = panel econometrics with OLS/2SLS-IV.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "188",
+   "ctrl_f": "a panel database. To address the potential endogeneity"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "we constructed a panel database to check the robustness of the results once we account for unobserved heterogeneity by including firm-fixed effects",
+   "pdf_page": 12,
+   "supports": "Backs the coded 'panel subset with IV-FE' element of sample/method.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "199",
+   "ctrl_f": "we constructed a panel database to check the"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "We implement an entropy balancing procedure as a further approach to address a likely bias due to unobserved heterogeneity.",
+   "pdf_page": 5,
+   "supports": "Backs the 'entropy balancing' element coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.95,
+   "verdict": "verified",
+   "printed_pages": "192",
+   "ctrl_f": "We implement an entropy balancing procedure as a"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "our cross-sectional sample contains 5851 firms out of which 409 can be classified as AI users (about 7%)",
+   "pdf_page": 7,
+   "supports": "Confirms the coded sample size of 5,851 firms with 409 AI users (~7%).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "194",
+   "ctrl_f": "our cross-sectional sample contains 5851 firms out of"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure",
+    "country_region"
+   ],
+   "quote": "We use cross-section as well as panel data of firms taken from the German contribution to the Community Innovation Survey (CIS) of the European Commission.",
+   "pdf_page": 6,
+   "supports": "Confirms the data source coded in sample and ai_measure: German CIS survey data (ZEW's Mannheim Innovation Panel).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "193",
+   "ctrl_f": "We use cross-section as well as panel data"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "The information collected is representative of all firms in Germany with at least 5 employees in manufacturing, mining, utilities, and business-oriented service sectors",
+   "pdf_page": 6,
+   "supports": "Places the sample in Germany across manufacturing and service sectors, backing country_region = Germany and industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "193",
+   "ctrl_f": "The information collected is representative of all firms"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Any firm that uses at least one AI method by 2018 is considered an AI user ( AI ), including all firms that adopted AI at any year before 2018.",
+   "pdf_page": 7,
+   "supports": "Defines the survey-based AI adoption dummy coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "194",
+   "ctrl_f": "Any firm that uses at least one AI"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AIint represents the sum of different AI methods and AI application areas that are used by a firm, divided by the maximum possible number, which is 20",
+   "pdf_page": 7,
+   "supports": "Defines the AI-use intensity measure coded in ai_measure (intensity of AI use in business processes).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "194",
+   "ctrl_f": "AIint represents the sum of different AI methods"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "The general positive relationship between AI and firm productivity also holds both for sales-based and valueadded-based productivity measures.",
+   "pdf_page": 2,
+   "supports": "Names firm productivity (sales- and value-added-based) as the outcome, backing performance_measure and outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.8,
+   "verdict": "verified",
+   "printed_pages": "189",
+   "ctrl_f": "The general positive relationship between AI and firm"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "we showed that both the use of AI and the intensity with which firms exploit the potential of AI significantly increase both sales and value-added",
+   "pdf_page": 14,
+   "supports": "Conclusion's own statement of the central result: positive productivity effect for both the adoption dummy and the intensity measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "201",
+   "ctrl_f": "showed that both the use of AI and"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "increasing the fraction of AI methods or areas would have, on average, a significant and positive ceteris paribus impact on productivity",
+   "pdf_page": 11,
+   "supports": "Backs the 'effect grows with usage intensity' element of the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "198",
+   "ctrl_f": "or areas would have, on average, a significant"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "sample"
+   ],
+   "quote": "the average value of our AI intensity variable amounts to 12.9%, i.e., the average firm used 2.5 out of the 20 possible combinations of AI methods and areas of application",
+   "pdf_page": 7,
+   "supports": "Backs the '2.5 of 20 method-area combos avg' detail in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "194",
+   "ctrl_f": "the average value of our AI intensity variable"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Our empirical findings are subject to several limitations. First, we rely on data from one country and we can currently construct only a very short panel database.",
+   "pdf_page": 14,
+   "supports": "Authors' own limitation statement, the source-based part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "201",
+   "ctrl_f": "Our empirical findings are subject to several limitations."
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "So far, little is known about how these complementary assets might affect the relationship between AI adoption and firm performance",
+   "pdf_page": 15,
+   "supports": "Confirms conditions = empty: complementarities/moderators are explicitly framed as future research, not tested — matching the adjudicated 'unconditional evidence' classification.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": "202",
+   "ctrl_f": "So far, little is known about how these"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "conditions and ca_measure correctly empty: no moderators are tested (complementary assets explicitly deferred to future research, p.15) and no CA construct appears anywhere — the study is pure productivity econometrics. Adjudication brief confirms AI intensity is an alternative treatment measure, not a condition. Two author-side observations: (1) coded performance_measure says 'labor- and value-added-based' but the paper's own wording is 'sales-based and valueadded-based productivity measures' (p.2) — the sales-based production-function measure, not labor productivity per se; (2) evaluative parts of quality_notes ('one of the methodically strongest positive findings') are coder commentary — source-based parts (representative survey, IV strategy, 2.5/20 average intensity, one-country/short-panel limits) are quoted."
+ },
+ "has_printed_pagination": true
+}

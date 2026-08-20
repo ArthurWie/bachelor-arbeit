@@ -1,0 +1,299 @@
+{
+ "study_id": "S27",
+ "document_id": 27,
+ "quotes": [
+  {
+   "fields": [
+    "ai_measure",
+    "performance_measure",
+    "outcome_construct",
+    "quality_notes"
+   ],
+   "quote": "Analyzing 10-K filings, we categorize AI-related mentions as actionable, speculative, or irrelevant. We establish causal links between these disclosures and firm value, with innovation and productivity as likely channels.",
+   "pdf_page": 1,
+   "supports": "Confirms the 10-K text measure with the three disclosure categories, firm value as outcome, innovation/productivity as channels, and the causal-identification claim in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.48,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "we categorize AI-related mentions as actionable, speculative, or"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Actionable disclosures outlining clear implementation plans yield significant valuation benefits, particularly upon first introduction, whereas speculative or irrelevant disclosures have no impact.",
+   "pdf_page": 1,
+   "supports": "The effect exists only for the actionable disclosure category — backing the conditional direction and the disclosure-substance condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "particularly upon first introduction, whereas speculative or irrelevant"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "Drawing on a 2005 -2018 sample, a formative period before AI became mainstream, this paper examines how early AI adoption and its disclosure in corporate filings affect U.S. firms.",
+   "pdf_page": 1,
+   "supports": "Confirms US firms, the 2005-2018 window, and the coded 'pre-hype window' characterization.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "before AI became mainstream, this paper examines how"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "We show that early adopters of actionable disclosures gain competitive advantages, while peers that either remain silent or offer only vague AI disclosures face market penalties.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'silent or vague peers penalized'. Note: 'competitive advantages' here is framing rhetoric, no CA construct is measured (case law: framing = performance).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "show that early adopters of actionable disclosures gain"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure"
+   ],
+   "quote": "To study the impact of AI narratives on firm performance, we collect 10-K annual filings for all U.S. companies in the Russell 3000 Index from 2005 to 2018.",
+   "pdf_page": 4,
+   "supports": "Confirms the US 10-K filings 2005-2018 sample coded in sample and country_region.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "To study the impact of AI narratives on"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Our final sample includes 2615 firms.",
+   "pdf_page": 4,
+   "supports": "Gives the sample size (2,615 firms), a detail the coded sample string omits.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "Our final sample includes"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We first identify whether companies mention any AI-related keywords and then classify their usage as actionable , speculative , and irrelevant .",
+   "pdf_page": 4,
+   "supports": "Confirms the coded actionable/speculative/irrelevant classification of 10-K AI mentions.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "identify whether companies mention any AI-related keywords and"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "To capture innovation, we use R & D expenses (the ratio of research and development expenses to total assets) and patent counts (the natural logarithm of one plus the number of patent registrations).",
+   "pdf_page": 4,
+   "supports": "Confirms R&D spending and patents as the coded channel measures (labor productivity = sales per employee and Tobin's Q for market valuation follow in the same paragraph).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "expenses (the ratio of research and development expenses"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "AI-related keywords are mentioned more frequently after 2015 and are mostly concentrated in the business equipment industry.",
+   "pdf_page": 5,
+   "supports": "The Fama-French industry heat map discussion shows the Russell 3000 sample spans all industries, backing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "mentioned more frequently after 2015 and are mostly"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "Our identification strategy leverages within-firm variation through panel fixed-effects models, complemented by a Local Projections Difference-in-Differences approach as a robustness check. This allows us to interpret our findings as causal rather than merely associational",
+   "pdf_page": 2,
+   "supports": "Confirms panel econometrics (panel fixed-effects + LP-DiD) and the 'causal design'/'causal identification' parts of sample and quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "variation through panel fixed-effects models, complemented by a"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Drawing on signaling theory, the disclosure of actionable AI narratives provides firms with a strategic tool to credibly communicate their intent to lead in technological innovation.",
+   "pdf_page": 7,
+   "supports": "Confirms the signaling side of the coded disclosure/signaling (finance) lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "Drawing on signaling theory, the disclosure of actionable"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Given the limited research on the subject, we examine the authenticity of AI disclosures and their impact on firm valuation.",
+   "pdf_page": 3,
+   "supports": "Confirms the disclosure-credibility framing of the coded lens (Section 2.3 on disclosure, narrative credibility, and financial markets).",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3",
+   "ctrl_f": "Given the limited research on the subject, we"
+  },
+  {
+   "fields": [
+    "conditions",
+    "performance_measure"
+   ],
+   "quote": "modest gains in labor productivity (measured by sales per employee) emerging two to three years after an actionable AI disclosure, but only for firms supporting such disclosures with increased subsequent R & D spending",
+   "pdf_page": 7,
+   "supports": "Confirms the coded 'lagged productivity' channel and that it holds only for actionable disclosures backed by R&D — part of the substance condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "modest gains in labor productivity (measured by sales"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "we find no significant effect for the Speculative or Irrelevant dummies (Columns 4 and 5). In other words, first-time mentions that are vague or tangential do not meaningfully affect firm valuation.",
+   "pdf_page": 9,
+   "supports": "Confirms 'speculative/irrelevant -> nothing' in conditions and the null branch of the conditional direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    8,
+    9,
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8–10",
+   "ctrl_f": "for the Speculative or Irrelevant dummies (Columns 4"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "the impact of an Actionable keyword introduction is essentially on par with the overall Keyword introduction effect (~5.0 %). This indicates that valuation gains from initial AI disclosures are driven largely by substantive, actionable narratives.",
+   "pdf_page": 9,
+   "supports": "Shows the aggregate keyword effect is carried by the actionable subset — the basis for coding direction as conditional on disclosure substance rather than positive on average.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.91,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "impact of an Actionable keyword introduction is essentially"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "firms that only offer speculative AI mentions ( Speculative Treated ) when competitors make actionable AI disclosures ( Competitor Actionable Treated ) are penalized by the market",
+   "pdf_page": 11,
+   "supports": "Confirms the peer-penalty condition: vague disclosers are penalized when competitors make actionable commitments.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "Treated) when competitors make actionable AI disclosures (Competitor"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "We find that financial markets distinguish between ' AI hype ' and genuine AI-driven strategies in corporate narratives. Firms announcing credible AI initiatives in their business descriptions enjoy significant valuation premiums",
+   "pdf_page": 13,
+   "supports": "The paper's own conclusion statement of the central result: only substantive AI disclosures are rewarded.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "credible AI initiatives in their business descriptions enjoy"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "quality_notes part 'complements AI-washing evidence (Song X. 2026)' is coder cross-corpus commentary, not sourced from this paper. ca_measure emptiness confirmed: 'competitive advantages' appears only as abstract/introduction rhetoric, the measured outcome is Tobin's Q. One nuance for the author: the aggregate first-time Keyword effect is itself positive and significant (~5.0%, Table 5 Col. 1), but the paper attributes it to the actionable subset (speculative/irrelevant null) — consistent with the conditional coding on disclosure substance. Direction quote wording like 'Speculative Treated' kept with the source's spacing around italics."
+ },
+ "has_printed_pagination": true
+}

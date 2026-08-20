@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "rojon2021utilization"
+ ],
+ "page": "p. 196",
+ "sentence": "This method is mostly chosen by researchers because of its comprehensiveness and transparency",
+ "passage": "[Rojon et al. (2021), p. 196] \"Scholars selected SRm for representing a rigorous, systematic, transparent and comprehensive approach to analysing, evaluating and synthesizing literature.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "partly",
+  "overclaim": "mostly",
+  "passage_is_hypothesis": false,
+  "note": "The passage confirms scholars select the method for its transparency and comprehensiveness, but does not state that it is 'mostly' chosen.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

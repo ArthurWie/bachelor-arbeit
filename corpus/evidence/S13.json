@@ -1,0 +1,264 @@
+{
+ "study_id": "S13",
+ "document_id": 13,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "method"
+   ],
+   "quote": "in this study, we investigate the business value of AI from a market perspective by adopting an event study methodology",
+   "pdf_page": 2,
+   "supports": "Names the business-value-of-IT framing and the event study methodology, matching theoretical_lens and method.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "the business value of AI from a market"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "In the previous studies of business value of information technology (IT), most findings showed that the investments of transformational ITs have a positive impact on firms' market value",
+   "pdf_page": 2,
+   "supports": "Anchors the study in the business-value-of-IT literature coded as theoretical_lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "In the previous studies of business value of"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we defined an event as an announcement of artificial intelligence (AI) implementation in public news media",
+   "pdf_page": 7,
+   "supports": "Defines the AI measure as AI implementation announcements, matching ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "we defined an event as an announcement of"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "we collected events from Google Search with these keywords and the names of the component companies from January 1, 2014 to February 3, 2019 (about 5 years)",
+   "pdf_page": 7,
+   "supports": "Confirms the Google Search event collection and the 2014-2019 window coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "these keywords and the names of the component"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "we downloaded data related to the S&P 500 Index from Compustat, including the components list, tickers, and GISC sectors of the components.",
+   "pdf_page": 7,
+   "supports": "Confirms S&P 500 components via Compustat (US large-cap firms across GICS sectors), backing sample, country_region = USA, and industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "list, tickers, and GISC sectors of the components."
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "we acquired 109 news reports concerning 30 companies",
+   "pdf_page": 7,
+   "supports": "Confirms the adjudication-corrected count of 109 announcements coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "we acquired 109 news"
+  },
+  {
+   "fields": [
+    "industry",
+    "conditions"
+   ],
+   "quote": "the third classification uses the GICS sectors to determine whether the company making the announcement is an IT company",
+   "pdf_page": 7,
+   "supports": "Shows the sample spans IT and non-IT sectors (cross-industry) and defines the IT vs non-IT grouping coded in conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    6,
+    7,
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14–16",
+   "ctrl_f": "the third classification uses the"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "An abnormal stock return is the difference between the actual return and the expected return and is usually used as an indicator of the impact of an event",
+   "pdf_page": 4,
+   "supports": "Defines the market-value outcome (abnormal returns) coded in performance_measure; outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "An abnormal stock return is the difference between"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding",
+    "performance_measure"
+   ],
+   "quote": "in response to the announcement of AI implementation, we find significant positive abnormal returns on the event day",
+   "pdf_page": 1,
+   "supports": "Abstract states the positive average main effect on the event day, matching effect_direction = positive and the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "in response to the announcement of AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the results show significant differences in average cumulative abnormal returns between announcements with detailed information and those without detailed information",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'announcement detail (detailed > vague)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "the results show significant differences in average cumulative"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "our findings present significant differences in average cumulative abnormal returns between IT-companies and non-IT companies on the event day",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'IT vs non-IT firms (sig. difference)' and the 'come from IT firms' clause of key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "significant differences in average cumulative abnormal returns between"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "according to the content analysis, only one characteristic, the frequency of negative words, is modestly and negatively correlated with average cumulative abnormal returns",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'frequency of negative words in announcement (negative correlation)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "the content analysis, only one characteristic, the"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "when investors receive information short on details, the reaction is short and immediate. In comparison, when they receive detailed information, they need more time to digest it, leading to a delayed positive reaction",
+   "pdf_page": 15,
+   "supports": "Discussion's interpretation of the detailed-information condition, backing the 'detailed > vague' condition and the key_finding clause on detailed announcements.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "23",
+   "ctrl_f": "reaction is short and immediate. In comparison, when"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "quality_notes"
+   ],
+   "quote": "The results show that these announcements have a significantly positive impact on abnormal returns. However, these impacts only last for a short period.",
+   "pdf_page": 16,
+   "supports": "Conclusion's own statement of the central result: markets reward AI announcements on average (positive), and the effect is short-window — backing the 'short-window event study' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "24",
+   "ctrl_f": "show that these announcements have a significantly"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "the values of abnormal returns that we have captured are investor perceptions, and thus represent not the actual values but the expected values of investors",
+   "pdf_page": 16,
+   "supports": "Authors' own limitation on what the short-window market measure captures, the source-based part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "24",
+   "ctrl_f": "abnormal returns that we have captured are"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure correctly empty: 'competitive advantage' appears only as motivating rhetoric (abstract, H1's RBV passage) with no CA construct measured — under the frozen rule that stays performance. The 'counterpoint to Lui 2022 (S08)' part of quality_notes is coder commentary, not source text; the source-based parts (short-window effect, investor-perception limitation, 109-event sample size) are quoted. Country USA is evidenced indirectly via S&P 500 components — the paper never states 'USA' as a word."
+ },
+ "has_printed_pagination": true
+}

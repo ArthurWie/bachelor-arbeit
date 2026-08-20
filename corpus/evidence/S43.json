@@ -1,0 +1,244 @@
+{
+ "study_id": "S43",
+ "document_id": 43,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "Drawing on the dynamic capabilities theory (DCT), this study tests the moderated-mediation model using multiwave, multi-source data collected from 291 Chinese B2B manufacturing firms. Structural equation modeling was applied to test the proposed hypotheses.",
+   "pdf_page": 1,
+   "supports": "Abstract states the DCT lens, the survey-SEM method, the 291-firm multi-wave multi-source sample, and China in one passage.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.42,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "44",
+   "ctrl_f": "Drawing on the dynamic capabilities theory (DCT), this"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "A total of 291 firms from the initial pool of 1,500 firms across three key provinces provided consistent and complete responses at all three times, forming the final matched sample",
+   "pdf_page": 6,
+   "supports": "Confirms the final n = 291 and the three-wave matched design coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": "49",
+   "ctrl_f": "and complete responses at all three times, forming"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "These selected B2B firms represent a diverse range of manufacturing sectors that include information technology, chemicals, plastics, and rubber production.",
+   "pdf_page": 5,
+   "supports": "Backs the coded industry 'manufacturing (B2B)' with the specific sectors sampled.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "48",
+   "ctrl_f": "B2B firms represent a diverse range of manufacturing"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "BDAI assimilation was measured using a three-item scale validated by Zhang et al. (2020), and AI capabilities were measured using a four-item scale established by Dubey et al. (2022).",
+   "pdf_page": 7,
+   "supports": "Both coded AI constructs (BDAI assimilation and AI capabilities) are survey scales, as coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "50",
+   "ctrl_f": "assimilation was measured using a three-item scale validated"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "while a three-item scale of NPP was adapted from the existing research by Jin et al. (2019)",
+   "pdf_page": 7,
+   "supports": "New product performance is measured by a survey scale - a performance construct, matching performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "50",
+   "ctrl_f": "adapted from the existing research by Jin et"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "quality_notes"
+   ],
+   "quote": "the total effect of BDAI assimilation on NPP yielded a statistically significant outcome (β = 0.24, s.e. = 0.06, p < 0.001, 95% CI = [0.15, 0.29])",
+   "pdf_page": 8,
+   "supports": "Significant positive total effect - per the main-effect rule direction is positive (Arthur's batch decision: S43 stays positive); also the 0.24*** figure cited in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "51",
+   "ctrl_f": "of BDAI assimilation on NPP yielded a statistically"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "The results provide robust support for this with a substantial effect (β = 0.15, s.e. = 0.06, p < 0.05, 95% CI = [0.06, 0.22]).",
+   "pdf_page": 8,
+   "supports": "H4 mediation result: AI capabilities mediate BDAI assimilation -> NPP with indirect effect 0.15*, backing the coded mediator condition and the quality-note figure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "51",
+   "ctrl_f": "support for this with a substantial effect (β = 0.15,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "B2B managers and policy architects should recognize that investment in BDAI assimilation is not sufficient. However, building AI capabilities might fully support BDAI assimilation to gain innovation outcomes such as NPP.",
+   "pdf_page": 1,
+   "supports": "The paper's own statement that assimilation alone is insufficient without AI capabilities, backing the coded condition phrasing.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "44",
+   "ctrl_f": "B2B managers and policy architects should recognize that"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "This study further found that this mediation model is strengthened through the contingency impact of ESCC and increases its indirect effect on NPP.",
+   "pdf_page": 1,
+   "supports": "Abstract states ESCC as the moderator strengthening the indirect effect, exactly as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "44",
+   "ctrl_f": "This study further found that this mediation model"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the statistical results reveal a significant interaction effect between BDAI assimilation and ESCC (β = 0.21, s.e. = 0.05, p < 0.01, 95% CI = [0.12, 0.38])",
+   "pdf_page": 9,
+   "supports": "Significant BDAI x ESCC interaction (H5), backing ESCC as an identified moderator.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "52",
+   "ctrl_f": "ESCC (β = 0.21, s.e. = 0.05, p < 0.01, 95% CI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The steeper slope under low ESCC suggests a stronger impact of BDAI assimilation on AI capabilities when ESCC is low, indicating a compensatory rather than amplifying role",
+   "pdf_page": 9,
+   "supports": "Figure 2 caption on the direction of the ESCC moderation.",
+   "tension": "The paper is internally inconsistent: this Figure 2 caption calls ESCC compensatory (stronger BDAI effect at LOW ESCC), while the abstract and Table 5 (conditional indirect effects rising 0.06 -> 0.10 -> 0.13 with higher ESCC) say strengthening - the coded 'strengthens the indirect effect' follows the abstract/Table 5, but the author should see this contradiction.",
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "52",
+   "ctrl_f": "suggests a stronger impact of BDAI assimilation on"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The results demonstrate that BDAI assimilation significantly promotes NPP, and AI capabilities act as an intermediary bridge empowering B2B firms to convert BDAI assimilation into enhanced NPP.",
+   "pdf_page": 1,
+   "supports": "The paper's own statement of its central result, matching the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "44",
+   "ctrl_f": "The results demonstrate that BDAI assimilation significantly promotes"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "sample"
+   ],
+   "quote": "we collected a multisource data collection approach by gathering information from two informants (i.e. CEOs and senior marketing managers)",
+   "pdf_page": 7,
+   "supports": "Backs the quality note 'multi-source (stronger than single-informant)': two informants per firm.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.15,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "50",
+   "ctrl_f": "two informants (i.e. CEOs and senior marketing managers)"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "sample"
+   ],
+   "quote": "we temporally separated the measurement of constructs by administering our surveys in three distinct phases",
+   "pdf_page": 7,
+   "supports": "Backs the 'multi-wave' part of sample and quality_notes: three time-separated survey waves.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "50",
+   "ctrl_f": "measurement of constructs by administering our surveys in"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Two items: (1) The quality_notes caveat says the direct-path row is 'not explicit in text' - but Table 4 (PDF p. 8) does list row 5 'The direct effect of BDAI assimilation on NPP' = 0.16, p < 0.05, 95% CI [0.01, 0.31], i.e. a significant direct path; this strengthens the adjudicated 'positive' (partial, not full, mediation) and the caveat could be updated. (2) Figure 2 caption contradiction on the ESCC moderation direction (see tension on the Figure 2 quote). ca_measure empty is correct: 'competitive advantage' appears only in DCT framing, no CA construct is measured."
+ },
+ "has_printed_pagination": true
+}

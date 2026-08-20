@@ -1,0 +1,245 @@
+{
+ "study_id": "S58",
+ "document_id": 58,
+ "quotes": [
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "method"
+   ],
+   "quote": "Using panel data from Chinese A-share listed companies between 2008 and 2023",
+   "pdf_page": 1,
+   "supports": "Names the sample (Chinese A-share listed companies), the country, and the panel-data design.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Using panel data from Chinese A-share listed"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "First, ST and ST* listed companies are excluded; second, financial-type listed companies are removed; third, observations with missing financial data are eliminated.",
+   "pdf_page": 4,
+   "supports": "Sample construction: all listed firms except financials, backing industry = cross-industry (listed firms).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "and ST* listed companies are excluded; second,"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "This paper employs a fixed-effects model to examine the impact of artificial intelligence on corporate investment efficiency.",
+   "pdf_page": 5,
+   "supports": "Fixed-effects regression on firm-year panel data confirms method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "This paper employs a fixed-effects model to examine"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The corporate artificial intelligence (AI) adoption is measured through text analysis of company annual reports.",
+   "pdf_page": 2,
+   "supports": "Backs the coded ai_measure: text analysis of company reports.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "intelligence (AI) adoption is measured through text analysis"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Furthermore, by constructing a tailored AI-related keyword dictionary and employing a novel text analysis approach, this study not only introduces an innovative method for measuring corporate AI adoption",
+   "pdf_page": 2,
+   "supports": "The paper's own wording 'tailored AI-related keyword dictionary' and 'novel text analysis' matches the coded ai_measure verbatim.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "tailored AI-related keyword dictionary and employing a novel"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction"
+   ],
+   "quote": "The results show that AI can significantly enhance the investment efficiency of enterprises.",
+   "pdf_page": 1,
+   "supports": "Investment efficiency as the performance outcome with a significant positive main effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "that AI can significantly enhance the investment"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "effect_direction"
+   ],
+   "quote": "Furthermore, we find that AI adoption may lead to a rise in firm value.",
+   "pdf_page": 1,
+   "supports": "Firm value as the second coded performance outcome, also positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "that AI adoption may lead to a rise"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The regression findings consistently demonstrate a statistically significant positive relationship between artificial intelligence adoption and corporate investment efficiency at the 1 % significance level",
+   "pdf_page": 6,
+   "supports": "Clear positive average main effect in the baseline regressions, so direction = positive; mechanisms and heterogeneity belong in conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.09,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "6",
+   "ctrl_f": "and corporate investment efficiency at the 1"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "This effect is more pronounced in high knowledge-intensity firms, high R & D-intensity firms, and firms with sound internal controls.",
+   "pdf_page": 1,
+   "supports": "The three coded heterogeneity conditions (knowledge intensity, R&D intensity, sound internal controls) in the paper's own words.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This effect is more pronounced in high"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "Mechanism analysis reveals that AI contributes to improved investment efficiency by enhancing innovation capabilities and strengthening the financial health of firms.",
+   "pdf_page": 1,
+   "supports": "The two coded mechanisms (innovation capability, financial health) and the source basis of the 'Mechanism analysis' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "reveals that AI contributes to improved investment"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "The heterogeneity analysis reveals that the beneficial impact of AI on investment efficiency is stronger among firms with high knowledge intensity, elevated R & D investment, and robust internal control systems.",
+   "pdf_page": 9,
+   "supports": "Conclusion's own statement of the central result: effect strongest where knowledge intensity, R&D and internal controls are high, matching key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "reveals that the beneficial impact of AI on"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "conditions"
+   ],
+   "quote": "This section employs a mediation effect model, using corporate innovation level and corporate financial condition as mediating variables to conduct mechanism identification tests.",
+   "pdf_page": 8,
+   "supports": "Formal mediation design behind the coded mechanisms and the 'Mechanism analysis' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.74,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "This section employs a mediation effect model, using"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "In doing so, it contributes to the literature on corporate investment efficiency by introducing a novel, technology-oriented perspective.",
+   "pdf_page": 2,
+   "supports": "Self-positioning in the corporate-finance investment-efficiency literature, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "In doing so, it contributes to the literature"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Prior research has mainly focused on issues such as weak internal controls, information asymmetry, limited access to financing, and agency conflicts as determinants of investment inefficiency",
+   "pdf_page": 1,
+   "supports": "The paper frames itself against the corporate-finance determinants of investment inefficiency (agency, financing constraints), backing the lens coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "on issues such as weak internal controls, information"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: no competitive-advantage construct is measured; 'market competition' appears only as a future-research topic (p.10). Direction check per mediation rule: baseline direct effect 0.003*** and lnword stays significant with mediators included (Tables 11-12), so partial mediation and positive is correct. Sample detail: 24,768 firm-year observations 2008-2023; note the paper's Table 1 caption erroneously says 'period 2006-2014' - a paper-internal typo, not a coding issue."
+ },
+ "has_printed_pagination": true
+}

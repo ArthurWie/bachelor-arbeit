@@ -1,0 +1,211 @@
+{
+ "study_id": "S62",
+ "document_id": 62,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "Drawing on transaction cost economics and organizational information processing theory, we challenge the espoused benefits of AI in servitization by demonstrating that stock market reactions to service technology patents with high AI scores are negative.",
+   "pdf_page": 1,
+   "supports": "Abstract names both coded theories (TCE + OIPT) and states the negative market reaction that anchors effect_direction and the performance outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Drawing on transaction cost economics and organizational information"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "Based on casewise deletion, the final sample includes 759,449 patents, 1306 service technology patents, and 758,143 non-service technology patents from 3899 manufacturing firms from 1980q1 to 2020q4.",
+   "pdf_page": 7,
+   "supports": "Exact sample composition matches the coded 1,306 AI-scored service patents of ~758k patents from 3,899 manufacturing firms, 1980-2020.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "on casewise deletion, the final sample includes 759,449"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "Finally, the study's findings are based on a sample of US manufacturing firms during a specific time period.",
+   "pdf_page": 20,
+   "supports": "Authors state the sample is US manufacturing firms, backing country_region = USA and industry = manufacturing.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "20",
+   "ctrl_f": "Finally, the study's findings are based on a"
+  },
+  {
+   "fields": [
+    "method",
+    "performance_measure"
+   ],
+   "quote": "The stock market reaction signifies the abnormal change in the firm's market capitalization on the day of the patent grant.",
+   "pdf_page": 7,
+   "supports": "The dependent variable is a grant-day abnormal-return measure (KPSS), backing method = event study and the stock-market-reaction performance measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "signifies the abnormal change in the firm's market"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "In our study, we take the standardized factor score of the AI scores on each of these AI dimensions to create a composite AI score for each patent.",
+   "pdf_page": 8,
+   "supports": "AI is measured as a composite AI score of patents (AIPD), matching the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "In our study, we take the standardized factor"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "In model 8 in Table 4 and Fig. 1(a), service technology patents with higher AI scores realize a negative market reaction",
+   "pdf_page": 9,
+   "supports": "Main H1 result: significant negative stock market reaction to high-AI service patents, backing effect_direction = negative.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "Fig. 1(a), service technology patents with higher AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "we find that idiosyncratic volatility mitigates this negative reaction, while tangibility shows no such effect.",
+   "pdf_page": 1,
+   "supports": "Backs the coded conditions: idiosyncratic volatility mitigates, tangibility does not.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "this negative reaction, while tangibility shows no such"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "While consistently negative, the effect becomes statistically significant only from 2010 onward, with the magnitude increasing over time.",
+   "pdf_page": 13,
+   "supports": "Decade-wise analysis backs the coded temporal condition: effects only significant in the 2010s/2020s (evolving market perception).",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "While consistently negative, the effect becomes statistically significant"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "Our findings reveal short-term negative stock market reactions to AI-based service patents in manufacturing firms, with this pattern strengthening from the 2010s onward as AI technologies matured.",
+   "pdf_page": 20,
+   "supports": "Authors' own concluding statement of the central result, matching the coded key_finding and negative direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "20",
+   "ctrl_f": "stock market reactions to AI-based service patents in"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "This study cautions against assuming short-term market value of AI service innovations in manufacturing.",
+   "pdf_page": 1,
+   "supports": "Backs the coded key_finding's framing as a caution against assuming short-term market value from AI servitization.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This study cautions against assuming short-term market value"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Results hold across matched-pair sampling, non-linear effects testing, fixed-effects individual slopes, and alternative moderator analyses.",
+   "pdf_page": 1,
+   "supports": "Backs the 'robust' part of quality_notes: the paper's battery of robustness checks.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.89,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "across matched-pair sampling, non-linear effects testing, fixed-effects individual"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "quality_notes"
+   ],
+   "quote": "Second, the study's focus on short-term stock market reactions as the primary measure of firm performance limits the understanding of the long-term impact of AI-enabled service innovation.",
+   "pdf_page": 19,
+   "supports": "Authors call the stock market reaction their measure of firm performance (outcome_construct = performance) and admit the short-term-focus limitation.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "19",
+   "ctrl_f": "Second, the study's focus on short-term stock market"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "quality_notes 'important negative-evidence anchor' is coder commentary, not source-based; 'long panel, robust' is evidenced (1980q1-2020q4 sample + robustness quote). ca_measure empty is correct: no CA construct measured; 'competitive edge' appears only as theory-section rhetoric. Minor nuance: in the matched-pair robustness sample all three hypotheses find support (i.e., tangibility becomes significant there), but the paper's headline conclusion keeps tangibility as a non-mitigator, consistent with the coded condition."
+ },
+ "has_printed_pagination": true
+}

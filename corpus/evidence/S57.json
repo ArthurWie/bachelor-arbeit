@@ -1,0 +1,245 @@
+{
+ "study_id": "S57",
+ "document_id": 57,
+ "quotes": [
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry",
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "This research investigates the impact of AI adoption on total factor productivity (TFP) within Chinese A-share listed companies from 2007 to 2022.",
+   "pdf_page": 2,
+   "supports": "Names the sample (Chinese A-share listed companies 2007-2022, i.e. cross-industry listed firms), the country, and TFP as the performance outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This research investigates the impact of AI adoption"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct",
+    "quality_notes"
+   ],
+   "quote": "We find a significant positive effect of AI on firm-level TFP, a result that holds under a series of rigorous robustness checks.",
+   "pdf_page": 2,
+   "supports": "States the significant positive main effect on the performance outcome and the robustness checks noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "positive effect of AI on firm-level TFP, a"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Importantly, we identify a key transmission mechanism: the positive relationship between AI and TFP is partially channeled through enhanced internal control quality (ICQ).",
+   "pdf_page": 2,
+   "supports": "ICQ as partial mediator is exactly the coded condition and the transmission-channel core of the key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Importantly, we identify a key transmission mechanism: the"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "This indicates that AI-driven improvements in organizational governance and risk management constitute a vital link to TFP gains.",
+   "pdf_page": 2,
+   "supports": "Paper's own statement that governance/risk management improvements are the link to TFP gains, matching the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "governance and risk management constitute a vital link"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "ICQ functions as a mediating governance mechanism that translates technological or strategic inputs such as AI adoption into performance outcomes by improving monitoring, reporting, and operational reliability.",
+   "pdf_page": 4,
+   "supports": "The paper's framework is the internal-control/governance channel, matching the coded lens (no grand theory adopted as framework).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "ICQ functions as a mediating governance mechanism that"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "We utilize a high-dimensional fixed-effects model for baseline estimation and a formal mediation analysis framework to test the indirect effect.",
+   "pdf_page": 3,
+   "supports": "Panel fixed-effects econometrics as the evidence-generating strategy plus the mediation design noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "a high-dimensional fixed-effects model for baseline estimation and"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "All models employ panel fixed effects at the firm, year, industry, and provincial levels to control for unobserved heterogeneity.",
+   "pdf_page": 6,
+   "supports": "Confirms method = panel econometrics (firm/year/industry/province fixed effects).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "All models employ panel fixed effects at the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Following W. Chen and Srinivasan (2024) and the WIPO AI glossary, AI is identified via textual analysis of Chinese AI terms measured as ln(1+ the count of AI-related words)",
+   "pdf_page": 5,
+   "supports": "Defines the annual-report text-based AI adoption measure coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "Following W. Chen and Srinivasan (2024) and the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "While useful, these proxies suffer from well-known limitations: patents capture invention rather than adoption; robotics data miss software-based AI applications",
+   "pdf_page": 4,
+   "supports": "Authors' explicit contrast of their text measure with patent/robot proxies, as noted in the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "suffer from well-known limitations: patents capture invention rather"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "both variables retain positive and statistically significant coefficients for AI at 0.0144 and for ICQ at 0.0133, indicating that higher ICQ partially mediates the effect of AI on TFP.",
+   "pdf_page": 9,
+   "supports": "Direct AI path stays significant with the mediator included, so partial mediation: direction = positive per the main-effect rule, ICQ mediator goes to conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "significant coefficients for AI at 0.0144 and for"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "Sobel-Goodman tests confirm the mediation, with an indirect effect of 0.0004, contributing approximately 2.4% of the total effect",
+   "pdf_page": 9,
+   "supports": "Formal mediation tests back the coded partial-mediator condition and the mediation-design quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "Sobel-Goodman tests confirm the mediation, with an indirect"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "The robustness checks indicate that the productivity gains tied to AI are robust to alternative ways of measuring TFP, alternative AI proxies, and varying sample periods.",
+   "pdf_page": 8,
+   "supports": "Source basis for the 'robustness checks' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "The robustness checks indicate that the productivity gains"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Columns (5) and (6) of Table 6 distinguish between manufacturing and non-manufacturing firms to assess whether the effect of AI on TFP varies by industry.",
+   "pdf_page": 10,
+   "supports": "Sample spans manufacturing and non-manufacturing listed firms, backing industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "Columns (5) and (6) of Table 6 distinguish"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Across the baseline models reported in Table 2, AI carries a positive sign and is significant, with point estimates spanning 0.0300 to 0.0690",
+   "pdf_page": 6,
+   "supports": "Baseline regressions show the positive significant average main effect coded as effect_direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Across the baseline models reported in Table 2,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: 'competitive advantages' appears only as introduction framing citing prior studies (p.2), no CA construct measured. Lens note: the literature review briefly invokes agency theory and RBV (p.4), but the paper's own framework is the ICQ governance channel, as coded. Heterogeneity results (stronger for non-SOE, larger, non-manufacturing, high-tech firms, Table 6) are in the paper but not in the coded conditions field, which keeps only the ICQ mediator; not a rule violation, listed for completeness."
+ },
+ "has_printed_pagination": true
+}

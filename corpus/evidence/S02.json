@@ -1,0 +1,259 @@
+{
+ "study_id": "S02",
+ "document_id": 2,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "A conceptual model based on the technology-organisation-environment framework is developed which considers the impact of AI enablers and AI readiness on the acceptance of AI practices",
+   "pdf_page": 1,
+   "supports": "Names the TOE framework as the study's theoretical basis, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "255",
+   "ctrl_f": "A conceptual model based on the technology-organisation-environment framework"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "The conceptual model was tested using structural equation modelling of survey data collected from B2B SMEs ( n = 392).",
+   "pdf_page": 1,
+   "supports": "States survey design, SEM analysis, and n = 392 B2B SMEs — backing method = survey-SEM and the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "255",
+   "ctrl_f": "model was tested using structural equation modelling of"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "confirmatory factor analysis was conducted in AMOS using Maximum Likelihood Estimation, which was then followed by path analysis of the structural relationships.",
+   "pdf_page": 8,
+   "supports": "AMOS with ML estimation evidences covariance-based SEM (CB-SEM) as noted in the sample column.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "262",
+   "ctrl_f": "conducted in AMOS using Maximum Likelihood Estimation, which"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "The target population was B2B SME CEOs, CIOs, general managers, senior managers, marketing managers, and owners in Saudi Arabia.",
+   "pdf_page": 8,
+   "supports": "Sample located in Saudi Arabia, backing country_region.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "262",
+   "ctrl_f": "The target population was B2B SME CEOs, CIOs,"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "The targeted participants worked in wholesaling, manufacturing, agriculture, information technology and social media, and construction industries that provide services and products to business customers.",
+   "pdf_page": 8,
+   "supports": "Multiple industries in the sample, backing industry = cross-industry (B2B SMEs).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.33,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "262",
+   "ctrl_f": "that provide services and products to business customers."
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The extent of acceptance of AI applications by SMEs.",
+   "pdf_page": 6,
+   "supports": "Table 2 definition of the focal construct 'SMEs' AI practices', backing ai_measure = survey construct (acceptance of AI practices).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "260",
+   "ctrl_f": "The extent of acceptance of AI"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct",
+    "key_finding"
+   ],
+   "quote": "Both dimensions of business performance, financial ( γ = 0.709, p < 0.000) and non-financial ( γ = 0.681, p < 0.000) performance, were also found to be significantly predicted by the role of SMEs' AI practices.",
+   "pdf_page": 10,
+   "supports": "Significant positive paths from AI practices to financial and non-financial performance — backs effect_direction = positive and outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "264",
+   "ctrl_f": "predicted by the role of SMEs' AI"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "The financial results of AI integration that can be quantitatively measured such as profitability, sales volume, and return on investment.",
+   "pdf_page": 6,
+   "supports": "Definition of the financial-performance survey construct, backing the perceived SME performance (survey scale) measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "260",
+   "ctrl_f": "integration that can be"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "Items were measured using a five-point Likert scale anchored 1 strongly disagree to 5 strongly agree",
+   "pdf_page": 8,
+   "supports": "Performance measured by Likert self-report scales — backs 'perceived' performance_measure and the perceptual self-report quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "262",
+   "ctrl_f": "were measured using a five-point Likert scale anchored"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "The non-financial results of AI integration in terms of customer satisfaction, loyalty, and competitive advantage.",
+   "pdf_page": 6,
+   "supports": "'Competitive advantage' appears only as one facet inside the non-financial performance scale definition — no distinct CA construct with its own hypothesis is measured, confirming the empty ca_measure under the frozen decision rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "260",
+   "ctrl_f": "integration in terms of customer"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The results showed that, of the AI enablers, acceptance of AI practices was significantly influenced by both technology roadmapping and attitude but not professional expertise.",
+   "pdf_page": 1,
+   "supports": "Backs the coded conditions: roadmapping and attitude significant, professional expertise not significant.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.68,
+   "verdict": "verified",
+   "printed_pages": "255",
+   "ctrl_f": "results showed that, of the AI enablers, acceptance"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Of the AI readiness variables, acceptance of AI practices was significantly influenced by infrastructure and awareness but not technicality.",
+   "pdf_page": 1,
+   "supports": "Backs the coded conditions: infrastructure and awareness significant, technicality not significant.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "255",
+   "ctrl_f": "Of the AI readiness variables, acceptance of AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "As for the main P.AI antecedents, awareness was the most influential factor contributing to SMEs' AI practices ( γ = 0.452, p < 0.000), followed by technology roadmapping ( γ = 0.228, p < 0.000).",
+   "pdf_page": 10,
+   "supports": "Coefficient-level evidence for the significant enabler/readiness conditions in the coded row.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "264",
+   "ctrl_f": "the main P.AI antecedents, awareness was the most"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The acceptance of AI practices was found to significantly affect AI-enabled relational governance and performance, and SME's business customer AI-based interaction.",
+   "pdf_page": 1,
+   "supports": "The paper's own summary of its central result: AI acceptance improves performance, matching the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "255",
+   "ctrl_f": "AI-enabled relational governance and performance, and SME's business"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "First, this study is cross-sectional",
+   "pdf_page": 12,
+   "supports": "Authors' own limitation statement backing the 'cross-sectional' quality note (sentence continues onto the next PDF page).",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "266",
+   "ctrl_f": "this study is cross-sectional,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure emptiness confirmed: competitive advantage occurs only as one item/facet of the non-financial performance scale (Table 2 and appendix item N.F1), not as a distinct validated CA construct with its own hypothesis — consistent with the frozen rule. Note: outcome variables are consequences 'of acceptance of AI practices' rated perceptually, matching 'perceived SME performance'."
+ },
+ "has_printed_pagination": true
+}

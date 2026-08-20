@@ -1,6 +1,7 @@
-import { BookOpenText, MagnifyingGlass } from '@phosphor-icons/react'
+import { BookOpenText, ListChecks, MagnifyingGlass } from '@phosphor-icons/react'
 import { useEffect, useState } from 'react'
 import { api } from './api.js'
+import AuditView from './AuditView.jsx'
 import PdfReader from './PdfReader.jsx'
 
 function authorsShort(authors) {
@@ -14,6 +15,10 @@ function pages(a, b) {
 }
 
 export default function App() {
+  const [mode, setMode] = useState(
+    new URLSearchParams(window.location.search).get('view') === 'audit'
+      ? 'audit' : 'library',
+  )
   const [docs, setDocs] = useState([])
   const [docsError, setDocsError] = useState(null)
   const [query, setQuery] = useState('')
@@ -58,12 +63,21 @@ export default function App() {
     }
   }
 
+  if (mode === 'audit') return <AuditView onExit={() => setMode('library')} />
+
   return (
     <div className="app">
       <aside className="sidebar">
         <div className="brand">
           <h1>Bibliothek</h1>
           <span className="brand-count">{docs.length} Papers</span>
+          <button
+            className="ctl audit-enter"
+            title="Zellen-Audit der Kodiertabelle"
+            onClick={() => setMode('audit')}
+          >
+            <ListChecks size={15} /> Audit
+          </button>
         </div>
 
         <form className="search" onSubmit={runSearch}>

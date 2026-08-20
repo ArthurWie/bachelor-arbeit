@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "babina2024artificial"
+ ],
+ "page": "p. 1",
+ "sentence": "The second is demonstrated by",
+ "passage": "[Babina et al. (2024), p. 1] \"AI-investing firms experience higher growth in sales, employment, and market valuations.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "no",
+  "overclaim": "The second is demonstrated by",
+  "passage_is_hypothesis": false,
+  "note": "The sentence is an incomplete fragment lacking a verifiable claim, so it cannot be supported by the passage.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

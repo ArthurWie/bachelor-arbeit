@@ -1,0 +1,583 @@
+study_id,column,verdict,note,date
+S01,country_region,ok,,2026-08-19
+S01,country_region,ok,,2026-08-19
+S01,sample,ok,,2026-08-19
+S01,method,ok,,2026-08-19
+S01,ai_measure,ok,,2026-08-19
+S01,outcome_construct,ok,,2026-08-19
+S01,performance_measure,ok,,2026-08-19
+S01,ca_measure,ok,,2026-08-19
+S01,effect_direction,ok,,2026-08-19
+S01,conditions,ok,,2026-08-19
+S01,key_finding,ok,,2026-08-19
+S01,theoretical_lens,ok,,2026-08-19
+S01,industry,ok,,2026-08-19
+S01,quality_notes,ok,,2026-08-19
+S08,country_region,flag,recode USA,2026-08-19
+S08,sample,ok,,2026-08-19
+S08,method,ok,,2026-08-19
+S08,ai_measure,ok,,2026-08-19
+S08,outcome_construct,ok,,2026-08-19
+S08,performance_measure,ok,,2026-08-19
+S08,effect_direction,ok,,2026-08-19
+S08,conditions,flag,maybe add that a better IT lessend the negative impact,2026-08-19
+S08,key_finding,ok,,2026-08-19
+S08,theoretical_lens,ok,,2026-08-19
+S08,industry,flag,can we check that again?,2026-08-19
+S08,quality_notes,ok,,2026-08-19
+S15,effect_direction,ok,"positive bestaetigt (Entscheidung 19.8.): alle acht Pfade positiv+signifikant, kein Null-Kanal - mediated-positive-Regel; conditional nur bei Konditionalitaets-EVIDENZ (getesteter Null-Direktpfad wie S07/S55 oder Null-Kanaele wie S21/S28)",2026-08-19
+S39,effect_direction,ok,"positive bestaetigt (Entscheidung 19.8., analog S15): volle Mediation via Marketing-Agilitaet, alle Pfade positiv, kein Null-Kanal",2026-08-19
+S15,effect_direction,ok,,2026-08-19
+S15,conditions,ok,,2026-08-19
+S15,key_finding,ok,,2026-08-19
+S15,theoretical_lens,ok,,2026-08-19
+S15,industry,flag,"check that again (do we even need(B2B, climate management context)?)",2026-08-19
+S15,quality_notes,ok,,2026-08-19
+S16,country_region,ok,,2026-08-19
+S16,country_region,ok,,2026-08-19
+S16,sample,ok,,2026-08-19
+S16,sample,flag,was 278 people or food firms?,2026-08-19
+S16,method,flag,is that what it means?,2026-08-19
+S16,ai_measure,ok,,2026-08-19
+S16,outcome_construct,ok,,2026-08-19
+S16,performance_measure,ok,,2026-08-19
+S16,ca_measure,ok,,2026-08-19
+S16,effect_direction,ok,,2026-08-19
+S16,conditions,ok,,2026-08-19
+S16,key_finding,ok,,2026-08-19
+S16,theoretical_lens,ok,,2026-08-19
+S16,industry,flag,check again if that is actually the only industry,2026-08-19
+S16,quality_notes,ok,,2026-08-19
+S21,country_region,flag,recode: Europe,2026-08-19
+S21,country_region,flag,recode: France/UK,2026-08-19
+S21,sample,flag,"107 executives, France/UK",2026-08-19
+S21,method,ok,,2026-08-19
+S21,ai_measure,ok,,2026-08-19
+S21,outcome_construct,ok,,2026-08-19
+S21,performance_measure,ok,,2026-08-19
+S21,ca_measure,ok,,2026-08-19
+S21,effect_direction,flag,check this one more time just to be sure,2026-08-19
+S21,conditions,ok,,2026-08-19
+S21,key_finding,flag,check that again,2026-08-19
+S21,theoretical_lens,ok,,2026-08-19
+S21,industry,ok,,2026-08-19
+S21,quality_notes,ok,,2026-08-19
+S26,country_region,ok,,2026-08-19
+S26,sample,flag,"1,479 firms in 26 EU countries 2012-2023",2026-08-19
+S26,method,ok,,2026-08-19
+S26,conditions,flag,replace: U-shape: AI hurts revenue below and helps above roughly USD 11.3M; works only when paired with own R&D; only small and medium firms benefit,2026-08-19
+S26,ai_measure,flag,AI venture capital invested in the firm's country (same value for every firm in that country),2026-08-19
+S26,outcome_construct,ok,,2026-08-19
+S26,performance_measure,ok,,2026-08-19
+S26,effect_direction,ok,,2026-08-19
+S26,conditions,ok,,2026-08-19
+S26,key_finding,ok,,2026-08-19
+S26,theoretical_lens,flag,replace: RBV + dynamic capabilities,2026-08-19
+S26,industry,ok,,2026-08-19
+S26,quality_notes,ok,,2026-08-19
+S39,method,flag,sure that we need SEM?,2026-08-19
+S39,ai_measure,flag,just use survey constuct becuase i think there is more then engagement,2026-08-19
+S39,outcome_construct,ok,,2026-08-19
+S39,performance_measure,flag,is there not more?,2026-08-19
+S39,country_region,ok,,2026-08-19
+S39,sample,ok,,2026-08-19
+S39,method,ok,,2026-08-19
+S39,ai_measure,ok,,2026-08-19
+S39,outcome_construct,ok,,2026-08-19
+S39,performance_measure,ok,,2026-08-19
+S39,effect_direction,ok,,2026-08-19
+S39,conditions,ok,,2026-08-19
+S39,key_finding,ok,,2026-08-19
+S39,theoretical_lens,ok,,2026-08-19
+S39,industry,ok,,2026-08-19
+S39,quality_notes,ok,,2026-08-19
+S43,conditions,ok,,2026-08-19
+S43,key_finding,ok,,2026-08-19
+S43,theoretical_lens,ok,,2026-08-19
+S43,industry,ok,,2026-08-19
+S43,quality_notes,ok,,2026-08-19
+S44,effect_direction,flag,positive,2026-08-19
+S44,country_region,ok,,2026-08-19
+S44,sample,ok,,2026-08-19
+S44,method,ok,,2026-08-19
+S44,ai_measure,flag,explain this a bit better,2026-08-19
+S44,outcome_construct,ok,,2026-08-19
+S44,performance_measure,ok,,2026-08-19
+S44,effect_direction,ok,,2026-08-19
+S44,conditions,flag,remove (a ten percent rise in AI investment adds 0.04% growth on average),2026-08-19
+S44,key_finding,ok,,2026-08-19
+S44,theoretical_lens,ok,,2026-08-19
+S44,industry,ok,,2026-08-19
+S44,quality_notes,ok,,2026-08-19
+S60,country_region,ok,,2026-08-19
+S60,sample,ok,,2026-08-19
+S60,method,ok,,2026-08-19
+S60,ai_measure,ok,,2026-08-19
+S60,outcome_construct,ok,,2026-08-19
+S60,performance_measure,ok,,2026-08-19
+S60,ca_measure,ok,,2026-08-19
+S60,effect_direction,ok,,2026-08-19
+S60,conditions,flag,make this shorter,2026-08-19
+S60,key_finding,ok,,2026-08-19
+S60,theoretical_lens,ok,,2026-08-19
+S60,industry,ok,,2026-08-19
+S60,quality_notes,ok,,2026-08-19
+S61,country_region,ok,,2026-08-19
+S61,sample,ok,,2026-08-19
+S61,sample,ok,,2026-08-19
+S61,method,ok,,2026-08-19
+S61,ai_measure,ok,,2026-08-19
+S61,outcome_construct,ok,,2026-08-19
+S61,performance_measure,ok,,2026-08-19
+S61,effect_direction,ok,,2026-08-19
+S61,conditions,ok,,2026-08-19
+S61,ai_measure,flag,"survey construct (AI adoption intention) - they measured plans to adopt, not adoption",2026-08-19
+S61,outcome_construct,ok,,2026-08-19
+S61,performance_measure,ok,,2026-08-19
+S61,effect_direction,ok,,2026-08-19
+S61,conditions,ok,,2026-08-19
+S61,key_finding,flag,"AI adoption intention lifts hotel service performance; drivers: ease of use, competitive pressure, policy support - infrastructure estimate is negative",2026-08-19
+S61,theoretical_lens,ok,,2026-08-19
+S61,industry,ok,,2026-08-19
+S61,quality_notes,ok,,2026-08-19
+S66,sample,flag,"419 responses, 290 firms",2026-08-19
+S66,method,ok,,2026-08-19
+S66,ai_measure,ok,,2026-08-19
+S66,outcome_construct,ok,,2026-08-19
+S66,performance_measure,ok,,2026-08-19
+S66,effect_direction,ok,,2026-08-19
+S66,conditions,flag,do we need (mediators/amplifiers of the AI-performance link)?,2026-08-19
+S66,key_finding,ok,,2026-08-19
+S66,theoretical_lens,ok,,2026-08-19
+S66,industry,ok,,2026-08-19
+S66,quality_notes,ok,,2026-08-19
+S02,country_region,ok,,2026-08-19
+S02,sample,flag,392 B2B SMEs,2026-08-19
+S02,method,ok,,2026-08-19
+S02,ai_measure,flag,is it not acceptance of AI applications?,2026-08-19
+S02,outcome_construct,ok,,2026-08-19
+S02,performance_measure,ok,,2026-08-19
+S02,ca_measure,ok,,2026-08-19
+S02,effect_direction,flag,does that mean positive?,2026-08-19
+S02,conditions,flag,expertise not significant???,2026-08-19
+S02,key_finding,flag,not by professional expertise. does it really say it?,2026-08-19
+S02,theoretical_lens,ok,,2026-08-19
+S02,industry,ok,,2026-08-19
+S02,quality_notes,ok,,2026-08-19
+S03,country_region,ok,,2026-08-19
+S03,sample,flag,remove 16 listed firms,2026-08-19
+S03,method,ok,,2026-08-19
+S03,ai_measure,flag,is that the only one?,2026-08-19
+S03,outcome_construct,ok,,2026-08-19
+S03,outcome_construct,flag,really both?,2026-08-19
+S03,performance_measure,flag,only?,2026-08-19
+S03,ca_measure,ok,,2026-08-19
+S03,outcome_construct,ok,,2026-08-19
+S03,performance_measure,ok,,2026-08-19
+S03,ca_measure,ok,,2026-08-19
+S03,effect_direction,ok,,2026-08-19
+S03,conditions,ok,,2026-08-19
+S03,key_finding,ok,,2026-08-19
+S03,theoretical_lens,ok,,2026-08-19
+S03,conditions,ok,,2026-08-19
+S03,key_finding,ok,,2026-08-19
+S03,theoretical_lens,ok,,2026-08-19
+S03,industry,flag,manufacturing + service,2026-08-19
+S03,quality_notes,ok,,2026-08-19
+S04,country_region,ok,,2026-08-19
+S04,sample,flag,312 manager responses,2026-08-19
+S04,method,ok,,2026-08-19
+S04,ai_measure,ok,,2026-08-19
+S04,outcome_construct,ok,,2026-08-19
+S04,performance_measure,ok,,2026-08-19
+S04,ca_measure,ok,,2026-08-19
+S04,effect_direction,ok,,2026-08-19
+S04,conditions,flag,technology turbulence weakens the paths to relationship satisfaction; leadership support strengthens the satisfaction-to-performance path,2026-08-19
+S04,key_finding,ok,,2026-08-19
+S04,theoretical_lens,ok,,2026-08-19
+S04,industry,ok,,2026-08-19
+S04,quality_notes,ok,,2026-08-19
+S05,country_region,ok,,2026-08-19
+S05,sample,flag,257 manager responses,2026-08-19
+S05,method,ok,,2026-08-19
+S05,ai_measure,ok,,2026-08-19
+S05,outcome_construct,ok,,2026-08-19
+S05,performance_measure,flag,is there no performance_measure,2026-08-19
+S05,ca_measure,ok,,2026-08-19
+S05,effect_direction,ok,,2026-08-19
+S05,conditions,ok,,2026-08-19
+S05,key_finding,ok,,2026-08-19
+S05,theoretical_lens,ok,,2026-08-19
+S05,industry,ok,,2026-08-19
+S05,quality_notes,ok,,2026-08-19
+S06,country_region,ok,,2026-08-19
+S06,sample,flag,160 high-tech firms,2026-08-19
+S06,method,ok,,2026-08-19
+S06,ai_measure,ok,,2026-08-19
+S06,outcome_construct,ok,,2026-08-19
+S06,performance_measure,ok,,2026-08-19
+S06,effect_direction,ok,,2026-08-19
+S06,conditions,flag,adoption-intensity threshold (low-level adoption shows no effect); complementary cloud and database investments amplify,2026-08-19
+S06,key_finding,ok,,2026-08-19
+S06,theoretical_lens,ok,,2026-08-19
+S06,industry,ok,,2026-08-19
+S06,quality_notes,ok,,2026-08-19
+S07,country_region,ok,,2026-08-19
+S07,sample,flag,120 senior executives,2026-08-19
+S07,method,ok,,2026-08-19
+S07,ai_measure,flag,is that the only one?,2026-08-19
+S07,outcome_construct,ok,,2026-08-19
+S07,performance_measure,flag,,2026-08-19
+S07,outcome_construct,flag,what?,2026-08-19
+S07,performance_measure,flag,is that really so?,2026-08-19
+S07,effect_direction,ok,,2026-08-19
+S07,conditions,flag,is that really so?,2026-08-19
+S07,key_finding,ok,,2026-08-19
+S07,theoretical_lens,ok,,2026-08-19
+S07,industry,ok,,2026-08-19
+S07,quality_notes,ok,,2026-08-19
+S08,country_region,ok,,2026-08-19
+S08,sample,ok,,2026-08-19
+S08,method,ok,,2026-08-19
+S08,ai_measure,ok,,2026-08-19
+S08,outcome_construct,ok,,2026-08-19
+S08,performance_measure,ok,,2026-08-19
+S08,effect_direction,ok,,2026-08-19
+S08,conditions,ok,,2026-08-19
+S08,key_finding,ok,,2026-08-19
+S08,theoretical_lens,ok,,2026-08-19
+S08,industry,ok,,2026-08-19
+S08,quality_notes,ok,,2026-08-19
+S09,country_region,ok,,2026-08-19
+S09,sample,ok,,2026-08-19
+S09,method,ok,,2026-08-19
+S09,ai_measure,ok,,2026-08-19
+S09,outcome_construct,ok,,2026-08-19
+S09,performance_measure,ok,,2026-08-19
+S09,effect_direction,ok,,2026-08-19
+S09,conditions,ok,,2026-08-19
+S09,key_finding,ok,,2026-08-19
+S09,theoretical_lens,ok,,2026-08-19
+S09,industry,ok,,2026-08-19
+S09,industry,ok,,2026-08-19
+S09,quality_notes,ok,,2026-08-19
+S10,country_region,ok,,2026-08-19
+S10,sample,ok,,2026-08-19
+S10,method,ok,,2026-08-19
+S10,ai_measure,ok,,2026-08-19
+S10,outcome_construct,ok,,2026-08-19
+S10,performance_measure,ok,,2026-08-19
+S10,ca_measure,ok,,2026-08-19
+S10,effect_direction,ok,,2026-08-19
+S10,conditions,flag,"Where is the evidence for ""relationship value"" having no direct effect, as it is completely absent from quotes [1], [2], and [3]?",2026-08-19
+S10,key_finding,flag,"Where in quote [1] is there mention of ""AI ecosystems"", and does it strictly state that the effects run ""entirely"" through the mediating variables?",2026-08-19
+S10,theoretical_lens,ok,,2026-08-19
+S10,industry,ok,,2026-08-19
+S10,industry,ok,,2026-08-19
+S10,quality_notes,ok,,2026-08-19
+S11,country_region,ok,,2026-08-19
+S11,sample,ok,,2026-08-19
+S11,method,ok,,2026-08-19
+S11,ai_measure,flag,"Does quote [1] provide any evidence that the methodology is a ""case observation,"" or explicitly identify the AI as ""robotic"" surgery?",2026-08-19
+S11,ai_measure,flag,"Does [1] really back the ""case observation"" portion of the claim, or should quotes detailing the case study method (e.g., from p. 49 or 55) be used to fully support this coded value?",2026-08-19
+S11,outcome_construct,flag,"Does the coded value ""both"" refer specifically to financial and non-financial outcomes, and if so, is this sufficiently proven by the listing of multiple outcome types in [1] and [3]?",2026-08-19
+S11,performance_measure,ok,,2026-08-19
+S11,ca_measure,ok,,2026-08-19
+S11,effect_direction,ok,,2026-08-19
+S11,effect_direction,ok,,2026-08-19
+S11,conditions,ok,,2026-08-19
+S11,key_finding,ok,,2026-08-19
+S11,theoretical_lens,ok,,2026-08-19
+S11,industry,ok,,2026-08-19
+S11,key_finding,ok,,2026-08-19
+S11,theoretical_lens,ok,,2026-08-19
+S11,industry,ok,,2026-08-19
+S11,quality_notes,ok,,2026-08-19
+S12,country_region,ok,,2026-08-19
+S12,sample,ok,,2026-08-19
+S12,method,ok,,2026-08-19
+S12,ai_measure,ok,,2026-08-19
+S12,outcome_construct,ok,,2026-08-19
+S12,performance_measure,ok,,2026-08-19
+S12,effect_direction,ok,,2026-08-19
+S12,performance_measure,flag,"Should the coded value be updated to ""sales-based"" to match quote [1], or is there another passage in the text that explicitly uses the term ""labor-based""?",2026-08-19
+S12,effect_direction,ok,,2026-08-19
+S12,conditions,ok,,2026-08-19
+S12,key_finding,ok,,2026-08-19
+S12,theoretical_lens,ok,,2026-08-19
+S12,industry,ok,,2026-08-19
+S12,quality_notes,ok,,2026-08-19
+S13,country_region,ok,,2026-08-19
+S13,sample,ok,,2026-08-19
+S13,method,ok,,2026-08-19
+S13,sample,ok,,2026-08-19
+S13,method,ok,,2026-08-19
+S13,ai_measure,ok,,2026-08-19
+S13,outcome_construct,ok,,2026-08-19
+S13,performance_measure,ok,,2026-08-19
+S13,effect_direction,ok,,2026-08-19
+S13,performance_measure,flag,"Does [2] define the performance measure or only report the day-0 result — given p. 18 specifies CAR over five windows (0,0) through (-5,+5), should ""on announcement day"" be dropped from the coded value?",2026-08-19
+S13,effect_direction,ok,,2026-08-19
+S13,conditions,flag,"Do [2] and [5] establish that detailed announcements ""pay more"" — or only that a difference exists and that its timing differs — and does [4]'s modest correlation warrant ""dampens""?",2026-08-19
+S13,key_finding,flag,"Does [3] support ""more so when announcements are detailed,"" or only a difference in timing — and can the ""detailed pays more"" clause stand when Table 7 shows non-detailed announcements higher at day 0 (0.426% vs 0.133%)?",2026-08-19
+S13,theoretical_lens,ok,,2026-08-19
+S13,industry,ok,,2026-08-19
+S13,quality_notes,ok,,2026-08-19
+S14,sample,ok,,2026-08-19
+S14,method,ok,,2026-08-19
+S14,ai_measure,ok,,2026-08-19
+S14,outcome_construct,ok,,2026-08-19
+S14,performance_measure,ok,,2026-08-19
+S14,ca_measure,ok,,2026-08-19
+S14,effect_direction,ok,,2026-08-19
+S14,conditions,ok,,2026-08-19
+S14,key_finding,ok,,2026-08-20
+S14,theoretical_lens,ok,,2026-08-20
+S14,industry,ok,,2026-08-20
+S14,quality_notes,ok,,2026-08-20
+S15,country_region,ok,,2026-08-20
+S15,sample,ok,,2026-08-20
+S15,method,ok,,2026-08-20
+S15,ai_measure,flag,"Does [3] support glossing AIPRM as ""implementation,"" given the paper labels the construct ""AIPRM capabilities"" (Table 2, p. 518) and its items measure perceived benefit and resource commitment — and do [1] and [2] speak to the AI measure at all?",2026-08-20
+S15,outcome_construct,flag,"Is outcome_construct a categorical column where ""both"" is a predefined option (e.g., financial and non-financial), or should the coded value capture the literal construct names (""firm performance"" and ""sustainable competitiveness"") as listed in quotes [1] and [3]?",2026-08-20
+S15,performance_measure,flag,"Does the full text explicitly label this measure as ""perceived firm performance,"" or should the coded value be adjusted to ""firm performance (survey scale)"" to better reflect quote [1]?",2026-08-20
+S15,ca_measure,flag,"Does any recorded quote actually establish ""perceived"", and given [2]'s intergenerational definition, do the SC1–SC5 items (Table 2, p. 519) measure competitive advantage at all — or AIPRM adoption and environmental beliefs?",2026-08-20
+S15,effect_direction,ok,,2026-08-20
+S15,conditions,ok,,2026-08-20
+S15,key_finding,ok,,2026-08-20
+S15,theoretical_lens,ok,,2026-08-20
+S15,industry,ok,,2026-08-20
+S15,quality_notes,ok,,2026-08-20
+S16,country_region,ok,,2026-08-20
+S16,sample,ok,,2026-08-20
+S16,method,ok,,2026-08-20
+S16,ai_measure,flag,"Does [1] fully support the ""(implementation of AI marketing strategy)"" specification, or should the coded value be adjusted to just ""survey construct (AI marketing strategy)"" to match the quote exactly?",2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,ai_measure,flag,,2026-08-20
+S16,outcome_construct,ok,,2026-08-20
+S16,method,ok,,2026-08-20
+S16,ai_measure,ok,,2026-08-20
+S16,ai_measure,ok,,2026-08-20
+S16,outcome_construct,ok,,2026-08-20
+S16,performance_measure,ok,,2026-08-20
+S16,ca_measure,ok,,2026-08-20
+S16,effect_direction,ok,,2026-08-20
+S16,conditions,ok,,2026-08-20
+S16,key_finding,ok,,2026-08-20
+S16,theoretical_lens,ok,,2026-08-20
+S16,industry,ok,,2026-08-20
+S16,quality_notes,ok,,2026-08-20
+S17,country_region,ok,,2026-08-20
+S17,sample,ok,,2026-08-20
+S17,method,ok,,2026-08-20
+S17,ai_measure,ok,,2026-08-20
+S17,performance_measure,ok,,2026-08-20
+S17,effect_direction,ok,,2026-08-20
+S17,conditions,ok,,2026-08-20
+S18,country_region,ok,,2026-08-20
+S18,sample,ok,,2026-08-20
+S18,method,ok,,2026-08-20
+S18,ai_measure,ok,,2026-08-20
+S18,outcome_construct,ok,,2026-08-20
+S18,performance_measure,ok,,2026-08-20
+S18,ca_measure,ok,,2026-08-20
+S18,effect_direction,ok,,2026-08-20
+S18,conditions,ok,,2026-08-20
+S18,key_finding,ok,,2026-08-20
+S17,ai_measure,flag,"Do quotes [1]-[3] explicitly state the measure uses the ""share of AI-skilled workers"" rather than just being a general resume-based measure?",2026-08-20
+S17,outcome_construct,flag,"Does [1] license coding the construct as ""performance,"" or only as ""growth/scale,"" given the paper's own null findings on productivity and markups?",2026-08-20
+S17,performance_measure,ok,,2026-08-20
+S17,effect_direction,ok,,2026-08-20
+S17,conditions,flag,"Does [2] support ""raises industry concentration,"" or only an association the authors decline to interpret causally?",2026-08-20
+S17,key_finding,flag,"Does [2] support ""value,"" or only market share — and should the abstract line be pinned here to cover the valuation claim?",2026-08-20
+S17,theoretical_lens,ok,,2026-08-20
+S17,industry,ok,,2026-08-20
+S17,quality_notes,ok,,2026-08-20
+S18,country_region,ok,,2026-08-20
+S18,sample,ok,,2026-08-20
+S18,method,ok,,2026-08-20
+S18,ai_measure,ok,,2026-08-20
+S18,outcome_construct,ok,,2026-08-20
+S18,performance_measure,flag,"Does [1] support ""qualitative"" given the 30%/4% figures on p. 3349, and why do OEE and stock rotation from Table 5 not appear in the value?",2026-08-20
+S18,ca_measure,ok,,2026-08-20
+S18,effect_direction,ok,,2026-08-20
+S18,conditions,flag,"Does [2] license ""boundary conditions,"" or only ""barriers encountered during implementation"" — and why are four of the nine barriers in Table 6 dropped?",2026-08-20
+S18,key_finding,flag,"Does [1] support ""across core supply-chain processes"" when 13/17 cases sit in make and none in source or return, and does [2] support a dependence claim or only co-occurrence?",2026-08-20
+S18,theoretical_lens,ok,,2026-08-20
+S18,industry,ok,,2026-08-20
+S18,quality_notes,ok,,2026-08-20
+S19,country_region,ok,,2026-08-20
+S19,sample,ok,,2026-08-20
+S19,method,ok,,2026-08-20
+S19,ai_measure,ok,,2026-08-20
+S19,outcome_construct,ok,,2026-08-20
+S19,performance_measure,ok,,2026-08-20
+S19,ca_measure,ok,,2026-08-20
+S19,effect_direction,ok,,2026-08-20
+S19,conditions,ok,,2026-08-20
+S19,key_finding,ok,,2026-08-20
+S19,theoretical_lens,ok,,2026-08-20
+S19,industry,ok,,2026-08-20
+S19,quality_notes,ok,,2026-08-20
+S20,country_region,ok,,2026-08-20
+S20,sample,ok,,2026-08-20
+S20,method,ok,,2026-08-20
+S20,ai_measure,ok,,2026-08-20
+S20,outcome_construct,ok,,2026-08-20
+S20,performance_measure,ok,,2026-08-20
+S20,ca_measure,ok,,2026-08-20
+S20,effect_direction,ok,,2026-08-20
+S20,conditions,ok,,2026-08-20
+S20,key_finding,ok,,2026-08-20
+S19,country_region,ok,,2026-08-20
+S19,sample,ok,,2026-08-20
+S19,method,ok,,2026-08-20
+S19,ai_measure,ok,,2026-08-20
+S19,outcome_construct,ok,,2026-08-20
+S19,performance_measure,flag,"Do [1]–[2] establish that these outcomes were expert-rated, given the p. 8 claim of t-tests/ANOVA on cycle times and error rates that are never actually reported?",2026-08-20
+S19,ca_measure,flag,"Do [1]–[3] rate bid competitiveness at all, or only governance-area importance and AI-implementation success — and should this cell instead read ""no direct CA measure""?",2026-08-20
+S19,effect_direction,ok,,2026-08-20
+S19,conditions,ok,,2026-08-20
+S19,key_finding,ok,,2026-08-20
+S19,theoretical_lens,ok,,2026-08-20
+S19,industry,ok,,2026-08-20
+S19,quality_notes,ok,,2026-08-20
+S20,country_region,ok,,2026-08-20
+S20,sample,ok,,2026-08-20
+S20,method,ok,,2026-08-20
+S20,ai_measure,ok,,2026-08-20
+S20,outcome_construct,ok,,2026-08-20
+S20,performance_measure,flag,"Does this column record measures used or measures with significant effects — and if the former, why is ROA absent given [2] specifies five measures and [3] names ROA?",2026-08-20
+S20,ca_measure,ok,,2026-08-20
+S20,effect_direction,flag,"Should the value be ""positive (IV/3SLS; null for ROA, negative for productivity under OLS)"" rather than an unqualified ""positive,"" given [2]'s own ROA exception?",2026-08-20
+S20,conditions,flag,"Do [1] and [3] support only market share as a determinant of adoption, with no test of whether high-market-share hospitals gain more from AI?",2026-08-20
+S20,key_finding,ok,,2026-08-20
+S20,theoretical_lens,ok,,2026-08-20
+S20,industry,ok,,2026-08-20
+S20,quality_notes,ok,,2026-08-20
+S21,country_region,ok,,2026-08-20
+S21,sample,ok,,2026-08-20
+S21,method,ok,,2026-08-20
+S21,ai_measure,ok,,2026-08-20
+S21,outcome_construct,ok,,2026-08-20
+S21,performance_measure,ok,,2026-08-20
+S21,ca_measure,ok,,2026-08-20
+S21,effect_direction,ok,,2026-08-20
+S21,conditions,ok,,2026-08-20
+S21,key_finding,ok,,2026-08-20
+S21,theoretical_lens,ok,,2026-08-20
+S21,industry,ok,,2026-08-20
+S21,quality_notes,ok,,2026-08-20
+S22,country_region,ok,,2026-08-20
+S22,sample,ok,,2026-08-20
+S22,method,ok,,2026-08-20
+S22,ai_measure,ok,,2026-08-20
+S22,outcome_construct,ok,,2026-08-20
+S22,performance_measure,ok,,2026-08-20
+S22,effect_direction,ok,,2026-08-20
+S22,conditions,ok,,2026-08-20
+S22,key_finding,ok,,2026-08-20
+S22,theoretical_lens,ok,,2026-08-20
+S22,industry,ok,,2026-08-20
+S22,quality_notes,ok,,2026-08-20
+S23,country_region,ok,,2026-08-20
+S23,sample,ok,,2026-08-20
+S23,method,ok,,2026-08-20
+S23,ai_measure,ok,,2026-08-20
+S23,ai_measure,ok,,2026-08-20
+S23,outcome_construct,ok,,2026-08-20
+S23,performance_measure,ok,,2026-08-20
+S23,ca_measure,ok,,2026-08-20
+S23,effect_direction,ok,,2026-08-20
+S23,conditions,ok,,2026-08-20
+S23,key_finding,ok,,2026-08-20
+S23,theoretical_lens,ok,,2026-08-20
+S23,industry,ok,,2026-08-20
+S23,quality_notes,ok,,2026-08-20
+S24,country_region,ok,,2026-08-20
+S21,country_region,ok,,2026-08-20
+S21,sample,ok,,2026-08-20
+S21,method,ok,,2026-08-20
+S21,ai_measure,ok,,2026-08-20
+S21,outcome_construct,ok,,2026-08-20
+S21,performance_measure,ok,,2026-08-20
+S21,ca_measure,ok,,2026-08-20
+S21,effect_direction,ok,,2026-08-20
+S21,conditions,flag,"Does [2] support hostility ""nullifying"" the relational path, and does anything in [1]–[5] license ""full mediator / no direct paths modelled"" given footnote 5 on p. 11 reports significant surviving direct effects for AI-enabled analytics?",2026-08-20
+S21,key_finding,ok,,2026-08-20
+S21,theoretical_lens,ok,,2026-08-20
+S21,industry,ok,,2026-08-20
+S21,quality_notes,ok,,2026-08-20
+S22,country_region,ok,,2026-08-20
+S22,sample,ok,,2026-08-20
+S22,method,ok,,2026-08-20
+S22,ai_measure,ok,,2026-08-20
+S22,outcome_construct,flag,"Does [1] support coding the outcome construct as ""performance"" when it names only total factor productivity — or should this be recoded to ""productivity""?",2026-08-20
+S22,performance_measure,ok,,2026-08-20
+S22,effect_direction,ok,,2026-08-20
+S22,conditions,flag,"Does [7] support listing specialized division of labor and green innovation as channels without the ""potential"" qualifier, given the mechanism test found both paths insignificant?",2026-08-20
+S23,country_region,ok,,2026-08-20
+S23,sample,ok,,2026-08-20
+S23,method,ok,,2026-08-20
+S23,ai_measure,ok,,2026-08-20
+S23,outcome_construct,ok,,2026-08-20
+S23,performance_measure,ok,,2026-08-20
+S23,ca_measure,ok,,2026-08-20
+S23,effect_direction,ok,,2026-08-20
+S23,conditions,flag,"Do [1]–[3] support calling automation, learning and process innovation ""complementary partial mediators"" across the board, or only path-specific mediation (BPA and BPII → DMP only, BPIR → BPP only) inside a relationship [4] calls fully mediated?",2026-08-20
+S23,key_finding,ok,,2026-08-20
+S23,theoretical_lens,ok,,2026-08-20
+S23,industry,ok,,2026-08-20
+S23,quality_notes,ok,,2026-08-20
+S24,country_region,ok,,2026-08-20
+S24,sample,ok,,2026-08-20
+S24,method,ok,,2026-08-20
+S24,ai_measure,ok,,2026-08-20
+S24,outcome_construct,ok,,2026-08-20
+S24,performance_measure,ok,,2026-08-20
+S24,ca_measure,ok,,2026-08-20
+S24,effect_direction,ok,,2026-08-20
+S24,conditions,ok,,2026-08-20
+S24,key_finding,ok,,2026-08-20
+S24,theoretical_lens,ok,,2026-08-20
+S24,industry,ok,,2026-08-20
+S24,quality_notes,ok,,2026-08-20
+S25,country_region,ok,,2026-08-20
+S25,sample,ok,,2026-08-20
+S25,method,ok,,2026-08-20
+S25,ai_measure,ok,,2026-08-20
+S25,outcome_construct,ok,,2026-08-20
+S25,performance_measure,ok,,2026-08-20
+S25,ca_measure,ok,,2026-08-20
+S25,effect_direction,ok,,2026-08-20
+S25,conditions,ok,,2026-08-20
+S24,country_region,ok,,2026-08-20
+S24,sample,ok,,2026-08-20
+S24,method,ok,,2026-08-20
+S24,ai_measure,ok,,2026-08-20
+S24,outcome_construct,flag,"Does ""both"" survive [1] calling SCA a mediator rather than an outcome, and does [2]'s enterprise/user value qualify as firm performance under the codebook?",2026-08-20
+S24,performance_measure,ok,,2026-08-20
+S24,ca_measure,ok,,2026-08-20
+S24,effect_direction,flag,oes [1] misreport the paper's own result — Table 7 lists TR → VC as −0.275 and unsupported — and is the coded direction meant to cover only the AI-adoption path in [2]?,2026-08-20
+S24,conditions,flag,"Does [1]'s ""ultimately proving crucial in navigating technological turbulence"" survive the negative TT × DC interaction (−0.140) that [3] and p. 9 actually report?",2026-08-20
+S24,key_finding,flag,"Does [3] support ""mainly through"" SCA when the direct AI → VC path (0.110) exceeds the indirect (0.063), and does [2] license a temporal ""only once transition costs are absorbed"" claim in a cross-sectional model?",2026-08-20
+S24,theoretical_lens,ok,,2026-08-20
+S24,industry,ok,,2026-08-20
+S24,quality_notes,ok,,2026-08-20
+S25,country_region,ok,,2026-08-20
+S25,sample,ok,,2026-08-20
+S25,method,ok,,2026-08-20
+S25,ai_measure,ok,,2026-08-20
+S25,outcome_construct,ok,,2026-08-20
+S25,performance_measure,ok,,2026-08-20
+S25,ca_measure,ok,,2026-08-20
+S25,effect_direction,ok,,2026-08-20
+S25,conditions,ok,,2026-08-20
+S25,key_finding,flag,"Does [2] support ""entry condition"", or only that infrastructure and proactive strategy are significant positive antecedents of AI capabilities — and why are risk-taking (named in [2]) and business spanning excluded?",2026-08-20
+S25,theoretical_lens,ok,,2026-08-20
+S25,industry,ok,,2026-08-20
+S25,quality_notes,ok,,2026-08-20

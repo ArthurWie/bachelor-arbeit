@@ -1,0 +1,314 @@
+{
+ "study_id": "S22",
+ "document_id": 22,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Therefore, revealing the impact of AI on firm productivity is an important topic to analyze whether Solow's paradox can be valid in the digital age.",
+   "pdf_page": 1,
+   "supports": "Frames the study in the Solow productivity-paradox / production-economics tradition, matching the coded lens (no management theory used).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "productivity is an important topic to analyze whether"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "method"
+   ],
+   "quote": "Based on panel data of 3235 listed companies in China from 2007 to 2021, we comprehensively discuss the impact and mechanism of AI on firm productivity using fixed-effects model, systematic GMM model, and mediated-effects model",
+   "pdf_page": 1,
+   "supports": "Confirms the coded sample (3,235 Chinese listed firms 2007-2021) and the panel-econometrics toolkit (FE, system GMM, mediation models).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Based on panel data of 3235 listed companies"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "Key findings include: AI significantly improves firm productivity, especially in state-controlled, internationally minded, and innovative firms.",
+   "pdf_page": 1,
+   "supports": "Paper's own summary backs the positive direction, the coded key finding, and the three heterogeneity conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "productivity, especially in state-controlled, internationally minded, and innovative"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Additionally, the dynamic decomposition effect shows that the productivityenhancing effect of AI is slowing down in the long run.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that the effect slows over the long run and the decay clause of the key finding.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    1
+   ],
+   "printed_pages": "1",
+   "pdf_seq_score": 0.42,
+   "quote_original": "Additionally, the dynamic decomposition effect shows that the productivity-enhancing effect of AI is slowing down in the long run.",
+   "repair_note": "manually corrected to source wording (source extraction drops the hyphen in 'productivity-enhancing'; printed page reads 'productivity-enhancing')",
+   "ctrl_f": "of AI is slowing down in the long"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Total Factor Productivity (TFP) is an important indicator of the overall productivity of a firm, and there are various methods for calculating TFP",
+   "pdf_page": 5,
+   "supports": "Confirms firm TFP as the dependent variable, i.e. a pure performance outcome with no CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Total Factor Productivity (TFP) is an important indicator"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we build a thesaurus based on crawler technology by crawling the words related to \"artificial intelligence\" in the annual reports of listed companies",
+   "pdf_page": 5,
+   "supports": "Confirms the coded AI measure: frequency of AI-related terms in annual-report text.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "on crawler technology by crawling the words related"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "sample"
+   ],
+   "quote": "The data for control variables are obtained from CSMAR database and RESSET financial database.",
+   "pdf_page": 6,
+   "supports": "Confirms the coded note that controls come from CSMAR/RESSET.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "The data for control variables are obtained from"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "this study compiles and obtains the panel data of China's Shanghai and Shenzhen A-share listed companies from 2007 to 2021 for empirical analysis",
+   "pdf_page": 6,
+   "supports": "The A-share listed universe (Shanghai + Shenzhen) backs China and the cross-industry (listed firms) coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "this study compiles and obtains the panel data"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "According to the above processing, we obtained unbalanced panel data from 3235 companies in China.",
+   "pdf_page": 6,
+   "supports": "Confirms the exact n = 3,235 after screening.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "the above processing, we obtained unbalanced panel data"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "As expected from Hypothesis 1, the coefficients of AI in the results all passed the significance level test and showed a positive impact.",
+   "pdf_page": 7,
+   "supports": "Baseline regressions show a clear positive average main effect, backing effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "level test and showed a positive impact."
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Column (3) reports the estimation results for SYS-GMM, and our findings still hold after overcoming the endogeneity problem.",
+   "pdf_page": 8,
+   "supports": "Backs the coded method detail (system GMM) and the quality note on GMM robustness.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "Column (3) reports the estimation results for SYS-GMM,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The productivity-enhancing effect of AI is greater in SOEs compared to non-SOEs and Sino-foreign joint ventures.",
+   "pdf_page": 8,
+   "supports": "Confirms the coded condition: stronger effect in state-controlled firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "in SOEs compared to non-SOEs and Sino-foreign joint"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "As expected, firms with leaders with a strong international perspective show a stronger productivity dividend from AI.",
+   "pdf_page": 9,
+   "supports": "Confirms the coded condition: stronger in internationally oriented firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "with leaders with a strong international perspective show"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "AI can be more effective in enhancing firm productivity in innovation-minded firms",
+   "pdf_page": 9,
+   "supports": "Confirms the coded condition: stronger in innovative firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "AI can be more"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "firms affected by supply chain innovation policies have a more significant effect of AI on their productivity",
+   "pdf_page": 10,
+   "supports": "Confirms the coded condition that the supply-chain digitalization policy amplifies the AI effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "by supply chain innovation policies have a more"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Again, this study finds that information asymmetry is the main mechanism by which AI enhances firm productivity, and that specialization and green innovation also show potential channel effects",
+   "pdf_page": 13,
+   "supports": "Confirms the coded mechanisms: information asymmetry as key channel, specialized division of labor and green innovation as potential channels.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "specialization and green innovation also show potential channel"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction",
+    "quality_notes"
+   ],
+   "quote": "The impulse response results show that the instantaneous shock of AI positively affects TFP and reaches its maximum in period 2, then gradually falls back by period 10.",
+   "pdf_page": 11,
+   "supports": "PVAR dynamic decomposition backs the coded long-run slowdown condition and the quality note on dynamic decomposition; average effect remains positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.43,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "11",
+   "ctrl_f": "response results show that the instantaneous shock of"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "quality_notes"
+   ],
+   "quote": "In the study, AI is mainly measured by the frequency of relevant terms in annual reports, which may not be able to accurately reflect the development level of enterprise AI.",
+   "pdf_page": 12,
+   "supports": "Authors' own limitation statement on the annual-report term-frequency AI proxy.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "In the study, AI is mainly measured by"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced; ca_measure emptiness correct (competitiveness appears only as rhetoric, no CA construct measured). Coded conditions are selective: the paper additionally reports a dampening low-carbon pilot policy moderator, a Ming-Dynasty stagecoach-region moderator, and stronger effects above the 75th productivity percentile - extra moderators not coded, no contradiction. 'Large panel' in quality_notes is coder commentary on the quoted n=3,235/15,213-obs panel."
+ },
+ "has_printed_pagination": true
+}

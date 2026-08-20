@@ -1,0 +1,312 @@
+{
+ "study_id": "S11",
+ "document_id": 11,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Currently, substitution and augmentation of AI are challenging topics. The substitution construct is rooted in the Resource Based View (RBV), which argues that others replace resources with the same functionality",
+   "pdf_page": 5,
+   "supports": "Names RBV and the substitution/augmentation pairing as the study's theoretical anchor, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "53",
+   "ctrl_f": "Currently, substitution and augmentation of AI are challenging"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To answer the research question in a qualitative approach we used the case study methodology (Yin, 1994) investigating the Clemenceau Medical Center in Dubai (CMC) case.",
+   "pdf_page": 5,
+   "supports": "States the case study methodology on a single case (CMC Dubai), matching method = case study.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "53",
+   "ctrl_f": "To answer the research question in a qualitative"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "We conducted nine semi-structured interviews with the head and the members of the robotic surgery team in CMC Dubai.",
+   "pdf_page": 6,
+   "supports": "Confirms 9 semi-structured interviews with the robotic-surgery team as coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "54",
+   "ctrl_f": "We conducted nine semi-structured interviews with the head"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "we use multiple sources of evidence, such as semi-structured interviewees, archival data, including industry reports, newspaper and magazine articles and internal documents, to triangulate data",
+   "pdf_page": 6,
+   "supports": "Confirms the archival-data and triangulation component of the coded sample description.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "54",
+   "ctrl_f": "of evidence, such as semi-structured interviewees, archival data,"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry",
+    "sample"
+   ],
+   "quote": "an exploratory analysis was conducted investigating the Clemenceau Medical Center in Dubai, one of the top private hospitals in the UAE(CMC)",
+   "pdf_page": 2,
+   "supports": "Places the single case in the UAE (Dubai) in the healthcare (hospital) industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    1,
+    2,
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "49–51",
+   "ctrl_f": "an exploratory analysis was conducted"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "the research question concerns how implementing digital solutions based on Artificial Intelligence enables healthcare facilities to maintain their competitive position and gain additional benefits compared to traditional surgical approaches",
+   "pdf_page": 2,
+   "supports": "AI is observed as the adoption/implementation of AI-based robotic surgery in the case firm, matching ai_measure = case observation of AI/robotic surgery adoption.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "50",
+   "ctrl_f": "solutions based on Artificial Intelligence enables healthcare facilities"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "distinguished in: (1) clinical outcome (i.e. minimization of surgical errors and infections; maximization of patients ' experience); (2) financial outcome; (3) organizational outcome (i.e. optimization resources ' allocation) and d) technological outcome (i.e. mechanical improvements)",
+   "pdf_page": 8,
+   "supports": "Lists the four qualitative outcome categories coded in performance_measure (clinical, financial, organizational, technological) — the performance half of outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "56",
+   "ctrl_f": "distinguished in: (1) clinical outcome (i.e. minimization of"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "Financially speaking, for a hospital averaging 30 robotic case a month, an amount of 500 K will financially improve our performance",
+   "pdf_page": 8,
+   "supports": "The Finance Manager's quantified financial claim (~500K/month at 30 robotic cases) coded in performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "56",
+   "ctrl_f": "“Financially speaking, for a hospital averaging 30 robotic"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "when patients are choosing CMC Dubai over competitors this will reinforce and strengthen the company bargaining power with TPP and will lead to an increase in the base rate",
+   "pdf_page": 8,
+   "supports": "Genuine competitor-comparative evidence (patient choice over competitors, bargaining power with third-party payers) backing the CA half of outcome_construct = both and the coded ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "56",
+   "ctrl_f": "competitors this will reinforce and strengthen the company"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "conditions"
+   ],
+   "quote": "Developing a qualified robotic team, from nurses to technicians to surgeons, supported by a dynamic revenue cycle management team, will always give the organization the upper hand over the competition.",
+   "pdf_page": 14,
+   "supports": "Backs the coded 'upper hand over competition' element of ca_measure and the condition 'qualified robotic team incl. revenue-cycle team'.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "62",
+   "ctrl_f": "Developing a qualified robotic team, from nurses to"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "implementing a robotic surgery program in a healthcare setting can easily represent a competitive advantage that will help position the organization in the market, as well as a source of increased income and revenue",
+   "pdf_page": 14,
+   "supports": "The paper's own concluding statement of its central result: positive effect on both competitive advantage and financial outcomes, matching key_finding and effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "62",
+   "ctrl_f": "program in a healthcare setting can easily represent"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "Our findings demonstrate the extent to which implementing Artificial Intelligence-based solutions inside healthcare ecosystems helps organisations gain a competitive advantage in the market",
+   "pdf_page": 13,
+   "supports": "Discussion's summary of the central result — an unambiguously positive effect on competitive position, backing key_finding and effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "61",
+   "ctrl_f": "Our findings demonstrate the extent to which implementing"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "introducing breakthrough technology in the health sector, such as Artificial Intelligence, necessitates a cultural shift inside the medical community and new technologies that spur the process from the outside",
+   "pdf_page": 5,
+   "supports": "Backs the coded condition 'cultural shift in medical community'.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "53",
+   "ctrl_f": "introducing breakthrough technology in the health sector, such"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the numerous advantages and benefits generated by the adoption of a robotic approach led the DHA (Dubai Health Authority) to approve the treatment of automated surgery cases in Dubai on a case-by-case basis",
+   "pdf_page": 13,
+   "supports": "Backs the coded condition 'regulatory approval (DHA, case-by-case)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "61",
+   "ctrl_f": "the numerous advantages and benefits generated by the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Despite the high cost of acquiring and developing such technologies, which is not fully covered by insurance",
+   "pdf_page": 13,
+   "supports": "Backs the coded condition 'high acquisition costs not covered by insurance (entry barrier)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "61",
+   "ctrl_f": "Despite the high cost of acquiring and developing"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "country_region"
+   ],
+   "quote": "Our findings are context-specific in general, which may help explain the success of our findings in private healthcare institutions in the UAE and the conditions under which these insights might be generalized to public hospitals",
+   "pdf_page": 15,
+   "supports": "Authors' own limitation (context-specific single case in UAE private healthcare) backing the source-based part of quality_notes and confirming country_region = UAE.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "63",
+   "ctrl_f": "Our findings are context-specific in general, which may"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "method"
+   ],
+   "quote": "This in-depth, single case is designed to aid theory building through analytical generalization, not to generate statistical generalizability",
+   "pdf_page": 5,
+   "supports": "Authors' own characterization of the single-case design, backing the 'single case' element of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "53",
+   "ctrl_f": "This in-depth, single case is designed to aid"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "method"
+   ],
+   "quote": "To answer the research question in a qualitative approach we used the case study methodology (Yin, 1994) investigating the Clemenceau Medical Center in Dubai (CMC) case.",
+   "pdf_page": 5,
+   "printed_pages": "53",
+   "supports": "Belegt den 'case observation'-Teil des ai_measure (qualitative Fallstudie nach Yin).",
+   "ctrl_f": "we used the case study methodology",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. Two author-side observations: (1) coded theoretical_lens says 'substitution/complementation' but the paper's own terms are 'substitution and augmentation' (p.5, following Raisch & Krakowski 2021) — label detail only, RBV anchor confirmed; (2) the evaluative tail of quality_notes ('qualitative but with quantified financial claims and genuine competitor-comparative reasoning') is coder commentary, not source text — the source-based parts (single case, 9 interviews, triangulation, context-specificity) are quoted. Abstract says 'three primary outcomes' but the findings section (p.8) lists the four categories as coded."
+ },
+ "has_printed_pagination": true
+}

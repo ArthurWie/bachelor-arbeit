@@ -1,0 +1,261 @@
+{
+ "study_id": "S47",
+ "document_id": 47,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Drawing on the microfoundations of dynamic capability theory",
+   "pdf_page": 1,
+   "supports": "Abstract names microfoundations of dynamic capabilities as the theoretical lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Drawing on the microfoundations of dynamic capability theory,"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "Third, a survey of 205 banking employees in Australia tests the influence of AI-powered CRM capability on marketing ambidexterity and, in turn, on organisational outcomes.",
+   "pdf_page": 1,
+   "supports": "Stage 3 survey (n=205, Australian banking) is the sole test of the AI-outcome hypotheses, backing method = survey-SEM plus the coded sample, country, and industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Third, a survey of 205 banking employees in"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "First, a systematic scoping review and in-depth interviews with industry experts identify the core dimensions and subdimensions of AI-powered CRM capability.",
+   "pdf_page": 1,
+   "supports": "Stages 1-2 only identify construct dimensions (instrument development), so per the adjudicated decision the study is survey-SEM, not mixed; also backs the 'instrument development study' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.52,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "First, a systematic scoping review and in-depth interviews"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "In this research, SmartPLS 4.0 was employed to analyse the survey data, thereby enabling the prediction of both measurement and structural models",
+   "pdf_page": 10,
+   "supports": "Confirms PLS-SEM as the analysis generating the AI-outcome evidence.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "employed to analyse the survey data, thereby enabling"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Finally, we conducted an empirical study (n = 205) to test the hypotheses and validate the research model.",
+   "pdf_page": 4,
+   "supports": "Backs the coded 3-stage design with the n=205 hypothesis-testing survey.",
+   "tension": null,
+   "located_pdf_pages": [
+    3,
+    4,
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3–5",
+   "ctrl_f": "an empirical study (n = 205) to test the"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "the study conducted 24 in-depth interviews between January and March 2023",
+   "pdf_page": 5,
+   "supports": "Backs the expert-interview stage (n=24) of the coded 3-stage sample description.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "the study conducted 24 in-depth interviews between"
+  },
+  {
+   "fields": [
+    "industry",
+    "country_region"
+   ],
+   "quote": "The study focuses on the major banking institutions in Australia, commonly referred to as the \"big four\" banks",
+   "pdf_page": 4,
+   "supports": "Confirms the banking industry and Australian setting.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The study focuses on the major banking institutions"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "This study addresses this gap by conceptualising and empirically examining AI-powered CRM as a higher-order organisational capability.",
+   "pdf_page": 1,
+   "supports": "The AI measure is a higher-order AI-powered CRM capability survey construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "study addresses this gap by conceptualising and empirically"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "ca_measure"
+   ],
+   "quote": "the sustained profitability was measured by Vorhies and Morgan (2005), and the sustained competitive advantage was measured by Cao et al. (2019).",
+   "pdf_page": 10,
+   "supports": "Both outcomes use established survey scales: profitability (performance_measure) and a distinct competitive-advantage scale (ca_measure).",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "the sustained profitability was measured by Vorhies and"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "CA3 Our market share expanded more quickly than our primary competitors after implementing AI-powered CRM systems.",
+   "pdf_page": 12,
+   "supports": "Sample CA scale item is explicitly competitor-comparative, so a distinct CA construct is measured - justifying outcome_construct = both under the case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "CA3 Our market share expanded more quickly than"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "All the path coefficients are positive and statistically significant, thereby supporting hypotheses H4, H5, and H6.",
+   "pdf_page": 12,
+   "supports": "Direct paths from AI-CRM capability to sustained profitability (H4) and sustained competitive advantage (H5) are significant and positive - mediated-positive with significant direct effects = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "and statistically significant, thereby supporting hypotheses H4, H5,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results further demonstrate that marketing ambidexterity serves as a significant partial mediator in the relationships between AI-powered CRM and sustained profitability, as well as between AI-powered CRM and sustained competitive advantage.",
+   "pdf_page": 15,
+   "supports": "Backs the coded condition: marketing ambidexterity as mediator carrying part of the effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.09,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "15",
+   "ctrl_f": "that marketing ambidexterity serves as a significant partial"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The quantitative analysis confirms that AI-powered CRM capabilities positively shape marketing ambidexterity, which subsequently enhances profitability and competitive advantage.",
+   "pdf_page": 1,
+   "supports": "The paper's own statement of its central result, matching the coded key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The quantitative analysis confirms that AI-powered CRM capabilities"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Practically, the study provides actionable guidance for managers seeking to close the 'value realisation gap' by cultivating AI-powered CRM systems as dynamic capabilities that balance exploration and exploitation in volatile markets.",
+   "pdf_page": 1,
+   "supports": "Source of the 'value-realisation gap' phrasing in the coded key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.22,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "seeking to close the “value realisation gap” by"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "We used cross-sectional study to measure managers' perceptions on these two aspects.",
+   "pdf_page": 16,
+   "supports": "Authors' own limitation: both outcome constructs are perceptual manager ratings - backs the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "16",
+   "ctrl_f": "We used cross-sectional study to measure"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Method dispute settled in adjudication_briefs.md (survey-SEM, Kumar/Hossain precedent) - full text confirms interviews only identify/confirm dimensions. The 'PROPOSED(batch)' portion of quality_notes is adjudication commentary, not source text; the source-based parts (perceptual outcomes, instrument development) are quoted. All non-empty columns evidenced."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,277 @@
+{
+ "study_id": "S36",
+ "document_id": 36,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Managers and operators have long evaluated the value of IT and hoped that their investments in IT could generate authentic benefit; we call this idea the business value of IT (BVIT).",
+   "pdf_page": 1,
+   "supports": "Names business value of IT (BVIT) as the study's guiding framework, matching the coded theoretical lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.16,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1856",
+   "ctrl_f": "the value of IT and hoped that their"
+  },
+  {
+   "fields": [
+    "method",
+    "performance_measure"
+   ],
+   "quote": "Ordinary least squares (OLS) regression method was used to analyze the impact of AI on performance.",
+   "pdf_page": 6,
+   "supports": "Identifies OLS regression on archival financial data as the strategy generating the AI-outcome evidence (econometric analysis of Compustat data).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1861",
+   "ctrl_f": "Ordinary least squares (OLS) regression method was used"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "the sample framework for this study is based on the S&P 500 Index list. The S&P500 Index is the US stock market index based on the market capitalization of 500 large companies",
+   "pdf_page": 5,
+   "supports": "Confirms the sample is drawn from S&P 500 firms and the country is the USA.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.71,
+   "verdict": "verified",
+   "printed_pages": "1860",
+   "ctrl_f": "the sample framework for this study is based"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure"
+   ],
+   "quote": "Finally, we collected 249 news stories, but we filtered out 152 news stories because they were about IT-related companies. The remainder (97 news) were included in our experiment.",
+   "pdf_page": 5,
+   "supports": "Backs the coded 97 manually screened AI-implementation news items used to identify adopters.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.28,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1860",
+   "ctrl_f": "Finally, we collected 249 news stories, but we"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "in order to ensure that companies with news mentioning AI were definitely implementing AI, we carefully read the news content",
+   "pdf_page": 5,
+   "supports": "Shows the AI measure is news announcements manually verified for actual AI implementation.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1860",
+   "ctrl_f": "in order to ensure that companies with news"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "We collected a total of 300 samples without IT companies; 50 of the companies announced AI news, and 250 did not",
+   "pdf_page": 5,
+   "supports": "Backs the coded 50 AI adopters plus non-adopter controls and the exclusion of IT firms from the cross-industry sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1861",
+   "ctrl_f": "collected a total of 300 samples without IT"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Therefore, the number of first movers is 23 and that of second movers is 27.",
+   "pdf_page": 6,
+   "supports": "Backs the coded split of adopters into 23 first movers and 27 followers.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1861",
+   "ctrl_f": "movers is 23 and that of second movers"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The data we collected in this study are from 2010 to 2017; however, the baseline for performance analysis is only available in 2017.",
+   "pdf_page": 5,
+   "supports": "Backs the coded data window 2010-2017 with baseline year 2017.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1860",
+   "ctrl_f": "data we collected in this study are from"
+  },
+  {
+   "fields": [
+    "sample",
+    "performance_measure"
+   ],
+   "quote": "In this study, two programs were used to collect data. We confirmed the list of sample companies, collecting data through Compustat and then selected some ratios to evaluate their performance.",
+   "pdf_page": 5,
+   "supports": "Confirms Compustat as the financial data source and financial ratios as performance measures.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.37,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1860",
+   "ctrl_f": "In this study, two programs were used to"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "According to the Standard Industrial Classification Code (SIC), we divided the S&P 500 companies into six industries",
+   "pdf_page": 6,
+   "supports": "Shows the sample spans six SIC industries, backing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.94,
+   "verdict": "verified",
+   "printed_pages": "1861",
+   "ctrl_f": "Code (SIC), we divided the S&P 500 companies"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "This study provides a significant contribution by empirically examining AI impact on firm-level performance through three key indicators: financial performance, productivity, and market value.",
+   "pdf_page": 1,
+   "supports": "The outcome is firm performance via financial ratios, productivity, and market value; no distinct competitive-advantage construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1856",
+   "ctrl_f": "This study provides a significant contribution by empirically"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "this research reveals that while AI adoption enhances financial performance and market value, the advantages for AI first movers and better performers are not uniformly positive across all indicators.",
+   "pdf_page": 1,
+   "supports": "Backs the mixed direction (positive on financial performance and market value, not uniform elsewhere) and the indicator-specific conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1856",
+   "ctrl_f": "this research reveals that while AI adoption enhances"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "Although productivity measurements are not significant, they still have a positive impact on value added and output. Therefore, we still claim that Hypothesis 1b can be partially supported.",
+   "pdf_page": 9,
+   "supports": "Backs the coded condition that the productivity component is insignificant, part of the mixed component split.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1864",
+   "ctrl_f": "significant, they still have a positive impact on"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "In short, the pioneer companies implementing AI showed no significant positive impact on financial performance, and almost half of the financial indicators indicate a negative impact on performance for first movers.",
+   "pdf_page": 9,
+   "supports": "Backs the coded condition that first movers show partly negative/insignificant effects (no uniform first-mover advantage).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.16,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1864",
+   "ctrl_f": "implementing AI showed no significant positive impact on"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "Our findings reveal that while AI adoption generally enhances financial performance and market value, the anticipated benefits for first movers and better performers are not uniformly realized across all indicators.",
+   "pdf_page": 14,
+   "supports": "The paper's own conclusion statement of its central result, matching the coded key finding and mixed direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 0.53,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1869",
+   "ctrl_f": "Our findings reveal that while AI adoption generally"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Department of Business Administration, National Chung Cheng University, Chiayi, Taiwan",
+   "pdf_page": 1,
+   "supports": "Backs the quality note that author affiliation is Taiwan while the sample is US S&P 500 firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1856",
+   "ctrl_f": "Department of Business Administration, National Chung Cheng University,"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "(1) ca_measure empty is correct: competitive advantage appears only as framing (p.14 'This survey confirms that AI is beneficial and provides a competitive advantage to companies') with no measured CA construct — adjudicated as performance, no tension. (2) quality_notes 'small adopter sample (n=50)' is coder commentary; n=50 itself is documented (p.5 quote). (3) Author may want to look at method label 'panel econometrics': the paper runs OLS on a single 2017 baseline cross-section of Compustat data (p.5: 'the baseline for performance analysis is only available in 2017'), not a panel estimation — the archival-econometrics bucket fits, the literal 'panel' does not."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,259 @@
+{
+ "study_id": "S48",
+ "document_id": 48,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "we draw on complementarity theory to hypothesize that their joint implementation is associated with performance outcomes that exceed the independent benefits of each technology.",
+   "pdf_page": 1,
+   "supports": "Abstract names complementarity theory as the theoretical lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "we draw on complementarity theory to hypothesize that"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "method"
+   ],
+   "quote": "This study examines the firms' combined implementation of Robotic Process Automation (RPA) and Artificial Intelligence (AI) and its association with firm performance using two survey datasets covering large firms worldwide.",
+   "pdf_page": 1,
+   "supports": "Backs the coded sample (two survey datasets of large firms worldwide) and the survey-based method.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This study examines the firms’ combined implementation of"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "Study 1 is based on a 2018 survey of 1219 firms worldwide, capturing realized performance outcomes, while Study 2 uses a 2020 survey of 1053 firms, capturing expected performance outcomes.",
+   "pdf_page": 2,
+   "supports": "Details the two cross-sectional surveys (2018 n=1219, 2020 n=1053) behind the verbatim method coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Study 1 is based on a 2018 survey"
+  },
+  {
+   "fields": [
+    "country_region"
+   ],
+   "quote": "the 2018 survey covers large firms in 24 countries, and the 2020 survey covers large firms in 14 (partially overlapping) countries.",
+   "pdf_page": 5,
+   "supports": "Backs country_region = multi-country (24 and 14 countries).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "survey covers large firms in 24 countries, and"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "Similar to Study 1, the sampling criteria and data collection result in representativeness of the data and statistical results relating to large firms, across a wide range of industries and a range of countries.",
+   "pdf_page": 12,
+   "supports": "Backs industry = cross-industry (large firms) across a wide range of industries.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 0.26,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "12",
+   "ctrl_f": "Similar to Study 1, the sampling criteria and"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We operationalize joint implementation of RPA and AI as an interaction term RPA × AI, denoted as RPA_AI_Joint. This indicator is coded 1 when both technologies are implemented and 0 otherwise.",
+   "pdf_page": 9,
+   "supports": "Backs the AI measure: survey indicator of joint RPA and AI implementation.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.44,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "9",
+   "ctrl_f": "We operationalize joint implementation of RPA and AI"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "We focus on two key firm-level performance dimensions: efficiency-related outcomes, measured as cost reduction, and market-facing outcomes, measured as revenue growth.",
+   "pdf_page": 2,
+   "supports": "Outcomes are performance dimensions (cost reduction, revenue growth); no distinct CA construct measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "performance dimensions: efficiency-related outcomes, measured as cost"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "We find that joint implementation is positively associated with additional revenue growth (linked primarily to price increases) but is not associated with additional cost reduction beyond the separate effects of RPA and AI.",
+   "pdf_page": 1,
+   "supports": "The sign splits across outcome components (revenue positive, cost null) - the component split backing effect_direction = mixed and the coded conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "We find that joint implementation is positively associated"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "Thus, while each technology is independently associated with cost reduction, their joint implementation is not associated with additional cost reduction. Accordingly, H1 is not supported.",
+   "pdf_page": 11,
+   "supports": "Backs the null cost-reduction component (joint term n.s.) while individual technologies do reduce costs, as coded in conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.76,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "Thus, while each technology is independently associated with"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "joint implementation of RPA and AI, represented by RPA_AI_Joint, is positively associated with revenue growth (p = 0.049).",
+   "pdf_page": 11,
+   "supports": "Backs the positive revenue-growth component of the mixed direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.85,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "and AI, represented by RPA_AI_Joint, is positively associated"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The coefficient on RPA_AI_Joint is positive and significant for price change (p = 0.017), while it is not statistically significant for volume change.",
+   "pdf_page": 11,
+   "supports": "Backs the coded 'via price increases' channel of the revenue effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.92,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "significant for price change (p = 0.017), while it"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "However, among firms that have implemented both RPA and AI (column 6), a stronger revenue growth intent is positively associated with realized revenue growth (p = 0.049).",
+   "pdf_page": 12,
+   "supports": "Backs the coded condition that strategic revenue-growth intent amplifies revenue outcomes.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "a stronger revenue growth intent is positively associated"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "These findings challenge the prevailing view that combining RPA and AI technologies primarily enhances performance through increased efficiency, suggesting instead that joint implementation is associated with revenue enhancement.",
+   "pdf_page": 1,
+   "supports": "The paper's own central-result statement: combination pays through revenue enhancement, not cost efficiency.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "These findings challenge the prevailing view that combining"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Our findings provide a baseline analysis of automation complementarities in the pre-Generative-AI era, even as advancements in technology continue and raise new questions.",
+   "pdf_page": 1,
+   "supports": "Authors explicitly note the pre-GenAI baseline, as recorded in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Our findings provide a baseline analysis of automation"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The cross-sectional character of our datasets is another limitation that restricts causal inference and raises the possibility of reverse causality",
+   "pdf_page": 17,
+   "supports": "Authors confirm both surveys are cross-sectional, backing the verbatim method 'survey-based regression (two cross-sectional surveys)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 0.95,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "The cross-sectional character of our datasets is another"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Method and direction were adjudicated (briefs: verbatim method per scheme rule; mixed per S31/S36 component-split precedent) - full text confirms both. ca_measure empty confirmed: competitive advantage appears only as RBV framing in the introduction, no CA construct measured. The 'PROPOSED(batch)' portion of quality_notes is adjudication commentary; the source-based part (pre-GenAI baseline) is quoted."
+ },
+ "has_printed_pagination": true
+}

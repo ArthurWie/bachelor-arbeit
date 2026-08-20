@@ -1,0 +1,309 @@
+{
+ "study_id": "S03",
+ "document_id": 3,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "This study combines institutional theory and the resource-based view (RBV) in B2B relationship management to understand how AI-CRM could impact the firm's performance with varied firm size, firm age, and industry type.",
+   "pdf_page": 1,
+   "supports": "Names institutional theory + RBV as the combined theoretical lens, matching the coded value.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "205",
+   "ctrl_f": "This study combines institutional theory and the resource-based"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "Partial least squares structural equation modelling (PLS-SEM) analysis was undertaken for 349 responses for a total of 36 questions.",
+   "pdf_page": 6,
+   "supports": "PLS-SEM on 349 usable responses — backs method = survey-SEM and the coded n and PLS-SEM note in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "210",
+   "ctrl_f": "least squares structural equation modelling (PLS-SEM) analysis was"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Eventually, 366 replies were obtained within the time with a response rate of 51.6%.",
+   "pdf_page": 6,
+   "supports": "Backs the coded response rate of 51.6%.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "210",
+   "ctrl_f": "the time with a response rate of 51.6%."
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "This study randomly selected 39 manufacturing and service organizations from Bombay Stock Exchange (Mumbai, India) for data collection.",
+   "pdf_page": 6,
+   "supports": "BSE-listed manufacturing and service firms in India — backs country_region = India, industry, and the BSE-listed sample description.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.56,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "210",
+   "ctrl_f": "This study randomly selected 39 manufacturing and service"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "With such persuasion, eventually top executives of 16 organizations allowed their managers to participate in the survey.",
+   "pdf_page": 6,
+   "supports": "Backs the 16-firm cluster behind the 349 respondents (sample and quality note).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "210",
+   "ctrl_f": "persuasion, eventually top executives of 16 organizations allowed"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions"
+   ],
+   "quote": "Implementation of AI-CRM for B2B relationship management significantly and positively impacts the B2B engagements.",
+   "pdf_page": 4,
+   "supports": "H2a: implementation of AI-CRM is the focal survey construct (ai_measure) and B2B engagement is a coded mediator path.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "208",
+   "ctrl_f": "Implementation of AI-CRM for B2B relationship management"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "Competitive advantage is the degree to which the performance of an organization working in the B2B context could achieve greater benefits compared to other organizations functioning in similar conditions (Rogers, 1983, 1985).",
+   "pdf_page": 5,
+   "supports": "Rogers-based definition of the distinct competitive-advantage construct, backing the coded 'Rogers-based' CA scale.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "209",
+   "ctrl_f": "the performance of an organization working in the"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "The influence of OP on COA (H4) is significant as the concerned path coefficient is 0.59 with level of significance p < 0.001.",
+   "pdf_page": 8,
+   "supports": "H4 result (0.59***): CA is measured as its own construct predicted by performance — backs ca_measure, outcome_construct = both, and positive direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "212",
+   "ctrl_f": "The influence of OP on COA (H4) is"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "Moreover, the COA is explained by OP to the tune of 76%, which is the overall predictive power of the model.",
+   "pdf_page": 8,
+   "supports": "Backs the R2 = .76 recorded in the coded ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "212",
+   "ctrl_f": "Moreover, the COA is explained by OP to"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "quality_notes"
+   ],
+   "quote": "I think that successful implementation of AI-CRM will help an organization to win over its competitor which has not yet implemented AI-CRM for B2B relationship management.",
+   "pdf_page": 11,
+   "supports": "COA1 item text — evidences the COA1-3 scale and the quality note that COA1 is adoption-flavored (edge over non-adopters).",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "215",
+   "ctrl_f": "I think that successful implementation of AI-CRM will"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "I believe that AI-CRM for B2B relationship management has helped our firm to increase market share.",
+   "pdf_page": 11,
+   "supports": "COA3 item — backs 'incl. market-share gain' in the coded ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "215",
+   "ctrl_f": "I believe that AI-CRM for B2B relationship management"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "Evaluation of discriminant validity as depicted in Table 3 reveals that square root of AVE shown in bold fonts across the diagonal is always greater than the correlation value",
+   "pdf_page": 6,
+   "supports": "Backs 'discriminant-valid vs OP' in the coded ca_measure (COA passes the Fornell-Larcker test against OP).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "210",
+   "ctrl_f": "depicted in Table 3 reveals that square root"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The mediating variables BE, EEB, and BIP have influence on OP (H3a, H3b, H3c) in conformity with RBV theory as presented in Table 4.",
+   "pdf_page": 8,
+   "supports": "Backs the coded mediators: B2B engagement, employee experience, information processing capability (all significant).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "212",
+   "ctrl_f": "The mediating variables BE, EEB, and BIP have"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "This confirms that the effects of LS on H3a and on H3b are significant.",
+   "pdf_page": 7,
+   "supports": "Backs the coded moderator: leadership support significant (H5/H6) via multi-group analysis.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "211",
+   "ctrl_f": "This confirms that the effects of LS on"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "In this study, we have considered organization size, organization age, and organization type as control variables for organization performance.",
+   "pdf_page": 6,
+   "supports": "Backs the adjudicated note that firm size/age/industry are only controls, not moderators.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "210",
+   "ctrl_f": "In this study, we have considered organization size,"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "I believe that successful implementation of AI-CRM will help the organization to improve its operational efficiency.",
+   "pdf_page": 11,
+   "supports": "OP1 item — performance is a perceptual survey scale ('I believe...'), backing performance_measure and the perceptual-survey quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "215",
+   "ctrl_f": "I believe that successful implementation of AI-CRM will"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "outcome_construct"
+   ],
+   "quote": "This study integrated institutional theory and the RBV and developed a model showing how successful implementation of AI-CRM in B2B relationship management could impact organizations' performance and ultimately their competitive advantage.",
+   "pdf_page": 10,
+   "supports": "The paper's own conclusion of its central result — AI-CRM improves performance and competitive advantage, matching key_finding and outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "214",
+   "ctrl_f": "This study integrated institutional theory and the RBV"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "the path coefficient concerning the linkage IAB ➔ OP in the rival model appears to be 0.22 with level of significance * p < 0.05",
+   "pdf_page": 12,
+   "supports": "Rival model shows a significant direct AI-CRM-to-performance effect — under the frozen rule a mediated-positive effect with significant direct effect codes as positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "216",
+   "ctrl_f": "rival model appears to be 0.22 with level"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. The '11 manufacturing, 5 service' split in the coded sample comes from Table 1 (p. 6, Industry Type rows: Manufacturing 11 / Service 5) — table cells, not quotable prose. Quality note 'SAMPLE-CHECK OK...' is coder commentary, not source-based. Minor discrepancy inside the paper itself: text says predictive power 76% in results but 78% in the limitations section — coded value follows the results section (R2=.76)."
+ },
+ "has_printed_pagination": true
+}

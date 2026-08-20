@@ -1,0 +1,256 @@
+{
+ "study_id": "S08",
+ "document_id": 8,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Previous studies have used the event study methodology to examine the impact of various types of IT investments on firm value (e.g., Dehning et al. 2003; Teo et al. 2016).",
+   "pdf_page": 4,
+   "supports": "The study is framed in the IT-business-value event-study tradition, not a grand theory - backs the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "376",
+   "ctrl_f": "Previous studies have used the event study methodology"
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "method"
+   ],
+   "quote": "Since a stock market response is instantaneous and can reflect investors' expectations of future firm performance (Bose and Pal 2012), an event study is an appropriate approach for this research.",
+   "pdf_page": 2,
+   "supports": "Backs 'investor expectations' in the lens and the event-study method choice.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "374",
+   "ctrl_f": "Since a stock market response is instantaneous and"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The event study methodology is employed to examine the effect of AI investment on market value.",
+   "pdf_page": 2,
+   "supports": "Directly states method = event study.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "374",
+   "ctrl_f": "study methodology is employed to examine the effect"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure"
+   ],
+   "quote": "We used Factiva to search for announcements containing pertinent keywords, such as 'AI' and 'Artificial Intelligence,' from January 2015 to February 2019",
+   "pdf_page": 7,
+   "supports": "Backs the Factiva search window Jan 2015 - Feb 2019 and the AI measure = investment announcements.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "379",
+   "ctrl_f": "We used Factiva to search for announcements containing"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "After a careful processing of the data, a total of 119 valid announcements representing 62 sample firms from 2015 to 2019 were maintained.",
+   "pdf_page": 7,
+   "supports": "Backs the coded 119 announcements by 62 listed firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "379",
+   "ctrl_f": "processing of the data, a total of 119"
+  },
+  {
+   "fields": [
+    "country_region"
+   ],
+   "quote": "We collected stock price information from the Center for Research in Security Prices (CSRP) and financial data from COMPUSTAT.",
+   "pdf_page": 7,
+   "supports": "CRSP/COMPUSTAT are US-listing databases - relevant to the market composition of the sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "379",
+   "ctrl_f": "We collected stock price information from the Center"
+  },
+  {
+   "fields": [
+    "country_region"
+   ],
+   "quote": "First, the sample is limited to only U.S. publicly listed firms.",
+   "pdf_page": 13,
+   "supports": "The authors' own limitation statement names the market composition.",
+   "tension": "Coded country_region says 'multi-market (market composition not explicit)', but this limitation sentence explicitly states US publicly listed firms only (consistent with CRSP stock data and S&P domestic credit ratings). Consider recoding to USA.",
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "385",
+   "ctrl_f": "First, the sample is limited to only U.S."
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "We used SIC codes to define whether the firms were part of the manufacturing sector. A firm was considered to be a manufacturing firm if its SIC code is from 20 to 39",
+   "pdf_page": 7,
+   "supports": "Sample spans manufacturing and nonmanufacturing SIC codes (Table 3 Panel B lists 23 industries) - backs industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "379",
+   "ctrl_f": "to define whether the firms were part of"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "this study finds that AI investment has a negative impact on the firms' market value. The stock prices of the firms decrease by 1.77% on the day of the announcement.",
+   "pdf_page": 1,
+   "supports": "Backs outcome = performance measured as firm market value (CAR), the -1.77% event-day figure, negative direction, and the key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "373",
+   "ctrl_f": "this study finds that AI investment has a"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Using both parametric and nonparametric tests, on day [0], the mean ( -1.77%) and median ( -0.10%) ARs are statistically significant and negative.",
+   "pdf_page": 10,
+   "supports": "Significant negative average main effect on the event day - backs effect_direction = negative.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "382",
+   "ctrl_f": "Using both parametric and nonparametric tests, on day"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Nonmanufacturing firms and firms with weak information technology capabilities or low credit ratings suffer a more negative impact compared with other firms.",
+   "pdf_page": 1,
+   "supports": "Backs all three coded conditions: nonmanufacturing, weak IT capability, low credit rating each amplify the negative reaction.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "373",
+   "ctrl_f": "firms and firms with weak information technology capabilities"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "We found that IT capability, credit rating, and type of industry are strong moderating factors.",
+   "pdf_page": 12,
+   "supports": "The paper itself labels the three coded conditions as moderating factors.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "384",
+   "ctrl_f": "We found that IT capability, credit rating, and"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The findings suggest that investors perceive AIinvestment announcements to be unwelcome news for the majority of firms.",
+   "pdf_page": 1,
+   "supports": "The paper's own summary of the central result - investors react negatively on average ('AIinvestment' is an extraction spacing artifact).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.35,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "373",
+   "ctrl_f": "announcements to be unwelcome news for the majority"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Although the results of event analysis cannot fully measure the actual performance of AI implementation, they can reflect the concerns of investors about the adoption of AI and the risks associated with the adoption.",
+   "pdf_page": 12,
+   "supports": "Authors concede the method captures market perception, not realized performance - backs the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "385",
+   "ctrl_f": "event analysis cannot fully measure the actual performance"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Finally, the research only examines the short-term impacts of AI investments.",
+   "pdf_page": 13,
+   "supports": "Authors' own limitation - backs 'short-window event study' in the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "385",
+   "ctrl_f": "examines the short-term impacts of AI investments."
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "One tension: country_region coded 'multi-market (announcements via Factiva; market composition not explicit)', but the limitations section (p. 13) states 'the sample is limited to only U.S. publicly listed firms', and stock data come from CRSP with S&P domestic credit ratings - the paper is explicit after all; consider recoding to USA. Everything else verifies cleanly (S08 was a spot-check row: event study / performance / negative confirmed). ca_measure empty confirmed - only market value is measured; 'competitive edges' appears once as survey background rhetoric on p. 1."
+ },
+ "has_printed_pagination": true
+}

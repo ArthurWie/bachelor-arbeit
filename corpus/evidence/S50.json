@@ -1,0 +1,245 @@
+{
+ "study_id": "S50",
+ "document_id": 50,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Classic theories link information asymmetry and agency conflicts to deviations from optimal investment, while richer information environments help align financing and investment with underlying fundamentals",
+   "pdf_page": 2,
+   "supports": "The study is grounded in corporate-finance theory of investment efficiency (information asymmetry, agency conflicts), as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.64,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Classic theories link information asymmetry and agency conflicts"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We measure AI adoption using AI mentions , defined as the proportion of AI-related terminology in senior management remarks during earnings calls",
+   "pdf_page": 1,
+   "supports": "Exactly the coded AI measure: share of AI terminology in management earnings-call remarks.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "We measure AI adoption using AI mentions, defined"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "sample"
+   ],
+   "quote": "and validate this measure by showing that it is positively associated with 10-K discussions of AI applications in operational decision-making, product development, and business expansion",
+   "pdf_page": 1,
+   "supports": "Backs the 'validated vs 10-K' element of the coded sample description.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.63,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "validate this measure by showing that it is"
+  },
+  {
+   "fields": [
+    "sample",
+    "method",
+    "quality_notes"
+   ],
+   "quote": "We construct an instrumental variable based on exposure to university-authored AI research -measured as a normalized score of textual similarity between non-corporate academic publications and industry descriptions",
+   "pdf_page": 1,
+   "supports": "Backs 'IV = textual proximity to university AI research; 2SLS' in the sample coding and the 'IV design' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "construct an instrumental variable based on exposure to"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "Using a sample of 16,145 firm-year observations for 2401 U.S. firms from the StreetEvents -Compustat -CRSP universe over 2010 -2021",
+   "pdf_page": 2,
+   "supports": "Quantifies the US firm panel backing sample and country codes.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.7,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Using a sample of 16,145 firm-year observations for"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "All regressions include firm and year fixed effects.",
+   "pdf_page": 9,
+   "supports": "Firm-year panel regressions with two-way fixed effects (plus 2SLS) back method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "All regressions include firm and year fixed effects."
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "we also exclude 4587 firm-year observations in AI-innovating industries (North American Industry Classification System (NAICS) codes 51 and 54) to focus on firms that primarily use AI rather than develop AI technologies",
+   "pdf_page": 5,
+   "supports": "The sample spans all industries except financials, utilities and AI-producing sectors, backing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "exclude 4587 firm-year observations in AI-innovating industries (North"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "We measure investment efficiency following Biddle et al. (2009), a specification widely used in empirical studies of corporate investment decisions",
+   "pdf_page": 8,
+   "supports": "Backs 'corporate investment efficiency' as the coded performance measure (deviation of actual from predicted investment).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "We measure investment efficiency following Biddle et al."
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "We also find that firms with higher AI mentions tend to have higher Tobin ' s q over longer horizons, consistent with a gradual reflection of AI-related benefits in firm value.",
+   "pdf_page": 1,
+   "supports": "Backs the coded 'Tobins q (long horizon)' performance measure and the key-finding phrase that value shows up only over longer horizons.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "firms with higher AI mentions tend to have"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Our baseline results indicate that higher AI adoption is associated with greater investment efficiency",
+   "pdf_page": 1,
+   "supports": "Positive main association (holding in 2SLS with the exposure instrument) backs effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "AI adoption is associated with greater investment efficiency,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Additional analyses suggest several mechanisms: AI adoption is associated with more accurate management sales forecasts, higher financial reporting quality, and greater process and product innovation intensity.",
+   "pdf_page": 1,
+   "supports": "The three empirically tested channels back the coded mechanism conditions (sales forecasts, reporting quality, process/product innovation).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "mechanisms: AI adoption is associated with more accurate"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding",
+    "quality_notes"
+   ],
+   "quote": "Cross-sectional evidence further indicates that regulatory frictions, such as exposure to data-privacy regulation, attenuate the association between AI adoption and investment efficiency.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'data-privacy regulation exposure ATTENUATES the effect' and the 'regulation as boundary condition' quality note (GDPR difference-in-differences, Table 9).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "evidence further indicates that regulatory frictions, such as"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Overall, the evidence suggests that AI adoption is an increasingly relevant factor in how firms allocate capital, as reflected in investment efficiency.",
+   "pdf_page": 19,
+   "supports": "The paper's own concluding statement backs the coded key finding on capital allocation.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "19",
+   "ctrl_f": "Overall, the evidence suggests that AI adoption is"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "we interpret them with caution given the untestability of the exclusion restriction",
+   "pdf_page": 3,
+   "supports": "Authors' own caveat on the IV design backs the 'IV design' quality note as source-based.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "we interpret them with caution given the untestability"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: no competitive-advantage construct is measured; outcomes are investment efficiency, Tobin's q, and (weaker) stock returns. Context for the author: the baseline OLS coefficient on AI mentions is significant only at the 10% level (t about 1.73-1.78), while the 2SLS estimate is significant at 5% - direction positive throughout. The coded 'mechanisms' conditions are empirically tested channels (Tables 5-7), not narrative-only. Not in adjudication_briefs.md."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,230 @@
+{
+ "study_id": "S01",
+ "document_id": 1,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "This study has called on the theory of IT capabilities to seize the influence of AI business value on firm performance (at the organizational and process levels).",
+   "pdf_page": 1,
+   "supports": "Names IT capabilities theory as the framework, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1893",
+   "ctrl_f": "This study has called on the theory of"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "They included Paradox Productivity (Kijek and Kijek, 2019; Pol \u0013 ak, 2017; Triplett, 1999), Process-Oriented Perspective (Mooney et al. , 1996), ResourceBased View (Barney et al. , 2001; Grant, 1991), and Dynamics Capabilities (Kim et al.",
+   "pdf_page": 12,
+   "supports": "Lists the paper's theoretical foundations: Mooney process-oriented perspective, RBV, and dynamic capabilities, as coded.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    12
+   ],
+   "printed_pages": "1904",
+   "pdf_seq_score": 0.59,
+   "quote_original": "They included Paradox Productivity (Kijek and Kijek, 2019; Pol ak, 2017; Triplett, 1999), Process-Oriented Perspective (Mooney et al., 1996), ResourceBased View (Barney et al., 2001; Grant, 1991), and Dynamics Capabilities (Kim et al., 2011).",
+   "repair_note": "auto-corrected to source wording (match 98%, PDF p. 12)",
+   "ctrl_f": "2017; Triplett, 1999), Process-Oriented Perspective (Mooney et al.,"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "in this study, which focused on analyzing the influence of AI on organizational performance, we adopted a qualitative approach based on the analysis of 500 case studies",
+   "pdf_page": 22,
+   "supports": "States the qualitative case-study design and the 500-case sample, backing method = case study.",
+   "tension": null,
+   "located_pdf_pages": [
+    22
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1914",
+   "ctrl_f": "in this study, which focused on analyzing the"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure"
+   ],
+   "quote": "we collected five hundred (500) mini-case studies published by approved and world-renowned AI solution providers in their different websites",
+   "pdf_page": 12,
+   "supports": "Documents the ~500 vendor-published mini-cases from AI solution providers' websites, backing sample and the case-observation AI measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1904",
+   "ctrl_f": "we collected five hundred (500) mini-case studies published"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure"
+   ],
+   "quote": "The research process (responding to the research question, making discussions, interpretations and comparisons, and formulating recommendations) was based on a review of 500 case studies from IBM, AWS, Cloudera, Nvidia, Conversica, Universal Robots websites, etc.",
+   "pdf_page": 1,
+   "supports": "Names the vendor sources (IBM, AWS, Cloudera, Nvidia etc.) listed in the coded sample and ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1893",
+   "ctrl_f": "(responding to the research question, making discussions, interpretations"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "Abu Dhabi National Oil Company (ADNOC) is a major diversified group of energy and petrochemical companies in Abu Dhabi.",
+   "pdf_page": 14,
+   "supports": "Example case firm in the UAE oil/petrochemical sector, evidencing multi-country and cross-industry coverage.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1906",
+   "ctrl_f": "Abu Dhabi National Oil Company (ADNOC) is a"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "United Healthcare Services (UHS), which operates in the healthcare industry sector, is a regional not-for-profit network of hospitals in the state of New York, USA",
+   "pdf_page": 16,
+   "supports": "Second example case firm in US healthcare, evidencing multi-country and cross-industry coverage.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1908",
+   "ctrl_f": "United Healthcare Services (UHS), which operates in the"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "this study has met the challenge of investigating at the same time the use of several AI technologies in several sectors of activity",
+   "pdf_page": 21,
+   "supports": "Authors' own statement that the study spans several sectors, backing industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    21
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1913",
+   "ctrl_f": "investigating at the same time the use of"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "the results of our study have highlighted such AI benefits in organizations, and more specifically, its ability to improve on performance at both the organizational (financial, marketing and administrative) and process levels.",
+   "pdf_page": 1,
+   "supports": "Outcome is organizational performance (financial, marketing, administrative) plus process-level performance — exactly the coded performance_measure; no CA construct measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1893",
+   "ctrl_f": "highlighted such AI benefits in organizations, and more"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The same results also showed that organizations achieve performance through AI capabilities only when they use their features/technologies to reconfigure their processes.",
+   "pdf_page": 1,
+   "supports": "Central result: performance gains only under process reconfiguration — backs effect_direction = conditional, the coded condition, and the key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1893",
+   "ctrl_f": "results also showed that organizations achieve performance through"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "multiple key elements must be brought together to ensure the success of AI: data, talent mix, domain knowledge, key decisions, external partnerships and scalable infrastructure.",
+   "pdf_page": 2,
+   "supports": "Names the configuration of complements coded under conditions (data, talent, domain knowledge, partnerships, infrastructure).",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1894",
+   "ctrl_f": "must be brought together to ensure the success"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "In organizations, performance improvement at the process level is usually measured using key performance indicators concerned with efficiency, capacity, productivity, quality, profitability, competitiveness, effectiveness, and value",
+   "pdf_page": 10,
+   "supports": "Shows 'competitiveness' appears only as one KPI word in a list — no distinct CA construct is measured, confirming the empty ca_measure and outcome_construct = performance (per adjudication brief).",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1902",
+   "ctrl_f": "In organizations, performance improvement at the process level"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "there may have been an element of bias in the data contained in the cases, such as exaggerated claims or even restrictions on published data.",
+   "pdf_page": 20,
+   "supports": "Authors' own limitation admission ('exaggerated claims') quoted in the coded quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1912",
+   "ctrl_f": "there may have been an element of bias"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. The quality_notes clause 'Code as low-rigor qualitative evidence' is coder commentary (Arthur's screening decision), not source-based; the source-based part ('exaggerated claims', p. 20) is evidenced. ca_measure emptiness confirmed — 'competitiveness' occurs only as a KPI list word and in framing rhetoric, never as a measured construct."
+ },
+ "has_printed_pagination": true
+}

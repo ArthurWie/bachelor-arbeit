@@ -1,0 +1,265 @@
+{
+ "study_id": "S66",
+ "document_id": 66,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "ai_measure",
+    "conditions",
+    "outcome_construct"
+   ],
+   "quote": "Drawing on innovation diffusion theory, this study investigates how team dynamics, high-commitment workforces (HCW), and corporate innovation and innovation capabilities (CIIC) mediate the relationship between AI adoption and organizational performance.",
+   "pdf_page": 1,
+   "supports": "Abstract names the coded lens (innovation diffusion theory), the AI-adoption construct, the three coded mediators, and the performance outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "investigates how team dynamics, high-commitment workforces (HCW), and"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry",
+    "method"
+   ],
+   "quote": "Using survey data from 419 Chinese manufacturing firms, the study employs structural equation modeling alongside long short-term memory techniques to validate the proposed framework.",
+   "pdf_page": 1,
+   "supports": "Source sentence for the coded sample '419 manufacturing firms; SEM + LSTM validation', China, manufacturing, survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "data from 419 Chinese manufacturing firms, the study"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "In total, 419 valid questionnaires were obtained from 290 firms, yielding a response rate of 38%, which was deemed satisfactory for analysis.",
+   "pdf_page": 5,
+   "supports": "Methods-section sample description with response rate.",
+   "tension": "Methods report 419 valid questionnaires from 290 firms, while the abstract (and the coded sample '419 manufacturing firms') treats 419 as the number of firms - the paper is internally inconsistent; coded cell follows the abstract.",
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "In total, 419 valid questionnaires were obtained from"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "The sample firms represented diverse sectors within the manufacturing industry, including automotive, electronics, textiles, machinery, chemicals, and IT.",
+   "pdf_page": 5,
+   "supports": "Confirms industry = manufacturing (multiple manufacturing sectors).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "The sample firms represented diverse sectors within the"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "This study used structural equation modeling (SEM) for analysis with Smart-PLS 4 and Python to examine theorized relationships",
+   "pdf_page": 5,
+   "supports": "Backs method = survey-SEM (PLS-SEM in Smart-PLS 4).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "This study used structural equation modeling (SEM) for"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Our measures of AI were divided into two categories: SPAI and GPAI",
+   "pdf_page": 5,
+   "supports": "AI adoption is a multi-item survey construct (service-purpose and general-purpose AI), matching the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Our measures of AI were divided into two"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "We used a fivepoint Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree).",
+   "pdf_page": 5,
+   "supports": "All constructs including AI adoption and performance are Likert self-reports, backing the 'perceptual' quality note.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    5
+   ],
+   "printed_pages": "5",
+   "pdf_seq_score": 0.2,
+   "quote_original": "We used a five-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree).",
+   "repair_note": "manually corrected to source wording (source extraction drops the hyphen in 'five-point'; printed page reads 'five-point')",
+   "ctrl_f": "Likert scale ranging from 1 (strongly disagree) to"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "We measured organizational performance using seven items adapted from Boeker and Goodstein (1991) and Le and Ngoc-Khuong (2025).",
+   "pdf_page": 5,
+   "supports": "Backs performance_measure = organizational performance survey scale (outcome_construct = performance).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "We measured organizational performance using seven items adapted"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "In the first model, the path coefficient from AI to OP is 0.719, showing a strong, unified impact.",
+   "pdf_page": 7,
+   "supports": "Strong positive AI-to-performance path alongside the mediators: mediated-positive WITH a significant direct path = positive per the frozen rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "from AI to OP is 0.719, showing a"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Overall paths are statistically significant (p < 0.001), positive that HCW, TD, and CIIC each play a mediating role in how AI influences OP.",
+   "pdf_page": 7,
+   "supports": "Backs the coded conditions: team dynamics, innovation capabilities, and high-commitment workforce as significant mediators of the AI-performance link.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "Overall paths are statistically significant (p < 0.001), positive"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The Table 3 presents the indirect effect AI → HCW → OP ( β = 0.345, t = 6.677, p = 0.000), the strongest mediation",
+   "pdf_page": 7,
+   "supports": "Quantifies the high-commitment-workforce mediator as the strongest amplifier, matching the coded conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "The Table 3 presents the indirect effect AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The findings indicate that AI adoption positively shapes organizational outcomes through these mediators, highlighting that technological benefits are realized not in isolation but through complementary human and organizational mechanisms.",
+   "pdf_page": 9,
+   "supports": "Authors' own summary: positive AI effect realized through the human/organizational enablers - matching key_finding and direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.31,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "9",
+   "ctrl_f": "The findings indicate that AI adoption positively shapes"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "This study contributes to the literature on organizational behavior and technology management by demonstrating how human and organizational enablers unlock the performance-enhancing potential of AI.",
+   "pdf_page": 1,
+   "supports": "Abstract sentence matching the coded key_finding phrase 'human/organizational enablers unlock the value'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "This study contributes to the literature on organizational"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "First, the cross-sectional design and reliance on self-reported survey data may introduce common method bias and limit causal inference.",
+   "pdf_page": 13,
+   "supports": "Author-admitted limitation backing the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "First, the cross-sectional design and reliance on self-reported"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "However, the Root Mean Squared Error (RMSE) increases significantly from 0.0116 in training to 0.127 in testing, implying that the model encounters larger deviations from actual values in the testing phase.",
+   "pdf_page": 7,
+   "supports": "Authors themselves report weak LSTM test performance, backing the quality note to treat SEM results as primary over the LSTM add-on.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "increases significantly from 0.0116 in training to 0.127"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "One factual discrepancy for the author: the coded sample '419 manufacturing firms' follows the abstract, but the methods section states 419 valid questionnaires from 290 firms (38% response rate) - the paper is internally inconsistent; consider annotating the sample cell as '419 responses / 290 firms'. Everything else checks out. ca_measure empty is correct: 'sustainable competitive advantage' appears only as closing rhetoric, no CA construct measured. effect_direction = positive holds under the mediation rule: the model reports a strong positive AI-to-OP path (0.719) alongside significant indirect effects, so the mediators stay in conditions. 'LSTM validation gimmick' is coder phrasing, but the underlying concern is source-backed (RMSE degradation in testing)."
+ },
+ "has_printed_pagination": true
+}

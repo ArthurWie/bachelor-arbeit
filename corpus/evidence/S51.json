@@ -1,0 +1,247 @@
+{
+ "study_id": "S51",
+ "document_id": 51,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "this study grounds itself in dynamic capabilities theory and the knowledge-based view",
+   "pdf_page": 1,
+   "supports": "Backs the coded lens 'dynamic capabilities + KBV'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1,
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "84–85",
+   "ctrl_f": "dynamic capabilities theory and the knowledge-based view."
+  },
+  {
+   "fields": [
+    "industry",
+    "country_region"
+   ],
+   "quote": "Emerging market manufacturing small and medium-sized enterprises (SMEs) struggle to translate artificial intelligence (AI) investments into innovation outcomes.",
+   "pdf_page": 1,
+   "supports": "Backs 'manufacturing SMEs' as industry and the '(emerging markets)' element of the country code.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.68,
+   "verdict": "verified",
+   "printed_pages": "84",
+   "ctrl_f": "Emerging market manufacturing small and medium-sized enterprises (SMEs)"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "industry"
+   ],
+   "quote": "This study investigates how AI-enabled knowledge capabilities drive new product performance by employing a sequential mixed-methods design with 261 manufacturing SMEs.",
+   "pdf_page": 1,
+   "supports": "Backs method = mixed and the coded sample 'sequential mixed-methods, 261 manufacturing SMEs'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.57,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "84",
+   "ctrl_f": "drive new product performance by employing a sequential"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We conducted comprehensive semi-structured interviews with sixteen manufacturing SME managers",
+   "pdf_page": 4,
+   "supports": "The qualitative strand (Study 1) that makes the design mixed; its findings also corroborate the hypotheses in the discussion (interviewee quotes I3, I6, I15).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "87",
+   "ctrl_f": "We conducted comprehensive semi-structured interviews with"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample",
+    "industry"
+   ],
+   "quote": "This study collected data from manufacturing SMEs in Viet Nam through the Keieijuku Vietnam Community to evaluate our conceptual model.",
+   "pdf_page": 13,
+   "supports": "Backs country_region = Vietnam and the manufacturing-SME population of the quantitative study.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "96",
+   "ctrl_f": "This study collected data from manufacturing SMEs in"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "The data collection process concluded with 261 valid responses across all three waves.",
+   "pdf_page": 14,
+   "supports": "Confirms n = 261 from a time-lagged three-wave survey (Study 2).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "97",
+   "ctrl_f": "The data collection process concluded with 261 valid"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI-enabled knowledge capabilities were assessed using an eight-item scale from Abou-Foul et al. (2023)",
+   "pdf_page": 14,
+   "supports": "Backs ai_measure = survey construct (AI-enabled knowledge capabilities).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "97",
+   "ctrl_f": "AI-enabled knowledge capabilities were assessed using an eight-item"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "New product performance employed a four-item scale from Story et al. (2015)",
+   "pdf_page": 14,
+   "supports": "Backs performance_measure = new product performance (survey scale).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "97",
+   "ctrl_f": "New product performance employed a four-item scale from"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "assessing market success, competitive advantage, and profitability",
+   "pdf_page": 14,
+   "supports": "The NPP scale includes a competitive-advantage facet, but no distinct CA construct with its own hypothesis is measured - confirming outcome_construct = performance and the empty ca_measure under the frozen CA rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "97",
+   "ctrl_f": "assessing market success, competitive advantage,"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "All items were measured on five-point Likert scales ranging from 1 (strongly disagree) to 5 (strongly agree)",
+   "pdf_page": 14,
+   "supports": "Self-reported Likert measurement backs 'Perceptual'; the sequential-design quotes back 'mixed methods'.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "97",
+   "ctrl_f": "All items were measured on five-point Likert scales"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "H1 receives strong empirical support, revealing that AI-enabled knowledge capabilities significantly enhance new product performance ( β = 0.39, t = 6.78, p < 0.001).",
+   "pdf_page": 15,
+   "supports": "Significant positive DIRECT effect alongside the mediation - a mediated-positive effect with significant direct path = positive under the frozen direction rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.72,
+   "verdict": "verified",
+   "printed_pages": "98",
+   "ctrl_f": "H1 receives strong empirical support, revealing that AI-enabled"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "Our findings reveal that AI-enabled knowledge capabilities operate through dual pathways: directly enhancing performance and indirectly through digital product innovation radicalness.",
+   "pdf_page": 1,
+   "supports": "The paper's own result statement backs the coded 'dual pathway: direct + via digital product innovation radicalness'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "84",
+   "ctrl_f": "Our findings reveal that AI-enabled knowledge capabilities operate"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "this study identifies digital sustainability leadership as a critical boundary condition acting as both mediator and moderator, fundamentally reconfiguring how AI generates value",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'digital sustainability leadership as BOTH mediator and moderator (reconfigures how AI creates value)'; H4 moderation is significant (beta = 0.07, p < 0.05, p. 15).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "84",
+   "ctrl_f": "study identifies digital sustainability leadership as a critical"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "H2 is validated through mediation analysis, demonstrating that digital product innovation radicalness mediates the relationship between AI-enabled knowledge capabilities and new product performance.",
+   "pdf_page": 15,
+   "supports": "Results-section grounding for the coded mediation pathway.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.88,
+   "verdict": "verified",
+   "printed_pages": "98",
+   "ctrl_f": "H2 is validated through mediation analysis, demonstrating that"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: 'competitive advantage' appears as framing and as one facet inside the Story et al. NPP scale, but no distinct CA construct with its own hypothesis is measured (frozen rule 1 -> performance). Method note: Study 1 interviews built the conceptual model while Study 2 (PLS-SEM + PROCESS + fsQCA) carries the statistical outcome evidence; the discussion additionally uses qualitative evidence to corroborate H1-H4, consistent with the final 'mixed' coding. Minor curiosity: the limitations section calls the design 'cross-sectional' although data collection was time-lagged across three waves - authors' own wording, no effect on coded values. Not in adjudication_briefs.md."
+ },
+ "has_printed_pagination": true
+}

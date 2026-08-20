@@ -1,0 +1,249 @@
+{
+ "study_id": "S55",
+ "document_id": 55,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "we draw on organizational justice theory (OJT), which posits that perceptions of fairness are fundamental determinants of organizational behavior and performance",
+   "pdf_page": 2,
+   "supports": "Names organizational justice theory as the study's framework, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "which posits that perceptions of fairness are fundamental"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "sample",
+    "country_region",
+    "method",
+    "outcome_construct"
+   ],
+   "quote": "Survey data from 218 Chinese firms show that responsible AI fosters both distributive and procedural justice, which in turn facilitates firms' competitive advantages.",
+   "pdf_page": 1,
+   "supports": "Abstract states the mediated path to competitive advantages and confirms 218 Chinese survey firms, covering sample, country, method and the CA outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Survey data from 218 Chinese firms show that"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "our target population comprised senior managers (e.g., vice presidents, directors, and senior managers) in Chinese manufacturing and IT firms who have actively adopted AI in their supply chain operations",
+   "pdf_page": 5,
+   "supports": "Specifies the supply-chain firm sample (manufacturing, IT, plus 'other' per Table 1) in China, backing the '(supply chains)' industry qualifier.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "vice presidents, directors, and senior managers) in Chinese"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "We invited 335 qualified firms from the survey provider's database and received 218 valid responses after applying exclusion criteria and quality checks",
+   "pdf_page": 5,
+   "supports": "Documents the survey procedure and the n = 218 coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.65,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "firms from the survey provider's database and received"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "First, responsible AI was measured using four items adapted from P. Kumar et al. (2023).",
+   "pdf_page": 5,
+   "supports": "Responsible AI adoption is a survey construct measured with an established four-item scale, as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    4,
+    5,
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4–6",
+   "ctrl_f": "First, responsible AI was measured"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "Third, competitive advantages were assessed using three items from L. Li et al. (2023) that benchmark financial performance against industry peers.",
+   "pdf_page": 6,
+   "supports": "Own validated competitive-advantage scale (competitor-benchmarked), satisfying the case-law bar for outcome_construct = competitive_advantage and the coded perceived CA survey scale.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.9,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "Third, competitive advantages were assessed using three items"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "we conducted confirmatory factor analysis of all five latent constructs: responsible AI, distributive justice, procedural justice, competitive advantages, and SCC",
+   "pdf_page": 6,
+   "supports": "Latent-construct measurement model (CFA) on survey data backs method = survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "we conducted confirmatory factor analysis of all five"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To test our hypotheses, we used the PROCESS macro in SPSS 23.0 (Hayes, 2014), with responsible AI as the independent variable, distributive justice and procedural justice as the mediators",
+   "pdf_page": 6,
+   "supports": "Names the moderated-mediation estimation strategy that generates the AI-to-CA evidence.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "To test our hypotheses, we used the PROCESS"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "conditions"
+   ],
+   "quote": "H1. Distributive justice mediates the positive association between responsible AI and competitive advantages.",
+   "pdf_page": 4,
+   "supports": "Explicit hypothesis on the CA construct (scale + hypothesis per case law) and on the coded mediation channel.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "H1. Distributive justice mediates the positive association between"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "However, when distributive and procedural justice are included as mediators in Model 6, the direct positive relationship between responsible AI and competitive advantages becomes nonsignificant (β = 0.091, p > .05).",
+   "pdf_page": 7,
+   "supports": "The nonsignificant direct path (0.091 n.s.) with significant indirect paths is the full-mediation basis for effect_direction = conditional (Leoni class, adjudicated).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.8,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "included as mediators in Model 6, the direct"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The interaction terms in Model 2 show that SCC significantly and negatively moderates the relationship between responsible AI and distributive justice",
+   "pdf_page": 7,
+   "supports": "Backs the coded condition that supply chain complexity weakens the distributive-justice path (coefficient -0.233, p < .001 in the paper; see row_check note on minus signs).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "interaction terms in Model 2 show that SCC"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "In contrast, SCC did not moderate the relationship between responsible AI and procedural justice",
+   "pdf_page": 7,
+   "supports": "Backs the coded asymmetry: complexity does not weaken the procedural-justice path.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "not moderate the relationship between responsible AI and"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "Crucially, our findings highlight a divergence in how SCC conditions these effects: while high SCC weakens the mediating role of distributive justice, the mediating role of procedural justice remains robust.",
+   "pdf_page": 9,
+   "supports": "Paper's own conclusion: justice-mediated CA with procedural fairness as the only robust channel under complexity - the coded key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.3,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "9",
+   "ctrl_f": "Crucially, our findings highlight a divergence in how"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "First, our cross-sectional design could not capture the temporal evolution of justice perceptions; future researchers could use longitudinal designs to validate causal directions.",
+   "pdf_page": 9,
+   "supports": "Authors' own limitation backing the 'perceptual' cross-sectional quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.75,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "First, our cross-sectional design could not capture the"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "performance_measure empty confirmed: the only outcome construct is the competitive-advantages scale (relative financial performance vs. industry peers); no standalone performance measure. Caution for the audit: the text extraction drops minus signs on some statistics - the prose renders the SCC x responsible-AI interaction as '(β = 0.233, p < .001)' although it 'negatively moderates' (the paper's value is -0.233), so verify the coded -0.233*** on the PDF page rather than the extract. quality_notes' 'ethics-as-condition angle' is coder commentary; the perceptual/cross-sectional half is source-backed (see limitation quote)."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,292 @@
+{
+ "study_id": "S10",
+ "document_id": 10,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Value co-creation has been extensively studied after a shift from sales to service dominance was proposed by Vargo and Lusch (2004).",
+   "pdf_page": 2,
+   "supports": "Backs the value co-creation half of the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "475",
+   "ctrl_f": "been extensively studied after a shift from sales"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Dynamic capabilities are considered as a mechanism to produce competitive advantage and affect innovation intelligibility (Bitencourt et al., 2020).",
+   "pdf_page": 4,
+   "supports": "Backs the dynamic-capabilities half of the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "477",
+   "ctrl_f": "Dynamic capabilities are considered as a mechanism"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "industry"
+   ],
+   "quote": "We collected data from 234 AI-related manufacturers for the structural equation modelling analysis.",
+   "pdf_page": 1,
+   "supports": "One sentence names survey-SEM, n = 234, and AI-related manufacturing.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "474",
+   "ctrl_f": "We collected data from 234 AI-related manufacturers"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "This study collected data from the general manager/CEO of the AI-related manufacturing companies in the Yangtze River Delta region.",
+   "pdf_page": 5,
+   "supports": "Backs GM/CEO respondents, China (Yangtze River Delta), and the AI-related manufacturing industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "478",
+   "ctrl_f": "This study collected data from the general manager/CEO"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "We sent questionnaires to 400 companies in 2019 and received 234 valid responses, resulting in a 58% response rate.",
+   "pdf_page": 5,
+   "supports": "Backs the coded n = 234 valid responses.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "478",
+   "ctrl_f": "400 companies in 2019 and received 234 valid"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "In this study, a 5-point Likert scale was used to measure the variables in the model.",
+   "pdf_page": 5,
+   "supports": "All constructs are perceptual survey scales - backs survey method and the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "478",
+   "ctrl_f": "In this study, a 5-point Likert scale was"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We reported the model fitting results, including χ 2 / df = 2.75, RMSEA = 0.048, CFI = 0.925, TLI = 0.905, and SRMR = 0.065.",
+   "pdf_page": 8,
+   "supports": "Covariance-based fit indices (chi-square/df, CFI, TLI) back the CB-SEM detail in the coded sample field.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.28,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "481",
+   "ctrl_f": "We reported the model fitting results, including"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Therefore, this study adopted Ranjan and Read (2016) co-productions 12 items to measure value co-creation.",
+   "pdf_page": 5,
+   "supports": "The AI-side construct is a 12-item survey measure of value co-creation in the AI innovation ecosystem - backs ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "478",
+   "ctrl_f": "Read (2016) co-productions 12 items to measure value"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "We adapted six items to measure competitive advantage from several studies (Cao et al., 2019; Ferreira et al., 2020; Papadas et al., 2019).",
+   "pdf_page": 5,
+   "supports": "A distinct six-item CA scale (CA1-CA6, alpha = 0.927 in Table 3) is measured - backs outcome_construct = competitive_advantage and the coded ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "479",
+   "ctrl_f": "(Cao et al., 2019; Ferreira et al., 2020;"
+  },
+  {
+   "fields": [
+    "outcome_construct"
+   ],
+   "quote": "Hypothesis 9. Value co-creation positively affects competitive advantage.",
+   "pdf_page": 5,
+   "supports": "CA is hypothesized as the model's outcome (scale + hypothesis, per the case-law requirement for coding competitive_advantage).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "478",
+   "ctrl_f": "Hypothesis 9. Value co-creation positively"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "Economic value refers to the benefits and costs derived from better and customized products and services (Yim et al., 2012).",
+   "pdf_page": 2,
+   "supports": "'Economic value' is a perceived co-creation value (Yim et al. items), not a firm-performance construct - confirms performance_measure EMPTY and the quality note that it is easily mistaken for performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "476",
+   "ctrl_f": "value refers to the benefits and costs derived"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "value co-creation does not have a significant impact on competitive advantage and innovation intelligibility, and dynamic capabilities and innovation capabilities play the mediating role",
+   "pdf_page": 1,
+   "supports": "The abstract's own statement: no direct effect, effect carried by DC and IC - backs conditional direction, the full-mediation condition, and key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "474",
+   "ctrl_f": "co-creation does not have a significant impact on"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Considering that the significance level of the impact of value co-creation on competitive advantage and innovation intelligibility is greater than 0.1, both Hypotheses 9 and 10 are not supported.",
+   "pdf_page": 8,
+   "supports": "Direct VC->CA path non-significant (0.240, p = .185 in Table 5) - the null direct path grounding effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.58,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "481",
+   "ctrl_f": "Considering that the significance level of the impact"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Given that the significance levels of the impact of economic value on the competitive advantage and innovation intelligibility are greater than 0.1",
+   "pdf_page": 8,
+   "supports": "EV (and in the same sentence RV) direct paths to CA are non-significant - backs the coded condition 'direct paths EV/RV->CA not significant'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "481",
+   "ctrl_f": "Given that the significance levels of the impact"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "As shown in Table 6, with path coefficients 95% confidence interval, dynamic capabilities and innovation capabilities have significant mediating effects between value co-creation and competitive advantage.",
+   "pdf_page": 9,
+   "supports": "Bootstrap mediation test: DC and IC carry the effect - backs the full-mediation condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.26,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "482",
+   "ctrl_f": "As shown in Table 6, with path"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Third, we collected the data from the Yangtze River Delta region, where SMEs are relatively concentrated.",
+   "pdf_page": 10,
+   "supports": "Authors' own limitation on the regional cross-sectional sample - source-based part of the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.94,
+   "verdict": "verified",
+   "printed_pages": "483",
+   "ctrl_f": "Third, we collected the data from the Yangtze"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the significance levels of the impact of the relationship value on the competitive advantage and innovation intelligibility are greater than 0.1, Hypotheses 5a, 5b, 6a, and 6b are not supported",
+   "pdf_page": 8,
+   "printed_pages": "481",
+   "supports": "Belegt explizit, dass auch relationship value keinen direkten Effekt auf CA/II hat (H5/H6 abgelehnt) - schliesst die vom Audit-LLM gefundene Beleg-Luecke.",
+   "ctrl_f": "relationship value on the competitive advantage",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "performance_measure EMPTY confirmed: the model contains VC, EV, RV, DC, IC, CA, II - no performance construct; 'economic value' is a co-creation perception (adjudicated S10 decision). quality_notes' 'cross-section' is coder design description; perceptual scales and the regional sample are quoted. Direction = conditional matches the frozen rule (direct VC->CA 0.240 n.s., effect only via DC/IC mediation)."
+ },
+ "has_printed_pagination": true
+}

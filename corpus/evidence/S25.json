@@ -1,0 +1,279 @@
+{
+ "study_id": "S25",
+ "document_id": 25,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "The study is based on the Resource-Based View (RBV) theory, which offers a theoretical framework for investigating how AI-based competencies and green entrepreneurial strategies can promote SME performance.",
+   "pdf_page": 1,
+   "supports": "Abstract names RBV as the study's theoretical basis.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "on the Resource-Based View (RBV) theory, which offers"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry",
+    "method"
+   ],
+   "quote": "A quantitative research design was applied, utilizing survey data gathered from SME managers and business owners functioning in the manufacturing and service sectors in Saudi Arabia.",
+   "pdf_page": 1,
+   "supports": "Backs the coded sample (SME managers/owners), Saudi Arabia, manufacturing + service SMEs, and the survey method.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "A quantitative research design was applied, utilizing survey"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The results indicate that AI capabilities significantly impact SME creativity and green innovations. Moreover, green entrepreneurial orientation positively influences SME creativity and green innovations, which in turn facilitate sustainable performance.",
+   "pdf_page": 1,
+   "supports": "Abstract states the positive AI effect running through creativity and green innovation to sustainable performance, with GEO as parallel driver.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The results indicate that AI capabilities significantly impact"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Moreover, green risk-taking, innovativeness, and proactiveness significantly contribute to green entrepreneurial orientation, affecting SME creativity and green innovations, ultimately resulting in sustainable performance.",
+   "pdf_page": 1,
+   "supports": "Backs the coded GEO parallel driver with its three dimensions (risk-taking, innovativeness, proactiveness).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Moreover, green risk-taking, innovativeness, and proactiveness significantly contribute"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "This research identifies the importance of SMEs allocating resources to AI infrastructure, proactive business strategies, and entrepreneurial risk-taking to foster green innovation and sustainability.",
+   "pdf_page": 1,
+   "supports": "Backs the key_finding clause that AI infrastructure plus proactive strategy is the entry condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "allocating resources to AI infrastructure, proactive business strategies,"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "By integrating AI capabilities and green entrepreneurship, SMEs can achieve a competitive advantage while achieving world sustainability goals.",
+   "pdf_page": 1,
+   "supports": "Competitive advantage appears only as framing rhetoric; no CA construct is among the eleven measured constructs (Tables 2-3), confirming the empty ca_measure per case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.28,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "and green entrepreneurship, SMEs can achieve a competitive"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "The research design was structured around a cross-sectional survey, utilizing a structured questionnaire to gather primary data",
+   "pdf_page": 7,
+   "supports": "States the cross-sectional survey design, backing survey-SEM and the 'cross-section' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "a cross-sectional survey, utilizing a structured questionnaire to"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Following data cleaning, screening for missing values, and checking for inconsistencies, 250 valid responses were retained for final analysis.",
+   "pdf_page": 8,
+   "supports": "Backs the coded n = 250 SMEs.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "screening for missing values, and checking for inconsistencies,"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI Capabilities were measured using dimensions such as infrastructure, business spanning, and proactive stance",
+   "pdf_page": 8,
+   "supports": "AI is a survey construct with the three coded dimensions; the paper's term for 'business integration' is 'business spanning' (AI integration across functions).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "such as infrastructure, business spanning, and proactive stance,"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Sustainable Performance (dependent variable) was evaluated using multidimensional economic, social, and environmental measures adapted from sustainable enterprise performance models",
+   "pdf_page": 8,
+   "supports": "The dependent variable is a sustainable-performance survey scale, i.e. performance, not a CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "Sustainable Performance (dependent variable) was evaluated using"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The study employed Partial Least Squares Structural Equation Modeling (PLS-SEM) using SmartPLS 4.0 to analyze the proposed conceptual model.",
+   "pdf_page": 9,
+   "supports": "Backs the survey-SEM method code (PLS-SEM in SmartPLS).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.9,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "The study employed Partial Least Squares Structural Equation"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "| Capabilities (AIC) have significant effects on both Green Innovations (GRI) ( β = 0.250, t = 4.280, p < 0.001) and Green SMEs Creativity (GSC) ( β = 0.270, t = 3.980, p <",
+   "pdf_page": 11,
+   "supports": "Significant positive AI paths into both mediating outcomes.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    11
+   ],
+   "printed_pages": "11",
+   "pdf_seq_score": 1.0,
+   "quote_original": "AI Capabilities (AIC) have significant effects on both Green Innovations (GRI) (β = 0.250, t = 4.280, p < 0.001) and Green SMEs Creativity (GSC) (β = 0.270, t = 3.980, p < 0.001).",
+   "repair_note": "auto-corrected to source wording (match 96%, PDF p. 11)",
+   "ctrl_f": "Capabilities (AIC) have significant effects on both Green"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The findings indicate that AI Capabilities (AIC) have indirectly impacted Green SMEs' Sustainable Performance (GSP) (β = 0.220, t = 4.750, p < 0.001)",
+   "pdf_page": 12,
+   "supports": "The total indirect AI effect on sustainable performance is significantly positive, carried by the coded mediators creativity and green innovation.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "(AIC) have indirectly impacted Green SMEs’ Sustainable Performance"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "SME creativity (p = 0.000) and green innovations (p = 0.000) were confirmed as key drivers of sustainable performance, justifying their mediating role",
+   "pdf_page": 15,
+   "supports": "Conclusion confirms creativity and green innovation as the mediators through which AI raises sustainable performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "creativity (p = 0.000) and green innovations (p = 0.000)"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "While surveys effectively capture managerial perceptions and strategic orientations, they are subject to potential biases such as social desirability bias, recall bias, and standard method variance.",
+   "pdf_page": 15,
+   "supports": "Authors admit the perceptual self-report nature, backing the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.27,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "15",
+   "ctrl_f": "and strategic orientations, they are subject to potential"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Methodologically, the study's use of a cross-sectional approach restricts its ability to identify causality.",
+   "pdf_page": 15,
+   "supports": "Authors admit the cross-sectional limitation, backing the 'cross-section' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "Methodologically, the study’s use of a cross-sectional approach"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced; empty ca_measure confirmed (CA is abstract rhetoric only, no measured CA construct). Structural note for the author: no direct AIC->GSP path is modeled - AI reaches sustainable performance entirely via the two mediators; 'positive' stands because the total indirect effect is significant (0.220, p<0.001) and every channel is significant (unlike S28, where a null channel plus no direct path gave 'conditional'). Coded ai_measure wording 'business integration' corresponds to the paper's 'business spanning' dimension."
+ },
+ "has_printed_pagination": true
+}

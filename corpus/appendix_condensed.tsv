@@ -1,0 +1,269 @@
+study_id	column	text
+# Condensed reader-facing cells for the printed appendix table (Arthur's request, 19 Aug 2026):
+# absolute-minimum wording, no coder provenance, no estimator jargon, brackets only where they add meaning.
+# Rendering layer only — coding_table.csv stays untouched. "notes" = short evidence tags derived from
+# quality_notes; the Notes column was trialled in Table A.2 and removed again (author's decision,
+# 19 Aug 2026) — the notes entries are kept here but are NOT printed.
+S01	sample	~500 vendor-published AI project cases
+S01	ai_measure	case observation (vendor project reports)
+S01	performance_measure	organizational and process performance (qualitative)
+S01	conditions	process reconfiguration required; complementary resources (data, talent, domain knowledge, partnerships, infrastructure)
+S01	notes	vendor success stories; low-rigor qualitative
+S02	sample	392 B2B SMEs
+S02	conditions	adoption enablers: technology roadmapping, attitude, infrastructure readiness, awareness; professional expertise not significant
+S02	notes	perceptual self-report; cross-sectional
+S03	sample	349 managers
+S03	performance_measure	perceived organizational performance
+S03	ca_measure	competitive advantage scale (incl. market-share gain)
+S03	conditions	mediators: B2B engagement, employee experience, information processing; moderator: leadership support
+S03	notes	perceptual survey; 16-firm cluster
+S04	sample	312 manager responses
+S04	ai_measure	survey construct (AI-embedded CRM adoption)
+S04	performance_measure	firm performance scale; B2B relationship satisfaction
+S04	conditions	technology turbulence weakens the paths to relationship satisfaction; leadership support strengthens the satisfaction-to-performance path
+S04	notes	perceptual survey; 14-firm cluster
+S05	sample	257 manager responses
+S05	ai_measure	survey construct (AI adoption on a marketing analytics platform)
+S05	ca_measure	sustained competitive advantage (relative performance vs. competitors)
+S05	conditions	mediators: market sensing, seizing, and reconfiguring carry the effect in full; moderator: AI adoption strengthens all three capability paths
+S05	notes	perceptual survey; objective-data check; AI as moderator
+S06	sample	160 high-tech firms
+S06	conditions	adoption-intensity threshold (low-level adoption shows no effect); complementary cloud and database investments amplify
+S06	notes	cross-sectional survey; objective revenue data
+S07	sample	120 senior executives
+S07	performance_measure	perceived manufacturing firm performance
+S07	conditions	full mediation: knowledge management processes carry the entire effect, the direct path from AI to performance is not significant; AI has no direct effect on supply chain resilience either; larger firms reach higher AI maturity
+S07	notes	perceptual survey; cross-sectional
+S08	sample	119 AI investment announcements by 62 listed firms, 2015-2019
+S08	performance_measure	firm market value (abnormal stock returns around the announcement)
+S08	key_finding	Investors react negatively to AI investment announcements on average; the penalty concentrates in nonmanufacturing firms with weak IT capability and low credit ratings.
+S08	notes	short-window event study; market perception, not realized performance
+S09	sample	19,000 firm-year observations of US-listed firms
+S09	ai_measure	annual-report text (share of AI-related keywords)
+S09	performance_measure	gross and net operating efficiency, net profitability, advertising spending, employment
+S09	notes	archival panel; endogeneity addressed; no moderators tested
+S10	sample	234 AI-related manufacturers (general-manager/CEO respondents)
+S10	ca_measure	perceived competitive advantage and innovation intelligibility
+S10	conditions	full mediation: value co-creation and the economic and relationship value it creates have no direct effect; dynamic and innovation capabilities carry the entire effect
+S10	notes	perceptual survey; cross-sectional
+S11	sample	single hospital case (Dubai): 9 interviews with the robotic-surgery team plus archival data
+S11	performance_measure	clinical, financial, organizational and technological outcomes (qualitative, financial gains quantified)
+S11	ca_measure	competitive position vs. rivals (patient choice, payer bargaining power, differentiation)
+S11	conditions	prerequisites: qualified robotic and revenue-cycle team, cultural shift in the medical community, regulatory approval; barrier: high acquisition costs not covered by insurance
+S11	notes	single case study; interview-based; quantified financial claims
+S12	sample	5,851 firms (409 AI users), representative German innovation survey 2018
+S12	ai_measure	survey (AI adoption yes/no plus intensity of AI use in business processes)
+S12	notes	representative survey; instrumented estimates; no moderators tested
+S13	sample	109 AI implementation announcements by S&P 500 firms, 2014-2019
+S13	performance_measure	firm market value (stock-price reaction around the announcement)
+S13	conditions	detailed announcements pay more overall but react with delay - vague ones only on the day itself; IT firms gain more, non-IT reactions not significant; negative wording correlates modestly negatively
+S13	notes	short-window event study; market reaction, not realized performance
+S14	sample	same chess players across human-only, human-plus-AI and engine-only tournaments (controlled competitive setting)
+S14	ai_measure	adoption of chess engines (AI) in competitive play
+S14	ca_measure	persistent performance differences (sustained advantage) across settings
+S14	key_finding	AI adoption shifts the sources of competitive advantage: a new decision-making resource emerges at the human-AI intersection, unrelated to traditional capability.
+S14	notes	controlled chess setting; high internal, limited external validity
+S15	sample	interviews with senior B2B managers plus a survey of 142 responses
+S15	conditions	prerequisites: information and communication technology capability and technological readiness; firm fit
+S15	key_finding	AI-based partner relationship management improves firm performance and sustainable competitiveness, provided information and communication technology capability and technological readiness are in place.
+S15	notes	perceptual self-report; mixed methods
+S16	sample	278 CEO/marketing-manager responses, food franchises and chain stores, 2020
+S16	conditions	configurational: marketing capabilities, customer value co-creation, market orientation and AI strategy jointly form necessary and sufficient recipes for high performance
+S16	notes	perceptual survey; supplementary configurational analysis
+S17	sample	1,993 US listed firms
+S17	ai_measure	resume-based (share of AI-skilled workers as a proxy for firm AI investment)
+S17	key_finding	AI-investing firms grow in sales, employment and value via product innovation; benefits concentrate among large firms and go along with rising industry concentration.
+S17	notes	archival panel; instrumented estimates
+S18	sample	6 companies, 17 AI implementation cases, interview-based
+S18	ai_measure	case observation (AI applications across supply-chain processes)
+S18	key_finding	AI improves supply-chain competitiveness, mostly evidenced in production processes; the gains depend on overcoming data-quality, skill and investment-evaluation barriers.
+S18	notes	qualitative multi-case; limited generalizability
+S19	sample	4 pharmaceutical companies (2 AI adopters vs. 2 non-adopters) plus a two-round expert panel of 53
+S19	performance_measure	operational efficiency in tender management (processing times, decision quality, document accuracy), expert-rated
+S19	ca_measure	expert-rated comparative competitiveness of the four companies in the tendering context
+S19	conditions	enablers: governance and ethical frameworks, regulatory compliance, organizational readiness, alignment with business goals; senior-management involvement identified as critical
+S19	notes	comparative cases plus expert panel; expert-judgment evidence
+S20	sample	941 AI and 941 matched non-AI hospital-year observations (246 hospitals), US, 2000-2020
+S20	ai_measure	adoption dummy (hospital has adopted AI or not)
+S20	conditions	larger-market-share hospitals are the adopters (self-selection, no test of who benefits more); without accounting for it the estimates mislead
+S20	key_finding	Hospitals with larger market share adopt AI and gain in revenue, productivity and occupancy; naive comparisons that ignore which hospitals adopt AI misestimate the effects.
+S20	notes	archival matched panel; self-selection addressed
+S21	sample	107 executives (France + UK), two-wave survey
+S21	performance_measure	perceived firm performance, process innovation, product innovation
+S21	conditions	central mediator: adaptive response to market changes; only AI analytics shows direct effects in a supplementary check; hostility weakens the automation path, strengthens the analytics path; only ten of eighteen conditional effects significant
+S21	notes	two-wave perceptual survey; environment-selective effects
+S22	sample	3,235 Chinese listed firms, 2007-2021
+S22	ai_measure	annual-report text (frequency of AI-related terms)
+S22	conditions	stronger for state-controlled, internationally oriented and innovative firms; channels: reduced information asymmetry (key), specialized division of labor and green innovation only potential; supply-chain digitalization policy amplifies; the effect weakens over time
+S22	notes	large archival panel; listed firms
+S23	sample	448 organisations, EU
+S23	conditions	mediators in sequence: decision-making quality and business-process performance carry the effect; process automation, organizational learning and process innovation as path-specific partial mediators
+S23	notes	perceptual survey; cross-sectional
+S24	sample	336 hospitality-industry respondents
+S24	ca_measure	sustainable competitive advantage (modeled as mediator)
+S24	conditions	mediator: sustainable competitive advantage between AI adoption and value creation; dynamic capabilities have a negative direct effect on value creation (transition costs); technological turbulence moderates only the capabilities-to-value path, weakening it further
+S24	notes	perceptual survey; cross-sectional; competitive advantage modeled as mediator
+S25	conditions	mediators: SME creativity and green innovation; green entrepreneurial orientation as parallel driver
+S25	notes	perceptual survey; cross-sectional
+S26	sample	1,479 firms in 26 EU countries, 2012-2023
+S26	ai_measure	AI venture capital invested in the firm's country (same value for every firm in that country)
+S26	conditions	U-shape: AI hurts revenue below and helps above roughly USD 11.3M; works only when paired with own R&D; only small and medium firms benefit
+S26	notes	archival panel; instrumented estimates
+S27	sample	US firms, annual reports (10-K) 2005–2018
+S27	ai_measure	annual-report text (AI mentions classified as actionable, speculative, or irrelevant)
+S27	performance_measure	firm value (market valuation); R&D, patents, and later productivity as channels
+S27	conditions	disclosure substance decides: actionable AI disclosures bring valuation gains, innovation, and later productivity; speculative or irrelevant ones bring nothing; silent or vague peers are penalized
+S27	notes	archival panel; causal identification
+S28	sample	433 Chinese accounting professionals, survey 2023–2024
+S28	performance_measure	perceived accounting-firm performance
+S28	conditions	mediators: green human capital and green structural capital carry the effect (no direct path modeled); green relational capital channel empty; moderator: sustainability culture
+S28	notes	perceptual self-report; cross-sectional
+S29	sample	140 US retail managers; instrument built from 6,519 AI documents of 37 retailers
+S29	ai_measure	survey instrument (AI integration at task, function, and firm level)
+S29	conditions	configurational: no single AI function suffices; performance needs combinations, especially customer service and cybersecurity paired with other functions; emergent capabilities: adaptive learning, predictive analytics, uncertainty mitigation
+S29	key_finding	Retail performance comes from combinations of AI-enabled functions, not from isolated AI uses; a directly configurational result.
+S29	notes	configurational survey; two-stage instrument validation
+S30	sample	408 hotel and resort managers, India, two-wave survey
+S30	conditions	enabler: technological readiness; moderator: leader narcissism shapes the adoption drivers and the effect of generative AI on competitive positioning
+S30	notes	two-wave survey; perceptual measures
+S31	sample	33 listed semiconductor firms
+S31	performance_measure	profit, sustainability, and market-valuation efficiency
+S31	conditions	stage-specific: AI innovation lifts sustainability and market efficiency but not profit efficiency (size and leverage drive profit); firm scale raises profit efficiency yet lowers sustainability and market efficiency
+S31	notes	patent-proxy AI measure; small sample (n=33)
+S32	ai_measure	archival records (AI technology or product use identified from a commercial database)
+S32	conditions	complement: own R&D investment (AI pays off only when paired with internal R&D); AI substitutes for knowledge collaboration with certain external partners
+S32	notes	large archival panel; innovation outcome
+S33	sample	4,004 Chinese listed firms, 2011–2023
+S33	notes	archival panel; procurement-based AI measure
+S34	sample	French firms, 2019 survey on information and communication technology use
+S34	performance_measure	volatility of productivity growth (not its level)
+S34	conditions	buyers of external AI see higher productivity volatility, in-house developers none; complementary human capital (share of technology engineers and technicians) softens the buyer effect
+S34	key_finding	Off-the-shelf AI raises the riskiness of productivity outcomes; developing in-house or employing complementary technical staff neutralizes it.
+S34	notes	cross-sectional survey data; unusual volatility outcome
+S35	ca_measure	international advantage: product innovation and brand upgrading (global value-chain position)
+S35	conditions	mediator: international marketing capabilities; platform embeddedness shows inverted-U effects (depth on product innovation, breadth on brand upgrading); medium embeddedness is optimal
+S35	notes	perceptual survey; non-linear boundary conditions
+S36	sample	50 S&P 500 AI adopters plus non-adopter controls, 2010–2017
+S36	performance_measure	financial ratios, productivity, market value (Tobin's q)
+S36	conditions	indicator split: financial performance and market value improve, productivity does not; first movers show partly negative or insignificant effects (no uniform first-mover advantage)
+S36	notes	archival panel; small adopter sample (n=50)
+S37	sample	277 B2B managers, multi-country survey
+S37	conditions	moderator: ethical leadership on the adoption-to-performance path; adoption drivers and barriers: uniqueness, information completeness, convenience, deceptiveness
+S37	notes	perceptual survey; multi-country
+S38	sample	496 survey respondents plus 26 key-account-manager interviews, automobile sector
+S38	ca_measure	competitive advantage (modeled as mediator)
+S38	notes	perceptual survey; individual-level adoption antecedents
+S39	sample	335 companies across industries
+S39	conditions	mediator: marketing agility; moderator: technological turbulence amplifies the positive effects
+S39	notes	perceptual survey; cross-sectional
+S40	sample	290 HR professionals in talent acquisition, South India
+S40	notes	perceptual survey; recruitment-function focus
+S41	sample	Chinese listed companies, 2010–2022 (~22,900 firm-years)
+S41	ai_measure	annual-report text (dictionary of AI-related terms)
+S41	performance_measure	enterprise value (Tobin's q)
+S41	notes	archival panel; causal robustness checks
+S42	sample	120 AI service-failure events at US-listed companies, 2010–2024
+S42	ai_measure	announcements (AI service-failure events)
+S42	performance_measure	firm value (stock-price reaction)
+S42	conditions	small firms hit harder; losses more negative in recent years; damage ranked by failure type: accuracy worst, then safety, privacy, fairness
+S42	notes	event study; downside-risk evidence
+S43	sample	291 B2B manufacturing firms, multi-wave, multi-source survey
+S43	ai_measure	survey construct (big-data analytics assimilation and AI capabilities)
+S43	conditions	mediator: AI capabilities (big-data analytics assimilation alone is insufficient); moderator: electronic supply-chain collaboration strengthens the indirect effect
+S43	notes	perceptual survey; multi-wave, multi-source
+S44	sample	1,950 US firms, 1996–2016
+S44	ai_measure	AI hiring intensity: share of AI skills in the firm's workforce, from job postings and employee-profile (resume) data
+S44	notes	archival panel; small average effect size
+S45	sample	US firms matched to job postings, 2010–2024
+S45	ai_measure	job postings (openings combining AI skills and pricing work signal AI-pricing adoption)
+S45	notes	archival panel; novel job-postings measure
+S46	sample	1,206 UK listed tourism, travel, and hospitality firms, 2018–2024
+S46	notes	archival panel; listed firms; sectoral heterogeneity
+S47	sample	205 banking employees
+S47	ai_measure	survey construct (AI-powered CRM capability)
+S47	conditions	mediator: marketing ambidexterity (balancing exploration and exploitation) carries the effect
+S47	notes	perceptual survey; instrument-development study
+S48	sample	two cross-sectional surveys of large firms worldwide
+S48	ai_measure	survey construct (joint implementation of robotic process automation and AI)
+S48	performance_measure	revenue growth; cost reduction
+S48	conditions	combining robotic process automation and AI adds revenue growth via price increases but no extra cost reduction (each technology alone does cut costs); a strategic revenue-growth intent amplifies the revenue gains
+S48	key_finding	Combining robotic process automation and AI pays through higher revenue, not lower cost — and only for firms whose strategic intent targets growth.
+S48	notes	pre-GenAI data; cross-sectional surveys; large firms
+S49	sample	Chinese listed firms; AI pilot-zone policy as natural experiment
+S49	ai_measure	policy shock (location in a government AI pilot zone as driver of AI investment)
+S49	performance_measure	stock price crash risk; firm value
+S49	conditions	crash risk rises through lower information transparency and managerial over-optimism (mechanisms); worse for low-transparency and resource-constrained firms; value gains may reflect short-term market optimism
+S49	notes	pre-registered; quasi-experiment; archival listed firms
+S50	sample	US firms
+S50	performance_measure	investment efficiency; Tobin's q (long horizon)
+S50	conditions	mechanisms: better sales forecasts, reporting quality, and product/process innovation; exposure to data-privacy regulation weakens the effect
+S50	notes	instrumental-variable design; archival panel
+S51	sample	261 manufacturing SMEs
+S51	conditions	direct effect plus a path through more radical digital product innovation (mediator); digital sustainability leadership acts as both mediator and moderator
+S51	notes	perceptual survey; mixed methods
+S52	sample	Chinese listed manufacturing exporters, 2015-2022
+S52	ai_measure	archival AI integration measure (adoption induced by tariff exposure)
+S52	conditions	inverted U-shape: AI benefits diminish at extreme tariff exposure (an optimal investment threshold); customer engagement needs strengthen the effect; tariff exposure itself induces AI integration
+S52	notes	causal instrumental-variable design; archival panel; geopolitical setting
+S53	sample	432 European listed firms, 2015-2023 (financial firms excluded)
+S53	ai_measure	archival score of organizational AI focus (commercial database rating)
+S53	performance_measure	ROA; Tobin's q; ESG pillar scores
+S53	key_finding	Organizational AI focus goes hand in hand with better financial performance and better environmental and social sustainability scores in European listed firms.
+S53	notes	association only, no causal claim; archival panel
+S54	sample	US listed firms
+S54	ai_measure	labor-based measure (AI investment inferred from the firm's AI-related workforce)
+S54	conditions	no unconditional effect; gains only with capable managers, stronger competitive pressure, stable institutional ownership, and access to long-term debt
+S54	notes	archival panel; efficiency-score outcome
+S55	conditions	full mediation: no significant direct path; the effect runs entirely through distributive and procedural justice (fairness of outcomes and of process); supply chain complexity weakens the distributive channel but not the procedural one
+S55	notes	perceptual survey; cross-sectional
+S56	sample	223 firms, cross-industry
+S56	ai_measure	survey construct (GenAI affordances: organizational memory, collaboration, creation)
+S56	conditions	three GenAI affordances mediate between technological opportunism (a firm's readiness to seize new technology) and competitive advantage; competitive intensity amplifies only the creation-related path
+S56	key_finding	A firm's readiness to seize new technology converts into competitive advantage through what GenAI enables; under intense competition, only the creative use of GenAI keeps paying.
+S56	notes	perceptual survey; cross-sectional
+S57	sample	Chinese listed firms, 2007-2022
+S57	ai_measure	annual-report text (AI adoption from AI-related wording)
+S57	notes	archival panel; mediation design
+S58	ai_measure	annual-report text (AI keyword dictionary)
+S58	performance_measure	investment efficiency; firm value
+S58	conditions	stronger in knowledge-intensive and R&D-intensive firms and firms with sound internal controls; mechanisms: innovation capability and financial health
+S58	key_finding	AI enhances investment efficiency and firm value most where knowledge intensity, R&D and internal controls give the firm the capacity to absorb it.
+S58	notes	archival panel; mechanism analysis
+S59	ai_measure	annual-report text (frequency of AI-related keywords)
+S59	performance_measure	likelihood of M&A; long-term firm value
+S59	notes	archival panel; listed firms
+S60	sample	420 firms (survey) plus a vignette experiment with 360 managers
+S60	conditions	regulatory clarity and supportive enforcement strengthen the payoff; confirmed causally in an experiment
+S60	notes	survey plus experiment; causal evidence for the moderator
+S61	sample	312 responses from luxury hotels
+S61	notes	perceptual self-report; cross-sectional
+S62	sample	1,306 AI-scored service patents from 3,899 manufacturing firms, 1980-2020
+S62	ai_measure	patents (AI intensity of service-technology patents)
+S62	performance_measure	stock market reaction to patent grants
+S62	conditions	firm-specific stock volatility softens the negative reaction (moderator); asset tangibility does not; the effect appears only in the 2010s and 2020s
+S62	key_finding	Markets react negatively to AI-heavy service patents in manufacturing — a caution against assuming AI-based service moves create short-term market value.
+S62	notes	long archival panel; event study
+S63	sample	292 responses from 120 manufacturing firms
+S63	ai_measure	survey construct (perceptive, predictive and prescriptive AI capabilities)
+S63	performance_measure	corporate sustainability performance including an economic dimension (cost reduction, revenue from waste, spin-offs)
+S63	conditions	prescriptive (action-recommending) capabilities fail as part of the AI capability bundle; firm type is a boundary condition: strong effect for Industry 4.0 (digitally advanced) manufacturers, much weaker but not absent for traditional firms
+S63	key_finding	AI capabilities raise sustainability and economic performance mainly in digitally advanced (Industry 4.0) manufacturers; action-recommending (prescriptive) AI fails, and traditional firms barely benefit.
+S63	notes	perceptual survey; cross-sectional
+S64	sample	S&P 500 firms, 2000-2024
+S64	ai_measure	patents (AI patents granted per year)
+S64	performance_measure	ROA; firm value
+S64	conditions	small positive ROA effect, stronger for R&D-intensive firms; firm-value gains only for firms with good sustainability records; stronger under Democratic administrations (political environment as condition)
+S64	notes	long archival panel; political-context condition
+S65	sample	US firms, 2018-2023
+S65	ai_measure	disclosure-vs-patents gap (AI claims not backed by AI patents, i.e. AI washing)
+S65	performance_measure	market reactions; long-term operating performance
+S65	conditions	time path: short-lived positive investor reaction, then negative long-run stock returns and sustained underperformance; the gap between claims and patents is what drives the effect
+S65	notes	archival panel; text-classification measure
+S66	sample	419 responses from 290 manufacturing firms
+S66	notes	perceptual survey; cross-sectional
+S67	sample	357 early-stage ventures, two-wave survey
+S67	performance_measure	entrepreneurial success (survey scale)
+S67	conditions	full mediation: strategic resilience fully carries the effect of AI capability on venture success; configurational analysis finds several equally effective condition combinations for high performance
+S67	notes	multi-method; perceptual two-wave survey
+S08	conditions	stronger negative reaction for nonmanufacturing firms, weak IT capability and low credit ratings; better IT capability lessens the drop
+S44	conditions	labour productivity amplifies the growth effect; labour cost and labour share weaken it

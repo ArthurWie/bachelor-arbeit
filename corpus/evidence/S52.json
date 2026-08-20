@@ -1,0 +1,250 @@
+{
+ "study_id": "S52",
+ "document_id": 52,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "We reconceptualize induced innovation theory as adversity-induced innovation theory and test hypotheses using data from listed Chinese manufacturing firms, WTO tariff records, and customs data (2015-2022).",
+   "pdf_page": 1,
+   "supports": "Abstract names the extended induced-innovation lens and the exact sample composition (Chinese listed manufacturers, WTO tariff records, customs data 2015-2022) coded in sample/country/industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "innovation theory and test hypotheses using data from"
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "conditions"
+   ],
+   "quote": "The study extends induced innovation theory to geopolitical adversities and advances stakeholder engagement theory by identifying customer engagement as a boundary condition for technology adoption.",
+   "pdf_page": 1,
+   "supports": "Backs the second lens component (stakeholder engagement) and the coded customer-engagement boundary condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "The study extends induced innovation theory to geopolitical"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "We establish causal relationships between tariff-induced AI integration and firm performance through instrumental variable analysis and robustness checks.",
+   "pdf_page": 1,
+   "supports": "Documents the IV identification strategy behind the coded 'IV analysis' in sample and the 'Causal (IV)' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "AI integration and firm performance through instrumental variable"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "This study uses a large sample of manufacturing firms listed on China's Shanghai and Shenzhen stock exchanges from 2015 to 2022.",
+   "pdf_page": 4,
+   "supports": "Methodology section confirms Chinese listed manufacturers over 2015-2022 as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "60",
+   "ctrl_f": "This study uses a large sample of manufacturing"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We utilize the CSMAR database on firm digital transformation to construct an index measure for firm AI integration, extracting both quantitative indicators and textual information from annual reports.",
+   "pdf_page": 6,
+   "supports": "Shows the AI measure is an archival annual-report-based AI integration index, matching 'archival AI integration measure'.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.64,
+   "verdict": "verified",
+   "printed_pages": "62",
+   "ctrl_f": "We utilize the CSMAR database on firm digital"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "For hypothesis testing, we apply the following OLS regression model to examine the effect of firm tariff exposure on AI integration",
+   "pdf_page": 7,
+   "supports": "Regression models on firm-year panel data with year and industry fixed effects back the 'panel econometrics' method code.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.38,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "63",
+   "ctrl_f": "For hypothesis testing, we apply the following OLS"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "key_finding"
+   ],
+   "quote": "AI integration improves supply chain efficiency, sales performance, and market value.",
+   "pdf_page": 1,
+   "supports": "Names the three coded performance outcomes; all are performance constructs, supporting outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "AI integration improves supply chain efficiency, sales performance,"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "method"
+   ],
+   "quote": "employ a series of firm performance measures that capture supply chain efficiency, sales performance, and valuation as the dependent variable",
+   "pdf_page": 10,
+   "supports": "Results section operationalizes the coded performance measures (supply chain efficiency, sales, Tobin's Q as valuation) within OLS panel models.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "66",
+   "ctrl_f": "series of firm performance measures that capture supply"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "key_finding"
+   ],
+   "quote": "suggesting that firms exposed more to the trade war are more involved in AI integration",
+   "pdf_page": 9,
+   "supports": "H1 result showing AI integration is tariff-induced, backing the '(tariff-induced)' qualifier in ai_measure and the induction half of the key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "65",
+   "ctrl_f": "firms exposed more to the trade war are"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "However, performance benefits follow an inverted U-shape: extreme tariff exposure diminishes AI's compensatory effects.",
+   "pdf_page": 1,
+   "supports": "The inverted-U sign flip along tariff exposure is the basis for effect_direction = conditional (S26 precedent) and the coded INVERTED U condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "However, performance benefits follow an inverted"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "This finding suggests the existence of an optimal level of AI investment relative to tariff exposure, beyond which additional AI integration cannot fully offset the adverse effects of extreme tariff exposure.",
+   "pdf_page": 13,
+   "supports": "Quadratic Tobin's Q result stating the 'optimal investment threshold' recorded in conditions and grounding the conditional direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "69",
+   "ctrl_f": "the existence of an optimal level of AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Firms with higher customer engagement needs (measured through overseas sales, asset specificity, and customer concentration) respond more strongly to tariff exposure through AI integration.",
+   "pdf_page": 15,
+   "supports": "Backs the coded condition that customer engagement needs strengthen the tariff-to-AI response, including its three proxies.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "71",
+   "ctrl_f": "respond more strongly to tariff exposure through AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "Results indicate that higher tariff exposure increases AI integration, particularly among firms with stronger customer engagement needs.",
+   "pdf_page": 1,
+   "supports": "Abstract statement of the induction result plus the engagement boundary condition, matching the key_finding's first half.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "57",
+   "ctrl_f": "Results indicate that higher tariff exposure increases AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "AI integration improves firm performance up to an optimal threshold beyond which extreme tariff exposure overwhelms technological adaptation",
+   "pdf_page": 14,
+   "supports": "Paper's own summary of the central result: benefits up to a threshold where adversity overwhelms compensation — the key_finding's second half and the conditional direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "70",
+   "ctrl_f": "AI integration improves firm performance up to an"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: 'competitive advantage' appears only as rhetoric (managerial summary: 'turn geopolitical adversity into a competitive advantage'), no CA construct is measured — performance coding per case law. In quality_notes, 'Causal (IV)' is source-backed (see IV quote); 'geopolitics as condition - distinctive for discussion' is coder commentary, not evidenced from the paper."
+ },
+ "has_printed_pagination": true
+}

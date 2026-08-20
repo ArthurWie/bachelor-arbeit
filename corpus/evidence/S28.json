@@ -1,0 +1,285 @@
+{
+ "study_id": "S28",
+ "document_id": 28,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "conditions"
+   ],
+   "quote": "Drawn from the resource-based view (RBV) and knowledge-based view (KBV), sustainability culture (SUC) is integrated into the model as a moderator variable to provide an in-depth understanding of this matter.",
+   "pdf_page": 1,
+   "supports": "Abstract names RBV + KBV as the theoretical frame and SUC as the moderator condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Drawn from the resource-based view (RBV) and knowledge-based"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The analysis shows interesting outcomes: AIK positively and significantly affected the internal dimensions of GIC, green human capital (GHC) and green structural capital (GSC) within accounting firms, while green rational capital (GRC) had no effect.",
+   "pdf_page": 1,
+   "supports": "AIK works through GHC/GSC while the GRC channel is null - the paper's 'green rational capital' is the relational dimension, backing 'conditional' and the coded null channel.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The analysis shows interesting outcomes: AIK positively and"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "In turn, these two internal dimensions, GHC and GSC, had a significant impact on accounting performance across various aspects, including efficiency, accuracy, compliance with environmental standards, innovation in reporting, and timeliness.",
+   "pdf_page": 1,
+   "supports": "The outcome is accounting-firm performance with exactly the coded facets; the AI effect reaches it via the GHC/GSC mediating channels.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.81,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "In turn, these two internal dimensions, GHC and"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Intriguingly, SUC was found to significantly moderate the association between GIC dimensions and accounting firm performance.",
+   "pdf_page": 1,
+   "supports": "Backs the coded moderator: sustainability culture on the GIC->performance link.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "significantly moderate the association between GIC dimensions and"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Department of Accounting, College of Commerce and Business Administration, Dhofar University, Oman",
+   "pdf_page": 1,
+   "supports": "Author affiliations are Oman/Malaysia while the sample is Chinese - backing the quality note that affiliations are misleading about the sample country.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Department of Accounting, College of Commerce and Business"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "quality_notes"
+   ],
+   "quote": "The online survey took place from December 21, 2023 to January 7, 2024. Over 5000 invitations via online platforms were sent to Chinese panelists to participate in the study.",
+   "pdf_page": 5,
+   "supports": "Backs the coded survey window, the 5000+ invitations, the Chinese sample, and the online-panel nature of the survey.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.52,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "5",
+   "ctrl_f": "took place from December 21, 2023 to January"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "The sample was chosen randomly and fulfilled specific criteria, including accounting firms, and to be responded to by accounting professionals, such as chief financial officers (CFOs), audit managers, senior accountants, or senior auditors.",
+   "pdf_page": 5,
+   "supports": "Respondents are accounting professionals in accounting firms, backing sample and the accounting-services industry code.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "specific criteria, including accounting firms, and to be"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The survey included 461 respondents who managed to pass the screening criterion among all who took the assessment. An analysis was performed using 433 valid responses because the remaining data underwent an outlier exclusion process.",
+   "pdf_page": 5,
+   "supports": "Backs the coded 433 valid responses out of 461 screened.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "The survey included 461 respondents who managed to"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "method",
+    "outcome_construct"
+   ],
+   "quote": "The researchers used 44 indicators in an online survey to assess 6 constructs which were AI-infused knowledge and green human capital, green structural capital, green rational capital, sustainability culture and accounting performance.",
+   "pdf_page": 5,
+   "supports": "AI-infused knowledge is a survey construct, and accounting performance is the measured outcome construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "The researchers used 44 indicators in an online"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The researchers used SmartPLS variance-based partial least squares structural equation modeling (PLS-SEM) software for assessing the integrated model.",
+   "pdf_page": 7,
+   "supports": "Backs the survey-SEM method code (PLS-SEM in SmartPLS).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.9,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "The researchers used SmartPLS variance-based partial least squares"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The analysis shows that the explanatory power of the collectively direct impact of the proposed model, i.e., GHC, GSC, and GRC, as well as the moderating role of SUC, in ADP was 42 %.",
+   "pdf_page": 7,
+   "supports": "Accounting performance is predicted only by the GIC dimensions plus SUC - no direct AIK->performance path is modeled, backing 'conditional' ('ADP' is the paper's typo for ACP).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "explanatory power of the collectively direct impact of"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "However, the impact of AIK on GRC (β = 0.016; p = 0.865) within accounting firms was insignificant. Thus, H3 is rejected.",
+   "pdf_page": 7,
+   "supports": "The AIK->GRC path is null, backing the coded null relational-capital channel.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "However, the impact of AIK on GRC (β = 0.016;"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Additionally, we found that accounting firms' performance is influenced by two components of GIC, i.e., GHC (β = 0.390; p = 0.000), and GSC (β = 0.194; p = 0.005).",
+   "pdf_page": 7,
+   "supports": "Green human and structural capital are the mediating channels that carry the effect into performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.26,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "Additionally, we found that accounting firms’ performance is"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "In contrast, GRC failed to report a significant effect on accounting performance (β = 0.074; p = 0.616). Hence, H4 and H5 are accepted, while H6 is rejected.",
+   "pdf_page": 7,
+   "supports": "The GRC->performance path is also null, completing the coded 'relational capital plays no role'.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "In contrast, GRC failed to report a significant"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "ca_measure"
+   ],
+   "quote": "GHC1: The contribution of environmental protection by employees in our firm is better than our major competitors.",
+   "pdf_page": 6,
+   "supports": "GIC items are benchmarked against competitors (quality note); the competitor comparison sits in mediator items, not in a measured CA outcome construct, confirming the empty ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "by employees in our firm is better than"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "method"
+   ],
+   "quote": "The study employed a cross-sectional survey, capturing the nexuses between AI and GIC, and accounting firm performance at a single point in time.",
+   "pdf_page": 10,
+   "supports": "Authors admit the cross-sectional perceptual survey design, backing the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "survey, capturing the nexuses between AI and GIC,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Adjudicated row (brief: conditional, no direct path, GRC null, 433 China) fully matches the full text. Empty ca_measure confirmed: competitor-benchmarked wording occurs only inside GIC mediator items, no CA outcome construct. Terminology: the paper mostly writes 'green rational capital' for GRC (its own label; the relational dimension), and 'ADP'/'IAK' typos appear in the original. Quality-note word 'panel' refers to the online panelist pool, not panel data."
+ },
+ "has_printed_pagination": true
+}

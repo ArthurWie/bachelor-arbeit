@@ -1,0 +1,307 @@
+{
+ "study_id": "S09",
+ "document_id": 9,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Our guiding framework draws on both economic and marketing theory.",
+   "pdf_page": 2,
+   "supports": "Directly states the coded lens: economic + marketing theory as a guiding framework, no single grand lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1177",
+   "ctrl_f": "Our guiding framework draws on both economic and"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure"
+   ],
+   "quote": "we downloaded all the 10-K filings, excluding amended documents, from the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) website (www. sec. gov) filed for the period 2005-2019.",
+   "pdf_page": 4,
+   "supports": "EDGAR 10-K filings of US publicly traded firms 2005-2019 - backs the data source, USA, and the 10-K text basis of the AI measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.32,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1179",
+   "ctrl_f": "and Retrieval (EDGAR) website (www. sec. gov)"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We constructed the AI focus variable by searching for 122 AI-related words (reported in Internet Appendix III).",
+   "pdf_page": 5,
+   "supports": "AI measured as 10-K keyword-based AI focus - backs ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1180",
+   "ctrl_f": "We constructed the AI focus variable by searching"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We searched for the frequency of these terms in all the 10-Ks filed for the entire sample period and scaled it by the total number of words in the annual report.",
+   "pdf_page": 5,
+   "supports": "AI focus = share of AI keywords in 10-K text - backs the 'share of AI keywords' formulation.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1180",
+   "ctrl_f": "scaled it by the total number of words"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "We collected data on firm characteristics from COMPUSTAT. To measure AI, in accordance with Bodnaruk et al. (2015), we first cleaned the data to separate all the text from the annual reports.",
+   "pdf_page": 5,
+   "supports": "Backs COMPUSTAT as the firm-data source in the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.16,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1180",
+   "ctrl_f": "separate all the text from the annual reports."
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The final sample comprised 19,000 firm-year observations.",
+   "pdf_page": 5,
+   "supports": "Backs the coded n of 19,000 firm-year observations.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1180",
+   "ctrl_f": "The final sample comprised"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "Therefore, we employ a simultaneous equation framework for our empirical analysis.",
+   "pdf_page": 5,
+   "supports": "System of ten simultaneous equations on the firm-year panel - backs method = panel econometrics (simultaneous equations).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1180",
+   "ctrl_f": "Therefore, we employ a simultaneous equation framework"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "We estimate the system using three-stage least squares (3SLS) with instrumental variables to allow for the fact that regressors in one or more equation are correlated with the error terms.",
+   "pdf_page": 6,
+   "supports": "3SLS with instruments backs the econometric method and the quality note 'endogeneity addressed via instruments'.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1181",
+   "ctrl_f": "squares (3SLS) with instrumental variables to allow for"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Having validated our AI focus variable, we consider the distribution of AI focus across twelve Fama French industries.",
+   "pdf_page": 7,
+   "supports": "Sample spans twelve Fama-French industries - backs industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1182",
+   "ctrl_f": "Having validated our AI focus variable, we consider"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "we examine the link between firms' focus on AI in their 10-K reports and their gross and net operating efficiency",
+   "pdf_page": 1,
+   "supports": "Outcomes are operating-efficiency performance measures; no competitive-advantage construct - backs outcome_construct = performance and the performance_measure list.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1176",
+   "ctrl_f": "on AI in their 10-K reports and their"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "Similarly, AI focus has a negative and significant relationship with Sales/Emp, a measure of gross efficiency. However, AI focus has a positive and significant relationship with NI/30% of SGA, return on marketing investment",
+   "pdf_page": 9,
+   "supports": "Sign split across outcome components (gross efficiency negative, marketing return positive) - backs effect_direction = mixed.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1184",
+   "ctrl_f": "AI focus has a negative and significant relationship"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "AI focus has a positive and significant relationship with both NI/Sales, NI/Emp.",
+   "pdf_page": 9,
+   "supports": "Positive components (return on sales, net profit per employee) of the mixed pattern.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1184",
+   "ctrl_f": "has a positive and significant relationship with"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "We find a reduction in gross operating efficiency and an increase in net operating efficiency, suggesting that costs are increasing at a slower rate than revenue due to automation.",
+   "pdf_page": 18,
+   "supports": "The paper's own statement of the central result - backs key_finding ('automation raises costs more slowly than revenues') and the mixed direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1193",
+   "ctrl_f": "increasing at a slower rate than revenue due"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "We show how AI focus is associated with improvements in net profitability, net operating efficiency and return on marketing-related investment while reducing adspend and creating jobs.",
+   "pdf_page": 1,
+   "supports": "Abstract summary of the result set - backs key_finding and the performance_measure list (adspend, employment).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1176",
+   "ctrl_f": "We show how AI focus is associated with"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "Third, future research could test theoretically meaningful moderators.",
+   "pdf_page": 19,
+   "supports": "Moderator testing is explicitly deferred to future research - confirms conditions coded EMPTY (adjudicated: 'no moderators tested') and the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1194",
+   "ctrl_f": "Third, future research could test theoretically meaningful"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Our results should be interpreted cautiously as our conclusions are based on firms' use of 122 AI related keywords in their 10-K reports.",
+   "pdf_page": 18,
+   "supports": "Authors' own caveat that the measure is archival 10-K text (AI focus), not investment - backs the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 0.33,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1193",
+   "ctrl_f": "Our results should be interpreted cautiously as our"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "sample"
+   ],
+   "quote": "There are 1801 firms in the treatment sample and 2251 firms in the control sample.",
+   "pdf_page": 13,
+   "supports": "Backs the coded PSM robustness detail (1,801 treatment / 2,251 control firms).",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1188",
+   "ctrl_f": "There are 1801 firms in the treatment sample"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "The Cragg-Donald F-statistics are statistically significant, for all our simultaneous equations models, suggesting that the instruments are not weak.",
+   "pdf_page": 11,
+   "supports": "Backs the quality note 'endogeneity addressed via instruments (Cragg-Donald)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1186",
+   "ctrl_f": "models, suggesting that the instruments are not weak."
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "conditions EMPTY confirmed: no moderators/mediators are tested anywhere; moderator testing is explicitly deferred to future research (p. 19) - matches the adjudicated decision. ca_measure empty confirmed: 'competitiveness of firms' appears once as introduction rhetoric (p. 1), no CA construct measured. quality_notes' 'rare unconditional-evidence case for synthesis contrast group' is coder commentary, not quotable. Note: regression tables run on 15,553 observations after listwise deletion; the coded 19,000 is the paper's stated final sample size."
+ },
+ "has_printed_pagination": true
+}

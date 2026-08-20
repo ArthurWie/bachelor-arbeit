@@ -1,0 +1,274 @@
+{
+ "study_id": "S30",
+ "document_id": 30,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "conditions"
+   ],
+   "quote": "the Technological-OrganizationalEnvironmental (TOE) framework, this study further explains how narcissism moderates the relationship between the factors that assist in adopting GAI and GAI's moderating effect on the overall competitive positioning and organisational outcomes.",
+   "pdf_page": 2,
+   "supports": "Abstract names TOE plus narcissism (personality) as the coded lens and states the narcissism-moderation claim behind the coded conditions.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    2
+   ],
+   "printed_pages": "1",
+   "pdf_seq_score": 0.06,
+   "quote_original": "Employing the Technological-Organizational-Environmental (TOE) framework, this study further explains how narcissism moderates the relationship between the factors that assist in adopting GAI and GAI's moderating effect on the overall competitive positioning and organisational outcomes.",
+   "repair_note": "auto-corrected to source wording (match 98%, PDF p. 2)",
+   "ctrl_f": "narcissism moderates the relationship between the factors that"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure",
+    "performance_measure"
+   ],
+   "quote": "It investigates the implications of GAI towards the competitive advantage, firm performance, and organisation's performance.",
+   "pdf_page": 2,
+   "supports": "Both outcome constructs - competitive advantage and firm/organisational performance - are studied, backing outcome_construct 'both'.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "of GAI towards the competitive advantage, firm performance,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "The study uses longitudinal analysis to shed some light about the influences related to GAI adoption, including the level of technological readiness in the organisation, as well as certain individual traits.",
+   "pdf_page": 2,
+   "supports": "Backs the coded condition 'technological readiness (TOE driver)' and the longitudinal-design quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "analysis to shed some light about the influences"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "ca_measure",
+    "effect_direction"
+   ],
+   "quote": "H4: Intention to adopt GAI is positively related to competitive advantage",
+   "pdf_page": 7,
+   "supports": "GenAI adoption (intention) is the survey construct, hypothesized to raise the distinct competitive-advantage construct - the own-scale-plus-hypothesis requirement for coding CA.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "H4: Intention to adopt GAI is positively related"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "performance_measure",
+    "effect_direction"
+   ],
+   "quote": "H5: Intention to adopt GAI is positively related to firm performance",
+   "pdf_page": 7,
+   "supports": "Parallel hypothesis for the firm-performance construct, backing the 'both' coding and the positive direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "Intention to adopt GAI is positively related to"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "outcome_construct"
+   ],
+   "quote": "This study employs a longitudinal research design which allows tracking of generative AI's (GAI) impact on competitive advantage and firm performance over time.",
+   "pdf_page": 8,
+   "supports": "Backs the longitudinal-design quality note and the dual outcome constructs.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.92,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "design which allows tracking of generative AI’s (GAI)"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "The initial period was from November 2022 to February 2023, and the subsequent was from December 2023 to February 2024. The participants were managers (senior and middle-level employees) of hotels and resorts in India.",
+   "pdf_page": 8,
+   "supports": "Backs the two-wave design, the hotel/resort-manager sample, India, and the hospitality industry code.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.43,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "7",
+   "ctrl_f": "The initial period was from November 2022 to"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "An online survey was sent to a diverse pool of 1,487 participants from various cities across India.",
+   "pdf_page": 9,
+   "supports": "Backs the coded 1,487 invited participants in India.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "An online survey was sent to a diverse"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The survey was distributed via multiple channels such as email, LinkedIn, Facebook Pages, and WhatsApp. In the initial phase, there were 437 responses, and the second wave yielded 408 participants.",
+   "pdf_page": 9,
+   "supports": "Backs the multi-channel recruitment and the coded wave sizes n=437 (wave 1) and n=408 (wave 2).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.47,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "8",
+   "ctrl_f": "The survey was distributed via multiple channels such"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "performance_measure",
+    "ca_measure"
+   ],
+   "quote": "The items were evaluated using a five-point scale, ranging from 1 ('strongly disagree') to 5 ('strongly agree').",
+   "pdf_page": 9,
+   "supports": "All constructs, including performance and CA, are perceptual five-point survey scales - backing the 'perceptual measures' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "a five-point scale, ranging from 1 (‘strongly disagree’)"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "I used Structural Equation Modeling (SEM) with Smart PLS for this study.",
+   "pdf_page": 9,
+   "supports": "Backs the survey-SEM method code (PLS-SEM in SmartPLS).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "I used Structural Equation Modeling (SEM) with Smart"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "The R-squared (R2) values for the endogenous variables are 18%, 32%, and 32.5% for CGE, FCE, and IAI for t1 and 19%, 20.5%, 33.3%, respectively, in t2",
+   "pdf_page": 10,
+   "supports": "Competitive advantage (CGE) and firm performance (FCE) are modeled as separate endogenous constructs, backing the analytic separation behind 'both'.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "The R-squared (R2) values for the endogenous variables"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding",
+    "ca_measure"
+   ],
+   "quote": "Several reasons explain the positive correlation between enterprises' ambition to use Generative AI (GAI) and competitive advantage (H4).",
+   "pdf_page": 13,
+   "supports": "Discussion confirms the positive GAI-adoption effect on competitive advantage (H4 supported in both waves: 0.376 t1, 0.257 t2).",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "Several reasons explain the positive correlation between enterprises’"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding",
+    "performance_measure"
+   ],
+   "quote": "The positive relationship between intention to adopt GAI and firm performance (H5) shows managers' dedication to using innovative technology to improve operational efficiency, guest experiences, and performance measures.",
+   "pdf_page": 13,
+   "supports": "Discussion confirms the positive GAI-adoption effect on firm performance (H5 supported in both waves: 0.249 t1, 0.235 t2), backing effect_direction positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.39,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "12",
+   "ctrl_f": "The positive relationship between intention to adopt GAI"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "leading narcissistic leaders to play a more significant role in shaping strategic decisions regarding GAI adoption and competitive positioning",
+   "pdf_page": 13,
+   "supports": "Discussion of the t2 moderation backs the coded clause that narcissism shapes how GAI adoption translates into competitive positioning.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "leading narcissistic leaders to play a more significant"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "All columns evidenced and the adjudication fact-gap resolution (India, 1,487 invited, waves 437/408) matches the text. One wording point for the author: the coded conditions clause 'narcissism moderates adoption-factor relationships and GAI effects on competitive positioning' mirrors the paper's abstract, but Table 5 locates the significant moderation on the firm-performance side - NIM x IAI -> FCE is significant in both waves (-0.178 t1, +0.152 t2) and NIM x CGE -> FCE in t2 only, while NIM x IAI -> CGE (competitive positioning) stays non-significant (p = .075) in both waves; no interactions with the TOE adoption factors themselves were tested. Consider tightening the clause to 'narcissism moderates how adoption translates into firm performance'. Direction 'positive' is unaffected (H4/H5 positive and significant in both waves; moderators belong in conditions)."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,262 @@
+{
+ "study_id": "S39",
+ "document_id": 39,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry",
+    "ai_measure",
+    "performance_measure"
+   ],
+   "quote": "Data were collected through a survey of 335 companies across diverse industries in Australia, using validated scales for AI-based stakeholder engagement, marketing agility, firm performance and technology turbulence.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "One passage backs survey method, n=335, Australia, cross-industry scope, and the survey-scale measurement of AI engagement and firm performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Data were collected through a survey of 335"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "Partial least squares structural equation modelling was used to analyse the data.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Backs the SEM half of the coded method survey-SEM (PLS-SEM as coded in sample).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Partial least squares structural equation modelling was used"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "We, therefore, examine how AI-based stakeholder engagement functions as a capability that enhances marketing agility and ultimately contributes to firm performance.",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Shows the capability/marketing-agility framing behind the coded lens 'dynamic capabilities / marketing agility'.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "examine how AI-based stakeholder engagement functions as a"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Our theoretical framework integrates stakeholder theory and knowledge-based theory, providing a comprehensive perspective on how AI-based stakeholder engagement influences marketing agility and ultimately enhances firm performance.",
+   "pdf_page": 7,
+   "section": "2.4 Theoretical lenses and hypothesis development",
+   "supports": "The paper's own declared theories are stakeholder theory and knowledge-based theory; the coded lens condenses the agility-capability perspective instead (see row_check note).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our theoretical framework integrates stakeholder theory and knowledge-based"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The initial response pool consisted of 339 completed responses. Four responses were flagged for quality issues and subsequently excluded, leaving a final sample size of 335 participants.",
+   "pdf_page": 10,
+   "section": "3.1 Sampling design",
+   "supports": "Backs the coded final sample of 335.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The initial response pool consisted of 339 completed"
+  },
+  {
+   "fields": [
+    "industry",
+    "country_region"
+   ],
+   "quote": "Our sample includes managers from various major sectors in Australia, such as retailing, health care, IT and ICT, financial services, hospitality and construction.",
+   "pdf_page": 11,
+   "section": "3.1 Sampling design",
+   "supports": "Backs cross-industry coding and Australia as country.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our sample includes managers from various major sectors"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI-based stakeholder engagement was measured using an 11-item scale adapted from the stakeholder engagement scale developed by Hughes et al. (2022)",
+   "pdf_page": 11,
+   "section": "3.2 Measurement",
+   "supports": "Backs the coded survey construct 'AI-based stakeholder engagement'.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "engagement was measured using an 11-item scale adapted"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "To evaluate firm performance, we used a well-established scale from Jaworski and Kohli (1993), which demonstrated a Cronbach's α of 0.86, indicating high reliability.",
+   "pdf_page": 11,
+   "section": "3.2 Measurement",
+   "supports": "Backs firm performance as the survey-scale outcome, matching outcome_construct performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "To evaluate firm performance, we used a well-established"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "This scale focuses on two dimensions of the overall performance of the firm and the performance of the firm relative to its major competitors.",
+   "pdf_page": 11,
+   "section": "3.2 Measurement",
+   "supports": "Details the performance scale; the competitor-relative item sits inside the firm-performance scale, not a distinct CA construct, so the empty ca_measure stands (see note).",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "This scale focuses on two dimensions of the"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "performance_measure"
+   ],
+   "quote": "We then asked them to rate questionnaire items using a five-point Likert type scale from 1 ('strongly disagree') to 5 ('strongly agree'), based on their firms' practices.",
+   "pdf_page": 10,
+   "section": "3.1 Sampling design",
+   "supports": "Backs the 'perceptual' quality note: all constructs are manager-rated Likert perceptions.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We then asked them to rate questionnaire items"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The results indicate that engaging stakeholders through AI technologies positively influences marketing agility, which in turn enhances firm performance. These effects are amplified in conditions of high technology turbulence.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "The paper's own findings statement matches the coded key finding, the positive direction, and the turbulence-amplification condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The results indicate that engaging stakeholders through AI"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "Our findings provide compelling evidence that AI-based stakeholder engagement significantly enhances a firm's marketing agility, which in turn positively impacts overall firm performance.",
+   "pdf_page": 19,
+   "section": "5. Discussion",
+   "supports": "All modeled paths are positive and significant; marketing agility is the coded mediator condition.",
+   "tension": "The model contains no direct AI-to-performance path (only H1 AI->agility and H3 agility->performance): the performance effect exists only via the mediator, the pattern that S21/S28 precedent coded 'conditional'. Coded 'positive' follows the documented mediated-positive harmonization (every link positive, no null channel) - author should confirm.",
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "compelling evidence that AI-based stakeholder engagement significantly enhances"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The plot reveals that the positive impact of marketing agility on firm performance is amplified under conditions of high technology turbulence.",
+   "pdf_page": 17,
+   "section": "4. Results",
+   "supports": "Backs the coded condition that technological turbulence amplifies the positive effects (H4 supported).",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "positive impact of marketing agility on firm performance"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "while our crosssectional findings are valuable, future research could provide a broader perspective by examining the long-term impact of AI-based stakeholder engagement on firm performance.",
+   "pdf_page": 21,
+   "section": "5.3 Limitations and future research directions",
+   "supports": "Authors' own limitation backs the 'cross-section' quality note.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    21
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 0.07,
+   "quote_original": "while our cross-sectional findings are valuable, future research could provide a broader perspective by examining the long-term impact of AI-based stakeholder engagement on firm performance",
+   "repair_note": "auto-corrected to source wording (match 99%, PDF p. 21)",
+   "ctrl_f": "findings are valuable, future research could provide a"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "(1) effect_direction tension flagged: no direct AI->performance path is modeled; the effect runs entirely through marketing agility (all links positive, bivariate AI-FP correlation 0.326**, Table 4). Structurally this mirrors S21/S28 (coded conditional), while the mediated-positive harmonization rule supports 'positive' - author's call. (2) theoretical_lens: paper self-declares stakeholder theory + knowledge-based theory (sec. 2.4); the coded 'dynamic capabilities / marketing agility' captures the capability framing but not the paper's named theories. (3) ca_measure empty is correct: the competitor-relative item is part of the Jaworski/Kohli firm-performance scale, no distinct CA construct or hypothesis. (4) H2 (turbulence moderating AI->agility) is only 'partially supported' (CI includes zero, Table 6); coded conditions summarize amplification across both links - fine but worth knowing."
+ },
+ "has_printed_pagination": false
+}

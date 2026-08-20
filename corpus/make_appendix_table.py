@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 with open(ROOT / "corpus" / "coding_table.csv", encoding="utf-8-sig") as f:
     ROWS = list(csv.DictReader(f, delimiter=";"))
 assert len(ROWS) == 67 and all(r["coding_status"] == "final" for r in ROWS)
+ALL_ROWS = list(ROWS)  # pre-excerpt copy for validating the condensed layer
 
 # --excerpt: 25 studies for the supervisor's interim draft, best-ranked journals
 # first (AJG 4*, 4, then 3; within a rating by year/author as in the full table);
@@ -96,6 +97,49 @@ def cell(r, col):
     return readable(OVERRIDES.get((r["study_id"], col), r[col]))
 
 
+# --- condensed layer (19 Aug 2026, author's request) --------------------------
+# appendix_condensed.tsv holds hand-written, reader-facing short versions of
+# selected cells (plus "notes": short evidence tags for the Notes column in
+# A.2, derived from quality_notes). Condensed text wins over overrides/readable;
+# no entry = unchanged. Rendering only — the coded values never change.
+
+CONDENSED, NOTES = {}, {}
+_cd = ROOT / "corpus" / "appendix_condensed.tsv"
+if _cd.exists():
+    with open(_cd, encoding="utf-8") as f:
+        for row in csv.DictReader(f, delimiter="\t"):
+            if row["study_id"].startswith("#"):
+                continue
+            if row["column"] == "notes":
+                NOTES[row["study_id"]] = row["text"].strip()
+            else:
+                CONDENSED[(row["study_id"], row["column"])] = row["text"].strip()
+
+_ALL_IDS = {r["study_id"] for r in ALL_ROWS}
+_COLS = {"sample", "ai_measure", "performance_measure", "ca_measure",
+         "conditions", "key_finding"}
+bad_keys = ([k for k in CONDENSED if k[0] not in _ALL_IDS or k[1] not in _COLS]
+            + [s for s in NOTES if s not in _ALL_IDS])
+assert not bad_keys, f"invalid condensed keys: {bad_keys[:5]}"
+
+# a condensed cell may not contain a number that is absent from the coded row
+_NUM = re.compile(r"\d+(?:[.,]\d+)*")
+_BY_ID = {r["study_id"]: r for r in ALL_ROWS}
+_SRC = {"notes": "quality_notes"}
+bad_nums = []
+for (sid, col), text in (list(CONDENSED.items())
+                         + [((s, "notes"), t) for s, t in NOTES.items()]):
+    row = _BY_ID[sid]
+    for n in _NUM.findall(text):
+        if n not in row[_SRC.get(col, col)] and not any(n in v for v in row.values()):
+            bad_nums.append((sid, col, n))
+assert not bad_nums, f"numbers not in coded source: {bad_nums[:8]}"
+
+
+def cond(r, col, default):
+    return CONDENSED.get((r["study_id"], col), default)
+
+
 def esc(s):
     for a, b in [("\\", r"\textbackslash{}"), ("&", r"\&"), ("%", r"\%"), ("$", r"\$"),
                  ("#", r"\#"), ("_", r"\_"), ("{", r"\{"), ("}", r"\}"),
@@ -118,9 +162,10 @@ def study_label(r):
 def outcome_measures(r):
     parts = []
     if r["performance_measure"].strip():
-        parts.append("Perf: " + cell(r, "performance_measure").strip())
+        parts.append("Perf: " + cond(r, "performance_measure",
+                                      cell(r, "performance_measure")).strip())
     if r["ca_measure"].strip():
-        parts.append("CA: " + cell(r, "ca_measure").strip())
+        parts.append("CA: " + cond(r, "ca_measure", cell(r, "ca_measure")).strip())
     return esc("; ".join(parts))
 
 
@@ -162,7 +207,8 @@ t1 = longtable(
         r["study_id"], study_label(r),
         f"{esc(r['journal'])} ({r['ajg2024']})",
         esc(r["country_region"].split(" (")[0]),
-        esc(r["sample"]), esc(r["method"]), esc(r["ai_measure"])]),
+        esc(cond(r, "sample", r["sample"])), esc(r["method"]),
+        esc(cond(r, "ai_measure", r["ai_measure"]))]),
 )
 
 t2 = longtable(
@@ -173,8 +219,11 @@ t2 = longtable(
     rowfn=lambda r: " & ".join([
         r["study_id"], study_label(r), OC_SHORT[r["outcome_construct"]],
         outcome_measures(r), esc(r["effect_direction"]),
-        esc(cell(r, "conditions")), esc(cell(r, "key_finding"))]),
+        esc(cond(r, "conditions", cell(r, "conditions"))),
+        esc(cond(r, "key_finding", cell(r, "key_finding")))]),
 )
+# Notes column trialled and removed again (author's decision, 19 Aug 2026);
+# the notes entries stay in appendix_condensed.tsv but are not printed.
 
 # nothing coder-facing may survive into the rendered table
 LEFTOVERS = [("->", "path arrow"), ("*", "significance star"), ("n.s.", "shorthand"),
@@ -182,10 +231,43 @@ LEFTOVERS = [("->", "path arrow"), ("*", "significance star"), ("n.s.", "shortha
              ("BENCHMARK", "coder tag"), ("R2", "model fit")]
 dirty = [(r["study_id"], col, what) for r in ROWS
          for col in ("conditions", "performance_measure", "ca_measure", "key_finding")
-         for tok, what in LEFTOVERS if tok in cell(r, col)]
+         for tok, what in LEFTOVERS if tok in cond(r, col, cell(r, col))]
+dirty += [(sid, "notes", what) for sid, t in NOTES.items()
+          for tok, what in LEFTOVERS if tok in t]
 assert not dirty, f"coder shorthand left in {len(dirty)} cells: {dirty[:8]}"
 
 out = HEAD + t1 + "\n\n\\clearpage\n" + t2 + "\n" + FOOT
 (ROOT / "sections" / OUTFILE).write_text(out, encoding="utf-8")
 print("wrote sections/" + OUTFILE + ",", len(ROWS), "rows x 2 tables,",
-      len(OVERRIDES), "overrides applied")
+      len(OVERRIDES), "overrides applied,", len(CONDENSED) + len(NOTES),
+      "condensed cells")
+
+# side-by-side review of every condensed cell (author's approval record)
+if not EXCERPT and (CONDENSED or NOTES):
+    rev = ["# Appendix condensed cells — before/after review",
+           "",
+           "Derived by corpus/make_appendix_table.py. 'Before' is what the "
+           "printed table showed previously (override-cleaned where an "
+           "override exists); 'after' is the condensed cell now printed. "
+           "The coded values in coding_table.csv are unchanged.", ""]
+    for r in ALL_ROWS:
+        sid = r["study_id"]
+        ent = [(c, CONDENSED[(sid, c)]) for c in
+               ("sample", "ai_measure", "performance_measure", "ca_measure",
+                "conditions", "key_finding") if (sid, c) in CONDENSED]
+        if not ent and sid not in NOTES:
+            continue
+        rev.append(f"## {sid} — {r['authors'].split(';')[0].strip()} ({r['year']})")
+        for c, after in ent:
+            before = r[c] if c in ("sample", "ai_measure") else \
+                readable(OVERRIDES.get((sid, c), r[c]))
+            rev += [f"- **{c}**", f"  - before: {before}", f"  - after: {after}"]
+        if sid in NOTES:
+            rev += ["- **notes (NOT printed — Notes column removed by the "
+                    "author; tags kept in the layer file)**",
+                    f"  - before: {r['quality_notes']}",
+                    f"  - after: {NOTES[sid]}"]
+        rev.append("")
+    (ROOT / "corpus" / "appendix_condense_review.md").write_text(
+        "\n".join(rev), encoding="utf-8")
+    print("wrote corpus/appendix_condense_review.md")

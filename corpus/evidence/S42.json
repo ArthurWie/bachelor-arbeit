@@ -1,0 +1,257 @@
+{
+ "study_id": "S42",
+ "document_id": 42,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "These definitions emphasize the undesirable outcomes of service delivery and the mismatch between the outcomes and expectations.",
+   "pdf_page": 3,
+   "supports": "AI service failure is defined via expectation disconfirmation (outcome-expectation mismatch), backing the coded lens part 'expectation (dis)confirmation'.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "506",
+   "ctrl_f": "These definitions emphasize the undesirable outcomes of service"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "It is well documented in the information systems literature that the market value of larger firms is less adversely impacted by announcements of negative events, such as security breaches",
+   "pdf_page": 7,
+   "supports": "Hypotheses are grounded in the IS failure / security-breach event literature, backing the coded lens part 'IS failure literature'.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "It is well documented in the information systems"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "this study is the initial effort to apply signaling theory to explain the market impact of AI service failure events and empirically evaluate their impact on firm value",
+   "pdf_page": 2,
+   "supports": "The paper's own primary declared framework is signaling theory (section 2.3); included so the author can verify the coded lens label, which does not mention it.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "505",
+   "ctrl_f": "this study is the initial effort to apply"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "This study will conduct an event study of 120 AI service failure events in listed companies to evaluate the costs of such events.",
+   "pdf_page": 1,
+   "supports": "Abstract states the event study method and the 120-event sample of listed companies.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "504",
+   "ctrl_f": "This study will conduct an event study of"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Following these procedures, a total of 120 AI service failure events from 75 firms were identified between 2010 and 2024.",
+   "pdf_page": 9,
+   "supports": "Final sample of 120 events, 2010-2024, matching the coded sample period and count.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "512",
+   "ctrl_f": "these procedures, a total of 120 AI service"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "the public stock exchanges NYSE and NASDAQ, resulting in 451 events",
+   "pdf_page": 9,
+   "supports": "Backs the coded 'NYSE/NASDAQ-listed companies (from 451 initial events)' filtering step.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "512",
+   "ctrl_f": "the public stock exchanges NYSE and NASDAQ, resulting"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample",
+    "method"
+   ],
+   "quote": "In this study, we investigated the impacts of AI service failure events on firm stock value using a sample of 120 AI service failure events in publicly traded U.S. firms.",
+   "pdf_page": 23,
+   "supports": "Conclusion confirms the firms are publicly traded U.S. firms (country_region USA) and restates sample and event-study design.",
+   "tension": null,
+   "located_pdf_pages": [
+    23
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "526",
+   "ctrl_f": "impacts of AI service failure events on firm"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "To test H2, we divided the full sample into two sub-samples: technology vs non-technology firms.",
+   "pdf_page": 12,
+   "supports": "Sample spans technology and non-technology firms (82 vs 38 events), evidencing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "515",
+   "ctrl_f": "To test H2, we divided the full sample"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We checked all news announcements links of AI service failure events and used the earliest release date of news as the event date.",
+   "pdf_page": 8,
+   "supports": "The AI measure is announcement-based: news announcements of AI service failure events define the events, as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "511",
+   "ctrl_f": "We checked all news announcements links of AI"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction"
+   ],
+   "quote": "the portfolio of the firms in the sample experienced an average 1.37% decrease in their stock prices compared with their market valuations based on the CAPM model",
+   "pdf_page": 12,
+   "supports": "Outcome is firm market value via negative cumulative abnormal returns (mean CAR -1.37%, p<0.01), backing performance_measure and the negative direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "515",
+   "ctrl_f": "of the firms in the sample experienced an"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Second, small firms experience more share price declines due to AI service failure events than large firms.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'small firms hit harder' (firm size moderator, H3 supported).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "504",
+   "ctrl_f": "experience more share price declines due to AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Third, AI service failure events in more recent years have a more intensively negative impact than those in more distant years.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'recent years more negative' (event-year moderator, H4 supported).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "504",
+   "ctrl_f": "events in more recent years have a more"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "we identify different types of AI service failure and find that there are order effects on firm value across the service failure event types: accuracy > safety > privacy > fairness.",
+   "pdf_page": 1,
+   "supports": "Backs the coded failure-type order effect 'accuracy > safety > privacy > fairness' (H5 supported).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "504",
+   "ctrl_f": "identify different types of AI service failure and"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Based on the empirical analysis, we found a negative effect of AI service failure events on firm stock value.",
+   "pdf_page": 23,
+   "supports": "The paper's own conclusion of its central result: AI service failures destroy market value.",
+   "tension": null,
+   "located_pdf_pages": [
+    23
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "526",
+   "ctrl_f": "of AI service failure events on firm stock"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "First, this study is the initial effort to empirically examine market reactions to AI service failure events using the event study method.",
+   "pdf_page": 1,
+   "supports": "Backs the quality note 'unique downside-risk evidence' - the authors claim to be the first firm-value event study of AI service failures.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "504",
+   "ctrl_f": "First, this study is the initial effort to"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Three items for the author: (1) theoretical_lens - the paper's self-declared primary framework is signaling theory (own section 2.3, 'initial effort to apply signaling theory'); the coded 'expectation (dis)confirmation / IS failure literature' is supportable from the failure definition and hypothesis grounding but omits signaling theory. (2) conditions - the paper also identifies an industry-type moderator (technology firms hit harder, H2 partially supported at the [0,1] window) which is not in the coded conditions. (3) ca_measure empty is correct ('loss of competitive advantage' appears only as an unmeasured intangible-cost example); the 'SAMPLE-CHECK OK' part of quality_notes is process commentary, not source-based."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,275 @@
+{
+ "study_id": "S06",
+ "document_id": 6,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Hitt and Brynjolfsson (1997) emphasized the importance of complementary assets in explanation for substantial variations in returns when firms adopt new innovations.",
+   "pdf_page": 3,
+   "section": "2.2. AI adoption and investment in complementary technologies",
+   "supports": "Hypotheses are built on the technology-complementarity literature (complementary assets), not a grand theory - matches lens 'technology complementarity (no grand theory)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "Hitt and Brynjolfsson (1997) emphasized the importance of"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry",
+    "ai_measure"
+   ],
+   "quote": "In this study, we use a novel survey and administrative data on hightech ventures in South Korea, where AI adoption has accelerated but with considerable variation across firms.",
+   "pdf_page": 2,
+   "section": "1. Introduction",
+   "supports": "Names the setting (South Korea), the population (high-tech ventures), and the survey-plus-administrative-data design behind the AI measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.43,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "In this study, we use a novel survey"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "We conducted a survey of high-tech ventures based on a list of 1248 companies that were randomly selected and given to us by the Ministry of SMEs and Startups.",
+   "pdf_page": 4,
+   "section": "3.1. Data and sample",
+   "supports": "Backs the coded sampling frame of 1,248 firms from the ministry list.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We conducted a survey of high-tech ventures based"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "We sent out surveys to all companies in the list and over three months in 2019, we collected 300 responses (i.e., a response rate of approximately 24%).",
+   "pdf_page": 4,
+   "section": "3.1. Data and sample",
+   "supports": "Backs the coded 300 survey responses.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We sent out surveys to all companies in"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Based on these restrictions, our final sample includes 160 firms.",
+   "pdf_page": 4,
+   "section": "3.1. Data and sample",
+   "supports": "Backs the coded final n = 160.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "restrictions, our final sample includes 160 firms."
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "To ensure the representativeness of our final sample, we use the Kolmogorov-Smirnov (K -S) two-sample test to compare the sample of 160 and the full sample",
+   "pdf_page": 4,
+   "section": "3.1. Data and sample",
+   "supports": "Backs the quality note 'representativeness tested (K-S)' and the n = 160.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.11,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "of our final sample, we use the Kolmogorov-Smirnov"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes",
+    "ai_measure"
+   ],
+   "quote": "Thus, this data enables us to accurately measure financial performance and also cross-check the basic information with our survey.",
+   "pdf_page": 4,
+   "section": "3.1. Data and sample",
+   "supports": "Government financial database (SMINFO) supplies objective revenue data linked to the survey - backs 'survey + audited financials', 'linked to financial records', and 'objective revenue data'.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.3,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "measure financial performance and also cross-check the basic"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we asked respondents to rate their level of adoption in each of the three AI technologies (1 = no adoption, 2 = testing stage, 3",
+   "pdf_page": 4,
+   "section": "3.2.1. Independent variable",
+   "supports": "AI measured as survey-rated adoption intensity across NLP, CV, and ML - backs 'survey (AI-adoption intensity)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "we asked respondents to rate their level of"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "We used the average revenue growth rate as a measure of firm performance.",
+   "pdf_page": 5,
+   "section": "3.2.3. Dependent variables",
+   "supports": "Dependent variable is revenue growth as firm performance; no competitive-advantage construct is measured - backs outcome_construct = performance and performance_measure = revenue growth.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We used the average revenue growth rate as"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To mitigate this concern, we control for unobserved firm-fixed effects by performing a first-differenced regression at the firm level",
+   "pdf_page": 6,
+   "section": "4. Empirical framework",
+   "supports": "First-differenced growth regressions with firm fixed effects on 2015-2019 revenue - backs method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.33,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "To mitigate this concern, we control for"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "We find that firm revenue increases only after sufficient investment in AI, and the benefits of AI adoption are greater at firms that also invest in complementary technologies and pursue internal R & D strategy.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "The paper's own summary of its central result: intensity threshold plus complementary-technology and internal-R&D amplification - backs key_finding, conditional direction, and all three coded conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "revenue increases only after sufficient investment in AI,"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "However, low levels of AI adoption or the testing stages of AI technologies do not generate revenue growth.",
+   "pdf_page": 7,
+   "section": "5.2. AI-adoption intensity and firm performance",
+   "supports": "Null effect at low adoption intensity - the threshold pattern that grounds effect_direction = conditional and the 'AI-intensity threshold' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.83,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "However, low levels of AI adoption or the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "As column (1) indicates, the interaction term is positive at 0.637 with a standard error of 0.175.",
+   "pdf_page": 7,
+   "section": "5.3. AI adoption and complementary investments",
+   "supports": "Significant positive interaction of high AI adoption with database/cloud-computing adoption - backs the complementary-technology condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "As column (1) indicates, the interaction term is"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "we find a positive relationship between higher levels of AI adoption, and revenue growth is significant among firms that adopt more firm-specific internal R & D strategies",
+   "pdf_page": 9,
+   "section": "5.3. AI adoption and complementary investments",
+   "supports": "Subsample significance only under firm-specific internal R&D - backs the internal/exclusive R&D strategy condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.15,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "relationship between higher levels of AI adoption, and"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "our findings show that firm performance increases with the level of AI adoption, but only after sufficient investment in AI technology has been made",
+   "pdf_page": 10,
+   "section": "6. Discussion and conclusion",
+   "supports": "Conclusion restates the threshold result - backs key_finding 'AI pays off only above an adoption-intensity threshold'.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "our findings show that firm performance increases with"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: no CA construct is measured; 'enhance firm competitiveness' appears only as narrative mechanism talk in section 2.1. quality_notes' 'cross-section' is coder design description (not quotable); K-S test and objective revenue data are quoted. Note for the author: Table 4 shows a positive binary any-adoption effect (0.288**), but direction = conditional stands per the frozen threshold rule - the paper's own headline is 'only after sufficient investment' with null estimates at all low-intensity levels."
+ },
+ "has_printed_pagination": false
+}

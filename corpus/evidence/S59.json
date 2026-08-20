@@ -1,0 +1,249 @@
+{
+ "study_id": "S59",
+ "document_id": 59,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "sample",
+    "country_region",
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "Drawing on the resource based view, this study uses data from publicly listed firms in China from 2007 to 2024 to examine how artificial intelligence (AI) adoption influences M & A activity.",
+   "pdf_page": 1,
+   "supports": "Abstract names the RBV lens, the sample (Chinese publicly listed firms 2007-2024), and M&A activity as the outcome; also backs the 'RBV framing' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "based view, this study uses data from publicly"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "The initial sample is refined as follows: (1) financial firms, including banks, securities companies, and insurance institutions, are excluded",
+   "pdf_page": 4,
+   "supports": "All listed firms minus financials (47,509 firm-year observations), backing industry = cross-industry (listed firms).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The initial sample is refined as follows: (1)"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "this study develops a panel data regression model to empirically examine the relationship between firm AI adoption and M & A behavior",
+   "pdf_page": 6,
+   "supports": "Panel data regression with firm/year/industry fixed effects confirms method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.43,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "6",
+   "ctrl_f": "this study develops a panel data regression model"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Following Yao et al. (2024) and Mishra et al. (2022); we constructed a firm-level AI adoption indicator via textual analysis of annual reports from the CNINFO platform.",
+   "pdf_page": 5,
+   "supports": "Textual analysis of CNINFO annual reports following Mishra et al. 2022, as coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "Following Yao et al. (2024) and Mishra et"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We first processed these reports using the ' jieba ' Python library for Chinese word segmentation.",
+   "pdf_page": 5,
+   "supports": "The jieba segmentation step named in the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "We first processed these reports using the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "To mitigate skewness, the final AI adoption measure is the natural logarithm of the aggregated keyword frequency plus one.",
+   "pdf_page": 6,
+   "supports": "The ln(1+AI keyword frequency) operationalization named in the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "To mitigate skewness, the final AI adoption measure"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "outcome_construct",
+    "performance_measure",
+    "conditions"
+   ],
+   "quote": "We find that AI adoption significantly increases a firm ' s likelihood of pursuing M & A, with the effect especially pronounced among firms with abundant cash holdings and those operating in less developed market environments.",
+   "pdf_page": 1,
+   "supports": "Positive significant main effect on M&A likelihood; cash holdings and less-developed markets are moderators of strength, so they go to conditions while direction stays positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "We find that AI adoption significantly increases a"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "effect_direction",
+    "conditions",
+    "outcome_construct"
+   ],
+   "quote": "The relationship is also stronger for privately owned enterprises, and AI adoption is associated with improved long term firm value.",
+   "pdf_page": 1,
+   "supports": "Backs the second coded outcome (long-term firm value, positive) and the private-ownership condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "privately owned enterprises, and AI adoption is associated"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "For state-owned enterprises (SOEs), the coefficient for AI is small and statistically insignificant ( β = 0.0211, p > 0.1). Conversely, for nonSOEs, the coefficient is positive and significant at the 1% level",
+   "pdf_page": 15,
+   "supports": "Ownership heterogeneity: effect holds for non-SOEs but not SOEs, backing the coded private-ownership condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 0.67,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "For state-owned enterprises (SOEs), the coefficient for AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "indicating that the positive effect of AI is weaker in regions with higher levels of marketization",
+   "pdf_page": 8,
+   "supports": "Negative marketization moderation backs the coded condition 'less-developed market environments' (where the effect is stronger).",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "indicating that the positive effect of AI is"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "indicating that the effect of AI on M & A is significantly strengthened when cash holdings increase",
+   "pdf_page": 8,
+   "supports": "Cash-holdings moderation backs the coded condition 'abundant cash holdings'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "indicating that the effect of AI on"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct",
+    "quality_notes"
+   ],
+   "quote": "To assess the economic implications of AI-driven M & A, Table 23 examines its association with firm value (Tobin ' s Q).",
+   "pdf_page": 17,
+   "supports": "Firm value (Tobin's Q, incl. forward value in Model 67) as the value outcome; backs the 'strategic-behaviour outcome plus value' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "To assess the economic implications of AI-driven"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Our results show that AI adoption significantly drives M & A strategies.",
+   "pdf_page": 17,
+   "supports": "Conclusion's own statement of the central result: AI makes firms more acquisitive.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "Our results show that AI adoption significantly drives"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "We find this catalytic effect is heterogeneous: it is strongest in firms with substantial cash holdings, suggesting that financial slack is essential to convert technological capability into strategic action.",
+   "pdf_page": 17,
+   "supports": "The paper's own boundary statement: internal resources set the boundary of the effect, matching key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "find this catalytic effect is heterogeneous: it is"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: 'competitive advantage' appears only as RBV theory framing (p.2) and in managerial implications ('build a competitive advantage in the market for corporate control', p.17); no CA construct is measured, so performance coding is consistent with the case law. Measurement detail: the main DV is ln(1+M&A transaction value); the coded 'M&A likelihood' follows the paper's own abstract wording, and the Heckman first stage additionally models an M&A dummy (likelihood)."
+ },
+ "has_printed_pagination": true
+}

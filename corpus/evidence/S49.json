@@ -1,0 +1,310 @@
+{
+ "study_id": "S49",
+ "document_id": 49,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "the uncertainty and complexity of AI projects may amplify managerial optimism and information asymmetry, encouraging managers to withhold unfavorable information and increasing the likelihood of crashes",
+   "pdf_page": 1,
+   "supports": "The paper's framing rests on information asymmetry and managerial optimism (behavioral finance), matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "the uncertainty and complexity of AI projects may"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "This pre-registered study executes the empirical design approved in the associated pre-registered report (Bai and Zhao, 2025) to investigate the impact of artificial intelligence (AI) investment on stock price crash risk.",
+   "pdf_page": 1,
+   "supports": "Confirms the pre-registered design noted in sample and quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This pre-registered study executes the empirical design approved"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure",
+    "effect_direction"
+   ],
+   "quote": "Using China's 'New-generation Artificial Intelligence Polit Zone Policy' as a quasi-natural experiment, we find robust evidence that AI investment significantly increases firms' stock price crash risk",
+   "pdf_page": 1,
+   "supports": "Backs the quasi-natural experiment design, the China setting, the policy-shock AI measure, and the crash-risk-increasing component of the mixed direction ('Polit' is the paper's own typo).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Using China’s “New-generation Artificial Intelligence Polit Zone Policy”"
+  },
+  {
+   "fields": [
+    "method",
+    "performance_measure"
+   ],
+   "quote": "we employ a DID model based on the 'New-generation Artificial Intelligence Pilot Zone' policy launched by the Chinese government, to investigate the impact of AI investment on stock price crash risk and firm value.",
+   "pdf_page": 14,
+   "supports": "Confirms panel-econometric DID method and the two outcomes (crash risk, firm value).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "we employ a DID model based on the"
+  },
+  {
+   "fields": [
+    "method",
+    "industry"
+   ],
+   "quote": "we incorporate year, industry and city levels of fixed effects to control unobserved factors that might influence our results. Standard errors are clustered at the firm level.",
+   "pdf_page": 2,
+   "supports": "Panel-econometric specification; industry fixed effects across 25,746 firm-years indicate a cross-industry listed-firm sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "levels of fixed effects to control unobserved factors"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "our treatment group consists of firms headquartered in cities that located in AI pilot zones, while firms in non-pilot cities serve as the control group.",
+   "pdf_page": 2,
+   "supports": "Details the quasi-experimental treatment/control construction in the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "our treatment group consists of firms headquartered in"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The sample period ranges from 2011 to 2024.",
+   "pdf_page": 3,
+   "supports": "Sample window of the Chinese firm panel.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "The sample period ranges from 2011 to 2024."
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Its staggered rollout across regions and over time introduces exogenous variation in firms' AI exposure, enabling a more credible identification of the causal effects of AI investment on firm-level outcomes",
+   "pdf_page": 2,
+   "supports": "Backs the AI measure: pilot-zone policy exposure as exogenous driver of AI investment.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Its staggered rollout across regions and over time"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "we measure stock price crash risk by the negative skewness of weekly stock returns ( NCSKEW ) and the down-to-up volatility ratio ( DUVOL ), both calculated on a yearly basis.",
+   "pdf_page": 2,
+   "supports": "Defines the crash-risk performance measure; no CA construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "we measure stock price crash risk by the"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "use the market-to-book ratio and Tobin's Q as proxies for firm value.",
+   "pdf_page": 2,
+   "supports": "Defines the firm-value performance measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "use the market-to-book ratio and Tobin’s Q as"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "The coefficients on Treat × Post are positive and statistically significant across all specifications for both NCSKEW and DUVOL.",
+   "pdf_page": 3,
+   "supports": "Crash risk rises (adverse component of the mixed direction).",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "are positive and statistically significant across all specifications"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "we estimate Eq. (7) and find that the coefficients of Treat × Post are significantly positive at the 1 % level, indicating that firm value increases following the pilot AI-zone policy.",
+   "pdf_page": 12,
+   "supports": "Firm value rises (favorable component) - the valence split across the two outcomes backs effect_direction = mixed.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "we estimate Eq. (7) and find that the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "These findings support the hypothesis that AI investment increases stock price crash risk by reducing information transparency.",
+   "pdf_page": 9,
+   "supports": "Backs the coded mechanism: crash risk rises via reduced information transparency.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "These findings support the hypothesis that AI investment"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "These results indicate that heightened managerial optimism acts as an important transmission channel through which AI investment contributes to increased stock price crash risk.",
+   "pdf_page": 12,
+   "supports": "Backs the coded managerial-optimism channel.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "optimism acts as an important transmission channel through"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Cross-sectional analyses further reveal that the positive effect of AI investment on crash risk is more pronounced among firms with lower information transparency and tighter resource constraints.",
+   "pdf_page": 14,
+   "supports": "Backs the coded moderators: worse for low-transparency and resource-constrained firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "positive effect of AI investment on crash risk"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "These findings suggest an environment of excessive optimism, where the market initially overreacts to the perceived benefits of AI adoption, thereby inflating firm valuations.",
+   "pdf_page": 12,
+   "supports": "Backs the coded caveat that firm-value gains may reflect short-term market optimism.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "These findings suggest an environment of excessive optimism,"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Furthermore, we also find the policy boosts firm value, suggesting that market optimism may drive short-term valuation gains at the cost of longterm stability.",
+   "pdf_page": 1,
+   "supports": "The paper's own statement of the central trade-off in the coded key finding ('longterm' is an extraction line-merge of 'long-term').",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.92,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Furthermore, we also find the policy boosts firm"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "the coexistence of short-term valuation gains and long-term crash risk points to an important trade-off for investors and regulators.",
+   "pdf_page": 14,
+   "supports": "Conclusion restates the coded trade-off between valuation gains and long-term stability.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "short-term valuation gains and long-term crash risk points"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "One sample detail could not be evidenced from this document: 'A-share listed firms' is never stated verbatim in the executed paper - the data section defers to the pre-registered report (Bai and Zhao, 2025) for full sample details; the loaded text gives 25,746 firm-year observations, 2011-2024, Chinese firms in/outside AI pilot zones. Also, industry = 'cross-industry (listed firms)' is supported only indirectly (industry fixed effects over the full firm panel). The '(highest identification quality in corpus)' part of quality_notes is coder commentary; the source-based parts (pre-registered, quasi-experiment) are quoted. ca_measure empty confirmed - no CA construct anywhere in the paper."
+ },
+ "has_printed_pagination": true
+}

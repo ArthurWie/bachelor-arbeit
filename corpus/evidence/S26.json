@@ -1,0 +1,309 @@
+{
+ "study_id": "S26",
+ "document_id": 26,
+ "quotes": [
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "The results reveal a U-shaped relationship between AI investments and revenue growth, indicating that initial AI adoption may hinder revenue growth due to high upfront costs or inefficiencies.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "States the central U-shaped result: initial revenue drag then gains, backing key_finding and the conditional direction (sign flip).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The results reveal a U-shaped relationship between AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "integrating AI with innovation strategies substantially enhances revenue growth, highlighting that standalone AI investments are insufficient for achieving entrepreneurial success.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Backs the coded condition that coupling with R&D innovation strategy amplifies and that standalone AI is insufficient.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "with innovation strategies substantially enhances revenue growth, highlighting"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "The analysis uses an unbalanced panel dataset of 1,479 firms, applying the Cameron et al . (2011) multi-way clustering (CGM) estimation technique",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Confirms panel econometrics as method and the unbalanced 1,479-firm panel with CGM multi-way clustering in the sample string.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The analysis uses an unbalanced panel dataset of"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "After filtering missing data, the final unbalanced panel data comprises 1,479 firms and 12,942 firm-year observations. The analysis spans the period from 2012 to 2023",
+   "pdf_page": 6,
+   "section": "3.1 Sample",
+   "supports": "Confirms 1,479 firms, ~12,900 observations, and the 2012-2023 window coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "After filtering missing data, the final unbalanced panel"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "due to the unavailability of AI-related data, Lithuania is excluded, resulting in a final sample of 26 EU countries",
+   "pdf_page": 6,
+   "section": "3.1 Sample",
+   "supports": "Confirms the coded country_region of 26 EU countries.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "due to the unavailability of AI-related data, Lithuania"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "The sample encompasses firms from a diverse array of industries, including communication services, consumer discretionary, consumer staples, energy, financials, health care, industrials, information technology, materials, real estate, and utilities.",
+   "pdf_page": 6,
+   "section": "3.1 Sample",
+   "supports": "Confirms the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The sample encompasses firms from a diverse array"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "This study employs changes in revenue growth ( Δ REV_GR), calculated as the first difference of a firm's revenue growth, as the dependent variable.",
+   "pdf_page": 7,
+   "section": "3.2 Measures",
+   "supports": "Confirms firm revenue growth as the performance measure; the outcome is a performance construct, not a CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.28,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "This study employs changes in revenue growth (ΔREV_GR),"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "This study employs the log transformed VC investments in AI (AI_INV) as the main independent variable.",
+   "pdf_page": 9,
+   "section": "3.2 Measures",
+   "supports": "Confirms log AI venture-capital funding as the AI measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "This study employs the log transformed VC investments"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "quality_notes"
+   ],
+   "quote": "the measurement of AI investment relies on the logarithm of venture capital (VC) investments in AI at the country levels, as provided by the OECD AI Policy Observatory",
+   "pdf_page": 22,
+   "section": "6. Limitation and future research",
+   "supports": "Confirms the OECD AI Policy Observatory data source and is an author-admitted limitation of the AI proxy.",
+   "tension": "Coded ai_measure reads 'venture-capital funding received', but the measure is COUNTRY-level VC investment matched to firms by country of incorporation, not funding the firm itself received.",
+   "located_pdf_pages": [
+    22
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "the measurement of AI investment relies on the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI intensity (AI_INT), which represents the venture capital investment divided by the total venture capital investment in AI as well as Patent filings, which represents the count of AI related patent filings",
+   "pdf_page": 18,
+   "section": "4.2 Additional analysis and robustness test",
+   "supports": "Documents the robustness proxies: AI intensity, AI patent filings (plus AI_NUM, the number of VC investments).",
+   "tension": "Coded ai_measure lists 'AI job intensity' as a robustness proxy; the paper's robustness proxies are AI_NUM, AI_INT (investment intensity) and patent filings — no job-based measure is used.",
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "AI intensity (AI_INT), which represents the venture capital"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "quality_notes"
+   ],
+   "quote": "Industry level venture capital (VC) investment in AI across countries was selected as the instrument for this analysis.",
+   "pdf_page": 16,
+   "section": "4.2 Additional analysis and robustness test",
+   "supports": "Confirms the industry-level IV noted in ai_measure and the '2SLS-IV robustness' part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Industry level venture capital (VC) investment in AI"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "The findings reveal an initially negative relationship between AI_INV and Δ REV_GR, while AI_INV 2 shows a positive and significant association at a 5% level of significance.",
+   "pdf_page": 11,
+   "section": "4.1 Descriptive statistics and main results",
+   "supports": "The negative linear plus positive quadratic term is the U-shape sign flip that grounds the conditional direction coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.37,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "The findings reveal an initially negative relationship between"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Economically, based on the regression estimates in Model 5, the turning point is observed at a log AI investment value of approximately 2.425",
+   "pdf_page": 14,
+   "section": "4.1 Descriptive statistics and main results",
+   "supports": "Confirms the Model 5 turning point underlying the coded quantified threshold (coefficients -0.679 linear / +0.140 quadratic appear in Table 4, Model 5).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Economically, based on the regression estimates in Model"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "corresponding to approximately USD 11.3 million in AI-related venture funding. This suggests that firms investing below this level may face short term performance declines, while those exceeding this threshold begin to realise the long-term benefits",
+   "pdf_page": 14,
+   "section": "4.1 Descriptive statistics and main results",
+   "supports": "Confirms the quantified USD 11.3M threshold and the below-drag/above-gain pattern coded in conditions and key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "approximately USD 11.3 million in AI-related venture funding."
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "showing a U-shaped relationship between AI investments and revenue growth, and a significant positive effect of the interaction between AI and R&D on revenue growth. However, for large firms, no significant relationships were observed.",
+   "pdf_page": 14,
+   "section": "4.2 Additional analysis and robustness test",
+   "supports": "Confirms the AI x R&D interaction as a condition; also documents a firm-size split of the effect.",
+   "tension": "The paper identifies firm size as an additional moderator (U-shape and AI x R&D significant only for small/medium firms, null for large firms) — not listed in the coded conditions.",
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "showing a U-shaped relationship between AI investments and"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Resource Based Theory (RBT) suggests that a firm's resources and capabilities are critical for achieving competitive advantage and sustaining long-term success (Barney, 2001).",
+   "pdf_page": 4,
+   "section": "2.2 Theoretical framework and hypotheses",
+   "supports": "Shows the paper's explicit theoretical framework (RBT, extended by Dynamic Capabilities Theory on the same page).",
+   "tension": "Coded theoretical_lens is 'none explicit (entrepreneurship/innovation economics)', but the paper states an explicit RBT + Dynamic Capabilities framework (Section 2.2) and claims contributions to both.",
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Resource Based Theory (RBT) suggests that a firm’s"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "This study makes several important contributions to the RBT and the DCT.",
+   "pdf_page": 20,
+   "section": "5.1 Theoretical contributions",
+   "supports": "The paper frames its contribution explicitly within RBT and Dynamic Capabilities Theory.",
+   "tension": "Same as above: coded lens 'none explicit' conflicts with the paper's explicit RBT/DCT framing.",
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "This study makes several important contributions to the"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Three points for the author: (1) theoretical_lens coded 'none explicit' although the paper has an explicit RBT + DCT framework (Section 2.2, Section 5.1); (2) ai_measure details: the VC funding proxy is country-level (matched by country of incorporation), not funding 'received' by the firm, and the robustness proxy is AI investment intensity/patents, not 'AI job intensity'; (3) coded conditions omit the firm-size moderator (effects significant only for small/medium firms). ca_measure emptiness confirmed — competitive advantage appears only as RBT framing/conclusion rhetoric, no CA construct is measured. quality_notes part 'investment timing as condition - direct RQ fit' is coder commentary, not source-based; 'IV + clustering robustness' is evidenced. Adjudicated direction=conditional (U-shape sign flip) left untouched per case law."
+ },
+ "has_printed_pagination": false
+}

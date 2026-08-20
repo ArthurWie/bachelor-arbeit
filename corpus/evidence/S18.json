@@ -1,0 +1,212 @@
+{
+ "study_id": "S18",
+ "document_id": 18,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "The Supply Chain Operations Reference (SCOR) model guided the entire study and the analysis of the results by targeting specific processes.",
+   "pdf_page": 2,
+   "supports": "Backs the coded SCOR process framework as the study's organizing lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.86,
+   "verdict": "verified",
+   "printed_pages": "3333",
+   "ctrl_f": "Operations Reference (SCOR) model guided the entire study"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "To this end, it conducts a multiple case study with semi-structured interviews in six companies, totalling 17 implementation cases.",
+   "pdf_page": 2,
+   "supports": "Backs method = case study and the coded sample (6 companies, 17 AI implementation cases, semi-structured interviews).",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3333",
+   "ctrl_f": "To this end, it conducts a multiple case"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure"
+   ],
+   "quote": "It analyses empirical data concerning 17 applications of AI to the SCOR processes within six Italian companies.",
+   "pdf_page": 22,
+   "supports": "Backs the Italian setting, the 6-firm/17-case sample, and AI measured as observed applications in SCOR processes.",
+   "tension": null,
+   "located_pdf_pages": [
+    22
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3353",
+   "ctrl_f": "empirical data concerning 17 applications of AI to"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "A total of six Italian companies were selected.",
+   "pdf_page": 13,
+   "supports": "Direct statement of country = Italy and the six-firm sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3344",
+   "ctrl_f": "A total of six Italian companies were selected."
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "The complete list of companies operating in the Italian manufacturing and service industries was extracted from the database 'AIDA'",
+   "pdf_page": 13,
+   "supports": "Backs the manufacturing/supply-chain industry coding; the six selected cases (Table 3) are manufacturing, textile, and oil-and-gas firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.47,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3344",
+   "ctrl_f": "The complete list of companies operating in the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "the focus of this study and the unit of analysis is the AI application",
+   "pdf_page": 13,
+   "supports": "AI is captured as case observation of concrete AI applications, matching the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3344",
+   "ctrl_f": "the focus of this study and the unit"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The results highlighted how AI methods in OSCM can increase the companies' competitiveness by reducing costs and lead times and improving service levels, quality, safety, and sustainability.",
+   "pdf_page": 2,
+   "supports": "Backs the coded qualitative outcome list (costs, lead times, service level, quality, safety, sustainability) and the positive direction; per adjudication, 'competitiveness' here means operational improvements = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3333",
+   "ctrl_f": "The results highlighted how AI methods in OSCM"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "Artificial intelligence (AI) is increasingly considered a source of competitive advantage in operations and supply chain management (OSCM).",
+   "pdf_page": 2,
+   "supports": "The only CA language is framing rhetoric in the opening sentence; no CA construct is measured, backing outcome_construct = performance (adjudicated) and ca_measure = empty.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3333",
+   "ctrl_f": "Artificial intelligence (AI) is increasingly considered a source"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "AI projects that have been implemented by companies have had an impact on reducing costs and improving the efficiency of production processes",
+   "pdf_page": 21,
+   "supports": "The discussion states across-case positive operational effects, backing effect_direction = positive with barriers relegated to conditions per adjudication.",
+   "tension": null,
+   "located_pdf_pages": [
+    21
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3352",
+   "ctrl_f": "projects that have been implemented by companies have"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "barriers in the implementation of AI, such as ensuring data quality, lack of specific skills, need for high investments, lack of clarity on economic benefits and lack of experience in cost analysis for AI projects",
+   "pdf_page": 2,
+   "supports": "Backs the coded barrier conditions verbatim (data quality, AI skills, investment needs, unclear economic benefits, cost-analysis inexperience) and the key finding's dependency clause.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3333",
+   "ctrl_f": "barriers in the implementation of AI, such as"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results of this study underlined nine main barriers tackled by companies when implementing AI projects, belonging to the financial, organisational, strategic, and technological categories.",
+   "pdf_page": 19,
+   "supports": "Results chapter confirms barriers as identified boundary conditions of AI benefit realization.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 0.36,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3350",
+   "ctrl_f": "The results of this study underlined nine main"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "it is a qualitative methodology based on a limited set of companies, which makes it possible to deeply analyse cases but difficult to generalise the results obtained",
+   "pdf_page": 23,
+   "supports": "The authors' own limitation statement backs the quality note that generalization is explicitly disclaimed.",
+   "tension": null,
+   "located_pdf_pages": [
+    23
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3354",
+   "ctrl_f": "methodology based on a limited set of companies,"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure = empty confirmed: 'competitive advantage' appears only as framing in the abstract's opening; the measured outcomes are operational improvements (adjudicated to performance/positive). Coded industry 'manufacturing / supply chain' is consistent with Table 3 (five manufacturing-type firms plus textile and oil-and-gas)."
+ },
+ "has_printed_pagination": true
+}

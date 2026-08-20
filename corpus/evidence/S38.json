@@ -1,0 +1,284 @@
+{
+ "study_id": "S38",
+ "document_id": 38,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "While factors were identified based on the qualitative study, the theoretical background of the study was based on Big-five personality model, TOE model and RBV of the firm.",
+   "pdf_page": 4,
+   "supports": "Names the Big-five personality (trait) model as core theory; the coded lens condenses this (paper additionally names TOE and RBV).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "546",
+   "ctrl_f": "theoretical background of the study was based on"
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "quality_notes",
+    "outcome_construct"
+   ],
+   "quote": "How the Big-five personality traits of key account managers are affecting the adoption of AI technologies which simultaneously impact the competitive advantage and firm performance?",
+   "pdf_page": 3,
+   "supports": "RQ1 shows the trait-theory + KAM lens and the individual-level antecedents to firm-level CA and performance outcomes noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "545",
+   "ctrl_f": "How the Big-five personality traits of key account"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "A mixed-method analysis was used to conduct the study.",
+   "pdf_page": 1,
+   "supports": "The paper's own label for its design backs method = mixed.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "543",
+   "ctrl_f": "A mixed-method analysis was used to conduct the"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "industry"
+   ],
+   "quote": "In the first phase, an exploratory study was conducted using interviews with 26 key account managers from the automobile industry and thematic analysis to establish 9 constructs.",
+   "pdf_page": 1,
+   "supports": "Backs Phase 1 of the coded sample (26 KAM interviews, automobile).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "543",
+   "ctrl_f": "phase, an exploratory study was conducted using interviews"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "In the second phase, which is a confirmatory study, 496 respondents finally responded to the questionnaire.",
+   "pdf_page": 1,
+   "supports": "Backs Phase 2 of the coded sample (survey n=496, analyzed with SEM).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "543",
+   "ctrl_f": "In the second phase, which is a"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "Many of the respondents suggested that their organisation was able to perform better and beat the competition due to timely adoption of newer technologies, like AI based technologies.",
+   "pdf_page": 5,
+   "supports": "Phase 1 interviews also carry outcome-relevant qualitative evidence, consistent with coding the study mixed rather than survey-SEM only.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "547",
+   "ctrl_f": "suggested that their organisation was able to perform"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "The data for the qualitative study was collected from National Capital Region of India from the managers working with original equipment manufacturers (OEMs) of automobile industry.",
+   "pdf_page": 5,
+   "supports": "Backs India as country and automobile (OEM, B2B/KAM) as industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "547",
+   "ctrl_f": "The data for the qualitative study was collected"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Of over 2,500 people who were contacted, 496 participants provided their consent to be the respondents in the study by fulfilling the necessary documentation and submitting their responses.",
+   "pdf_page": 10,
+   "supports": "Backs the coded Phase 2 survey sample of n=496.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "552",
+   "ctrl_f": "who were contacted, 496 participants provided their consent"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "ca_measure",
+    "performance_measure"
+   ],
+   "quote": "The questionnaire underwent adaptation and customisation to ensure its alignment with the specific context of the KAMs intention to adopt AI technologies and how it is affecting the competitive advantage and firm performance.",
+   "pdf_page": 9,
+   "supports": "Shows AI adoption, competitive advantage, and firm performance are all measured as survey constructs.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "551",
+   "ctrl_f": "and customisation to ensure its alignment with the"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct",
+    "conditions"
+   ],
+   "quote": "The study used competitive advantage as a mediator and organisational culture as a moderator.",
+   "pdf_page": 1,
+   "supports": "Backs ca_measure as a distinct construct modeled as mediator and org culture as the coded moderator; with firm performance also measured, outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "543",
+   "ctrl_f": "The study used competitive advantage as a mediator"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "conditions"
+   ],
+   "quote": "Competitive advantage has a mediating influence on adoption of AI technologies and firm performance.",
+   "pdf_page": 8,
+   "supports": "Hypothesis H9 shows CA is an own construct with its own hypothesis (adjudication: CA = own mediator construct, H9), backing the coded mediation condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "550",
+   "ctrl_f": "Competitive advantage has a mediating influence on"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Based on the findings shown in Table 6, there is a positive and statistically significant relationship between all the variables. Therefore, the evidence supports H1 to H8.",
+   "pdf_page": 11,
+   "supports": "All hypothesized paths, including AI adoption to CA (H6) and to firm performance (H7), are positive and significant, backing effect_direction positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "553",
+   "ctrl_f": "shown in Table 6, there is a positive"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "The results suggest that CMA has a role in partially mediating the relationship between AAT and FMP.",
+   "pdf_page": 11,
+   "supports": "Partial mediation means the direct AI-performance path stays significant (0.167), so positive stands per the main-effect rule; mediation goes to conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "553",
+   "ctrl_f": "suggest that CMA has a role in partially"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The findings indicate that ORC does have a moderating effect on the association between AGR and AAT",
+   "pdf_page": 11,
+   "supports": "Backs the coded condition that organizational culture moderates only the agreeableness-to-adoption link.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "553",
+   "ctrl_f": "does have a moderating effect on the association"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "Extraversion, agreeableness, conscientiousness, neuroticism and openness have substantial links to adopting AI technologies, which impacts firms' competitive advantage and performance. Organisational culture significantly moderates the association between agreeableness and the adoption of AI technologies.",
+   "pdf_page": 1,
+   "supports": "The paper's own findings statement matches the coded key finding: traits drive adoption, which lifts CA and performance, with culture conditioning one path.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "543",
+   "ctrl_f": "substantial links to adopting AI technologies, which impacts"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "country_region",
+    "industry"
+   ],
+   "quote": "data was gathered from key account managers used inside the Indian automotive sector. Hence, the conclusions derived from this study lack generalizability to other industries",
+   "pdf_page": 16,
+   "supports": "Authors' own limitation confirms the Indian automotive KAM setting and its scope limits.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "558",
+   "ctrl_f": "data was gathered from key account managers used"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All coded columns evidenced. theoretical_lens 'trait theory + KAM' is a condensation: the paper itself names Big-five personality model, TOE, and RBV (quote p.4). 'perceptual' in quality_notes is coder shorthand for the survey scales (questionnaire quote p.9). method=mixed was spot-checked OK in adjudication; the Phase 1 outcome-relevant testimony (quote p.5) is consistent with the mixed label under the multiple-strands rule."
+ },
+ "has_printed_pagination": true
+}

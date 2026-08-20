@@ -1,0 +1,267 @@
+{
+ "study_id": "S15",
+ "document_id": 15,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "ai_measure",
+    "outcome_construct"
+   ],
+   "quote": "Drawing on the dynamic capability view and resource-based view, this study investigates the relationship among artificial intelligence (AI)-based partner relationship management, firm performance, and sustainable competitiveness concerning the climate management of business-to-business (B2B) firms.",
+   "pdf_page": 1,
+   "supports": "Abstract names DCV + RBV (theoretical_lens), AIPRM as the AI construct, and the two outcomes (firm performance and sustainable competitiveness) coded as outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.74,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "Drawing on the dynamic capability view and resource-based"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "industry"
+   ],
+   "quote": "A mixed-methods approach was employed that involves in-depth interviews with senior managers from a diverse set of B2B firms",
+   "pdf_page": 1,
+   "supports": "Confirms method = mixed and the interview component of the coded sample; 'diverse set of B2B firms' backs industry = cross-industry (B2B).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "employed that involves in-depth interviews with senior managers"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "the proposed hypothesis model was evaluated by analysing the collected B2B data of 142 responses using partial least squares structural equation modelling",
+   "pdf_page": 1,
+   "supports": "Confirms the quantitative strand: PLS-SEM on 142 responses, as coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "proposed hypothesis model was evaluated by analysing the"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "The findings of the study show that information communication technology capability and technological readiness play a significant role in improving the performance of AIbased partner relationship management.",
+   "pdf_page": 1,
+   "supports": "Backs the 'provided ICT capability and technological readiness are in place' clause of key_finding and the two prerequisite conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.85,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "The findings of the study show that information"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "Furthermore, the implementation of AI-based partner relationship management in B2B firms would help partner engagement and information processing systems for climate management, leading to sustainable firm competitiveness.",
+   "pdf_page": 1,
+   "supports": "Abstract's statement of the central positive result chain ending in sustainable competitiveness, backing key_finding and the CA half of outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "management in B2B firms would help partner engagement"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the study additionally explored the impact of several other dimensions, including information communication technology capability, firm fit, and technological readiness, as fundamental requirements for the implementation of AI-based partner relationship management",
+   "pdf_page": 1,
+   "supports": "Names all three coded conditions (ICT capability, technological readiness, firm fit) as fundamental requirements/prerequisites.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "510",
+   "ctrl_f": "the study additionally explored the impact of several"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "The term ' sustainable competitiveness ' refers to a company's capacity to fulfil the demands of current shareholders without jeopardising future generations' ability to do the same",
+   "pdf_page": 2,
+   "supports": "The paper's definition of the sustainable-competitiveness construct coded as ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.62,
+   "verdict": "verified",
+   "printed_pages": "511",
+   "ctrl_f": "refers to a company's capacity to fulfil the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "information and communication technology capability, firm technological readiness, and firm fit are prerequisite to implementing AIPRM as all three of them positively affects AIPRM",
+   "pdf_page": 4,
+   "supports": "Table 1's own summary of the present study: the three coded conditions are prerequisites with positive effects on AIPRM.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "513",
+   "ctrl_f": "readiness, and firm fit are"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "The data were collected from January to March of 2023, focusing on Indian B2B firms that use information and communication technology capabilities for decision-making related to AIPRM.",
+   "pdf_page": 7,
+   "supports": "Confirms country_region = India and the survey population of the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "516",
+   "ctrl_f": "The data were collected from January to March"
+  },
+  {
+   "fields": [
+    "industry",
+    "ai_measure"
+   ],
+   "quote": "The researchers used a structured study questionnaire to gather data from organisations that have implemented climate-focused initiatives, including the adoption of environmentally friendly technology and the integration of AI-enabled services into their B2B firms' operations.",
+   "pdf_page": 7,
+   "supports": "Backs the climate-management B2B context coded in industry and the survey-based AI implementation measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "516",
+   "ctrl_f": "questionnaire to gather data from organisations that have"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions"
+   ],
+   "quote": "the selected items were used as follows: information and communication technology capabilities (4 items), B2B firm technological readiness (4 items), B2B firm fit (4 items), artificial intelligence partner relationship management (4 items)",
+   "pdf_page": 7,
+   "supports": "Shows AIPRM is measured as a 4-item survey construct (ai_measure) alongside the three condition constructs.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.53,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "516",
+   "ctrl_f": "the selected items were used as follows: information"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "B2B firms' partner engagement for climate management (4 items), B2B firms' information processing for climate management (4 items), B2B firm performance (5 items), and B2B firm sustainable competitiveness (5 items)",
+   "pdf_page": 7,
+   "supports": "Shows firm performance and sustainable competitiveness are separate multi-item survey scales, backing performance_measure, ca_measure, and outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "516",
+   "ctrl_f": "engagement for climate management (4 items), B2B firms'"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "As a result of the fact that the β value for each of the hypotheses is positive, with corresponding p values of lower than 0.05, we may conclude that all eight hypotheses can be accepted.",
+   "pdf_page": 11,
+   "supports": "All eight paths positive and significant, backing effect_direction = positive.",
+   "tension": "The model contains no direct AIPRM->firm-performance path: AIPRM reaches FP only via the mediators partner engagement (H4/H6) and information processing (H5/H7), and SC only via FP (H8). Under the frozen 'no direct path modeled' precedent (S21, S28) this pattern could argue for conditional; unlike those cases, however, every path here is positive and significant, which supports the final coding of positive with the prerequisites recorded in conditions.",
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.44,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "520",
+   "ctrl_f": "As a result of the fact that the"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "We believe that AIPRM is helping the company expand financially.",
+   "pdf_page": 10,
+   "supports": "Example firm-performance item (FP5) showing the outcome is a perceptual survey scale, backing 'perceived firm performance' and the 'perceptual' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "519",
+   "ctrl_f": "AIPRM is helping the company expand"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "the current research focuses only on the external elements that influence adoption and implementation; no consideration is given here to the internal aspects that may affect a company's capacity to build AIPRM capabilities",
+   "pdf_page": 14,
+   "supports": "Authors' own limitation statement, source-based support for quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 0.62,
+   "verdict": "verified",
+   "printed_pages": "523",
+   "ctrl_f": "current research focuses only on the external elements"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "All non-empty columns evidenced. Two points for the author: (1) tension flagged on the effect_direction quote — the structural model has no direct AIPRM->performance path (serial mediation via partner engagement and information processing, Table 6 p.12), which resembles the S21/S28 'no direct path modeled -> conditional' precedent, though here all eight paths are positive and significant; relatedly, the mediators FPE/FIP are not listed in conditions (only the three prerequisites are). (2) method = mixed rests on Section 3.1 (p.6): the interview stage 'critically examin[ed] the study's hypotheses' with 'widespread agreement', i.e., it carried some evidential weight beyond instrument piloting — consistent with the mixed coding under the case law, but worth a look since the pilot-phase wording also mentions questionnaire refinement. Cross-industry is additionally supported by Table 3 (p.10): IT services and consulting, logistics, finance and banking, manufacturing."
+ },
+ "has_printed_pagination": true
+}

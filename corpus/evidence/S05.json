@@ -1,0 +1,351 @@
+{
+ "study_id": "S05",
+ "document_id": 5,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Teece (2007) explained and distinguished dynamic capabilities into three specific dimensions to sustain competitive advantage: (a) market sensing capacity to identify opportunities and threats; (b) market seizing capacity to grab those opportunities",
+   "pdf_page": 3,
+   "supports": "Backs the coded lens: dynamic capabilities specified as sensing/seizing/reconfiguring (sentence continues with the reconfiguring dimension).",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.53,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "242",
+   "ctrl_f": "advantage: (a) market sensing capacity to identify opportunities"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Further, as part of study 1, in study 1b, interviews were conducted on 25 managers of manufacturing firms based on a judgemental sampling technique to verify the problem.",
+   "pdf_page": 4,
+   "supports": "Interviews served only problem verification, not outcome evidence — backs the adjudicated method = survey-SEM (not mixed) and the 'interviews developmental' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "243",
+   "ctrl_f": "Further, as part of study 1, in study"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Further, two Delphi studies were conducted to conceptualize the research model.",
+   "pdf_page": 7,
+   "supports": "Delphi rounds only for model conceptualization — developmental, so the study is not mixed-method per the frozen method rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "246",
+   "ctrl_f": "Further, two Delphi studies were conducted to conceptualize"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "Qualtrics version of the questionnaire link was distributed via the research firm's database using the random sampling technique.",
+   "pdf_page": 9,
+   "supports": "Backs the coded research-firm panel/Qualtrics survey with random sampling.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "Qualtrics version of the questionnaire link was distributed"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "In total, 1953 managers were approached.",
+   "pdf_page": 9,
+   "supports": "Backs the coded 1,953 approached.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "1953 managers were approached."
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "1675 managers were screened out in this process, and 278 managers were qualified for the final steps.",
+   "pdf_page": 9,
+   "supports": "Backs the coded 278 qualified.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "1675 managers were screened out in this"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "After investigating the odd cases, the authors finally considered 257 responses for data analysis.",
+   "pdf_page": 9,
+   "supports": "Backs the coded 257 usable responses (the n behind the PLS-SEM test).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "After investigating the odd cases, the authors"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "In study 5a, we were able to obtain data from a subsample of 93 participants three months after study 4 (response rate 31.3%).",
+   "pdf_page": 10,
+   "supports": "Backs the coded time-lagged robustness subsample n = 93.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "249",
+   "ctrl_f": "In study 5a, we were able to obtain"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "the authors recruited one of the top research firms to collect data from managers of export-oriented RMG manufacturing",
+   "pdf_page": 8,
+   "supports": "Main survey population = export-oriented RMG manufacturers via a research firm, backing sample and industry.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    8
+   ],
+   "printed_pages": "247",
+   "pdf_seq_score": 1.0,
+   "quote_original": "In study 4a, the authors recruited one of the top research firms to collect data from managers of export-oriented RMG manufacturing firms.",
+   "repair_note": "manually corrected to source wording (trimmed to contiguous verbatim text (running head interrupts the sentence in the extraction))",
+   "ctrl_f": "the authors recruited one of the top research"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "To authenticate the problem more precisely, the study considered a country -Bangladesh, which heavily relies on RMG manufacturing and export.",
+   "pdf_page": 4,
+   "supports": "Backs country_region = Bangladesh and the readymade-garment export-manufacturing industry setting.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "243",
+   "ctrl_f": "To authenticate the problem more precisely, the study"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "The PLS algorithm verifies the reliability of the model construction.",
+   "pdf_page": 9,
+   "supports": "PLS(-SEM) is the analysis technique, backing method = survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "The PLS algorithm verifies the reliability of the"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "The adoption of artificial intelligence moderates the relationship between marketing analytics capability and (a) market sensing (b) market seizing and (c) market reconfiguring.",
+   "pdf_page": 7,
+   "supports": "H4a-c: AI adoption is modeled as moderator on the analytics platform, not the focal predictor — backs ai_measure, the coded moderator condition, and the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "246",
+   "ctrl_f": "relationship between marketing analytics capability and (a) market"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction",
+    "ai_measure"
+   ],
+   "quote": "moderator findings show AI adoption moderates the relationship of MAC-MSN ( β = 0.104, p < 0.05), MAC-MSI ( β = 0.131, p < 0.05), and MAC-MRN ( β = 0.128, p < 0.05).",
+   "pdf_page": 10,
+   "supports": "Exact moderation coefficients coded in conditions (0.104*/0.131*/0.128*); effects operate only through the capability paths, supporting effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "249",
+   "ctrl_f": "adoption moderates the relationship of MAC-MSN (β = 0.104, p"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "the mediator analysis of MAC-MSN-SCA ( β = 0.243, p < 0.001), MAC-MSI-SCA ( β = 0.160, p < 0.01), and MAC-MRN-SCA ( β = 0.150, p < 0.01) confirms the significant effect.",
+   "pdf_page": 10,
+   "supports": "Sensing/seizing/reconfiguring carry the MAC->SCA relationship (H3a-c); no direct MAC->SCA path is modeled — effect exists only via mechanism, backing effect_direction = conditional per the frozen rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    9,
+    10,
+    11
+   ],
+   "pdf_seq_score": 0.89,
+   "verdict": "verified",
+   "printed_pages": "248–250",
+   "ctrl_f": "0.160, p < 0.01), and MAC-MRN-SCA (β = 0.150, p < 0.01)"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure",
+    "performance_measure"
+   ],
+   "quote": "Using market-centric analytics capacity, how well has your firm performed its _____________ goals relative to competitors in the last three years?",
+   "pdf_page": 9,
+   "supports": "SCA scale stem (Table 2): outcome measured as performance RELATIVE to competitors over the last three years — backs outcome_construct = competitive_advantage, the coded boundary-case ca_measure, and confirms performance_measure is correctly empty (no separate performance construct).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "248",
+   "ctrl_f": "Using market-centric analytics capacity, how well has your"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "These initiatives will anticipate enhancing market share growth, sales growth, profitability, and good return on investment to attain a sustained competitive advantage.",
+   "pdf_page": 12,
+   "supports": "Names the four SCA indicators coded in ca_measure (market share growth, sales growth, profitability, ROI; items SCA1-SCA4 in Table 2).",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "251",
+   "ctrl_f": "return on investment to attain a sustained competitive"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "outcome_construct",
+    "quality_notes"
+   ],
+   "quote": "Utilizing multi-phase research design, the study reveals that firms marketing analytics capability play a vital role in sensing, seizing, and reconfiguring the market, consequently leading to a sustained competitive advantage.",
+   "pdf_page": 1,
+   "supports": "Paper's own central result: MAC drives sensing/seizing/reconfiguring toward sustained competitive advantage; also evidences the multi-phase design noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "240",
+   "ctrl_f": "marketing analytics capability play a vital role in"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "ai_measure"
+   ],
+   "quote": "The performance of sensing, seizing, and reconfiguring becomes higher for a firm when they adopt AI on the strength of the marketing analytics platform.",
+   "pdf_page": 1,
+   "supports": "Backs the key_finding clause that AI adoption amplifies the effect only on top of the analytics foundation, and the coded AI-as-moderator condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.25,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "240",
+   "ctrl_f": "when they adopt AI on the strength of"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "we co-related the items ' Using market-centric analytics capacity, how well has your firm performed its market share growth goals ' with ' the percentage of market share growth ' generates a strong positive correlation ( r = 0.67)",
+   "pdf_page": 10,
+   "supports": "Backs the quality note: perceptual measures cross-checked against near-objective data with r = 0.67.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "249",
+   "ctrl_f": "growth goals” with “the percentage of market share"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "The study analyzed self-reported managers ' data and matched responses with some close to factual information in the robustness test.",
+   "pdf_page": 13,
+   "supports": "Authors' own limitation admission backing the perceptual-measures quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "252",
+   "ctrl_f": "study analyzed self-reported managers’ data and matched responses"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced; performance_measure emptiness confirmed (the only outcome construct is the SCA scale; its relative-performance items are recorded inside ca_measure as the flagged boundary case, per S05 case law). Minor observation for the author: the paper frames its lens as 'the overarching theoretical lens of RBV and dynamic capability' (p. 4) while the coded lens names only dynamic capabilities — DC (sensing/seizing/reconfiguring) is clearly the operative theory, but RBV is co-named in the paper. Not a contradiction under the frozen rules, just wording."
+ },
+ "has_printed_pagination": true
+}

@@ -1,0 +1,280 @@
+{
+ "study_id": "S54",
+ "document_id": 54,
+ "quotes": [
+  {
+   "fields": [
+    "quality_notes",
+    "key_finding"
+   ],
+   "quote": "Conditional Gains: When AI Investment Enhances Firm Efficiency",
+   "pdf_page": 1,
+   "section": "Title",
+   "supports": "The article title literally reads 'Conditional Gains', backing the quality note's title reference and the conditional framing of the key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Conditional Gains: When AI Investment Enhances Firm Efficiency"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Using a labor-based measure of AI investment, the baseline results show no direct association between AI investment and firm efficiency.",
+   "pdf_page": 1,
+   "section": "ABSTRACT",
+   "supports": "Names the labor-based AI investment measure and the null baseline that grounds effect_direction = conditional (null-baseline rule) and the key finding's first half.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "measure of AI investment, the baseline results show"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The heterogeneity analysis indicates that efficiency gains materialize primarily when firms pair AI with capable managers, face stronger competitive pressure, have more stable institutional investor ownership, and are able to secure long-term debt.",
+   "pdf_page": 1,
+   "section": "ABSTRACT",
+   "supports": "Lists all four coded conditions (managerial ability, competition, ownership stability, long-term debt) under which gains materialize.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.03,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "analysis indicates that efficiency gains materialize primarily when"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "In this section I argue that the efficiency gains from investing in artificial intelligence (AI) are inherently uneven across firms and are based on the economic and organizational environment in which a firm operates.",
+   "pdf_page": 2,
+   "section": "2.1 | Why the Average Effect of AI on Efficiency Can Be Nil or Very Small",
+   "supports": "The paper's theoretical framing is a conditional efficiency argument without adopting a named theory, backing 'none explicit (efficiency analysis)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.29,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "In this section I argue that the efficiency"
+  },
+  {
+   "fields": [
+    "sample",
+    "performance_measure",
+    "outcome_construct",
+    "country_region"
+   ],
+   "quote": "Firm-level accounting data are drawn from Compustat, while firm efficiency is measured using the Data Envelopment Analysis (DEA) approach",
+   "pdf_page": 4,
+   "section": "3.1 | Datasets Used and Sample Selection",
+   "supports": "Confirms Compustat (US firm universe) as the sample base and DEA firm efficiency as the performance outcome.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "while firm efficiency is measured using the Data"
+  },
+  {
+   "fields": [
+    "sample",
+    "performance_measure"
+   ],
+   "quote": "All efficiency scores are subsequently normalized by the highest score within the group, producing an ordinal ranking of DMUs based on relative efficiency.",
+   "pdf_page": 4,
+   "section": "3.1.1 | Calculation of Firm Efficiency With DEA",
+   "supports": "Backs the '(normalized ratio scores)' detail of the coded DEA efficiency measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "All efficiency scores are subsequently normalized by the"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI investment is based on the share of AI-related workers in a firm",
+   "pdf_page": 4,
+   "section": "3.1 | Datasets Used and Sample Selection",
+   "supports": "Defines the labor-based AI investment measure (Babina et al. resume-based worker share) as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "AI investment is based on the share of"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "Firms operating in the financial and utilities sectors are omitted from the analysis (SIC codes 4900-4999 and 6000-6999).",
+   "pdf_page": 4,
+   "section": "3.1 | Datasets Used and Sample Selection",
+   "supports": "Cross-industry Compustat sample excluding only financials and utilities, consistent with industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "Firms operating in the financial and utilities sectors"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "After completing this process, the baseline sample comprises 51,685 firm-year observations over 1990-2018.",
+   "pdf_page": 4,
+   "section": "3.1 | Datasets Used and Sample Selection",
+   "supports": "Firm-year panel structure and sample size back the coded sample and the panel econometrics method.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "After completing this process, the baseline"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "country_region"
+   ],
+   "quote": "Their second data source is Burning Glass, which provides information on over 180 million U.S. job postings from 2010 to 2018.",
+   "pdf_page": 5,
+   "section": "3.1.2 | The AI Investment Measure",
+   "supports": "The AI measure is built from U.S. labor-market data, corroborating country_region = USA for the Compustat sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "Their second data source is Burning Glass, which"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To examine the association between AI investment and firm efficiency I use the following OLS model",
+   "pdf_page": 5,
+   "section": "3.2 | Econometric Model",
+   "supports": "OLS regressions with firm and year fixed effects on the firm-year panel back method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.81,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "To examine the association between AI investment and"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "the results indicate no statistically significant relationship between AI investment and firm efficiency in isolation. Across all model specifications, the coefficient for the AI variable is insignificant.",
+   "pdf_page": 7,
+   "section": "4 | Results",
+   "supports": "Baseline null result: no unconditional AI effect, satisfying the null-baseline rule for effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.07,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "and firm efficiency in isolation. Across all model"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "AI is more strongly linked to efficiency improvements in low-markup (more competitive) settings, while this link weakens, and can turn adverse, for firms with substantial market power.",
+   "pdf_page": 7,
+   "section": "4 | Results",
+   "supports": "Backs the 'stronger competitive pressure' condition (markup interaction).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.43,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "settings, while this link weakens, and can turn"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results in Column (3) suggest that a larger share of long-term debt is associated with stronger efficiency gains from AI",
+   "pdf_page": 9,
+   "section": "4 | Results",
+   "supports": "Backs the 'long-term debt access' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The results in Column (3) suggest that a"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "I find, however, that the returns to AI are larger in more competitive settings and are amplified by higher managerial ability, while they are weakened when ownership is unstable (high institutional investor churn).",
+   "pdf_page": 10,
+   "section": "6 | Conclusion",
+   "supports": "Paper's own conclusion: gains only under competitive, managerial and ownership conditions - the coded key finding and conditional direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.64,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "I find, however, that the returns to AI"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "quality_notes is largely coder commentary ('cleanest single illustration of the thesis RQ'); its factual half (title literally 'Conditional Gains') is evidenced by the title quote. The paper additionally admits a source-based limitation (labor-based AI measure captures capability, not usage; PDF p. 9, section 5) should the author want it. theoretical_lens 'none explicit' confirmed: no named framework is adopted; the only lens-like phrase is a passing 'AI functions as a general-purpose technology' (PDF p. 2). ca_measure empty confirmed: 'competitiveness' appears only in intro framing, no CA construct measured."
+ },
+ "has_printed_pagination": false
+}

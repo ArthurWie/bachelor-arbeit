@@ -1,0 +1,226 @@
+{
+ "study_id": "S46",
+ "document_id": 46,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "industry"
+   ],
+   "quote": "Grounded in resource-based view and tournament theory, this study examines how AI human capital (AIHC) is associated with wage inequality and firm value in tourism, travel, and hospitality (TTH).",
+   "pdf_page": 1,
+   "supports": "Abstract names RBV and tournament theory as the theoretical lenses and the TTH industry setting.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Grounded in resource-based view and tournament theory, this"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Using an unbalanced panel of 1206 UK listed TTH firms comprising 7539 firm year observations from 2018 to 2024, we estimate internal instrument two step system GMM models with Windmeijer corrected standard errors.",
+   "pdf_page": 1,
+   "supports": "States the coded sample size (1,206 firms, 7,539 firm-years 2018-2024), UK setting, panel-econometric method (two-step system GMM) and the Windmeijer correction noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "panel of 1206 UK listed TTH firms comprising"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "we adopt a dynamic panel data (DPD) approach in which the one-period lag of the dependent variable enters the model as a regressor.",
+   "pdf_page": 8,
+   "supports": "Methods section confirms dynamic panel econometrics as the strategy generating the AI-outcome evidence.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "panel data (DPD) approach in which the one-period"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI human capital was proxied by the share of AI-related workers in total employment at the firm-year level.",
+   "pdf_page": 7,
+   "supports": "Defines the AI measure as an AI-skilled workforce share, matching 'AI human capital (AI-skilled workforce measure)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "share of AI-related workers in total employment at"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Firm value was assessed using Tobin's Q, an established indicator of long-term performance and market-based expectations of intangible resources",
+   "pdf_page": 8,
+   "supports": "The outcome is firm value measured by Tobin's Q, a performance construct - no distinct CA construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.73,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "assessed using Tobin's Q, an established indicator of"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "In Model 1, AIHC is positively associated with Tobin Q (0.065, t = 2.50), supporting H1.",
+   "pdf_page": 10,
+   "supports": "Significant positive main effect of AI human capital on firm value backs effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "AIHC is positively associated with Tobin Q (0.065,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "Taken together, these results indicate complementary partial mediation (H4): AIHC is associated with firm value both directly and indirectly through lower wage inequality, while the direct path remains positive after conditioning on WAGE",
+   "pdf_page": 11,
+   "supports": "Backs the coded partial-mediation condition (wage inequality channel) and confirms the direct path stays positive, so direction = positive, not conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "11",
+   "ctrl_f": "results indicate complementary partial mediation (H4): AIHC is"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Moderation analyses show stronger AIHC and firm value associations in more dynamic and complex industries, whereas munificence shows no systematic moderating effect.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'stronger in dynamic/complex industries'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.45,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "Moderation analyses show stronger AIHC and firm value"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The coefficient is largest in Travel (0.018, t = 2.45), followed by Hospitality (0.012, t = 1.87) and Tourism (0.010, t = 1.66).",
+   "pdf_page": 13,
+   "supports": "Backs the coded sector split: firm-value effect strongest in travel.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "coefficient is largest in Travel (0.018, t = 2.45),"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "AIHC is significantly negatively associated with WAGE in all sectors, again with varying magnitudes (see Appendix C, Table C8). The inequality compression association is strongest in Hospitality",
+   "pdf_page": 13,
+   "supports": "Backs the coded sector split (inequality compression strongest in hospitality) and the sectoral-heterogeneity quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.11,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "13",
+   "ctrl_f": "associated with WAGE in all sectors, again with"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Findings indicate that AIHC is positively associated with firm value, negatively associated with wage inequality, and that wage inequality is negatively associated with firm value.",
+   "pdf_page": 1,
+   "supports": "The paper's own central-result statement: AI human capital raises firm value partly via compressed wage inequality.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "that AIHC is positively associated with firm value,"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "The study highlights workforce centered pathways for AI enabled competitive advantage.",
+   "pdf_page": 1,
+   "supports": "Source of the coded 'workforce-centered pathway to AI-enabled advantage' wording; CA here is framing only, consistent with outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The study highlights workforce centered pathways for AI"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "we apply the Windmeijer finite-sample correction to adjust the downward bias in two-step standard errors",
+   "pdf_page": 8,
+   "supports": "Source basis for the quality note 'GMM with Windmeijer correction'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "Windmeijer finite-sample correction to adjust the downward bias"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: competitive advantage appears only as framing/rhetoric (abstract, RBV theory talk), no distinct CA construct is measured - consistent with outcome_construct = performance. All non-empty columns evidenced."
+ },
+ "has_printed_pagination": true
+}

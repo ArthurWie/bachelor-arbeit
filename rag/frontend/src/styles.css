@@ -388,3 +388,175 @@ button { font-family: inherit; cursor: pointer; }
 /* Scrollbars zurückhaltend */
 
 .sidebar, .reader-scroll { scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
+
+/* --- Zellen-Audit (19. Aug 2026) --- */
+.audit-enter {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.audit-side { display: flex; flex-direction: column; }
+
+.audit-progress {
+  height: 4px;
+  border-radius: 2px;
+  background: var(--well);
+  margin: 8px 0 12px;
+  overflow: hidden;
+}
+.audit-progress-fill { height: 100%; background: var(--accent); }
+
+.audit-step { margin-bottom: 10px; }
+.audit-study { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.audit-col {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+.audit-table-tag {
+  font-size: 10.5px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.audit-flag-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 11px;
+  color: var(--error-ink);
+}
+.audit-recheck { color: var(--accent); }
+.audit-copy {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  font-size: 11px;
+  padding: 2px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+}
+.audit-copy:hover { background: var(--hover); }
+.audit-coded {
+  font-size: 13px;
+  line-height: 1.45;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-ctl);
+  padding: 8px 10px;
+}
+
+.audit-quotes { flex: 1; overflow-y: auto; min-height: 0; }
+.audit-quote.active { border-color: var(--accent); background: var(--accent-soft); }
+.audit-tension { color: var(--error-ink); }
+.audit-noquote, .audit-rownote, .audit-nohit {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.audit-nohit { color: var(--error-ink); }
+
+.audit-noteform input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--accent);
+  border-radius: var(--r-ctl);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+}
+
+.audit-keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  font-size: 11.5px;
+  color: var(--muted);
+}
+.audit-keys kbd {
+  font-family: inherit;
+  border: 1px solid var(--line-strong);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0 4px;
+  font-size: 10.5px;
+}
+.audit-verdict {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.audit-verdict.flag { color: var(--error-ink); }
+.audit-flagcount { color: var(--error-ink); }
+
+.audit-raw {
+  font-size: 11px;
+  color: var(--faint);
+  line-height: 1.45;
+  margin-top: 4px;
+  padding: 0 2px;
+}
+
+.legend-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(var(--shadow), 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 40;
+}
+.legend {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-panel);
+  box-shadow: 0 18px 50px rgba(var(--shadow), 0.35);
+  max-width: 660px;
+  max-height: 84vh;
+  overflow-y: auto;
+  padding: 22px 26px;
+}
+.legend h2 { margin: 0 0 6px; font-size: 16px; }
+.legend h3 {
+  margin: 16px 0 6px;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+.legend dl { margin: 0; }
+.legend dl > div {
+  display: grid;
+  grid-template-columns: 165px 1fr;
+  gap: 10px;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--line);
+}
+.legend dl > div:last-child { border-bottom: none; }
+.legend dt { font-size: 12.5px; font-weight: 600; }
+.legend dd { margin: 0; font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+.legend-close { margin: 14px 0 0; font-size: 11.5px; color: var(--faint); }
+.legend-close kbd, .legend kbd {
+  font-family: inherit;
+  border: 1px solid var(--line-strong);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0 4px;
+  font-size: 10.5px;
+}

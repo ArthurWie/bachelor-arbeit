@@ -9,6 +9,7 @@ __pycache__/
 
 # --- Node (rag/frontend) ---
 node_modules/
+rag/frontend/dist/
 
 # --- LaTeX-Hilfsdateien (die PDFs selbst bleiben getrackt: literature/, verschickte Drafts) ---
 *.aux
@@ -32,3 +33,4 @@ desktop.ini
 
 # --- Maschinen-lokale Claude-Code-Einstellungen ---
 .claude/settings.local.json
+.gstack/

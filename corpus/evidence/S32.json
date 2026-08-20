@@ -1,0 +1,253 @@
+{
+ "study_id": "S32",
+ "document_id": 32,
+ "quotes": [
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "firms adopting AI can enhance their innovation performance if it complements firm's own investment in R&D. AI adoption can substitute knowledge col -laboration with certain external partners.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "The paper's own central result: the AI payoff is conditional on complementing internal R&D, and AI substitutes some external knowledge collaboration — matching key_finding and both coded conditions.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    1
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 1.0,
+   "quote_original": "firms adopting AI can enhance their innovation performance if it complements firm's own investment in R&D. AI adoption can substitute knowledge collaboration with certain external partners",
+   "repair_note": "auto-corrected to source wording (match 99%, PDF p. 1)",
+   "ctrl_f": "firms adopting AI can enhance their innovation performance"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "theoretical_lens",
+    "outcome_construct"
+   ],
+   "quote": "Using data from 14,143 firms in the UK between 2004 and 2020, we explore how AI adoption impacts knowledge spillover of innovation.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Names the 14,143-firm UK sample 2004-2020 and frames the outcome as knowledge spillover of innovation, the coded lens and performance construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Using data from 14,143 firms in the UK"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "ai_measure",
+    "method"
+   ],
+   "quote": "Using novel data on 14,143 firms with 24,017 firm-year observations over 2004-2020 in the United Kingdom from six Business Structure Databases (BSD) and UK Innovation Surveys (UKIS) matched to the Beauhurst database",
+   "pdf_page": 3,
+   "section": "1 Introduction",
+   "supports": "Firm-year panel structure and the BSD/UKIS/Beauhurst data sources coded in sample, country_region and ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Using novel data on 14,143 firms with 24,017"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we combine the Busi -ness Structure database (known as the BSD) and the UK Innovation Survey (UKIS) over 2004-2020, and the Beauhurst database for every second year available.",
+   "pdf_page": 8,
+   "section": "3.1 Data matching and sample description",
+   "supports": "Backs the 'biennial' Beauhurst matching in the coded ai_measure.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    8
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 1.0,
+   "quote_original": "we combine the Business Structure database (known as the BSD) and the UK Innovation Survey (UKIS) over 2004-2020, and the Beauhurst database for every second year available",
+   "repair_note": "auto-corrected to source wording (match 99%, PDF p. 8)",
+   "ctrl_f": "ness Structure database (known as the BSD) and"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We use Beauhurst data to identify technologies and products where use of artificial intelligence including gen -erative AI was a commonplace.",
+   "pdf_page": 8,
+   "section": "3.1 Data matching and sample description",
+   "supports": "Backs 'Beauhurst-identified AI technology/product use' in ai_measure.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    8
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 1.0,
+   "quote_original": "We use Beauhurst data to identify technologies and products where use of artificial intelligence including generative AI was a commonplace.",
+   "repair_note": "auto-corrected to source wording (match 99%, PDF p. 8)",
+   "ctrl_f": "data to identify technologies and products where use"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Most of the firms in our sample are from the other manufacturing sector, wholesale and retail and professional and scientific services.",
+   "pdf_page": 8,
+   "section": "3.1 Data matching and sample description",
+   "supports": "Sample spans manufacturing, retail and services sectors, backing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "our sample are from the other manufacturing sector,"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Our key explanatory variable is adoption of artificial intelligence",
+   "pdf_page": 9,
+   "section": "3.2.2 Explanatory variables",
+   "supports": "Operationalization of the archival AI adoption measure.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    9
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 1.0,
+   "quote_original": "Our key explanatory variable is adoption of artificial intelligence, which is a binary variable equal to one when the firm adopts AI, or zero otherwise",
+   "repair_note": "manually corrected to source wording (shortened: the sentence continues with a hyphenation artifact ('vari -able') in the extraction)",
+   "ctrl_f": "Our key explanatory variable is adoption of artificial"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Our dependent variable is radical innovation which is calculated as share of total sales over the last three years from goods and services that are new to the market.",
+   "pdf_page": 9,
+   "section": "3.2.1 Dependent variables",
+   "supports": "The outcome is innovation performance (innovation sales share), i.e. a performance construct — no competitive-advantage construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our dependent variable is radical innovation which is"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We use Tobit regression model (Audretsch et al., 2023; Laursen & Salter, 2006 ; Negassi, 2004) to estimate a knowledge production function as our dependent variable which is dou -ble censored,",
+   "pdf_page": 10,
+   "section": "3.3 Method",
+   "supports": "Econometric estimation (Tobit with fixed effects, plus IV-Tobit robustness) on the firm-year panel — the coded 'panel econometrics'.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    10
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 1.0,
+   "quote_original": "We use Tobit regression model (Audretsch et al., 2023; Laursen & Salter, 2006; Negassi, 2004) to estimate a knowledge production function as our dependent variable which is double censored",
+   "repair_note": "auto-corrected to source wording (match 99%, PDF p. 10)",
+   "ctrl_f": "We use Tobit regression model (Audretsch et al.,"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Our H4 which states that AI positively moderate the effect of knowledge collaboration with various types of external partners and firm innovation is partly supported.",
+   "pdf_page": 13,
+   "section": "4.1 Main results",
+   "supports": "AI's role is tested as a moderator of collaboration effects, consistent with the conditional coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our H4 which states that AI positively moderate"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "switches from positive (spec. 2, Table 3) to negative effect (spec. 6, Table 3). This means that by adopting AI, a firm may substitute information that it receives within its upstream supply chain",
+   "pdf_page": 13,
+   "section": "4.1 Main results",
+   "supports": "Direct evidence for the coded condition that AI substitutes knowledge collaboration with certain external partners (suppliers).",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "(spec. 2, Table 3) to negative effect (spec."
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "Collaboration with customers and suppliers adds more to product innovation in firms that adopted advanced AI technologies than in firms that do not adopt AI, supporting H4.",
+   "pdf_page": 16,
+   "section": "4.2.2 Second-stage estimation",
+   "supports": "IV second stage confirms the AI effect operates through complementarity with specific collaborations, not as an unconditional main effect — backing 'conditional'.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Collaboration with customers and suppliers adds more to"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Our study has an important limitation related to the measure of AI adoption. We developed a binary variable with a sectoral focus and adopted a couple of filtering criteria.",
+   "pdf_page": 20,
+   "section": "5.3 Limitations and future research",
+   "supports": "Authors' own limitation on the archival sector-based AI measure, relevant to the quality note on the archival panel design.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Our study has an important limitation related to"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: 'competitive advantage' appears only as rhetoric in the literature review and managerial implications, no CA construct is measured. quality_notes is largely coder/verification commentary ('Large archival panel', 'SAMPLE-CHECK OK'); the innovation-outcome (performance-near) part is evidenced by the dependent-variable quote and the AI-measure limitation is the authors' own. Conditional direction is settled per adjudication briefs (sample check: 'panel / performance / conditional OK'); baseline AI main effect is insignificant in specs without interactions (Table 3 spec 1: -0.005 n.s.; Table 4 spec 1: -0.004 n.s.), consistent with 'conditional'."
+ },
+ "has_printed_pagination": false
+}

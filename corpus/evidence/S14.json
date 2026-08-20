@@ -1,0 +1,269 @@
+{
+ "study_id": "S14",
+ "document_id": 14,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "ai_measure"
+   ],
+   "quote": "We apply a resource-based view to investigate how the adoption of Artificial Intelligence (AI) affects competitive capabilities and performance.",
+   "pdf_page": 1,
+   "supports": "Abstract names the RBV lens and AI adoption as the treatment, matching theoretical_lens = RBV and ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1425",
+   "ctrl_f": "to investigate how the adoption of Artificial Intelligence"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Our analysis shows that AI adoption triggers interrelated substitution and complementation dynamics, which make humans ' traditional competitive capabilities obsolete, while creating new sources of persistent heterogeneity when humans interact with chess engines.",
+   "pdf_page": 1,
+   "supports": "States both coded conditions (substitution makes traditional capabilities obsolete; complementation creates new capabilities) and the persistent-heterogeneity construct coded as ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.41,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1425",
+   "ctrl_f": "analysis shows that AI adoption triggers interrelated"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "ca_measure"
+   ],
+   "quote": "a new decision-making resource emerges at the human-AI intersection, which drives performance but is unrelated or even negatively related to humans ' original capability",
+   "pdf_page": 2,
+   "supports": "The paper's own statement of the central result, matching the coded key_finding almost verbatim; performance depends on the new capability, backing effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    1,
+    2,
+    3
+   ],
+   "pdf_seq_score": 0.92,
+   "verdict": "verified",
+   "printed_pages": "1425–1427",
+   "ctrl_f": "but is unrelated or even negatively related to"
+  },
+  {
+   "fields": [
+    "sample",
+    "method",
+    "ai_measure"
+   ],
+   "quote": "We use the controlled chess context to compare the same players' capabilities and performance across conventional, centaur, and engine chess tournaments.",
+   "pdf_page": 6,
+   "supports": "Confirms the coded sample design: same players observed across the three tournament formats in a controlled competitive setting.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.62,
+   "verdict": "verified",
+   "printed_pages": "1430",
+   "ctrl_f": "We use the controlled chess context to compare"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "This sampling procedure yields a sample of 112 unique players from 39 chess federations participating in 3,281 tournaments.",
+   "pdf_page": 7,
+   "supports": "Gives the sample size and the 39 federations backing country_region = multi-country (tournament data).",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1431",
+   "ctrl_f": "112 unique players from 39 chess federations participating"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Our primary measure of chess performance is the game result , namely a win, loss, or draw from the focal player's perspective (with a draw as a baseline outcome).",
+   "pdf_page": 7,
+   "supports": "Defines the competitive-performance outcome (game outcomes) coded in performance_measure, the performance half of outcome_construct = both.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1431",
+   "ctrl_f": "Our primary measure of chess performance is the"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "we apply a multinomial logistic model (Powers & Xie, 2008) to estimate the factors contributing to the likelihood of one of the three possible game results (i.e., win, draw, or loss)",
+   "pdf_page": 9,
+   "supports": "Names the econometric estimation strategy on the tournament data, backing method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.52,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1433",
+   "ctrl_f": "multinomial logistic model (Powers & Xie, 2008) to estimate"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We explore this tendency toward convergence further by estimating two fixed-effects panel models with standard errors clustered at the player level",
+   "pdf_page": 12,
+   "supports": "Explicit fixed-effects panel estimation, backing method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1436",
+   "ctrl_f": "We explore this tendency toward convergence further by"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "The centaur and engine game results presented in Table 1 suggest that the player capability effects largely vanish after the adoption of AI",
+   "pdf_page": 10,
+   "supports": "Empirical substitution result: traditional human capabilities lose their performance effect once AI enters — the substitution condition and the reason direction is conditional rather than a simple main effect.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.22,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1434",
+   "ctrl_f": null
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "The results in Table 3 show that these human -machine capabilities have new, significant effects on game results.",
+   "pdf_page": 15,
+   "supports": "Empirical complementation result: performance effects emerge only through the new human-machine capabilities, backing the complementation condition and effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1439",
+   "ctrl_f": "The results in Table 3 show that these"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "These results indicate that the new human -machine capabilities are unrelated, or even negatively related, to humans' traditional chess playing capabilities",
+   "pdf_page": 19,
+   "supports": "Backs the coded condition that the new capabilities are unrelated or negatively related to traditional ones, and the 'unrelated to traditional capability' clause of key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 0.62,
+   "verdict": "verified",
+   "printed_pages": "1443",
+   "ctrl_f": "These results indicate that the new"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "we find that AI adoption has a dualistic effect that shifts the sources of competitive advantage",
+   "pdf_page": 19,
+   "supports": "Discussion's summary: AI adoption shifts the sources of competitive advantage — the CA half of outcome_construct = both and the first clause of key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1443",
+   "ctrl_f": "we find that AI adoption has a dualistic"
+  },
+  {
+   "fields": [
+    "industry",
+    "quality_notes"
+   ],
+   "quote": "The advantage of chess is that it provides a controlled context in which actors' capabilities, as well as the quality and sequence of their actions, are consistently identifiable and comparable",
+   "pdf_page": 6,
+   "supports": "Confirms industry = non-firm setting (chess as controlled competition) and the high-internal-validity part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1430",
+   "ctrl_f": "The advantage of chess is that it provides"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "industry"
+   ],
+   "quote": "Studying competitive strategy in a chess context has certain limitations. The most important of these is that chess is a well-defined game with a lower degree of uncertainty than most strategic actions in business settings",
+   "pdf_page": 6,
+   "supports": "Authors' own admission of limited external validity to business settings, the source-based part of quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.89,
+   "verdict": "verified",
+   "printed_pages": "1430",
+   "ctrl_f": "Studying competitive strategy in a chess context has"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Our research has a significant limitation in that we have provided empirical evidence from just one domain -chess competitions -in which complete substitution occurs.",
+   "pdf_page": 22,
+   "supports": "Authors' explicit single-domain limitation, backing the limited-external-validity note in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    22
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": "1446",
+   "ctrl_f": "Our research has a significant limitation in that"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. effect_direction = conditional is consistent with the frozen rules: there is no average main effect of AI on performance — traditional capability effects vanish (substitution) and performance differences exist only through the new human-machine capabilities (complementation). The 'SMJ 4*' and 'SAMPLE-CHECK OK' parts of quality_notes are coder metadata, not source text; the source-based limitation statements are quoted. country_region 'multi-country' rests on the 39-federations sample statement — the paper reports no country-level breakdown."
+ },
+ "has_printed_pagination": true
+}

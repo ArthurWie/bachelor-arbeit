@@ -1,0 +1,364 @@
+{
+ "study_id": "S21",
+ "document_id": 21,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Utilizing insights from organizational agility and the dynamic capability framework, we define ARMC as an organization's ability to promptly identify and adjust to market changes",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Names organizational agility and the dynamic capability framework as the study's theoretical basis.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Utilizing insights from organizational agility and the dynamic"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "This study uses a two-stage survey to collect data from IT executives and business decision-makers",
+   "pdf_page": 7,
+   "section": "4. Research methodology",
+   "supports": "Confirms two-wave survey design and the IT+business executive respondent base.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "This study uses a two-stage survey to collect"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We used Partial Least Squares (PLS) in the package WarpPLS 7.0 (Kock, 2022) to perform the data analysis.",
+   "pdf_page": 8,
+   "section": "5.1. Measurement validation",
+   "supports": "Confirms PLS structural equation modeling, i.e. the coded survey-SEM method.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "We used Partial Least Squares (PLS) in the"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Of 225 respondents who completed the first survey, a total of 107 respondents completed the second survey for an effective response rate of 47.5 percent.",
+   "pdf_page": 8,
+   "section": "4.2. Survey development and administration",
+   "supports": "Confirms the coded n = 107 of 225 wave-1 respondents and the 47.5% effective response rate.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "225 respondents who completed the first survey, a"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The samples for both countries were drawn from the panel members of the market research firm. We utilized the prescreening filters provided by this company to select appropriate respondents, such as IT or business executives.",
+   "pdf_page": 8,
+   "section": "4.2. Survey development and administration",
+   "supports": "Confirms panel-recruited IT/business executives as coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 0.69,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "The samples for both countries were drawn from"
+  },
+  {
+   "fields": [
+    "country_region",
+    "sample"
+   ],
+   "quote": "Data were collected from firms in France (68.2 %) and the U.K. (31.8 %).",
+   "pdf_page": 8,
+   "section": "4.3. Sample characteristics",
+   "supports": "States the sample's actual countries.",
+   "tension": "Coded country_region is 'USA' and sample says '107 US executives', but the paper's data come from firms in France (68.2%) and the UK (31.8%) via a European panel; only the first author's affiliation is US (Baylor). Coded value contradicts the full text.",
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "in France (68.2 %) and the U.K. (31.8"
+  },
+  {
+   "fields": [
+    "industry",
+    "country_region"
+   ],
+   "quote": "Lastly, our data were collected from firms located in France and the U.K., and our sample includes a broad spectrum of industry groups.",
+   "pdf_page": 13,
+   "section": "6.3. Limitations and future research directions",
+   "supports": "Authors' own statement backs the cross-industry coding and reiterates France/UK data collection (see tension on country_region).",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "and our sample includes a broad spectrum of"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We measured three AI capabilities: AI-enabled automation, AI-enabled analytics, and AI-enabled relational capabilities.",
+   "pdf_page": 7,
+   "section": "4.1. Measures",
+   "supports": "Confirms the three coded AI survey constructs.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 0.38,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "automation, AI-enabled analytics, and AI-enabled relational"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "We adapted five items from Queiroz et al. (2018) to measure market share, revenues, sales growth, and profitability relative to competitors.",
+   "pdf_page": 7,
+   "section": "4.1. Measures",
+   "supports": "Confirms the perceptual firm-performance survey scale; the scale is relative-to-competitors but no distinct CA construct or CA hypothesis is measured, so ca_measure empty and outcome_construct=performance are consistent with case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "items from Queiroz et al. (2018) to measure"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Additionally, we propose positive associations between ARMC and three organizational outcomes: firm performance, process innovation, and product innovation.",
+   "pdf_page": 1,
+   "section": "Abstract",
+   "supports": "Confirms the coded outcome set: firm performance plus process and product innovation.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.56,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "Additionally, we propose positive associations between ARMC and"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Thus, we argue that AI indirectly influences firms' innovation through ARMC.",
+   "pdf_page": 6,
+   "section": "3.2.7. ARMC, process Innovation, and product innovation",
+   "supports": "Confirms ARMC's coded role as the mediating mechanism; no direct AI-to-outcome paths are part of the hypothesized model.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "argue that AI indirectly influences firms’ innovation through"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "However, adding the interaction terms to the model significantly altered the direct effects of AI-powered capabilities.",
+   "pdf_page": 9,
+   "section": "5.3. Structural model",
+   "supports": "Backs the coded 'conditional' direction: AI effects change once environmental moderators enter the model.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "However, adding the interaction terms to the model"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "the relationships should be interpreted as 'conditional' effects at the different values of the included moderator in the model, and the main effects become less relevant",
+   "pdf_page": 9,
+   "section": "5.3. Structural model (footnote 3)",
+   "supports": "Authors themselves label the AI-ARMC relationships 'conditional', directly matching the coded effect_direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.15,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "at the different values of the included moderator"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "However, the effect of AI-enabled relational capability became insignificant, failing to support H6.",
+   "pdf_page": 9,
+   "section": "5.3. Structural model",
+   "supports": "Confirms the coded condition that the relational path turns non-significant in the interaction model.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "However, the effect of AI-enabled relational capability became"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "As expected, environmental hostility negatively moderated the relationship between AI-enabled automation and ARMC, supporting H7a.",
+   "pdf_page": 9,
+   "section": "5.3. Structural model",
+   "supports": "Confirms environmental hostility as a coded negative moderator on the automation path (Table 6 reports the interaction as -0.23**).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "As expected, environmental hostility negatively moderated the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The interaction between AIenabled relational and environmental dynamism was significant, supporting H8c.",
+   "pdf_page": 9,
+   "section": "5.3. Structural model",
+   "supports": "Confirms environmental dynamism as a coded moderator.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    9
+   ],
+   "printed_pages": null,
+   "pdf_seq_score": 0.25,
+   "quote_original": "The interaction between AI-enabled relational and environmental dynamism was significant, supporting H8c.",
+   "repair_note": "manually corrected to source wording (source extraction drops the hyphen in 'AI-enabled'; printed page reads 'AI-enabled')",
+   "ctrl_f": "relational and environmental dynamism was"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "As shown in Table 7, 10 out of 18 conditional indirect effects of AI-powered capabilities on organizational outcomes were significant, suggesting meaningful moderating roles of environmental conditions.",
+   "pdf_page": 9,
+   "section": "5.3. Structural model",
+   "supports": "Confirms the coded '10/18 conditional indirect effects significant' and the environment-selective, conditional nature of the AI-outcome link.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "As shown in Table 7, 10 out of"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Our findings reveal that the relationships between AI-powered capabilities and ARMC depend on environmental conditions.",
+   "pdf_page": 11,
+   "section": "6. Discussion",
+   "supports": "Paper's own summary of its central result: AI pays off contingent on environmental hostility/dynamism, as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    10,
+    11,
+    12
+   ],
+   "pdf_seq_score": 0.75,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "the relationships between AI-powered capabilities and ARMC."
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Finally, our study establishes significant positive relationships between ARMC and both firm performance and innovation.",
+   "pdf_page": 11,
+   "section": "6. Discussion",
+   "supports": "Paper's own statement of the second half of the coded key finding: AI capabilities pay off through ARMC into performance and innovation.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.27,
+   "verdict": "page-unconfirmed",
+   "printed_pages": null,
+   "ctrl_f": "positive relationships between ARMC and both firm performance"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "method"
+   ],
+   "quote": "Fourth, although we conducted a two-stage survey to address the threats of common method bias, we still used the same respondent for both our independent and dependent variables.",
+   "pdf_page": 13,
+   "section": "6.3. Limitations and future research directions",
+   "supports": "Authors' own admission backs the quality note: two-wave design as a strength, but perceptual same-respondent measures remain a limitation.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": null,
+   "ctrl_f": "Fourth, although we conducted a two-stage survey to"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "country_region ('USA') and the 'US executives' phrase in sample contradict the paper: data were collected from firms in France (68.2%) and the UK (31.8%) via a European market-research panel (population: AI-adopting firms in Europe); possibly confused with the authors' US affiliation or with S29. Everything else checks out. Minor: coded conditions report the automation x hostility interaction as -0.23*, Table 6 shows -0.23**. Note: footnote 5 reports supplementary direct AI->outcome effects (analytics 0.44*** on performance) outside the main model; the adjudicated 'no direct AI->performance paths modeled' refers to the hypothesized structural model and stands. Quality-note element 'effect highly environment-selective' is coder commentary summarizing the 10/18 result (quoted)."
+ },
+ "has_printed_pagination": false
+}

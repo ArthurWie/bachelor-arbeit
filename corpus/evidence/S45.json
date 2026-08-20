@@ -1,0 +1,245 @@
+{
+ "study_id": "S45",
+ "document_id": 45,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "We show that these empirical observations can be rationalized by a simple model where a monopolist firm with incomplete information about its demand function invests in AI pricing to acquire information.",
+   "pdf_page": 1,
+   "supports": "Backs the coded lens 'information economics (monopolist pricing model)': incomplete-information monopolist investing in AI pricing to acquire information.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "observations can be rationalized by a simple model"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "We infer that a firm is adopting AI pricing if it posts a job that requires AI-related skills and contains the keyword ''pricing.''",
+   "pdf_page": 1,
+   "supports": "Exactly the coded AI measure: job postings with AI skills plus pricing keyword identify AI pricing adoption.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "AI pricing if it posts a job that"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "We use the Lightcast data, formerly Burning Glass, on U.S. job postings from 2010Q1 to 2024Q1.",
+   "pdf_page": 3,
+   "supports": "Backs the coded sample window (Lightcast 2010Q1-2024Q1) and USA.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "We use the Lightcast data, formerly Burning Glass,"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Lightcast collects job posting data from over 40,000 online job boards and company websites, converting them into a systematic machine-readable form.",
+   "pdf_page": 3,
+   "supports": "Backs the '40,000+ job boards' detail in the coded sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "data from over 40,000 online job boards and"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "To obtain firm characteristics such as size, age, productivity, and financial conditions, we merge the Lightcast data with Compustat Quarterly. Compustat Quarterly provides detailed balance sheet data for the universe of public US firms.",
+   "pdf_page": 8,
+   "supports": "Backs 'US firms matched to Lightcast job postings': merge with Compustat covering public US firms.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "To obtain firm characteristics such as size, age,"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "This process results in a quarterly panel dataset with 4695 unique firms and 131,647 firm-quarter observations.",
+   "pdf_page": 8,
+   "supports": "A firm-quarter panel of 4,695 firms backs method = panel econometrics and quantifies the sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "This process results in a quarterly panel dataset"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To explore this, we specify a long-difference regression, linking changes in firm outcomes to different indicators of AI pricing adoption",
+   "pdf_page": 12,
+   "supports": "Long-difference panel regressions (plus event-level monetary-shock regressions with firm fixed effects) generate the AI-outcome evidence, backing panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "explore this, we specify a long-difference regression, linking"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "our focus is on the adoption of AI pricing across the entire economy: We document the adoption of AI pricing for the universe of US firms posting jobs online",
+   "pdf_page": 2,
+   "supports": "Economy-wide coverage across all industries backs the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "our focus is on the adoption of AI"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Firms that adopted AI pricing experienced faster growth in sales, employment, assets, and markups, and their stock returns are also more responsive to high-frequency monetary policy surprises than non-adopters.",
+   "pdf_page": 1,
+   "supports": "The paper's summary result backs performance as outcome, the coded performance measures (growth in sales/employment/assets/markups; stock-return response to monetary policy), and the positive direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Firms that adopted AI pricing experienced faster growth"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "We next examine the firm-level determinants of AI pricing adoption, and we find that larger, more productive, and R&D-intensive firms tend to adopt AI pricing more aggressively.",
+   "pdf_page": 8,
+   "supports": "Backs the coded condition 'adoption concentrated in larger, more productive firms'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "determinants of AI pricing adoption, and we find"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The table shows that the positive relations between the adoption of AI pricing and firm growth are stronger for larger firms.",
+   "pdf_page": 13,
+   "supports": "Size heterogeneity in the performance effect backs the key finding that AI pricing is a capability large firms exploit first.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "13",
+   "ctrl_f": "The table shows that the positive relations between"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Firms with a higher share of AI pricing benefit significantly more from this monetary expansion.",
+   "pdf_page": 15,
+   "supports": "Backs the coded condition 'adopters more responsive to monetary policy surprises'.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "Firms with a higher share of AI pricing"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "Our evidence suggests that larger and more productive firms are more likely to adopt AI pricing, and such adoption improves firm performance and increases the sensitivity of a firm's stock returns to monetary policy surprises.",
+   "pdf_page": 23,
+   "supports": "The paper's own conclusion states the central result exactly as coded: positive performance effect concentrated in larger, more productive adopters.",
+   "tension": null,
+   "located_pdf_pages": [
+    23
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "23",
+   "ctrl_f": "suggests that larger and more productive firms are"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "However, there are several important limitations in using the job postings data for measuring AI pricing adoption. First, our measure is an input-based measure",
+   "pdf_page": 5,
+   "supports": "Authors' own discussion of their novel job-postings measure and its input-based limitation backs the 'Novel job-postings measure' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "However, there are several important limitations in using"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: no competitive-advantage construct is measured; all outcomes are performance/growth and stock-return responses. The 'macro-finance angle (JME 4)' part of quality_notes is coder commentary (journal identity), not a source claim. Minor nuance for the author: the monetary-policy shock analysis uses the 2010-2019 Bauer-Swanson subsample (81 FOMC events), while the growth analysis spans 2010-2023/2024Q1. Not in adjudication_briefs.md."
+ },
+ "has_printed_pagination": true
+}

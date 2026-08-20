@@ -1,0 +1,250 @@
+{
+ "study_id": "S29",
+ "document_id": 29,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Addressing this gap, we draw on a business process perspective and dynamic capability theory to develop a multi-level framework of AI integration at the task, function, and firm levels.",
+   "pdf_page": 1,
+   "supports": "Abstract names the two coded lenses: business process perspective and dynamic capability theory.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Addressing this gap, we draw on a business"
+  },
+  {
+   "fields": [
+    "sample",
+    "ai_measure",
+    "quality_notes"
+   ],
+   "quote": "Using a sequential mixed-methods design, we first construct a validated measurement instrument based on grounded analysis of 6,519 AI-related documents from 37 retailers.",
+   "pdf_page": 1,
+   "supports": "Backs the Study-1 sample (6,519 documents, 37 retailers), the validated multi-level AI instrument, and the two-stage instrument-validation quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "first construct a validated measurement instrument based on"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "performance_measure"
+   ],
+   "quote": "We then apply fuzzy-set qualitative comparative analysis (fsQCA) to survey data from 140 executives to identify configurations of AI-enabled functions associated with efficiency, innovation, or both.",
+   "pdf_page": 1,
+   "supports": "fsQCA on the 140-executive survey generates the AI-outcome evidence (Study 1 is instrument development), backing the fsQCA method code and the efficiency/innovation outcomes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.75,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "comparative analysis (fsQCA) to survey data from 140"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The results show that superior performance stems not from isolated AI uses but from synergistic combinations - particularly those involving customer service and cybersecurity - interacting with other functions.",
+   "pdf_page": 1,
+   "supports": "Performance arises only from configurations, backing 'conditional' and the coded synergistic-combinations condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The results show that superior performance stems not"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "These configurations appear to give rise to emergent capabilities such as adaptive learning, predictive analytics, and uncertainty mitigation, enabling firms to reconcile exploitation and exploration.",
+   "pdf_page": 1,
+   "supports": "Backs the coded emergent capabilities: adaptive learning, predictive analytics, uncertainty mitigation.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "to give rise to emergent capabilities such as"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "Contextualizing AI within specific business environments enables firms to leverage AI more effectively, fostering competitive advantages and improving performance.",
+   "pdf_page": 1,
+   "supports": "Competitive advantage appears only as theory-section framing; the measured outcomes are efficiency and innovation, confirming the empty ca_measure per case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "AI within specific business environments enables firms to"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "In Study 2, we surveyed 140 U.S.-based retail managers to measure AI engagement and performance outcomes.",
+   "pdf_page": 6,
+   "supports": "Backs the coded Study-2 sample of 140 U.S.-based retail managers (USA, retail).",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.94,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "In Study 2, we surveyed 140 U.S.-based"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Our questionnaire assessed the engagement of their companies in each of the 28 AIenabled tasks (as detailed in Table 1).",
+   "pdf_page": 9,
+   "supports": "AI is measured through the validated instrument's 28 task-level items aggregated into five business functions.",
+   "tension": null,
+   "verdict": "verified",
+   "located_pdf_pages": [
+    9
+   ],
+   "printed_pages": "9",
+   "pdf_seq_score": 0.65,
+   "quote_original": "Our questionnaire assessed the engagement of their companies in each of the 28 AI-enabled tasks (as detailed in Table 1).",
+   "repair_note": "manually corrected to source wording (source extraction drops the hyphen in 'AI-enabled'; printed page reads 'AI-enabled')",
+   "ctrl_f": "the engagement of their companies in each of"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "For organizational performance, we chose to measure AI value creation rather than traditional financial performance to mitigate potential endogeneity.",
+   "pdf_page": 9,
+   "supports": "The outcome is organizational performance (efficiency/innovation value creation), i.e. performance, not a CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 0.21,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "9",
+   "ctrl_f": "we chose to measure AI value creation rather"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "we measured efficiency using four items: 'save on labor costs,' 'save transaction costs,' 'increase the speed of the value chain process,' and 'improve operational accuracy.'",
+   "pdf_page": 9,
+   "supports": "Gives the concrete efficiency items behind the coded 'efficiency and innovation outcomes'.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "using four items: “save on labor costs,” “save"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The analysis showed that none of the variables qualify as a 'must-have' condition for high organizational performance.",
+   "pdf_page": 10,
+   "supports": "Necessity analysis backs the coded 'no single AI function suffices'.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "The analysis showed that none of the variables"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The fsQCA results demonstrate that AI-enabled business functions enhance firm performance not through isolated applications but through a strategic combination across business processes.",
+   "pdf_page": 11,
+   "supports": "The directly configurational (fsQCA) result behind the coded key_finding and 'conditional' direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "business functions enhance firm performance not through"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Overall, the ability to reconcile efficiency and innovation does not stem from individual AI functions but from their coordinated deployment.",
+   "pdf_page": 13,
+   "supports": "Restates that only coordinated configurations, not single functions, produce the dual outcomes.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.4,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "13",
+   "ctrl_f": "does not stem from individual AI functions but"
+  },
+  {
+   "fields": [
+    "country_region",
+    "quality_notes"
+   ],
+   "quote": "First, the data in Study 1 spans 2017-2022, and Study 2 draws from U.S.-based retail firms, which may limit the generalizability of findings across time, regions, and industries.",
+   "pdf_page": 14,
+   "supports": "Authors confirm the U.S. base of the firm sample and admit its generalizability limits.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 0.81,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "1 spans 2017–2022, and Study 2 draws from"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "Sample-spot-check row (brief: fsQCA/performance/conditional OK, 140 U.S. retail managers) fully matches the full text. Empty ca_measure confirmed (CA only as framing; outcomes are efficiency/innovation). quality_notes partly coder commentary: 'Fredrich-school methodology' and the 'SAMPLE-CHECK OK' tag are coder/process notes without a source passage; the source-based parts (fsQCA, two-stage validated instrument) are quoted."
+ },
+ "has_printed_pagination": true
+}

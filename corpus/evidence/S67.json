@@ -1,0 +1,280 @@
+{
+ "study_id": "S67",
+ "document_id": 67,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "We ground our investigation in dynamic capability theory (Barreto, 2010; Teece et al., 1997; Teece, 2007), which provides a foundational framework for understanding how organizations develop and reconfigure information competencies",
+   "pdf_page": 2,
+   "supports": "Names dynamic capability theory as the study's grounding framework, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.97,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "We ground our investigation in dynamic capability theory"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "We use the term information-driven resilience to capture the process through which ventures leverage AI innovation capability -their proficiency in integrating, managing, and applying AI technologies -to build strategic resilience",
+   "pdf_page": 3,
+   "supports": "Evidences the 'information-driven resilience' qualifier in the coded theoretical_lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.9,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "We use the term information-driven resilience to capture"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Our convergent multi-method design provides complementary evidence: PLS-SEM establishes the mediation hypothesis, IPMA identifies actionable managerial priorities, fsQCA reveals equifinal configurational pathways to high performance, and interviews illuminate the underlying mechanisms.",
+   "pdf_page": 1,
+   "supports": "Multiple strands (SEM, fsQCA, interviews) each carry outcome evidence, backing method=mixed and the 'multi-method incl. fsQCA' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Our convergent multi-method design provides complementary evidence: PLS-SEM"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "Using a multi-method approach, we collected two-wave survey data from 357 early-stage ventures in China and Europe",
+   "pdf_page": 1,
+   "supports": "Confirms two-wave survey, n=357 early-stage ventures, and the China+Europe setting in one sentence.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "two-wave survey data from 357 early-stage ventures in"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "The final sample consisted of 357 valid responses (191 Chinese startups and 166 European startups), representing a 51.0% initial response rate and 89.0% valid response rate.",
+   "pdf_page": 8,
+   "supports": "Gives the exact n=357 and the China/Europe split behind the coded sample and country_region.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "The final sample consisted of 357 valid responses"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample",
+    "country_region"
+   ],
+   "quote": "The research context focuses on early-stage startups ( ≤ 5 years old) in China and Europe that have actively implemented artificial intelligence technologies in their operations and products/services",
+   "pdf_page": 5,
+   "supports": "Confirms the sample is early-stage ventures (≤5 years) in China and Europe that actively implement AI.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.75,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "The research context focuses on early-stage startups (≤ 5"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "The sample spans multiple industries including information technology, healthcare, manufacturing, and financial services, allowing for broader generalizability while controlling for industry-specific effects",
+   "pdf_page": 5,
+   "supports": "Backs the 'cross-industry' part of the coded industry value.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.78,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "financial services, allowing for broader generalizability while"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Artificial intelligence innovation capability represents an organization's proficiency in integrating, managing, and applying artificial intelligence technologies to enhance information processes",
+   "pdf_page": 3,
+   "supports": "Defines the AI innovation capability construct that is the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.29,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "3",
+   "ctrl_f": "proficiency in integrating, managing, and applying artificial"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Other items used a seven-point Likert-type scale (1 = strongly disagree; 7 = strongly agree) to capture nuanced perceptions of artificial intelligence-oriented activities and resilience behaviors",
+   "pdf_page": 7,
+   "supports": "Shows the AI capability construct is measured by seven-point Likert survey items, backing 'survey construct'.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "items used a seven-point Likert-type scale (1 = strongly"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Entrepreneurial success represents the extent to which new ventures achieve their desired information-driven performance outcomes, including knowledge-enabled revenue growth, information-based market share expansion, and customer information base development",
+   "pdf_page": 4,
+   "supports": "The dependent variable is entrepreneurial success defined as venture performance outcomes (growth), backing outcome_construct=performance and the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.77,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "Entrepreneurial success represents the extent to which new"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "Entrepreneurial success (Table 2) is measured using objective data from the past year.",
+   "pdf_page": 6,
+   "supports": "Locates the ES measure in the questionnaire (Table 2: one-year revenue, market-share, and customer-base growth); authors call the survey-collected growth items 'objective data' - nuance to the coded 'survey scale'.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "using objective data from the past year."
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "theoretical_lens"
+   ],
+   "quote": "Drawing on dynamic capability theory, we examine how early-stage ventures transform AI capabilities into adaptive capacity and competitive advantage.",
+   "pdf_page": 1,
+   "supports": "Shows 'competitive advantage' appears only as theory-section framing; no distinct CA construct is measured, so outcome_construct=performance and empty ca_measure are correct per case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Drawing on dynamic capability theory, we examine how"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "strategic resilience fully mediates the relationship between AI innovation capability and entrepreneurial success (indirect effect β = 0.409, p < 0.001), with no significant direct path from AI capability to success",
+   "pdf_page": 17,
+   "supports": "Full mediation with an explicitly non-significant direct path - exactly the frozen-rule case for effect_direction=conditional (Leoni class) and the coded FULL-mediation condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "the relationship between AI innovation capability and entrepreneurial"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "The mediating effect of strategic resilience is robust and fully accounts for the AI capability -success relationship, indicating that the mechanism through which AI investments generate performance returns is fundamentally organizational rather than technological",
+   "pdf_page": 1,
+   "supports": "The abstract's 'fully accounts for' sentence cited in the coded conditions; also states the key finding that the mechanism is organizational, not technological.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The mediating effect of strategic resilience is robust"
+  },
+  {
+   "fields": [
+    "conditions",
+    "method",
+    "key_finding"
+   ],
+   "quote": "This solution reveals six configurations (see Table 7) that consistently lead to high entrepreneurial success, as indicated by consistency values exceeding 0.90.",
+   "pdf_page": 13,
+   "supports": "Backs the coded 'fsQCA equifinal configurations to high performance' condition and the key finding that multiple configurations lead to success; fsQCA is an outcome-evidence strand of the mixed design.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.13,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "13",
+   "ctrl_f": "six configurations (see Table 7) that consistently lead"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "Such remarks strongly reinforce the quantitative finding that strategic resilience mediates the relationship between artificial intelligence innovation capability and entrepreneurial success.",
+   "pdf_page": 15,
+   "supports": "The interview study (Study 4) carries outcome-relevant evidence rather than serving only instrument development, so method=mixed stands under the frozen rule.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "reinforce the quantitative finding that strategic resilience mediates"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure emptiness confirmed: 'competitive advantage' appears only as framing/rhetoric (abstract, discussion); the measured DV is entrepreneurial success (growth metrics). effect_direction=conditional is textually exact: p.17 states full mediation 'with no significant direct path from AI capability to success'. quality_notes is only partly source-based - 'multi-method incl. fsQCA' is covered by the p.1 method quote; the rest ('full mediation is a strong conditional finding | PROPOSED(batch): Leoni class') is coder/adjudication commentary, not quotable. Minor wording nuance for the author: performance_measure says 'survey scale', while the paper describes the questionnaire-embedded ES items as one-year objective growth percentages (revenue, market share, customer base; Table 2, p.6-7) rather than Likert perceptions - survey-collected, so the code is defensible, no change implied."
+ },
+ "has_printed_pagination": true
+}

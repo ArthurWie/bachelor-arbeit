@@ -1,0 +1,241 @@
+{
+ "study_id": "S07",
+ "document_id": 7,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry"
+   ],
+   "quote": "In the study, six hypotheses have been developed and tested through an empirical survey administered to 120 senior executives of Italian manufacturing firms.",
+   "pdf_page": 1,
+   "supports": "One sentence names the survey design, the n = 120 senior executives, Italy, and manufacturing.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "411",
+   "ctrl_f": "In the study, six hypotheses have been developed"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "According to the knowledge-based view (KBV) of the firm (Grant, 1996), knowledge can be considered the most valuable resource of a firm, the only enduring source of competitive advantage",
+   "pdf_page": 4,
+   "supports": "Hypotheses are grounded in the knowledge-based view - backs lens 'knowledge management / KBV'.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "414",
+   "ctrl_f": "According to the knowledge-based view (KBV) of the"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Finally, after discarding incomplete questionnaires, we obtained 120 useful questionnaires, which yielded a response rate of 11%",
+   "pdf_page": 6,
+   "supports": "Confirms the final sample of 120 usable responses.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "416",
+   "ctrl_f": "questionnaires, we obtained 120 useful questionnaires, which yielded"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "In this study, we adopt the PLS-SEM approach which constitutes an appropriate multivariate path modelling approach used to test predictive and causal research models",
+   "pdf_page": 8,
+   "supports": "Analysis strategy is PLS structural equation modelling - backs method = survey-SEM.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "418",
+   "ctrl_f": "In this study, we adopt the PLS-SEM approach"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "participants were asked to choose the level of adoption from a list of specific AI tools derived from a review of previous literature on AI tools already used in KM, SC and manufacturing performance domains.",
+   "pdf_page": 8,
+   "supports": "AI is a survey-measured adoption construct (level of adoption of specific AI tools) - backs 'survey construct (AI adoption/use)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "418",
+   "ctrl_f": "asked to choose the level of adoption from"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Regarding the other constructs (AI, SCR and MFP), they were considered reflective in the research model. For each item, we have used a 5-point Likert scale.",
+   "pdf_page": 7,
+   "supports": "Manufacturing firm performance is a perceptual 5-point Likert survey scale - backs outcome_construct = performance and the perceived-performance measure; no CA construct appears in the model.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "417",
+   "ctrl_f": "other constructs (AI, SCR and MFP), they were"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "However, there was no significant impact on the part of AI on SCR and MFP; therefore, H2 and H3 were rejected.",
+   "pdf_page": 12,
+   "supports": "Direct AI-to-MFP path rejected (Table 8: 0.0063, n.s.) - the non-significant direct path that grounds effect_direction = conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "422",
+   "ctrl_f": "However, there was no significant impact on the"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results reveal positive and significant relationships between AI and KMPs, thus supporting H1.",
+   "pdf_page": 12,
+   "supports": "First leg of the mediation chain (AI -> KMPs, 0.4812*** in Table 8) - backs the coded full-mediation condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "422",
+   "ctrl_f": "The results reveal positive and significant relationships between"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the results indicate a difference regarding the maturity of AI adoption based on firm size ( β 5 0.26, p < 0.01)",
+   "pdf_page": 12,
+   "supports": "Backs the coded condition 'firm size -> AI maturity (0.26**)' (extraction renders '=' as '5').",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "422",
+   "ctrl_f": "the results indicate a difference regarding the maturity"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "we obtained a beta coefficient equal to 0.29 ( p <0.01) for the relationship AI- KMPs-MFP and a beta coefficient equal to 0.30 ( p < 0.01) for the relationship AI- KMPs-SCR",
+   "pdf_page": 13,
+   "supports": "Significant indirect effects through KMPs quantify the mediation condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "423",
+   "ctrl_f": "we obtained a beta coefficient equal to 0.29"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Thus, although the impact of AI on MFP and SCR is not significant, the results show a significant effect stemming from the mediation of KMPs.",
+   "pdf_page": 13,
+   "supports": "The paper's own statement that the effect exists only via KMPs - full mediation with n.s. direct path = conditional per the frozen rule, and the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "423",
+   "ctrl_f": "although the impact of AI on MFP and"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "AI has positive effects on MFP and SCR only when KMPs intervene in these relationships.",
+   "pdf_page": 15,
+   "supports": "Restates the central result: AI alone does not improve performance - backs key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "425",
+   "ctrl_f": "AI has positive effects on MFP and SCR"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "In survey-based studies, collecting perceptual data from a single source at a point in time generates common method bias (CMB) issues",
+   "pdf_page": 8,
+   "supports": "Authors acknowledge the perceptual single-source cross-section design - backs the 'perceptual, n=120 cross-section' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "418",
+   "ctrl_f": "In survey-based studies, collecting perceptual data from a"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "therefore, the results reported in this paper potentially tend to be more positive than the actual situation",
+   "pdf_page": 15,
+   "supports": "Authors' own limitation (sample skews larger than the Italian national average) - source-based part of the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "425",
+   "ctrl_f": "results reported in this paper potentially tend to"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty confirmed: competitive advantage appears only as KBV theory talk (p. 4) and discussion rhetoric (p. 14), never as a measured construct. quality_notes' 'AJG 4 outlet' and 'strong conditional-evidence anchor' are coder commentary, not quotable from the paper. Direction = conditional is the adjudicated decision (brief: direct AI->MFP 0.006 n.s., H2 rejected) and matches the full text exactly."
+ },
+ "has_printed_pagination": true
+}

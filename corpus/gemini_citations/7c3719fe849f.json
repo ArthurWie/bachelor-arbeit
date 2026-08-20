@@ -1,0 +1,16 @@
+{
+ "keys": [
+  "chatterjee2021effect"
+ ],
+ "page": "p. 209",
+ "sentence": "The first example is demonstrated by",
+ "passage": "[Chatterjee et al. (2021), p. 209] \"Competitive advantage is the degree to which the performance of an organization working in the B2B context could achieve greater benefits compared to other organizations functioning in similar conditions.\"",
+ "echo_runs": [],
+ "gemini": {
+  "supported": "no",
+  "overclaim": "The first example is demonstrated by",
+  "passage_is_hypothesis": true,
+  "note": "The passage provides a conceptual definition of competitive advantage, but the sentence suggests the source provides an empirical demonstration of an example.",
+  "model": "gemini-3.1-pro-high"
+ }
+}

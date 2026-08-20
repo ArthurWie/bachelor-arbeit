@@ -1,0 +1,228 @@
+{
+ "study_id": "S53",
+ "document_id": 53,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "The present manuscript is grounded in the economic theory framework.",
+   "pdf_page": 1,
+   "supports": "Abstract names economic theory as the study's theoretical underpinning, matching the coded lens verbatim.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The present manuscript is grounded in the economic"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "This manuscript relies on observations from a balanced panel of data comprising 432 publicly listed companies headquartered in Europe.",
+   "pdf_page": 1,
+   "supports": "Confirms balanced panel, n = 432 European listed companies as coded in sample and country_region.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "balanced panel of data comprising 432 publicly listed"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "The sample excludes banks and insurance companies, given their distinct accounting, governance, and capital structure standards.",
+   "pdf_page": 1,
+   "supports": "Backs the 'banks/insurers excluded' sample detail and the '(non-financial)' qualifier in industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "banks and insurance companies, given their distinct accounting,"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "The sample consists of observations spanning from 2015 to 2023. Observations are gathered from LSEG Data & Analytics.",
+   "pdf_page": 1,
+   "supports": "Confirms the 2015-2023 window and LSEG as the data source coded in sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "sample consists of observations spanning from 2015 to"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "We employ fixed-effects panel regressions because they are particularly well-suited for quantitative studies estimating relationships among variables",
+   "pdf_page": 5,
+   "supports": "Methodology section states fixed-effects panel regressions, backing method = panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.53,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "5",
+   "ctrl_f": "We employ fixed-effects panel regressions because they are"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "the authors constructed the AI focus variable by analyzing firms' textual disclosures and identifying the occurrence of 122 terms associated with AI",
+   "pdf_page": 7,
+   "supports": "Shows the 'organizational AI focus' measure is archival, built from corporate disclosure texts (LSEG-sourced data), as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "7",
+   "ctrl_f": "authors constructed the AI focus variable by analyzing"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Furthermore, this study examines the relationship between organizations' AI focus and financial performance, measured by return on assets (ROA) and Tobin's Q.",
+   "pdf_page": 1,
+   "supports": "Names ROA and Tobin's Q as the financial performance measures; all outcomes are performance constructs, supporting outcome_construct = performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Furthermore, this study examines the relationship between organizations'"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "This study examines the link between organizations' focus on AI and their environmental, social, and governance (ESG) score.",
+   "pdf_page": 1,
+   "supports": "Backs the '(+ ESG pillar scores)' component of the coded performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "This study examines the link between organizations' focus"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "The empirical findings indicate: I) a positive and significant association between organizations' AI focus and their environmental (b = 0.127***; p = 0.001) and social pillar scores (b = 0.072**; p = 0.023)",
+   "pdf_page": 1,
+   "supports": "Positive significant E/S pillar results; the paper's own 'association' wording backs the quality note that no causal identification is claimed.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The empirical findings indicate: I) a positive and"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "II) a positive and significant link with financial performance (ROA: b = 0.094**; p = 0.012; TobinQ: 0.103*; p = 0.051)",
+   "pdf_page": 1,
+   "supports": "Positive significant main effects on both financial performance measures, backing effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "positive and significant link with financial performance (ROA:"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "performance_measure"
+   ],
+   "quote": "III) a positive but statistically insignificant relationship with governance pillar scores (b = 0.030; p = 0.166)",
+   "pdf_page": 1,
+   "supports": "The governance null is an outcome description (per adjudication it belongs to performance_measure/key_finding, not conditions).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "III) a positive but statistically insignificant relationship with"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "the obtained results indicate a positive and significant relationship between firms' AI focus and their financial performance (expressed as ROA and Tobin's Q) and their environmental and social sustainability performance",
+   "pdf_page": 13,
+   "supports": "Conclusion's own summary of the central result: AI focus with better financial AND E/S sustainability performance, matching the coded key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.55,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "13",
+   "ctrl_f": "the obtained results indicate a positive and significant"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "quality_notes"
+   ],
+   "quote": "the constructed AI variable presents certain limitations, as it relies on data derived from organizations' narrative disclosures",
+   "pdf_page": 14,
+   "supports": "Authors' own limitation on the disclosure-based AI measure, a source-based quality caveat.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "the constructed AI variable presents certain limitations, as"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "conditions empty confirmed: no moderators or heterogeneity tests; the common-law subsample, PSM, two-year lag, MSCI rescoring and non-linear checks are robustness analyses (the non-linear check itself concludes the relationships are linear), not conditions per case law; the governance null is covered as key_finding. ca_measure empty confirmed: 'competitiveness' appears only in intro framing, no CA construct measured. quality_notes 'Association study': the paper uses associational language throughout (see abstract quote) and applies PSM/lags only as endogeneity mitigation without claiming causal identification."
+ },
+ "has_printed_pagination": true
+}

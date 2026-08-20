@@ -1,0 +1,249 @@
+{
+ "study_id": "S44",
+ "document_id": 44,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Using the generalized method of moments (GMM) estimation on 1950 unique American firms over 1996-2016, we show that a 10% increase in AI investment leads to an increase in firm growth by 0.04%.",
+   "pdf_page": 1,
+   "supports": "Abstract states GMM panel method, the 1,950-firm US sample 1996-2016, and the average positive effect size coded in conditions/key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "961",
+   "ctrl_f": "generalized method of moments (GMM) estimation on 1950"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Our paper develops a resource-based framework, using investment in AI, labour market conditions, and firm growth as underlying parameters",
+   "pdf_page": 2,
+   "supports": "Shows the paper's declared framework.",
+   "tension": "theoretical_lens is coded 'none explicit (labour economics framing)', but the paper explicitly develops a resource-based (RBV) framework - see also section 2.1. The 'none explicit' label looks factually wrong; author should re-check.",
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "962",
+   "ctrl_f": "investment in AI, labour market conditions, and firm"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "The fundamental theory underlying this evidence is the resource-based view (RBV), which highlights strong internal resources and capabilities as key ingredients required by a firm to achieve positive output",
+   "pdf_page": 2,
+   "supports": "Section 2.1 names RBV as the fundamental theory - further evidence for the tension flagged on the previous quote.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.5,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "962",
+   "ctrl_f": "The fundamental theory underlying this evidence is the"
+  },
+  {
+   "fields": [
+    "sample",
+    "method",
+    "country_region"
+   ],
+   "quote": "we develop a GMM estimation model on a sample of 1950 unique US firms from 1996 to 2016",
+   "pdf_page": 2,
+   "supports": "Confirms the coded sample size, country, and period.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "962",
+   "ctrl_f": "develop a GMM estimation model on a sample"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we construct a new measure of firm investments in AI based on the intensity of hiring",
+   "pdf_page": 5,
+   "supports": "The AI measure is workforce/hiring-based (AI-skilled labour from job postings and employee profiles), matching the coded resume/job-based measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "965",
+   "ctrl_f": "investments in AI based on the intensity of"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "sample"
+   ],
+   "quote": "We then matched the employer's name to the names of publicly traded firms in the Compustat data set using the approach developed by Fedyk and Hodson (2023).",
+   "pdf_page": 5,
+   "supports": "Backs the coded 'Fedyk & Hodson 2023 approach' and the Compustat basis of the sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "965",
+   "ctrl_f": "the employer's name to the names of publicly"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "resulting in excluding financial firms (SIC codes 6000-6999) and utilities (SIC codes 4900-4999) from the sample",
+   "pdf_page": 5,
+   "supports": "Sample spans all industries except financials and utilities, evidencing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.11,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "965",
+   "ctrl_f": "financial firms (SIC codes 6000-6999) and utilities"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "The dependent variable denotes firms' growth for firm i in year t measured as a one-year growth rate of sales (SALE) at time t-1",
+   "pdf_page": 5,
+   "supports": "DV is sales growth - a performance construct, matching the coded performance_measure 'firm growth (sales growth)'.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.31,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "965",
+   "ctrl_f": "denotes firms' growth for firm i in year"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "To overcome these two challenges, we employ the system GMM dynamic panel estimator (Arellano & Bover, 1995; Blundell & Bond, 1998), which offers several advantages.",
+   "pdf_page": 5,
+   "supports": "Backs the coded method 'panel econometrics' and the quality note 'GMM' (system GMM addressing endogeneity).",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "965",
+   "ctrl_f": "To overcome these two challenges, we employ the"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "The results show that a 10% decrease (increase) in AI investment leads to a decrease (increase) in firms' growth by 0.04%.",
+   "pdf_page": 7,
+   "supports": "Baseline result: the average AI-growth effect (+0.04% per 10%) coded in conditions, and the 'small average effect size' quality note.",
+   "tension": "effect_direction is coded 'conditional', but the paper reports a clear, significant average positive main effect that is robust across endogeneity tests, alternative measures and subsamples (conclusion: 'strong evidence that AI investment positively impacts firm growth'). Under the frozen main-effect rule this reads as 'positive' with labour-market moderators in conditions; the row was not among the adjudicated disputes, so the author should re-check.",
+   "located_pdf_pages": [
+    7
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "967",
+   "ctrl_f": "show that a 10% decrease (increase) in AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "sample"
+   ],
+   "quote": "Using a sample of publicly traded US firms from the COMPUSTAT annual file from 1996 to 2016, the study finds strong evidence that AI investment positively impacts firm growth.",
+   "pdf_page": 17,
+   "supports": "The paper's own concluding statement of its central result; also confirms Compustat and the US sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 0.14,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "977",
+   "ctrl_f": "traded US firms from the COMPUSTAT annual file"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "However, this result is highly sensitive to labour market conditions, as labour productivity can positively impact firm growth, but labour cost and labour share negatively influence firm growth.",
+   "pdf_page": 1,
+   "supports": "Abstract backs the coded conditions: productivity amplifies, labour cost and labour share weaken - the payoff hinges on labour-market conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "961",
+   "ctrl_f": "labour market conditions, as labour productivity can positively"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The findings suggest that labour market conditions moderate the relationship between AI investment and firms' growth. The findings suggest efficient labour market conditions further reinforce the positive relationship between AI and firms' growth.",
+   "pdf_page": 11,
+   "supports": "Interaction results (Table 5) identify labour market conditions as moderators of the AI-growth link, matching the coded conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 0.55,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "971",
+   "ctrl_f": "The findings suggest that labour market conditions"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results find labour productivity to be positive and statistically significant at 1%",
+   "pdf_page": 10,
+   "supports": "Backs the 'labour productivity amplifies' part of the coded conditions (positive significant coefficient on growth).",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "970",
+   "ctrl_f": "The results find labour productivity to be positive"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Three items: (1) theoretical_lens 'none explicit' conflicts with the paper's explicit RBV framework (tensions on quotes 2-3). (2) effect_direction 'conditional' vs the paper's robust significant positive average main effect (tension on the baseline-result quote); this row was not in adjudication_briefs.md, so it never went through individual adjudication. (3) The paper is internally muddled on moderation direction: H2/H3 predict labour share/cost weaken the AI-growth link (as coded), but Table 5 reports significantly POSITIVE interaction terms for all three labour conditions and still claims support for H2-H4 - the coded 'weaken' follows the abstract and the Table 4 direct effects, not Table 5. ca_measure empty is correct: competitive-advantage/VRIN talk is theory framing only, no CA construct is measured."
+ },
+ "has_printed_pagination": true
+}

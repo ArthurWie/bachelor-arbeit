@@ -1,0 +1,267 @@
+{
+ "study_id": "S34",
+ "document_id": 34,
+ "quotes": [
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "effect_direction",
+    "outcome_construct"
+   ],
+   "quote": "Using firm-level data from the 2019 French ICT survey, we provide robust evidence that AI use is associated with increased volatility.",
+   "pdf_page": 1,
+   "supports": "Abstract names the 2019 French ICT survey firm-level sample and the baseline AI-volatility association that the coded conditions then qualify.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "the 2019 French ICT survey, we provide robust"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Our results show that heightened volatility is concentrated among AI buyers, whereas firms that develop AI internally experience no such association.",
+   "pdf_page": 1,
+   "supports": "The effect exists only for AI buyers and vanishes for in-house developers - the core of the coded 'conditional' direction and the buyer/developer condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "that develop AI internally experience no such"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Finally, we find that the AI-volatility link among 'AI buyers' is mitigated in firms with a higher share of ICT engineers and technicians, suggesting that AI's successful integration requires complementary human capital.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that complementary ICT human capital mitigates the buyer effect and the key finding's neutralization clause.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "that the AI-volatility link among “AI buyers” is"
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "performance_measure",
+    "quality_notes"
+   ],
+   "quote": "our work is the first to shift attention away from expected productivity gains and focus on how the integration of AI systems alters the variability in productivity growth dynamics within firms",
+   "pdf_page": 2,
+   "supports": "The paper positions itself in productivity dynamics, not a named strategy theory, and confirms the unusual volatility outcome flagged in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "to shift attention away from expected productivity gains"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "we account for differences in firm characteristics by employing a Coarsened Exact Matching (CEM) approach, which balances AI users and non-users ex-ante based on characteristics such as size, age, productivity, industry, and digitalization measures",
+   "pdf_page": 2,
+   "supports": "The balancing/matching robustness noted in the coded sample and part of the econometric identification strategy.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.89,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "Exact Matching (CEM) approach, which balances AI users"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "In this work we make use of a representative ICT survey distributed to about 9000 French firms with 10 or more employees in 2019.",
+   "pdf_page": 3,
+   "supports": "Data section confirms the French ICT survey 2019 firm-level sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "In this work we make use of a"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Firms are asked the following question about AI use: 'In 2018, did your company make use of software and/or equipment incorporating artificial intelligence technologies?'",
+   "pdf_page": 3,
+   "supports": "The survey-based predictive AI use measure coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "use: “In 2018, did your company make use"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions"
+   ],
+   "quote": "Crucially, the survey distinguishes between two types of users: AI buyers, who use externally purchased AI technologies, and AI developers, who rely on AI systems developed in-house.",
+   "pdf_page": 3,
+   "supports": "The buyers-vs-in-house-developers split coded in ai_measure and used for the conditional finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "of users: AI buyers, who use externally purchased"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "The dependent variable in all the empirical investigations below is the volatility of the productivity growth rates of the French firms in our sample.",
+   "pdf_page": 3,
+   "supports": "The outcome is the volatility of productivity growth, not the level - as coded in performance_measure; no CA construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "The dependent variable in all the empirical investigations"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "we regress the (log) volatility computed over the time span 2014-2019 on an AI adoption indicator while controlling for other ICT technologies adoption, firm characteristics, and sector (2-digit) and region fixed effects",
+   "pdf_page": 5,
+   "supports": "Regression design on archival firm data (volatility built from 2007-2019 balance-sheet panels) with fixed effects - the coded panel econometrics.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "computed over the time span 2014–2019 on an"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry"
+   ],
+   "quote": "They operate across a diverse range of 61 sectors ranging from manufacturing of food products (#10) to services like the repair of computers (#95), reflecting a broad industrial coverage.",
+   "pdf_page": 6,
+   "supports": "Backs the cross-industry coding; analysis sample is 7915 firms from the survey.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "They operate across a diverse range of 61"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "This difference in volatilities, estimated to be around 10%, holds true when we address potential measurement issues with our dependent variable but disappears in a placebo test",
+   "pdf_page": 8,
+   "supports": "Magnitude of the average AI-volatility association that the sourcing split then shows to be concentrated among buyers only.",
+   "tension": null,
+   "located_pdf_pages": [
+    8
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "8",
+   "ctrl_f": "in volatilities, estimated to be around 10 %, holds"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "the interaction term between AI buyers and ICT share is negative, significant and large enough to indicate that firms with a higher intensity of ICT workers experience a substantially weaker AI-volatility relation",
+   "pdf_page": 14,
+   "supports": "Regression evidence for the coded mitigating condition (share of ICT engineers/technicians).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 0.67,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "the interaction term between AI buyers and ICT"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "In particular, we find that firms that develop AI systems in-house do not experience this volatility surge, unlike firms that procure AI from external providers.",
+   "pdf_page": 14,
+   "supports": "Conclusion restates the coded key finding: off-the-shelf AI raises riskiness, in-house development neutralizes it.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "in-house do not experience this volatility surge, unlike"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "method"
+   ],
+   "quote": "While not definitive and still largely correlational, the multiple estimation strategies and robustness checks employed in this work provide reassurance about the robustness of our findings.",
+   "pdf_page": 14,
+   "supports": "Authors' own caveat on the correlational nature of the evidence, source-based support for the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "and still largely correlational, the multiple estimation strategies"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: no competitive-advantage construct appears anywhere in the paper. quality_notes ('Unusual outcome (volatility) - valuable nuance') is coder commentary but anchored by the paper's own first-to-study-volatility claim (p. 2 quote) and correlational caveat (p. 14). On direction: the paper does report a significant average AI-volatility association (~6-10%), but volatility is not a signed performance level, and the sourcing split shows the association exists only for AI buyers (developers null) and is neutralized by ICT human capital - consistent with the final 'conditional' coding; no tension flagged."
+ },
+ "has_printed_pagination": true
+}

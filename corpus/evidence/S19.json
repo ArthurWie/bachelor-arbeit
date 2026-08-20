@@ -1,0 +1,288 @@
+{
+ "study_id": "S19",
+ "document_id": 19,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "ai_measure",
+    "industry"
+   ],
+   "quote": "A comparative analysis of four companies -two that have adopted AI and two that have not -reveals significant discrepancies in the management of TM processes between AI-driven and traditional companies.",
+   "pdf_page": 1,
+   "supports": "Backs the comparative 4-firm design, the adopter-vs-non-adopter contrast as the AI measure, and the tender-management setting.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "significant discrepancies in the management of TM processes"
+  },
+  {
+   "fields": [
+    "method",
+    "theoretical_lens"
+   ],
+   "quote": "The study employs the Delphi method to ascertain expert consensus on eight critical areas of AI governance, including data privacy, transparency, and ethical AI use.",
+   "pdf_page": 1,
+   "supports": "Backs the second evidential strand (Delphi) of the adjudicated mixed method and the governance/compliance framing coded as lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The study employs the Delphi method to ascertain"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure",
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "The findings indicate that companies integrating AI demonstrate enhanced decision-making capabilities, accelerated processing times, and enhanced stakeholder engagement. However, they also encounter challenges pertaining to ethical governance and regulatory compliance.",
+   "pdf_page": 1,
+   "supports": "Backs the operational-efficiency outcome (processing times, decision quality) as the performance side of 'both' and the governance caveat behind the conditional coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "demonstrate enhanced decision-making capabilities, accelerated processing times, and"
+  },
+  {
+   "fields": [
+    "conditions",
+    "country_region",
+    "theoretical_lens"
+   ],
+   "quote": "aligning the adoption of AI with the latest European directives, such as the AI Act and General Data Protection Regulation (GDPR), to ensure both operational efficiency and adherence to ethical standards",
+   "pdf_page": 1,
+   "supports": "Backs the coded regulatory-compliance conditions (EU AI Act, GDPR) and the European context.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "aligning the adoption of AI with the latest"
+  },
+  {
+   "fields": [
+    "method",
+    "sample"
+   ],
+   "quote": "the study employs a comparative case study approach, in which four pharmaceutical companies are analyzed and 53 involved participants in interviews and Delphi rounds",
+   "pdf_page": 2,
+   "supports": "Backs the coded sample: 4 pharma companies plus 53 Delphi/interview participants; both strands carry outcome evidence (adjudicated mixed).",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "2",
+   "ctrl_f": "study approach, in which four pharmaceutical companies are"
+  },
+  {
+   "fields": [
+    "sample",
+    "method",
+    "quality_notes"
+   ],
+   "quote": "These were designed to assess the likelihood and impact of various scenarios in the two rounds of discussions and interviews.",
+   "pdf_page": 17,
+   "supports": "Backs the 2-round Delphi design in sample and the dual-method quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    17
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "17",
+   "ctrl_f": "These were designed to assess the likelihood and"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "quality_notes"
+   ],
+   "quote": "This scale ranged from 1 (strongly disagree) to 5 (strongly agree), allowing for a nuanced understanding of expert consensus on each topic.",
+   "pdf_page": 11,
+   "supports": "Backs the Likert-based expert rating that underlies the coded ca_measure and the expert-judgment quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "This scale ranged from 1 (strongly disagree) to"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "quality_notes"
+   ],
+   "quote": "Interquartile range (IQR) analysis was also performed to identify the most informative statements.",
+   "pdf_page": 18,
+   "supports": "Backs the 'Likert+IQR' quantification named in ca_measure and the quantified-consensus quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "18",
+   "ctrl_f": "was also performed to identify the most informative"
+  },
+  {
+   "fields": [
+    "ca_measure"
+   ],
+   "quote": "It is noteworthy that Company A exhibits the highest median rating, which reflects a more advanced or successful AI implementation in comparison to its counterparts.",
+   "pdf_page": 13,
+   "supports": "Backs the expert-rated per-company comparison (adopters rated above non-adopters) behind the coded CA measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 0.08,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "13",
+   "ctrl_f": "that Company A exhibits the highest median rating,"
+  },
+  {
+   "fields": [
+    "performance_measure"
+   ],
+   "quote": "This automation accelerates the submission process while enhancing the accuracy and thoroughness of bids, which is crucial for passing qualification stages.",
+   "pdf_page": 16,
+   "supports": "Backs the document-accuracy and processing-time elements of the coded performance measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "16",
+   "ctrl_f": "enhancing the accuracy and thoroughness of bids, which"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "AI also supports dynamic pricing strategies by analyzing competitor pricing, demand elasticity, and cost structures, thus recommending optimal bid prices that maximize both competitiveness and profitability.",
+   "pdf_page": 16,
+   "supports": "Backs 'bid competitiveness in tendering context' as the CA side of the coded 'both'.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 0.96,
+   "verdict": "verified",
+   "printed_pages": "16",
+   "ctrl_f": "also supports dynamic pricing strategies by analyzing competitor"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure",
+    "effect_direction"
+   ],
+   "quote": "These companies are better positioned to leverage real-time data analysis, optimize tendering strategies, and maintain competitive advantages in a rapidly evolving market.",
+   "pdf_page": 19,
+   "supports": "Competitor-comparative CA statement about the AI adopters, backing outcome_construct = both (adjudicated: CA expert-rated in tender context).",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "19",
+   "ctrl_f": "leverage real-time data analysis, optimize tendering strategies, and"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "it is evident that the successful integration of AI in pharmaceutical TM processes is contingent upon not only technological adoption but also the development of comprehensive governance and ethical frameworks",
+   "pdf_page": 20,
+   "supports": "The paper's own 'contingent upon' conclusion — the adjudicated basis for effect_direction = conditional and the governance/ethics condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "20",
+   "ctrl_f": "integration of AI in pharmaceutical TM processes is"
+  },
+  {
+   "fields": [
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "the study also indicated that the successful implementation of AI is contingent upon several factors, including organizational readiness, senior management involvement, and the alignment of AI initiatives with broader business goals",
+   "pdf_page": 20,
+   "supports": "Backs three coded conditions verbatim: organizational readiness, senior management involvement, alignment with business goals.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "20",
+   "ctrl_f": "implementation of AI is contingent upon several factors,"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The involvement of senior management from the outset of the AI initiatives was identified as a critical factor in their success",
+   "pdf_page": 19,
+   "supports": "Backs the coded note that senior management involvement was identified as a critical factor.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "19",
+   "ctrl_f": "outset of the AI initiatives was identified as"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "The European tendering system plays a pivotal role in guaranteeing that healthcare providers can obtain essential medicines at competitive prices.",
+   "pdf_page": 3,
+   "supports": "Backs the EU tendering context and the pharmaceutical industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "system plays a pivotal role in guaranteeing that"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced; row was adjudicated on all three disputed dimensions (mixed / both / conditional) and the full text supports each. 'Decision quality' in performance_measure appears in the text as 'enhanced decision-making capabilities' (abstract). Quality note is fully source-based (comparative cases + 2-round Delphi with 53 participants, Likert/IQR/Kendall consensus statistics)."
+ },
+ "has_printed_pagination": true
+}

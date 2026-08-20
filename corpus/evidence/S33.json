@@ -1,0 +1,279 @@
+{
+ "study_id": "S33",
+ "document_id": 33,
+ "quotes": [
+  {
+   "fields": [
+    "sample",
+    "ai_measure",
+    "effect_direction",
+    "key_finding",
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Using a procurement-based AI adoption index, patent records, and supply-chain data from 4004 A-share firms over 2011-2023, we find that greater AI adoption significantly increases the output and efficiency of firms' innovation.",
+   "pdf_page": 1,
+   "supports": "Abstract states sample (4004 A-share firms 2011-2023), the procurement-based AI index, and the positive main effect on innovation output and efficiency - the coded key finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "adoption index, patent records, and supply‑chain data from"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "We propose a dual-channel model in which AI enhances knowledge creation and reuse (knowledge orchestration) and transforms data into actionable environmental assets (data assetization).",
+   "pdf_page": 1,
+   "supports": "Names the coded lens: knowledge orchestration / data assetization dual-channel model.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.68,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "dual‑channel model in which AI enhances knowledge creation"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Heterogeneity analysis reveals that large incumbents and growth-stage firms leverage AI most effectively for innovation outputs and efficiency.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'stronger for large incumbents and growth-stage firms'.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "incumbents and growth‑stage firms leverage AI most effectively"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Further analysis shows that AI-driven innovation is amplified in firms with executives who have information technology backgrounds, and that highly innovative firms diversify their supply chain to reduce resource risk.",
+   "pdf_page": 1,
+   "supports": "Backs the coded conditions on IT-background executives and supply-chain diversification.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "analysis shows that AI-driven innovation is amplified in"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To empirically examine the relationship between AI adoption and corporate innovation, we employ a two-way fixed effects model to mitigate omitted variable bias.",
+   "pdf_page": 3,
+   "supports": "Two-way fixed-effects estimation on the firm-year panel - the coded 'panel econometrics'.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "To empirically examine the relationship between AI adoption"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Corporate innovation is captured through two dimensions: innovation output and innovation efficiency.",
+   "pdf_page": 3,
+   "supports": "The two coded performance measures; a performance construct, no CA construct is measured.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 0.83,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "Corporate innovation is captured through two dimensions:"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "country_region"
+   ],
+   "quote": "To construct this variable, we leverage the SSIRD database, which contains over 1.47 million tendering events from Chinese listed firms.",
+   "pdf_page": 3,
+   "supports": "The AI measure is built from Chinese firms' procurement/tender records - the coded procurement index.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "variable, we leverage the SSIRD database, which contains"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "Each tender's project title was scanned against this dictionary. Events matching any keyword were classified as AI-related (coded as 1) and aggregated at the firm-year level.",
+   "pdf_page": 3,
+   "supports": "Operationalization of AI adoption from procurement records via an AI keyword dictionary.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "3",
+   "ctrl_f": "scanned against this dictionary. Events matching any keyword"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry",
+    "method"
+   ],
+   "quote": "The empirical analysis draws on a comprehensive panel dataset spanning 2011-2023, covering 4004 publicly listed firms across 266 Chinese cities, resulting in 27,978 firm-year observations.",
+   "pdf_page": 4,
+   "supports": "Panel of 4004 Chinese listed firms with no sector restriction, backing sample, China, and the cross-industry (listed firms) coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The empirical analysis draws on a comprehensive panel"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "A 1 % increase in AI adoption intensity raises patent applications by 0.145 % (β = 0.145, p < 0.01) after accounting for firm characteristics and fixed effects.",
+   "pdf_page": 6,
+   "supports": "Significant positive baseline main effect on innovation output - backing effect_direction = positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "A 1 % increase in AI adoption intensity raises"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "the coefficient (β = 0.005, p < 0.01) indicates that a 1 % increase in AI adoption raises innovation efficiency by 0.005 units",
+   "pdf_page": 6,
+   "supports": "Significant positive baseline effect on the second outcome, innovation efficiency.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "6",
+   "ctrl_f": "that a 1 % increase in AI adoption raises"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "For large firms (Columns 2 and 4), AI adoption significantly enhances both innovation output (β = 0.154, p < 0.01) and efficiency (β = 0.006, p < 0.01)",
+   "pdf_page": 9,
+   "supports": "Size heterogeneity: the effect concentrates in large firms (small firms are insignificant), backing the 'large incumbents' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "For large firms (Columns 2 and 4), AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The presence of senior executives with IT backgrounds significantly amplifies AI's impact on innovation, though effects vary across performance dimensions (Table 9).",
+   "pdf_page": 10,
+   "supports": "Moderator evidence for the coded 'executives with IT backgrounds amplify' condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 0.83,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "The presence of senior executives with IT backgrounds"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Table 11 shows that AI-driven innovation significantly lowers supply chain concentration, reducing operational risks.",
+   "pdf_page": 11,
+   "supports": "Backs the coded condition that highly innovative firms diversify supply chains to reduce resource risk.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "Table 11 shows that AI-driven innovation significantly lowers"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions"
+   ],
+   "quote": "The benefits vary across contexts: large, expanding firms capture more gains, whereas IT-savvy leaders enhance patent output more than others, owing to superior absorptive capacity.",
+   "pdf_page": 12,
+   "supports": "Conclusion restates the coded key finding that firm maturity, scale and IT-savvy leadership provide the absorptive conditions for AI's payoff.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "vary across contexts: large, expanding firms capture more"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "ai_measure"
+   ],
+   "quote": "Procurement-based AI measures may undercount in-house development, and patent-based quality metrics could be complemented with commercialization data.",
+   "pdf_page": 12,
+   "supports": "Authors' own caveat on the novel procurement-based AI measure noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    12
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "12",
+   "ctrl_f": "undercount in-house development, and patent-based quality metrics"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: 'competitive advantage' appears only as rhetoric in the IV discussion and conclusion, no CA construct is measured. quality_notes ('Novel procurement-based AI measure; archival panel') is coder shorthand but source-anchored via the measure-construction and limitation quotes. Note: the paper also frames AI as a general-purpose technology (Sec. 2.1) alongside the coded dual-channel lens - complementary framing, not a contradiction. Direction 'positive' with heterogeneity-as-conditions matches the case-law main-effect rule (baseline betas 0.145***/0.005***)."
+ },
+ "has_printed_pagination": true
+}

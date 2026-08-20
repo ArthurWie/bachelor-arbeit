@@ -1,0 +1,264 @@
+{
+ "study_id": "S60",
+ "document_id": 60,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "conditions"
+   ],
+   "quote": "Drawing on institutional and contingency perspectives, two complementary studies are conducted to test a moderated mediation model.",
+   "pdf_page": 1,
+   "supports": "Abstract names the institutional + contingency lens and the moderated mediation design behind the coded conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "contingency perspectives, two complementary studies are conducted to"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "This research employed a mixed-method design consisting of a multilevel field survey (Study 1) and a complementary experimental vignette study (Study 2).",
+   "pdf_page": 4,
+   "supports": "Explicit 'mixed-method design'; both strands carry outcome evidence, so method = mixed per the case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "This research employed a mixed-method design consisting of"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "Study 1 employs multilevel survey data from 420 firms across multiple regions, analyzed using hierarchical linear modeling.",
+   "pdf_page": 1,
+   "supports": "Backs the coded Study 1 sample (420 firms, multilevel survey, HLM).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "1 employs multilevel survey data from 420 firms"
+  },
+  {
+   "fields": [
+    "sample",
+    "method",
+    "quality_notes"
+   ],
+   "quote": "Study 2 adopts an experimental vignette design with 360 managerial participants to provide causal evidence.",
+   "pdf_page": 1,
+   "supports": "Backs the coded Study 2 sample (vignette experiment, 360 managers) and the 'rare causal experiment component' quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Study 2 adopts an experimental vignette design with"
+  },
+  {
+   "fields": [
+    "country_region"
+   ],
+   "quote": "The firms included in Study 1 were drawn from multiple Asia-Pacific economies, including China, Malaysia, Singapore, and Thailand.",
+   "pdf_page": 4,
+   "supports": "Backs country_region = Asia-Pacific (multi-region).",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The firms included in Study 1 were drawn"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "A stratified sampling approach across industries was used to capture variability in innovation practices while maintaining comparability.",
+   "pdf_page": 4,
+   "supports": "Sampling stratified across industries backs industry = cross-industry.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "stratified sampling approach across industries was used to"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI-enabled innovation was measured in Study 1 using a four-item scale adapted from prior innovation research",
+   "pdf_page": 4,
+   "supports": "The survey construct (AI-enabled innovation) coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "AI-enabled innovation was measured in Study 1 using"
+  },
+  {
+   "fields": [
+    "ai_measure",
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "In Study 2, regulatory climate was experimentally manipulated through vignette scenarios varying regulatory clarity and enforcement posture, with manipulation checks confirming successful differentiation between conditions.",
+   "pdf_page": 4,
+   "supports": "The experimentally manipulated regulatory conditions named in ai_measure and conditions; also the causal-experiment quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.64,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "clarity and enforcement posture, with manipulation checks"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct"
+   ],
+   "quote": "Productivity gains were assessed in Study 1 using a three-item measure adapted from operational performance research (Ketokivi & Schroeder, 2004), capturing efficiency, output quality, and resource utilization",
+   "pdf_page": 4,
+   "supports": "Productivity gains as the first coded performance measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "Productivity gains were assessed in Study 1 using"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "The scale explicitly captured managers' assessments of growth in sales, market share, and profitability over the past three years relative to key competitors",
+   "pdf_page": 4,
+   "supports": "Firm growth as the second coded performance measure (perceptual growth scale).",
+   "tension": "Growth scale is anchored 'relative to key competitors' - a competitor-comparative wording that is a boundary case under the S05 relative-performance rule. The construct itself is firm economic growth (no distinct CA construct, scale, or CA hypothesis), so outcome_construct = performance and empty ca_measure follow the frozen rule; flagged only so the author sees the anchor.",
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "growth in sales, market share, and profitability over"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "performance_measure"
+   ],
+   "quote": "Results suggest that AI-enabled innovation is associated with firm growth both directly and indirectly through productivity gains, with the strength of the innovation -productivity link contingent on the regional regulatory climate.",
+   "pdf_page": 1,
+   "supports": "The adjudication-brief quote: direct AND indirect associations present, regulation moderates strength not existence, so direction = positive per the Shi rule and the regulatory contingency goes to conditions.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Results suggest that AI-enabled innovation is associated with"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "AI-enabled innovation also exerted a significant direct effect on firm economic growth ( γ = .15, p < .05, 95% CI [.04, .26]), indicating that AI innovation contributes to growth beyond its indirect effects through productivity.",
+   "pdf_page": 5,
+   "supports": "Significant direct path alongside the mediation - partial, not full, mediation, confirming positive rather than conditional.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "effect on firm economic growth (γ = .15, p < .05,"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "Regulatory clarity and supportive enforcement are manipulated, and results indicate that clear and supportive environments are associated with higher levels of intended AI investment, productivity expectations, deployment speed, and growth projections.",
+   "pdf_page": 1,
+   "supports": "Study 2's causal evidence for the regulatory conditions coded in conditions and noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.84,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Regulatory clarity and supportive enforcement are manipulated, and"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "moderated mediation findings reveal that the productivity pathway is strongest when both clarity and supportiveness are present",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition that clarity and supportive enforcement jointly maximize the productivity pathway.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.41,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "pathway is strongest when both clarity and supportiveness"
+  },
+  {
+   "fields": [
+    "key_finding"
+   ],
+   "quote": "Together, these studies provide convergent evidence that institutional environments may amplify the benefits of AI adoption",
+   "pdf_page": 1,
+   "supports": "The paper's own summary statement that the institutional environment is the amplifier, matching key_finding.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "convergent evidence that institutional environments may amplify the"
+  }
+ ],
+ "row_check": {
+  "verdict": "CHECK",
+  "notes": "Two things to look at, neither a rule violation: (1) the firm-growth scale is anchored 'relative to key competitors' (p.4) - see the tension note; performance coding follows the frozen rule because the construct is growth, not a distinct CA construct. (2) Direction adjudication confirmed in the full text: direct effect on growth γ=.15* and the AI->productivity slope stays significant even at low regulatory support (.18*, Table 4 Panel B), so moderation of strength, not existence. The second half of quality_notes ('PROPOSED(batch)...') is adjudication commentary, not source-based, and is deliberately not quote-evidenced."
+ },
+ "has_printed_pagination": true
+}

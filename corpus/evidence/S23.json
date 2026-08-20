@@ -1,0 +1,262 @@
+{
+ "study_id": "S23",
+ "document_id": 23,
+ "quotes": [
+  {
+   "fields": [
+    "theoretical_lens",
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "The integrative model of IT Business Value was contextualised, and structural equation modelling was applied to validate the proposed serial multiple mediation model using a sample of 448 organisations based in the EU.",
+   "pdf_page": 1,
+   "supports": "One sentence backs the coded lens (IT business value model), method (SEM), sample (448 organisations) and region (EU).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The integrative model of IT Business Value was"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "conditions",
+    "effect_direction"
+   ],
+   "quote": "The results validate the proposed serial multiple mediation model according to which AI adoption increases organisational performance through decision-making and business process performance. Process automation, organisational learning and process innovation are significant complementary partial mediators",
+   "pdf_page": 1,
+   "supports": "Paper's own findings statement matches the coded key finding and the coded conditions (serial mediation via DMP and BPP, three complementary mediators); 'increases' backs the positive direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The results validate the proposed serial multiple mediation"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "For this purpose, the integrative IT business value model (Melville et al., 2004) was adopted to study AI adoption in the BPM setting.",
+   "pdf_page": 4,
+   "supports": "Names Melville's IT business value model as the adopted framework, matching the coded lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "For this purpose, the integrative IT business value"
+  },
+  {
+   "fields": [
+    "method",
+    "quality_notes"
+   ],
+   "quote": "In order to empirically examine the research problem, a survey design was employed. A single primary data source, self-report, and cross-sectional design were used.",
+   "pdf_page": 9,
+   "supports": "Confirms survey method and the quality note (perceptual self-report, cross-section).",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "9",
+   "ctrl_f": "In order to empirically examine the research problem,"
+  },
+  {
+   "fields": [
+    "sample",
+    "industry",
+    "country_region"
+   ],
+   "quote": "The collected and processed sample included 448 EU organisations. Sample representativeness was ensured in terms of firm size, industry sector, years in business (age) and country.",
+   "pdf_page": 10,
+   "supports": "Confirms n = 448 EU organisations and the cross-industry composition (representativeness across industry sectors).",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "The collected and processed sample included 448 EU"
+  },
+  {
+   "fields": [
+    "country_region"
+   ],
+   "quote": "with almost half from Germany (21.43%), Italy (10.94%), the Netherlands (10.49%) and France (6.92%)",
+   "pdf_page": 10,
+   "supports": "Country breakdown confirms a multi-country EU sample, matching country_region = EU.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "(21.43%), Italy (10.94%), the Netherlands (10.49%) and France"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The operationalisation of AI adoption comprised five underlying sub-constructs: DACQ, CI, CE, CDA and CT.",
+   "pdf_page": 10,
+   "supports": "Confirms AI adoption as a multidimensional survey construct, as coded in ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    10
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "10",
+   "ctrl_f": "The operationalisation of AI adoption comprised five underlying"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "AMOS version 28 with the Maximum Likelihood Method was used for performing the CFA and Path Analysis (i.e. to test the hypotheses in the conceptual model).",
+   "pdf_page": 11,
+   "supports": "Covariance-based SEM in AMOS confirms the coded survey-SEM method.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "AMOS version 28 with the Maximum Likelihood Method"
+  },
+  {
+   "fields": [
+    "performance_measure",
+    "outcome_construct",
+    "ca_measure"
+   ],
+   "quote": "A measurement scale developed by Wang et al. (2012) was used to measure the OP construct. As a second-order construct, it consists of two first-order reflective constructs: Operational Performance and Market Performance.",
+   "pdf_page": 11,
+   "supports": "Confirms organizational performance as the survey-scale outcome; no distinct competitive-advantage construct is measured, so ca_measure empty and outcome_construct = performance are right.",
+   "tension": null,
+   "located_pdf_pages": [
+    11
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "11",
+   "ctrl_f": "A measurement scale developed by Wang et al."
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Without the mediators, the total effect of AI on OP was tested. The relationship is significant, and the standardised total effect is 0.418",
+   "pdf_page": 14,
+   "supports": "Significant positive total effect (0.418, p < 0.001) grounds effect_direction = positive under the case-law rule (mediated-positive with significant total effect).",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "Without the mediators, the total effect of AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "According to the results shown in Table 3, BPA mediates the positive impact of AI adoption on DMP (support for H4a) but not on BPP (no support for H4b).",
+   "pdf_page": 14,
+   "supports": "Detail of the coded complementary mediators: process automation carries the effect via decision-making performance.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "shown in Table 3, BPA mediates the positive"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results in Table 3 reveal OL mediates the positive impact of AI adoption on DMP and BPP (support for H5a and H5b).",
+   "pdf_page": 14,
+   "supports": "Confirms organizational learning as a coded mediator.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "14",
+   "ctrl_f": "mediates the positive impact of AI adoption on"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The non-significant direct relationship defined by H1 indicates that the relationship between AI and OP is fully mediated.",
+   "pdf_page": 15,
+   "supports": "Backs the coded condition that decision-making and process performance carry the effect (full mediation of the AI-OP link).",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "15",
+   "ctrl_f": "defined by H1 indicates that the relationship between"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "key_finding"
+   ],
+   "quote": "Finally, the positive impact of AI adoption on performance was empirically demonstrated with a large-scale EU study.",
+   "pdf_page": 16,
+   "supports": "Authors' own summary states a positive AI-performance impact, backing the coded direction.",
+   "tension": null,
+   "located_pdf_pages": [
+    16
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "16",
+   "ctrl_f": "AI adoption on performance was empirically demonstrated with"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "A cross-sectional survey was used to validate the proposed research model. Self-report bias and endogeneity issues are typical limitations of such a research design",
+   "pdf_page": 18,
+   "supports": "Authors' own limitation statement backs the quality note (perceptual, cross-section).",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "18",
+   "ctrl_f": "A cross-sectional survey was used to validate the"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. ca_measure emptiness correct: competitive advantage appears only as framing (intro/conclusion rhetoric), no CA construct measured. For the author's awareness: the direct AI->OP path in the full model is non-significant (full mediation, quoted), while the total effect without mediators is significant (0.418***) - the final coding positive follows the case-law rule that a significant total effect takes its sign, with the mediation chain recorded in conditions. 'Mediation-heavy design' in quality_notes is coder commentary on the quoted serial-mediation setup."
+ },
+ "has_printed_pagination": true
+}

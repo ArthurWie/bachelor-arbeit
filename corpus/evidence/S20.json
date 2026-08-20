@@ -1,0 +1,268 @@
+{
+ "study_id": "S20",
+ "document_id": 20,
+ "quotes": [
+  {
+   "fields": [
+    "sample",
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "Using an extensive dataset encompassing 941 AI hospital-year observations and 941 non-AI hospital-year observations, we find that hospitals with a larger market share are great candidates to adopt AI.",
+   "pdf_page": 1,
+   "supports": "Abstract states the 941+941 matched hospital-year sample and the market-share condition for who adopts AI.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "-4",
+   "ctrl_f": "hospital-year observations and 941 non-AI hospital-year observations, we"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "performance_measure",
+    "effect_direction"
+   ],
+   "quote": "these hospitals can leverage AI technology to enhance various aspects of performance, including total outpatient revenue, total inpatient revenue, productivity, and occupancy",
+   "pdf_page": 1,
+   "supports": "Abstract names the four coded performance measures and states the positive AI effect on them.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "-4",
+   "ctrl_f": "these hospitals can leverage AI technology to enhance"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding",
+    "quality_notes"
+   ],
+   "quote": "Importantly, we demonstrate that controlling for endogeneity is essential in assessing the performance outcomes of AI adoption.",
+   "pdf_page": 1,
+   "supports": "Backs the coded condition 'endogeneity control essential' and the quality note on endogeneity controls.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 0.76,
+   "verdict": "verified",
+   "printed_pages": "-4",
+   "ctrl_f": "Importantly, we demonstrate that controlling for endogeneity is"
+  },
+  {
+   "fields": [
+    "country_region",
+    "industry"
+   ],
+   "quote": "Determinants and performance outcomes of artificial intelligence adoption: Evidence from U.S. Hospitals",
+   "pdf_page": 1,
+   "supports": "Title fixes the setting as US hospitals, i.e. USA and healthcare (hospitals).",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "-4",
+   "ctrl_f": "Determinants and performance outcomes of artificial intelligence adoption:"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Drawing upon the principles of the organizational information processing theory (OIPT), we conjecture that market share and average length of stay could be primary determinants to influence the adoption of AI.",
+   "pdf_page": 2,
+   "supports": "Explicitly names OIPT as the guiding theoretical framework.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.29,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "-3",
+   "ctrl_f": "processing theory (OIPT), we conjecture that market share"
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "conditions",
+    "ca_measure"
+   ],
+   "quote": "Consistent with the OIPT, we find that hospitals with higher market share have greater incentives to adopt AI to further advance their financial and operational competitiveness.",
+   "pdf_page": 2,
+   "supports": "OIPT frames the market-share condition; 'competitiveness' appears only as rhetoric here, no CA construct is measured, confirming the empty ca_measure per case law.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "-3",
+   "ctrl_f": "share have greater incentives to adopt AI to"
+  },
+  {
+   "fields": [
+    "sample",
+    "method"
+   ],
+   "quote": "Our ultimate dataset comprises 1,882 observations, collectively reflecting a span of 941 AI-adopting hospital-years and an equivalent count of 941 non-AI-adopting hospital-years.",
+   "pdf_page": 6,
+   "supports": "States the hospital-year panel structure underlying the coded sample and the panel-econometrics method.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.25,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "1",
+   "ctrl_f": "and an equivalent count of 941 non-AI-adopting hospital-years."
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region"
+   ],
+   "quote": "These observations include hospitals situated across 40 distinct states; the data covers the time frame spanning from 2000 to 2020.",
+   "pdf_page": 6,
+   "supports": "Backs the coded '40 US states, 2000-2020' sample scope.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "observations include hospitals situated across 40 distinct states;"
+  },
+  {
+   "fields": [
+    "sample",
+    "quality_notes"
+   ],
+   "quote": "This procedure yields 246 AI hospitals with specific adoption years. We then create a matching sample of 246 hospitals that have not incorporated AI into their operations.",
+   "pdf_page": 6,
+   "supports": "Backs the coded 246 matched hospitals and the quality note 'matched-sample design'.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 0.78,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "adoption years. We then create a matching sample"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The AI indicator has the value of 1 if the hospital adopted AI (i.e., AI hospital), and the value of 0 if the hospital did not adopt AI (i.e., non-AI hospital).",
+   "pdf_page": 6,
+   "supports": "Defines AI as an adoption dummy, matching the coded ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "The AI indicator has the value of 1"
+  },
+  {
+   "fields": [
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "Following the literature, we use three financial measures and two operational measures to assess hospital performance.",
+   "pdf_page": 6,
+   "supports": "Outcomes are financial/operational hospital performance measures, i.e. performance, not a CA construct.",
+   "tension": null,
+   "located_pdf_pages": [
+    6
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Following the literature, we use three financial measures"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "performance_measure"
+   ],
+   "quote": "The results show a significantly positive association between AI adoption and all performance measures except ROA.",
+   "pdf_page": 9,
+   "supports": "IV estimates give a clear positive main effect on the four coded measures (ROA null), backing effect_direction positive.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "association between AI adoption and all performance measures"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The OLS regression results in Panel A show that AI adoption has a positive effect on outpatient revenue, no significant effect on inpatient revenue, return on assets, and occupancy, and a negative effect on productivity.",
+   "pdf_page": 9,
+   "supports": "Naive OLS gives misleading estimates versus the IV results, backing the coded condition 'naive estimates misleading'.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "The OLS regression results in Panel A show"
+  },
+  {
+   "fields": [
+    "conditions",
+    "quality_notes"
+   ],
+   "quote": "The results indicate that the decision for AI adoption is endogenous, and that the OLS regression will yield biased results.",
+   "pdf_page": 9,
+   "supports": "Hausman tests establish endogeneity of AI adoption, backing 'endogeneity control essential' and the quality note.",
+   "tension": null,
+   "located_pdf_pages": [
+    9
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "4",
+   "ctrl_f": "results indicate that the decision for AI adoption"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "To further mitigate endogeneity concerns, we employ a differencein-difference test to identify the causality between AI adoption and performance.",
+   "pdf_page": 10,
+   "supports": "OLS, instrumental-variable and difference-in-difference regressions on the hospital-year panel back the panel-econometrics method code.",
+   "tension": null,
+   "verdict": "page-unconfirmed",
+   "located_pdf_pages": [
+    10
+   ],
+   "printed_pages": "5",
+   "pdf_seq_score": 0.4,
+   "quote_original": "To further mitigate endogeneity concerns, we employ a difference-in-difference test to identify the causality between AI adoption and performance.",
+   "repair_note": "manually corrected to source wording (source extraction renders 'difference-in-difference' as 'differencein-difference'; printed page has the hyphens)",
+   "ctrl_f": "To further mitigate endogeneity concerns, we employ a"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "All non-empty columns evidenced. Empty ca_measure confirmed: 'competitiveness' occurs only as OIPT framing (p.2), no CA construct is measured. quality_notes is source-based (matched sample p.6, endogeneity essential p.1/9). Coded effect_direction 'positive' rests on the preferred IV and DiD estimates (positive on 4 of 5 measures, ROA null); the paper's own ROA explanation is the nonprofit sample composition (p.13). Verifier flagged two quotes page-unconfirmed (OIPT p.2, 1,882-observations p.6); both manually confirmed present on those PDF pages via pdfplumber - the low scores stem from two-column line interleaving."
+ },
+ "has_printed_pagination": true
+}

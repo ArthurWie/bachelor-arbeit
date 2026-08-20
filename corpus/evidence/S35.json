@@ -1,0 +1,278 @@
+{
+ "study_id": "S35",
+ "document_id": 35,
+ "quotes": [
+  {
+   "fields": [
+    "outcome_construct",
+    "ca_measure",
+    "theoretical_lens"
+   ],
+   "quote": "how artificial intelligence (AI) adoption and strategic agility coupling shape ESMEs' GVC positioning through the lens of international marketing capabilities (IMCs), differentiating international advantage into two dimensions: product innovation and brand upgrading",
+   "pdf_page": 1,
+   "supports": "Outcome is framed and measured as international (competitive) advantage in two dimensions, with IMCs as the theoretical lens.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1250",
+   "ctrl_f": "strategic agility coupling shape ESMEs’ GVC positioning through"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "we aim to draw on the hierarchy view of dynamic capability (Zollo and Winter, 2002; Winter, 2003), investigating how cross-border platforms' AI adoption, coupled with higher-order dynamic capabilities, systematically alter ESMEs' lower-level IMCs",
+   "pdf_page": 3,
+   "supports": "Backs the coded lens 'dynamic capabilities hierarchy + international marketing capabilities'.",
+   "tension": null,
+   "located_pdf_pages": [
+    3
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1252",
+   "ctrl_f": "we aim to draw on the hierarchy view"
+  },
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region"
+   ],
+   "quote": "A quantitative approach was employed to analyse data from 322 small and medium-sized enterprises in China utilizing cross-border platforms. The research model was tested using structural equation modelling",
+   "pdf_page": 1,
+   "supports": "Survey of 322 Chinese SMEs on cross-border platforms analysed with SEM backs method, sample and country codes.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1250",
+   "ctrl_f": "A quantitative approach was employed to analyse data"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Ultimately, a total of 949 questionnaires were collected, yielding a 14.38% response rate, with 322 valid responses, representing a 33.94% effective response rate.",
+   "pdf_page": 13,
+   "supports": "Confirms the final n = 322 valid responses.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1262",
+   "ctrl_f": "Ultimately, a total of 949 questionnaires were collected,"
+  },
+  {
+   "fields": [
+    "industry",
+    "sample"
+   ],
+   "quote": "In the contract, we clearly stated our data collection requirements, including the definition of SMEs, the random sampling of SMEs from different industrial sectors, and the inclusion of multinational companies, foreign trade firms",
+   "pdf_page": 13,
+   "supports": "Sampling deliberately spans different industrial sectors, backing the cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1262",
+   "ctrl_f": "data collection requirements, including the definition of SMEs,"
+  },
+  {
+   "fields": [
+    "industry"
+   ],
+   "quote": "Table 1 summarizes the sample demographics, showing that a significant majority of the respondents worked in private companies (74%) and most belonged to manufacturing industries (64%)",
+   "pdf_page": 13,
+   "supports": "Shows the industry composition (manufacturing majority within a multi-industry sample; Table 1 lists nine sectors), consistent with cross-industry coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    13
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1262",
+   "ctrl_f": "Table 1 summarizes the sample demographics, showing that"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "The coupling of AI adoption and strategic agility is conceptualized and developed as a formative-formative type of second-order construct",
+   "pdf_page": 14,
+   "supports": "The AI measure is a survey second-order construct coupling AI adoption with strategic agility, exactly as coded.",
+   "tension": null,
+   "located_pdf_pages": [
+    14
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1263",
+   "ctrl_f": "The coupling of AI adoption and strategic agility"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "we used a four-item scale to measure AI adoption on the platform, asking ESME managers how AI helps design products and services, manage and optimize supply chains and reduce shipping costs and transit time",
+   "pdf_page": 15,
+   "supports": "Details the survey scale used for the AI adoption component (Hossain et al. 2022 items).",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1264",
+   "ctrl_f": "we used a four-item scale to measure AI"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "PIA1: Was of higher quality than competing products",
+   "pdf_page": 18,
+   "supports": "Product innovation advantage items are competitor-comparative, evidencing a distinct measured CA construct (satisfies the CA decision rule).",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1267",
+   "ctrl_f": "PIA1: Was of higher quality than competing products"
+  },
+  {
+   "fields": [
+    "ca_measure",
+    "outcome_construct"
+   ],
+   "quote": "was assessed using a four-item scale to evaluate the brand position of an ESMEs' offering in the export market, focusing on brand image, awareness, 'share of mind' and personality, relative to its major competitor",
+   "pdf_page": 15,
+   "supports": "Brand upgrading advantage is a validated survey scale measured relative to major competitors, backing ca_measure and the competitive_advantage coding.",
+   "tension": null,
+   "located_pdf_pages": [
+    15
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1264",
+   "ctrl_f": "was assessed using a four-item scale to evaluate"
+  },
+  {
+   "fields": [
+    "effect_direction"
+   ],
+   "quote": "Our test showed that the coupling of AI adoption and strategic agility exerted significant positive effects on both product innovation advantage (H1a: β 5 0.519, p 5 < 0.001) and brand upgrading advantage",
+   "pdf_page": 19,
+   "supports": "Significant positive direct main effects on both advantage dimensions back effect_direction = positive ('5' is the extraction's rendering of '=' on the printed page).",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1268",
+   "ctrl_f": "Our test showed that the coupling of AI"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "The study demonstrates that the coupling of AI adoption and strategic agility positively influences IMCs, product innovation and brand upgrading, while IMCs serve as a mediating mechanism.",
+   "pdf_page": 1,
+   "supports": "The paper's own summary of its central result: positive effects plus IMCs as mediating mechanism.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1250",
+   "ctrl_f": "The study demonstrates that the coupling of AI"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "The results indicate that an ESME's IMCs mediate the relationship between the coupling of AI adoption and strategic agility on product innovation advantage",
+   "pdf_page": 19,
+   "supports": "Bootstrap mediation evidence for the coded IMC mediator condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    19
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1268",
+   "ctrl_f": "that an ESME’s IMCs mediate the relationship between"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "embedding breadth improves the effect of coupling AI with strategic agility on brand upgrading up to an optimal point (at a medium level)",
+   "pdf_page": 25,
+   "supports": "Backs the coded BREADTH inverted-U on brand upgrading with medium embeddedness optimal.",
+   "tension": null,
+   "located_pdf_pages": [
+    25
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1274",
+   "ctrl_f": "embedding breadth improves the effect of coupling AI"
+  },
+  {
+   "fields": [
+    "conditions",
+    "key_finding"
+   ],
+   "quote": "We also find that embedding depth has an inverted U-shaped moderating effect on the relationship between the coupling of AI with strategic agility and product innovation advantage.",
+   "pdf_page": 25,
+   "supports": "Backs the coded DEPTH inverted-U on product innovation.",
+   "tension": null,
+   "located_pdf_pages": [
+    25
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1274",
+   "ctrl_f": "effect on the relationship between the coupling of"
+  },
+  {
+   "fields": [
+    "quality_notes"
+   ],
+   "quote": "Finally, self-reported data from SME managers regarding platform AI adoption and agility perceptions risks introducing bias.",
+   "pdf_page": 28,
+   "supports": "Authors' own limitation backs the 'Perceptual' quality note; 'non-linear boundary conditions' is evidenced by the inverted-U quotes above.",
+   "tension": null,
+   "located_pdf_pages": [
+    28
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1277",
+   "ctrl_f": "Finally, self-reported data from SME managers regarding platform"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "performance_measure empty is correct: the only outcomes are the two advantage scales (PIA/BUA); international sales and profit enter solely as control variables. Coded conditions correctly list only the two SUPPORTED inverted-U moderations (H5b breadth on brand upgrading, H6a depth on product innovation); H5a and H6b were not supported. Not in adjudication_briefs.md."
+ },
+ "has_printed_pagination": true
+}

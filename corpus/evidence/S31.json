@@ -1,0 +1,235 @@
+{
+ "study_id": "S31",
+ "document_id": 31,
+ "quotes": [
+  {
+   "fields": [
+    "method",
+    "sample",
+    "country_region",
+    "industry",
+    "outcome_construct",
+    "performance_measure"
+   ],
+   "quote": "applying a three-stage Data Envelopment Analysis (DEA) to evaluate the performance of 33 publicly listed semiconductor firms in Taiwan across profitability, sustainability, and market value",
+   "pdf_page": 1,
+   "supports": "Abstract names the DEA method, the 33-firm Taiwanese semiconductor sample, and the three performance dimensions coded as performance_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "Analysis (DEA) to evaluate the performance of 33"
+  },
+  {
+   "fields": [
+    "ai_measure"
+   ],
+   "quote": "AI-driven innovation is proxied by patent activity.",
+   "pdf_page": 1,
+   "supports": "Abstract states the patent proxy coded as ai_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    1
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "1",
+   "ctrl_f": "innovation is proxied by patent activity."
+  },
+  {
+   "fields": [
+    "theoretical_lens",
+    "performance_measure"
+   ],
+   "quote": "we apply a three-dimensional efficiency framework based on Data Envelopment Analysis (DEA), which evaluates firm performance across the Profit stage, Sustainability stage, and Market stage",
+   "pdf_page": 2,
+   "supports": "The study's framework is the DEA efficiency framework itself, matching the coded lens 'efficiency analysis (DEA framework)' and the stage-efficiency performance measures.",
+   "tension": null,
+   "located_pdf_pages": [
+    2
+   ],
+   "pdf_seq_score": 0.23,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "2",
+   "ctrl_f": "based on Data Envelopment Analysis (DEA), which"
+  },
+  {
+   "fields": [
+    "theoretical_lens"
+   ],
+   "quote": "Based on the creating shared value (CSV) perspective (Porter and Kramer 2011), sustainability is framed as a compliance requirement and a strategic driver of competitive advantage.",
+   "pdf_page": 4,
+   "supports": "The only grand-theory reference is CSV as background framing; competitive advantage appears here as rhetoric only, consistent with the 'no grand theory' lens and empty ca_measure.",
+   "tension": null,
+   "located_pdf_pages": [
+    4
+   ],
+   "pdf_seq_score": 0.54,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "4",
+   "ctrl_f": "is framed as a compliance requirement and a"
+  },
+  {
+   "fields": [
+    "method"
+   ],
+   "quote": "This study adopts a two-phase analytical framework, applying DEA in the first stage and Tobit regression in the second.",
+   "pdf_page": 5,
+   "supports": "Methods section confirms DEA as the primary method with Tobit regressions, as coded in method and sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 0.4,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "5",
+   "ctrl_f": "DEA in the first stage and Tobit regression"
+  },
+  {
+   "fields": [
+    "sample"
+   ],
+   "quote": "Financial statement data spanning 5 years (January 1, 2018, to December 31, 2022) was obtained from the Taiwan Economic Journal (TEJ) database.",
+   "pdf_page": 5,
+   "supports": "Specifies the observation window and data source of the 33-firm sample.",
+   "tension": null,
+   "located_pdf_pages": [
+    5
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "5",
+   "ctrl_f": "(January 1, 2018, to December 31, 2022) was"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions",
+    "ai_measure"
+   ],
+   "quote": "the number of patents-used as a proxy for AI-driven innovations-is positively and significantly associated with efficiency in the Sustainability and Market stages",
+   "pdf_page": 18,
+   "supports": "Positive AI effect on the sustainability and market stages — one half of the coded 'mixed' split and the stage-specific condition.",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 0.6,
+   "verdict": "verified",
+   "printed_pages": "18",
+   "ctrl_f": "associated with efficiency in the Sustainability and"
+  },
+  {
+   "fields": [
+    "effect_direction",
+    "conditions"
+   ],
+   "quote": "one additional patent increases Sustainability stage efficiency by 0.0001 and Market stage efficiency by 0.0034, while its impact on Overall and Profit stage efficiency remains economically small (0.0001) and statistically insignificant",
+   "pdf_page": 18,
+   "supports": "Insignificant AI effect on the profit stage — the other half of the coded 'mixed' direction (sign split across outcome components).",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "18",
+   "ctrl_f": "stage efficiency by 0.0001 and Market stage efficiency"
+  },
+  {
+   "fields": [
+    "key_finding",
+    "effect_direction"
+   ],
+   "quote": "This pattern suggests that AI-related innovation contributes more to long-term environmental and market-oriented performance than to short-term profitability.",
+   "pdf_page": 18,
+   "supports": "The paper's own summary of its central result: AI payoff is stage-specific, lifting sustainability/market but not short-term profit efficiency.",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "18",
+   "ctrl_f": null
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "a one-unit increase in enterprise scale raises Profit stage efficiency by 0.0811 but reduces Sustainability and Market stage efficiency by -0.0380 and -0.5005, respectively",
+   "pdf_page": 18,
+   "supports": "Backs the coded condition that firm scale raises profit efficiency but lowers sustainability/market efficiency (asymmetry).",
+   "tension": null,
+   "located_pdf_pages": [
+    18
+   ],
+   "pdf_seq_score": 0.25,
+   "verdict": "page-unconfirmed",
+   "printed_pages": "18",
+   "ctrl_f": "scale raises Profit stage efficiency by 0.0811 but"
+  },
+  {
+   "fields": [
+    "conditions"
+   ],
+   "quote": "Financial leverage, measured by the debt-to-asset ratio, is positively and statistically significantly associated with Profit stage efficiency",
+   "pdf_page": 19,
+   "supports": "Backs the coded condition that leverage (with size) drives the profit stage rather than AI.",
+   "tension": null,
+   "located_pdf_pages": [
+    18,
+    19,
+    20
+   ],
+   "pdf_seq_score": 0.63,
+   "verdict": "verified",
+   "printed_pages": "18–20",
+   "ctrl_f": "with Profit stage efficiency,"
+  },
+  {
+   "fields": [
+    "quality_notes",
+    "ai_measure"
+   ],
+   "quote": "While patent counts are widely used as proxies for AI-driven innovation, they may not fully capture non-patented process innovations or reflect individual patents' quality and strategic relevance.",
+   "pdf_page": 20,
+   "supports": "Authors themselves flag the patent-proxy limitation noted in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    20
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "20",
+   "ctrl_f": "While patent counts are widely used as proxies"
+  },
+  {
+   "fields": [
+    "sample",
+    "country_region",
+    "industry",
+    "quality_notes"
+   ],
+   "quote": "This study focuses on 33 publicly listed semiconductor firms in Taiwan from 2018 to 2022.",
+   "pdf_page": 21,
+   "supports": "Limitations section restates the small n=33 single-country, single-industry sample flagged in quality_notes.",
+   "tension": null,
+   "located_pdf_pages": [
+    21
+   ],
+   "pdf_seq_score": 1.0,
+   "verdict": "verified",
+   "printed_pages": "21",
+   "ctrl_f": "This study focuses on 33 publicly listed semiconductor"
+  }
+ ],
+ "row_check": {
+  "verdict": "OK",
+  "notes": "ca_measure empty is correct: competitive advantage appears only as CSV framing rhetoric (p. 4 quote), no CA construct is measured. quality_notes part 'Per full-text verdict: include' is coder commentary, not source-based; the source-based parts (patent proxy, n=33) are evidenced. Adjudicated direction 'mixed' (briefs line 37) matches the stage-split evidence."
+ },
+ "has_printed_pagination": true
+}
