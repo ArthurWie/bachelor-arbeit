@@ -45,6 +45,27 @@ claude mcp add library --env DB_PATH="$(pwd)/library.db" -- "$(pwd)/.venv/bin/py
 | `verify_citations` | ja | String-Abgleich (sqlite + pdfplumber), **keine Modelle** |
 | `search_library`, `search_library_multi`, `find_relevant_documents` | **nein** | laden ~6 GB Embedding-/Reranker-Modelle — zu groß für das Air |
 
+## 2b. Zellen-Audit-Tool (Stand 20. Aug 2026)
+
+Das Audit läuft im Browser (React-Frontend + FastAPI). Einmalig nach dem Klonen:
+
+```bash
+# Schritt 2 oben (venv) muss erledigt sein — fastapi/uvicorn kommen mit `pip install -e .`
+brew install node        # falls Node noch fehlt
+cd rag/frontend && npm install
+```
+
+Danach bei jeder Sitzung nur noch:
+
+```bash
+rag/start_audit.sh       # startet API + Frontend, öffnet localhost:5173/?view=audit
+```
+
+Urteile landen append-only in `corpus/author_audit.csv` — nach der Sitzung
+committen/pushen, dann sind sie auf dem Hauptrechner. Die 28 Zellen der
+Flag-Aufarbeitung vom 20. Aug tragen ein „2. Pass: geändert"-Badge; die Taste
+G springt von Zelle zu Zelle (Begründungen: `corpus/audit_flag_resolutions.md`).
+
 ## 3. Arbeits-Regeln unterwegs (Kurzfassung der CLAUDE.md-Regeln)
 
 - **Passagen finden ohne Suche:** PDFs in `literature/` direkt lesen; die
