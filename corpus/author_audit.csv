@@ -609,3 +609,38 @@ S20,performance_measure,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Rev
 S21,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
 S24,conditions,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
 S24,key_finding,ok,2. Pass: Korrektur geprueft und angenommen (Batch-Review 20.8.),2026-08-20
+S02,ai_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S02,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S02,effect_direction,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S02,key_finding,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S02,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S03,ai_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S03,industry,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S03,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S04,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S04,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S05,performance_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S05,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S06,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S06,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S07,ai_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S07,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S07,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S07,performance_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S07,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S11,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S15,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S17,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S19,performance_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S22,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S24,effect_direction,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S24,outcome_construct,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S26,ai_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S26,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S26,theoretical_lens,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S44,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S60,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S61,ai_measure,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S61,key_finding,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S66,conditions,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
+S66,sample,ok,Flag geschlossen: Resolution siehe corpus/audit_flag_resolutions.md (Batch-Review 20.8.),2026-08-20
